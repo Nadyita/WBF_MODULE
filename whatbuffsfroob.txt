@@ -1,0 +1,5 @@
+To find items or nanos for froobs that buff an ability or skill:
+<highlight><tab><symbol>whatbuffsfroob<end>
+<highlight><tab><symbol>whatbuffsfroob 'type'<end>
+<highlight><tab><symbol>whatbuffsfroob 'skill'<end>
+<highlight><tab><symbol>whatbuffsfroob 'type' 'skill'<end>
