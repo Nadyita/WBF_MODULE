@@ -170,7 +170,8 @@ class WBFController {
 				JOIN item_types i ON aodb.highid = i.item_id
 				JOIN item_buffs b ON aodb.highid = b.item_id
 				JOIN skills s ON b.attribute_id = s.id
-				WHERE s.id = ?
+				LEFT JOIN item_paid_only p ON p.item_id=b.item_id
+				WHERE s.id = ? AND p.item_id IS null
 				GROUP BY item_type
 				HAVING num > 0
 				ORDER BY item_type ASC
