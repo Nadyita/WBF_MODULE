@@ -14,7 +14,7 @@ namespace Budabot\User\Modules;
  *		help        = 'whatbuffsfroob.txt'
  *	)
  */
-class WhatBuffsController {
+class WBFController {
 	
 	public $moduleName;
 
