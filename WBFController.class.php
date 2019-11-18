@@ -90,10 +90,10 @@ class WBFController {
 			$sql = "
 				SELECT s.name AS skill, COUNT(1) AS num
 				FROM aodb
-				JOIN item_types i ON aodb.lowid = i.item_id
-				JOIN item_buffs b ON aodb.lowid = b.item_id
+				JOIN item_types i ON aodb.highid = i.item_id
+				JOIN item_buffs b ON aodb.highid = b.item_id
 				JOIN skills s ON b.attribute_id = s.id
-				LEFT JOIN item_paid_only p ON p.item_id=b.item_id
+				LEFT JOIN item_paid_only p ON p.item_id=aodb.lowid
 				WHERE i.item_type = ? AND p.item_id IS null
 				GROUP BY skill
 				HAVING num > 0
@@ -167,10 +167,10 @@ class WBFController {
 			$sql = "
 				SELECT i.item_type, COUNT(1) AS num
 				FROM aodb
-				JOIN item_types i ON aodb.lowid = i.item_id
-				JOIN item_buffs b ON aodb.lowid = b.item_id
+				JOIN item_types i ON aodb.highid = i.item_id
+				JOIN item_buffs b ON aodb.highid = b.item_id
 				JOIN skills s ON b.attribute_id = s.id
-				LEFT JOIN item_paid_only p ON p.item_id=b.item_id
+				LEFT JOIN item_paid_only p ON p.item_id=aodb.lowid
 				WHERE s.id = ? AND p.item_id IS null
 				GROUP BY item_type
 				HAVING num > 0
@@ -190,10 +190,10 @@ class WBFController {
 		$sql = "
 			SELECT aodb.*, b.amount
 			FROM aodb
-			JOIN item_types i ON aodb.lowid = i.item_id
-			JOIN item_buffs b ON aodb.lowid = b.item_id
+			JOIN item_types i ON aodb.highid = i.item_id
+			JOIN item_buffs b ON aodb.highid = b.item_id
 			JOIN skills s ON b.attribute_id = s.id
-			LEFT JOIN item_paid_only p ON p.item_id=b.item_id
+			LEFT JOIN item_paid_only p ON p.item_id=aodb.lowid
 			WHERE i.item_type = ? and s.id = ? and p.item_id IS null
 			ORDER BY b.amount DESC;
 		";
