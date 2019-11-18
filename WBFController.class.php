@@ -188,7 +188,7 @@ class WBFController {
 	
 	public function getSearchResults($category, $skill) {
 		$sql = "
-			SELECT aodb.*, c.amount
+			SELECT aodb.*, b.amount
 			FROM aodb
 			JOIN item_types i ON aodb.lowid = i.item_id
 			JOIN item_buffs b ON aodb.lowid = b.item_id
