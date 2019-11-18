@@ -167,8 +167,8 @@ class WBFController {
 			$sql = "
 				SELECT i.item_type, COUNT(1) AS num
 				FROM aodb
-				JOIN item_types i ON aodb.highid = i.item_id
-				JOIN item_buffs b ON aodb.highid = b.item_id
+				JOIN item_types i ON aodb.lowid = i.item_id
+				JOIN item_buffs b ON aodb.lowid = b.item_id
 				JOIN skills s ON b.attribute_id = s.id
 				LEFT JOIN item_paid_only p ON p.item_id=b.item_id
 				WHERE s.id = ? AND p.item_id IS null
@@ -192,11 +192,9 @@ class WBFController {
 			FROM aodb
 			JOIN item_types i ON aodb.lowid = i.item_id
 			JOIN item_buffs b ON aodb.lowid = b.item_id
-			JOIN item_buffs c ON aodb.highid = c.item_id
-			JOIN skills s ON b.attribute_id = s.id and c.attribute_id = s.id
+			JOIN skills s ON b.attribute_id = s.id
 			LEFT JOIN item_paid_only p ON p.item_id=b.item_id
-			LEFT JOIN item_paid_only q ON q.item_id=c.item_id
-			WHERE i.item_type = ? and s.id = ? and (p.item_id IS null or q.item_id IS null)
+			WHERE i.item_type = ? and s.id = ? and p.item_id IS null
 			ORDER BY b.amount DESC;
 		";
 		$data = $this->db->query($sql, $category, $skill->id);
