@@ -81,7 +81,7 @@ class WBFController {
 
 	/**
 	 * @HandlesCommand("whatbuffsfroob")
-	 * @Matches("/^whatbuffsfroobs? (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nano|nanoprogram|neck|shoulders|unknown|util|weapon|wrists)$/i")
+	 * @Matches("/^whatbuffsfroobs? (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists)$/i")
 	 */
 	public function whatbuffs2Command($message, $channel, $sender, $sendto, $args) {
 		$type = ucfirst(strtolower($args[1]));
@@ -113,7 +113,7 @@ class WBFController {
 
 	/**
 	 * @HandlesCommand("whatbuffsfroob")
-	 * @Matches("/^whatbuffsfroob (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nano|nanoprogram|neck|shoulders|unknown|util|weapon|wrists) (.+)$/i")
+	 * @Matches("/^whatbuffsfroob (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists) (.+)$/i")
 	 */
 	public function whatbuffs3Command($message, $channel, $sender, $sendto, $args) {
 		$type = $args[1];
@@ -129,7 +129,7 @@ class WBFController {
 
 	/**
 	 * @HandlesCommand("whatbuffsfroob")
-	 * @Matches("/^whatbuffsfroob (.+) (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nano|nanoprogram|neck|shoulders|unknown|util|weapon|wrists)$/i")
+	 * @Matches("/^whatbuffsfroob (.+) (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists)$/i")
 	 */
 	public function whatbuffs4Command($message, $channel, $sender, $sendto, $args) {
 		$skill = $args[1];
