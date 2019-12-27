@@ -81,7 +81,7 @@ class WBFController {
 
 	/**
 	 * @HandlesCommand("whatbuffsfroob")
-	 * @Matches("/^whatbuffsfroobs? (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use)$/i")
+	 * @Matches("/^whatbuffsfroobs? (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use|contract|tower)$/i")
 	 */
 	public function whatbuffs2Command($message, $channel, $sender, $sendto, $args) {
 		$type = ucfirst(strtolower($args[1]));
@@ -113,7 +113,7 @@ class WBFController {
 
 	/**
 	 * @HandlesCommand("whatbuffsfroob")
-	 * @Matches("/^whatbuffsfroob (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use) (.+)$/i")
+	 * @Matches("/^whatbuffsfroob (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use|contract|tower) (.+)$/i")
 	 */
 	public function whatbuffs3Command($message, $channel, $sender, $sendto, $args) {
 		$type = $args[1];
@@ -129,7 +129,7 @@ class WBFController {
 
 	/**
 	 * @HandlesCommand("whatbuffsfroob")
-	 * @Matches("/^whatbuffsfroob (.+) (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use)$/i")
+	 * @Matches("/^whatbuffsfroob (.+) (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use|contract|tower)$/i")
 	 */
 	public function whatbuffs4Command($message, $channel, $sender, $sendto, $args) {
 		$skill = $args[1];
@@ -233,6 +233,9 @@ class WBFController {
 	public function formatItems($items) {
 		$blob = '';
 		forEach ($items as $item) {
+			if (strncmp($item->name, "Universal Advantage - ", 22) === 0) {
+				$item->highql = 250;
+			}
 			$blob .= $this->text->makeItem($item->lowid, $item->highid, $item->highql, $item->name) . " ($item->amount)\n";
 		}
 
