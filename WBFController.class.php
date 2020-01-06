@@ -14,7 +14,7 @@ namespace Budabot\User\Modules;
  *		help        = 'whatbuffsfroob.txt'
  *	)
  */
-class WBFController {
+class WBFController extends WhatBuffsController {
 	
 	public $moduleName;
 
@@ -71,6 +71,8 @@ class WBFController {
 		$this->db->loadSQLFile($this->moduleName, "item_paid_only");
 	}
 
+	public function whatbuffsCommand($message, $channel, $sender, $sendto, $args) { }
+
 	/**
 	 * @HandlesCommand("whatbuffsfroob")
 	 * @Matches("/^whatbuffsfroobs?$/i")
@@ -122,15 +124,7 @@ class WBFController {
 	 * @Matches("/^whatbuffsfroob (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use|contract|tower) (.+)$/i")
 	 */
 	public function whatbuffs3Command($message, $channel, $sender, $sendto, $args) {
-		$type = $args[1];
-		$skill = $args[2];
-
-		if ($this->verifySlot($type)) {
-			$msg = $this->showSearchResults($type, $skill);
-		} else {
-			$msg = "Could not find any items of type <highlight>$type<end> for skill <highlight>$skill<end>.";
-		}
-		$sendto->reply($msg);
+		parent::whatbuffs3Command($message, $channel, $sender, $sendto, $args);
 	}
 
 	/**
@@ -138,15 +132,7 @@ class WBFController {
 	 * @Matches("/^whatbuffsfroob (.+) (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use|contract|tower)$/i")
 	 */
 	public function whatbuffs4Command($message, $channel, $sender, $sendto, $args) {
-		$skill = $args[1];
-		$type = $args[2];
-
-		if ($this->verifySlot($type)) {
-			$msg = $this->showSearchResults($type, $skill);
-		} else {
-			$msg = "Could not find any items of type <highlight>$type<end> for skill <highlight>$skill<end>.";
-		}
-		$sendto->reply($msg);
+		parent::whatbuffs4Command($message, $channel, $sender, $sendto, $args);
 	}
 
 	/**
@@ -212,8 +198,9 @@ class WBFController {
 				JOIN item_buffs b ON buffs.id = b.item_id
 				JOIN skills s ON b.attribute_id = s.id
 				LEFT JOIN aodb ON (aodb.lowid=buffs.use_id)
-				LEFT JOIN item_paid_only p ON p.item_id=aodb.lowid
-				WHERE s.id = ? AND b.amount > 0 AND p.item_id IS NULL
+				LEFT JOIN item_paid_only p1 ON p1.item_id=aodb.lowid
+				LEFT JOIN item_paid_only p2 ON p2.item_id=buffs.id
+				WHERE s.id = ? AND b.amount > 0 AND p1.item_id IS NULL AND p2.item_id IS NULL
 				ORDER BY b.amount DESC, buffs.name ASC
 			";
 			$data = $this->db->query($sql, $skill->id);
@@ -230,7 +217,7 @@ class WBFController {
 				LEFT JOIN item_paid_only p ON p.item_id=aodb.lowid
 				WHERE i.item_type = ? AND s.id = ? AND p.item_id IS NULL AND b.amount > 0
 				GROUP BY aodb.name,aodb.lowql,aodb.highql,b.amount,b2.amount,wa.multi_m,wa.multi_r
-				ORDER BY b.amount DESC, name DESC
+				ORDER BY b.amount DESC, name DESC, aodb.highql DESC
 			";
 			$data = $this->db->query($sql, $category, $skill->id);
 			$result = $this->formatItems($data);
@@ -243,114 +230,6 @@ class WBFController {
 			$msg = $this->text->makeBlob("WhatBuffsFroob - $category $skill->name ($count)", $blob);
 		}
 		return $msg;
-	}
-
-	public function verifySlot($type) {
-		$type = ucfirst(strtolower($type));
-		$row = $this->db->queryRow("SELECT 1 FROM item_types WHERE item_type = ? LIMIT 1", $type);
-		return $row !== null;
-	}
-	
-	public function searchForSkill($skill) {
-		// check for exact match first, in order to disambiguate
-		// between Bow and Bow special attack
-		$results = $this->db->query("SELECT DISTINCT id, name FROM skills WHERE name LIKE ?", $skill);
-		if (count($results) == 1) {
-			return $results;
-		}
-		
-		$tmp = explode(" ", $skill);
-		list($query, $params) = $this->util->generateQueryFromParams($tmp, 'name');
-		
-		return $this->db->query("SELECT DISTINCT id, name FROM skills WHERE $query", $params);
-	}
-	
-	public function formatItems($items) {
-		$blob = '';
-		$maxBuff = 0;
-		forEach ($items as $item) {
-			if (strncmp($item->name, "Universal Advantage - ", 22) === 0) {
-				$item->highql = 250;
-			}
-			if ($item->amount === $item->low_amount) {
-				$item->highql = $item->lowql;
-			}
-			if (
-				$item->highql > 250 &&
-				strpos($item->name, " Filigree Ring set with a ") !== false
-			) {
-				$item->amount = $this->util->interpolate($item->lowql, $item->highql, $item->low_amount, $item->amount, 250);
-				$item->highql = 250;
-			}
-			$maxBuff = max($maxBuff, $item->amount);
-			$itemMapping[$item->lowid] = $item;
-		}
-		$ignoreItems = array();
-		forEach ($items as $item) {
-			if ($item->highid != $item->lowid && array_key_exists($item->highid, $itemMapping)) {
-				$item->highid = $itemMapping[$item->highid]->highid;
-				$item->highql = $itemMapping[$item->highid]->highql;
-				$ignoreItems []= $itemMapping[$item->highid];
-			}
-		}
-		$maxDigits = strlen((string)$maxBuff);
-		forEach ($items as $item) {
-			if (in_array($item, $ignoreItems, true)) {
-				continue;
-			}
-			$prefix = $this->text->alignNumber($item->amount, $maxDigits, 'highlight');
-			$blob .= $prefix . "  ";
-			if ($item->multi_m !== null || $item->multi_r !== null) {
-				$blob .= "2x ";
-			}
-			$blob .= $this->text->makeItem($item->lowid, $item->highid, $item->highql, $item->name);
-			if ($item->amount > $item->low_amount) {
-				$blob .= " ($item->low_amount - $item->amount)";
-				if ($this->commandManager->get('bestql')) {
-					$link = $this->text->makeItem($item->lowid, $item->highid, 0, $item->name);
-					$blob .= " " . $this->text->makeChatcmd(
-						"Breakpoints",
-						"/tell <myname> bestql $item->lowql $item->low_amount $item->highql $item->amount ".
-						$link
-					);
-				}
-			}
-			$blob .= "\n";
-		}
-
-		$count = count($items);
-		if ($count > 0) {
-			return array($count, $blob);
-		} else {
-			return null;
-		}
-	}
-
-	public function formatBuffs($items) {
-		$blob = '';
-		$maxBuff = 0;
-		forEach ($items as $item) {
-			$maxBuff = max($maxBuff, $item->amount);
-		}
-		$maxDigits = strlen((string)$maxBuff);
-		forEach ($items as $item) {
-			if ($item->ncu == 999) {
-				$item->ncu = 0;
-			}
-			$prefix = $this->text->alignNumber($item->amount, $maxDigits, 'highlight');
-			$blob .= $prefix . "  <a href='itemid://53019/{$item->id}'>{$item->name}</a> ($item->ncu NCU)";
-			if ($item->lowid > 0) {
-				$blob .= " (from " . $this->text->makeItem($item->lowid, $item->highid, $item->lowql, $item->use_name) . ")";
-			}
-			$blob .= "\n";
-		}
-
-		$count = count($items);
-		if ($count > 0) {
-			return array($count, $blob);
-		} else {
-			return null;
-		}
 	}
 	
 	public function showSearchResults($category, $skill) {
