@@ -9412,7 +9412,6 @@ INSERT INTO item_paid_only (item_id) VALUES (269470);
 INSERT INTO item_paid_only (item_id) VALUES (269472);
 INSERT INTO item_paid_only (item_id) VALUES (269473);
 INSERT INTO item_paid_only (item_id) VALUES (269475);
-INSERT INTO item_paid_only (item_id) VALUES (269482);
 INSERT INTO item_paid_only (item_id) VALUES (269483);
 INSERT INTO item_paid_only (item_id) VALUES (269511);
 INSERT INTO item_paid_only (item_id) VALUES (269513);
