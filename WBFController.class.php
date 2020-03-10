@@ -13,6 +13,13 @@ namespace Budabot\User\Modules;
  *		alias       = 'wbf',
  *		help        = 'whatbuffsfroob.txt'
  *	)
+ *
+ *	@DefineCommand(
+ *		command     = 'wbfreport',
+ *		accessLevel = 'all',
+ *		description = 'Report an item as unusable for froobs',
+ *		help        = 'whatbuffsfroob.txt'
+ *	)
  */
 class WBFController extends WhatBuffsController {
 	
@@ -69,9 +76,11 @@ class WBFController extends WhatBuffsController {
 	/** @Setup */
 	public function setup() {
 		$this->db->loadSQLFile($this->moduleName, "item_paid_only");
+		$this->db->loadSQLFile($this->moduleName, "item_not_froob");
 	}
 
-	public function whatbuffsCommand($message, $channel, $sender, $sendto, $args) { }
+	public function whatbuffsCommand($message, $channel, $sender, $sendto, $args) {
+	}
 
 	/**
 	 * @HandlesCommand("whatbuffsfroob")
@@ -80,7 +89,7 @@ class WBFController extends WhatBuffsController {
 	public function whatbuffsFroobCommand($message, $channel, $sender, $sendto, $args) {
 		$blob = '';
 		$data = $this->db->query("SELECT DISTINCT name FROM skills ORDER BY name ASC");
-		forEach ($data as $row) {
+		foreach ($data as $row) {
 			$blob .= $this->text->makeChatcmd($row->name, "/tell <myname> whatbuffsfroob $row->name") . "\n";
 		}
 		$msg = $this->text->makeBlob("WhatBuffsFroob - Choose Skill", $blob);
@@ -109,7 +118,7 @@ class WBFController extends WhatBuffsController {
 			";
 			$data = $this->db->query($sql, $type);
 			$blob = '';
-			forEach ($data as $row) {
+			foreach ($data as $row) {
 				$blob .= $this->text->makeChatcmd(ucfirst($row->skill), "/tell <myname> whatbuffsfroob $type $row->skill") . " ($row->num)\n";
 			}
 			$msg = $this->text->makeBlob("WhatBuffsFroob $type - Choose Skill", $blob);
@@ -149,7 +158,7 @@ class WBFController extends WhatBuffsController {
 			$msg = "Could not find skill <highlight>$skill<end>.";
 		} elseif ($count > 1) {
 			$blob .= "Choose a skill:\n\n";
-			forEach ($data as $row) {
+			foreach ($data as $row) {
 				$blob .= $this->text->makeChatcmd(ucfirst($row->name), "/tell <myname> whatbuffsfroob $row->name") . "\n";
 			}
 			$msg = $this->text->makeBlob("WhatBuffsFroob - Choose Skill", $blob);
@@ -182,7 +191,7 @@ class WBFController extends WhatBuffsController {
 			";
 			$data = $this->db->query($sql, $skillId, $skillId);
 			$blob = '';
-			forEach ($data as $row) {
+			foreach ($data as $row) {
 				$blob .= $this->text->makeChatcmd(ucfirst($row->item_type), "/tell <myname> whatbuffsfroob $row->item_type $skillName") . " ($row->num)\n";
 			}
 			$msg = $this->text->makeBlob("WhatBuffsFroob $skillName - Choose Type", $blob);
@@ -245,12 +254,84 @@ class WBFController extends WhatBuffsController {
 			$msg = $this->getSearchResults($category, $row);
 		} else {
 			$blob = '';
-			forEach ($data as $row) {
+			foreach ($data as $row) {
 				$blob .= $this->text->makeChatcmd(ucfirst($row->skill), "/tell <myname> whatbuffsfroob $category $row->skill") . "\n";
 			}
 			$msg = $this->text->makeBlob("WhatBuffsFroob - Choose Skill", $blob);
 		}
 		
 		return $msg;
+	}
+
+	/**
+	 * @HandlesCommand("wbfreport")
+	 * @Matches("/^wbfreport\s+(\d+)$/i")
+	 */
+	public function whatbuffsFroobReportCommand($message, $channel, $sender, $sendto, $args) {
+		$exists = $this->db->queryRow(
+			"SELECT COUNT(*) AS `exists` FROM item_not_froob WHERE item_id=?",
+			$args[1]
+		);
+		if ($exists->exists == 0) {
+			var_dump("Inserting");
+			$this->db->exec(
+				"INSERT INTO item_not_froob(item_id) VALUES (?)",
+				$args[1]
+			);
+		}
+		$msg = "Thank you, your report will be processed for the next update.";
+		$sendto->reply($msg);
+	}
+
+	/**
+	 * @HandlesCommand("wbfreport")
+	 * @Matches("/^wbfreport\s+list$/i")
+	 */
+	public function whatbuffsFroobReportListCommand($message, $channel, $sender, $sendto, $args) {
+		$reportedItems = $this->db->query(
+			"SELECT a.* FROM item_not_froob inf JOIN aodb a ON (inf.item_id=a.lowid) ORDER BY a.lowid ASC",
+		);
+		if (count($reportedItems) === 0) {
+			$msg = "There are currently no items reported as unusable by froobs.";
+			$sendto->reply($msg);
+			return;
+		}
+		$blob = "";
+		foreach ($reportedItems as $item) {
+			$blob .= "INSERT INTO item_paid_only (item_id) VALUES (".
+				$item->lowid.
+				"); -- ".
+				$this->text->makeItem($item->lowid, $item->highid, $item->lowql, $item->name).
+				"\n";
+			if ($item->lowid !== $item->highid) {
+				$blob .= "INSERT INTO item_paid_only (item_id) VALUES (".
+					$item->highid.
+					"); -- ".
+					$this->text->makeItem($item->lowid, $item->highid, $item->highql, $item->name).
+					"\n";
+			}
+		}
+		$blob .= "\n\n".
+			$this->text->makeChatcmd("Delete this list", "/tell <myname> wbfreport clear");
+		$msg = "Here is the ".
+			$this->text->makeBlob("List of reported non-froob items", $blob);
+		$sendto->reply($msg);
+	}
+
+	/**
+	 * @HandlesCommand("wbfreport")
+	 * @Matches("/^wbfreport\s+clear$/i")
+	 */
+	public function whatbuffsFroobReportClearCommand($message, $channel, $sender, $sendto, $args) {
+		$this->db->exec("DELETE FROM item_not_froob");
+		$msg = "All reported items cleared.";
+		$sendto->reply($msg);
+	}
+
+	public function showItemLink($lowid, $highid, $ql, $name) {
+			return $this->text->makeItem($lowid, $highid, $ql, $name).
+				" [".
+				$this->text->makeChatcmd("X", "/tell <myname> wbfreport " . $lowid).
+				"]";
 	}
 }
