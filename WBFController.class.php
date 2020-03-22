@@ -313,8 +313,12 @@ class WBFController extends WhatBuffsController {
 		}
 		$blob .= "\n\n".
 			$this->text->makeChatcmd("Delete this list", "/tell <myname> wbfreport clear");
-		$msg = "Here is the ".
-			$this->text->makeBlob("List of reported non-froob items", $blob);
+		$msg = $this->text->makeBlob("List of reported non-froob items", $blob);
+		if (is_array($msg)) {
+			$msg = array_map(function($text) { return "Here is the $text"; }, $msg);
+		} else {
+			$msg = "Here is the $msg";
+		}
 		$sendto->reply($msg);
 	}
 
