@@ -2,6 +2,11 @@ DROP TABLE IF EXISTS item_paid_only;
 CREATE TABLE item_paid_only (item_id INT PRIMARY KEY);
 INSERT INTO item_paid_only (item_id) VALUES (42449);
 INSERT INTO item_paid_only (item_id) VALUES (42451);
+INSERT INTO item_paid_only (item_id) VALUES (100000); -- The Senior Advisor Suit
+INSERT INTO item_paid_only (item_id) VALUES (100001); -- The Advisor Suit
+INSERT INTO item_paid_only (item_id) VALUES (100002); -- GM Suit
+INSERT INTO item_paid_only (item_id) VALUES (100003); -- GM Trenchcoat
+INSERT INTO item_paid_only (item_id) VALUES (100008); -- The Assistant Advisor Suit
 INSERT INTO item_paid_only (item_id) VALUES (150857);
 INSERT INTO item_paid_only (item_id) VALUES (150858);
 INSERT INTO item_paid_only (item_id) VALUES (150859);
@@ -17,6 +22,7 @@ INSERT INTO item_paid_only (item_id) VALUES (150868);
 INSERT INTO item_paid_only (item_id) VALUES (150869);
 INSERT INTO item_paid_only (item_id) VALUES (150870);
 INSERT INTO item_paid_only (item_id) VALUES (150871);
+INSERT INTO item_paid_only (item_id) VALUES (151405); -- The Developers Attire
 INSERT INTO item_paid_only (item_id) VALUES (151702);
 INSERT INTO item_paid_only (item_id) VALUES (151703);
 INSERT INTO item_paid_only (item_id) VALUES (151704);
@@ -25,9 +31,18 @@ INSERT INTO item_paid_only (item_id) VALUES (151706);
 INSERT INTO item_paid_only (item_id) VALUES (151707);
 INSERT INTO item_paid_only (item_id) VALUES (151737);
 INSERT INTO item_paid_only (item_id) VALUES (151738);
+INSERT INTO item_paid_only (item_id) VALUES (151884); -- Bughunters Protective Suit
+INSERT INTO item_paid_only (item_id) VALUES (151885); -- The Veteran Advisor Suit
 INSERT INTO item_paid_only (item_id) VALUES (152274);
 INSERT INTO item_paid_only (item_id) VALUES (152275);
 INSERT INTO item_paid_only (item_id) VALUES (152410);
+INSERT INTO item_paid_only (item_id) VALUES (152822); -- The Veteran Guardian
+INSERT INTO item_paid_only (item_id) VALUES (152825); -- Assistant Advisor Galla Uniform
+INSERT INTO item_paid_only (item_id) VALUES (152826); -- Advisor Galla Uniform
+INSERT INTO item_paid_only (item_id) VALUES (152827); -- Guardian Galla Uniform
+INSERT INTO item_paid_only (item_id) VALUES (152847); -- GM Galla Uniform
+INSERT INTO item_paid_only (item_id) VALUES (152883); -- Internal Affairs Protective Suit
+INSERT INTO item_paid_only (item_id) VALUES (152884); -- Community Representative Suit
 INSERT INTO item_paid_only (item_id) VALUES (156592);
 INSERT INTO item_paid_only (item_id) VALUES (158417);
 INSERT INTO item_paid_only (item_id) VALUES (160403);
@@ -448,6 +463,7 @@ INSERT INTO item_paid_only (item_id) VALUES (202434);
 INSERT INTO item_paid_only (item_id) VALUES (202435);
 INSERT INTO item_paid_only (item_id) VALUES (202436);
 INSERT INTO item_paid_only (item_id) VALUES (202437);
+INSERT INTO item_paid_only (item_id) VALUES (205178); -- The CR Suit
 INSERT INTO item_paid_only (item_id) VALUES (206978);
 INSERT INTO item_paid_only (item_id) VALUES (210297);
 INSERT INTO item_paid_only (item_id) VALUES (210298);
@@ -5151,6 +5167,8 @@ INSERT INTO item_paid_only (item_id) VALUES (231236);
 INSERT INTO item_paid_only (item_id) VALUES (231278);
 INSERT INTO item_paid_only (item_id) VALUES (231339);
 INSERT INTO item_paid_only (item_id) VALUES (231340);
+INSERT INTO item_paid_only (item_id) VALUES (231343); -- The Event Staff Suit
+INSERT INTO item_paid_only (item_id) VALUES (231353); -- ARK Staffing Suit
 INSERT INTO item_paid_only (item_id) VALUES (233012);
 INSERT INTO item_paid_only (item_id) VALUES (233013);
 INSERT INTO item_paid_only (item_id) VALUES (233014);
@@ -7939,6 +7957,8 @@ INSERT INTO item_paid_only (item_id) VALUES (257383);
 INSERT INTO item_paid_only (item_id) VALUES (257384);
 INSERT INTO item_paid_only (item_id) VALUES (257967);
 INSERT INTO item_paid_only (item_id) VALUES (258222);
+INSERT INTO item_paid_only (item_id) VALUES (258289); -- Exploits Team Protective Suit
+INSERT INTO item_paid_only (item_id) VALUES (258290); -- Personnel Team Protective Suit
 INSERT INTO item_paid_only (item_id) VALUES (258563);
 INSERT INTO item_paid_only (item_id) VALUES (258580);
 INSERT INTO item_paid_only (item_id) VALUES (258581);
@@ -9421,6 +9441,8 @@ INSERT INTO item_paid_only (item_id) VALUES (269517);
 INSERT INTO item_paid_only (item_id) VALUES (269827);
 INSERT INTO item_paid_only (item_id) VALUES (269842);
 INSERT INTO item_paid_only (item_id) VALUES (269843);
+INSERT INTO item_paid_only (item_id) VALUES (269896); -- Frozen Shoulderpads
+INSERT INTO item_paid_only (item_id) VALUES (269897); -- Shoulderpads of the Icy Wastes
 INSERT INTO item_paid_only (item_id) VALUES (269898);
 INSERT INTO item_paid_only (item_id) VALUES (269899);
 INSERT INTO item_paid_only (item_id) VALUES (269900);
@@ -11576,6 +11598,7 @@ INSERT INTO item_paid_only (item_id) VALUES (292605);
 INSERT INTO item_paid_only (item_id) VALUES (292606);
 INSERT INTO item_paid_only (item_id) VALUES (292607);
 INSERT INTO item_paid_only (item_id) VALUES (292608);
+INSERT INTO item_paid_only (item_id) VALUES (293115); -- Enigma Grove Sage Armor
 INSERT INTO item_paid_only (item_id) VALUES (293398);
 INSERT INTO item_paid_only (item_id) VALUES (293633);
 INSERT INTO item_paid_only (item_id) VALUES (293634);
@@ -12204,13 +12227,20 @@ INSERT INTO item_paid_only (item_id) VALUES (304245);
 INSERT INTO item_paid_only (item_id) VALUES (304247);
 INSERT INTO item_paid_only (item_id) VALUES (304249);
 INSERT INTO item_paid_only (item_id) VALUES (304251);
-INSERT INTO item_paid_only (item_id) VALUES (304445);
-INSERT INTO item_paid_only (item_id) VALUES (304447);
-INSERT INTO item_paid_only (item_id) VALUES (304449);
-INSERT INTO item_paid_only (item_id) VALUES (304451);
-INSERT INTO item_paid_only (item_id) VALUES (304453);
-INSERT INTO item_paid_only (item_id) VALUES (304455);
-INSERT INTO item_paid_only (item_id) VALUES (304457);
+INSERT INTO item_paid_only (item_id) VALUES (304444); -- Serpentine Sneaking Helmet
+INSERT INTO item_paid_only (item_id) VALUES (304445); -- Serpentine Sneaking Helmet
+INSERT INTO item_paid_only (item_id) VALUES (304446); -- Serpentine Sneaking Legwear
+INSERT INTO item_paid_only (item_id) VALUES (304447); -- Serpentine Sneaking Legwear
+INSERT INTO item_paid_only (item_id) VALUES (304448); -- Serpentine Sneaking Shoulderplate
+INSERT INTO item_paid_only (item_id) VALUES (304449); -- Serpentine Sneaking Shoulderplate
+INSERT INTO item_paid_only (item_id) VALUES (304450); -- Serpentine Sneaking Suit
+INSERT INTO item_paid_only (item_id) VALUES (304451); -- Serpentine Sneaking Suit
+INSERT INTO item_paid_only (item_id) VALUES (304452); -- Serpentine Sneaking Sleeves
+INSERT INTO item_paid_only (item_id) VALUES (304453); -- Serpentine Sneaking Sleeves
+INSERT INTO item_paid_only (item_id) VALUES (304454); -- Serpentine Sneaking Gloves
+INSERT INTO item_paid_only (item_id) VALUES (304455); -- Serpentine Sneaking Gloves
+INSERT INTO item_paid_only (item_id) VALUES (304456); -- Serpentine Sneaking Boots
+INSERT INTO item_paid_only (item_id) VALUES (304457); -- Serpentine Sneaking Boots
 INSERT INTO item_paid_only (item_id) VALUES (304458);
 INSERT INTO item_paid_only (item_id) VALUES (304459);
 INSERT INTO item_paid_only (item_id) VALUES (304460);

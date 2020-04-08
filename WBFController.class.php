@@ -202,13 +202,14 @@ class WBFController extends WhatBuffsController {
 	public function getSearchResults($category, $skill) {
 		if ($category === 'Nanoprogram') {
 			$sql = "
-				SELECT buffs.*, b.amount,aodb.lowid,aodb.highid,aodb.lowql,aodb.name AS use_name
+				SELECT buffs.*, b.amount,aodb.lowid,aodb.highid,aodb.lowql,aodb.name AS use_name, inf.item_id NOT NULL as paid
 				FROM buffs
 				JOIN item_buffs b ON buffs.id = b.item_id
 				JOIN skills s ON b.attribute_id = s.id
 				LEFT JOIN aodb ON (aodb.lowid=buffs.use_id)
 				LEFT JOIN item_paid_only p1 ON p1.item_id=aodb.lowid
 				LEFT JOIN item_paid_only p2 ON p2.item_id=buffs.id
+				LEFT JOIN item_not_froob inf ON (inf.item_id=aodb.lowid OR inf.item_id=buffs.id)
 				WHERE s.id = ? AND b.amount > 0 AND p1.item_id IS NULL AND p2.item_id IS NULL
 				ORDER BY b.amount DESC, buffs.name ASC
 			";
@@ -216,7 +217,7 @@ class WBFController extends WhatBuffsController {
 			$result = $this->formatBuffs($data);
 		} else {
 			$sql = "
-				SELECT aodb.*, b.amount,b2.amount AS low_amount, wa.multi_m, wa.multi_r
+				SELECT aodb.*, b.amount,b2.amount AS low_amount, wa.multi_m, wa.multi_r, inf.item_id NOT NULL AS paid
 				FROM aodb
 				JOIN item_types i ON aodb.highid = i.item_id
 				JOIN item_buffs b ON aodb.highid = b.item_id
@@ -224,6 +225,7 @@ class WBFController extends WhatBuffsController {
 				LEFT JOIN weapon_attributes wa ON aodb.highid = wa.id
 				JOIN skills s ON b.attribute_id = s.id AND b2.attribute_id = s.id
 				LEFT JOIN item_paid_only p ON p.item_id=aodb.lowid
+				LEFT JOIN item_not_froob inf ON inf.item_id=aodb.lowid
 				WHERE i.item_type = ? AND s.id = ? AND p.item_id IS NULL AND b.amount > 0
 				GROUP BY aodb.name,aodb.lowql,aodb.highql,b.amount,b2.amount,wa.multi_m,wa.multi_r
 				ORDER BY b.amount DESC, name DESC, aodb.highql DESC
@@ -315,7 +317,9 @@ class WBFController extends WhatBuffsController {
 			$this->text->makeChatcmd("Delete this list", "/tell <myname> wbfreport clear");
 		$msg = $this->text->makeBlob("List of reported non-froob items", $blob);
 		if (is_array($msg)) {
-			$msg = array_map(function($text) { return "Here is the $text"; }, $msg);
+			$msg = array_map(function($text) {
+				 return "Here is the $text";
+			}, $msg);
 		} else {
 			$msg = "Here is the $msg";
 		}
@@ -332,10 +336,12 @@ class WBFController extends WhatBuffsController {
 		$sendto->reply($msg);
 	}
 
-	public function showItemLink($lowid, $highid, $ql, $name) {
-			return $this->text->makeItem($lowid, $highid, $ql, $name).
-				" [".
-				$this->text->makeChatcmd("X", "/tell <myname> wbfreport " . $lowid).
-				"]";
+	public function showItemLink(\Budabot\Core\DBRow $item, $ql) {
+		$itemLink = $this->text->makeItem($item->lowid, $item->highid, $ql, $item->name);
+		$reportCmd = $this->text->makeChatcmd("X", "/tell <myname> wbfreport " . $item->lowid);
+		if ($item->paid) {
+			$reportCmd = "<red>PAID<end>";
+		}
+		return $itemLink . " [$reportCmd]";
 	}
 }
