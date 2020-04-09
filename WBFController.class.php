@@ -202,7 +202,7 @@ class WBFController extends WhatBuffsController {
 	public function getSearchResults($category, $skill) {
 		if ($category === 'Nanoprogram') {
 			$sql = "
-				SELECT buffs.*, b.amount,aodb.lowid,aodb.highid,aodb.lowql,aodb.name AS use_name, inf.item_id NOT NULL as paid
+				SELECT buffs.*, b.amount,aodb.lowid,aodb.highid,aodb.lowql,aodb.name AS use_name, inf.item_id IS NOT NULL as paid
 				FROM buffs
 				JOIN item_buffs b ON buffs.id = b.item_id
 				JOIN skills s ON b.attribute_id = s.id
@@ -217,7 +217,7 @@ class WBFController extends WhatBuffsController {
 			$result = $this->formatBuffs($data);
 		} else {
 			$sql = "
-				SELECT aodb.*, b.amount,b2.amount AS low_amount, wa.multi_m, wa.multi_r, inf.item_id NOT NULL AS paid
+				SELECT aodb.*, b.amount,b2.amount AS low_amount, wa.multi_m, wa.multi_r, inf.item_id IS NOT NULL AS paid
 				FROM aodb
 				JOIN item_types i ON aodb.highid = i.item_id
 				JOIN item_buffs b ON aodb.highid = b.item_id
