@@ -174,7 +174,7 @@ class WBFController extends WhatBuffsController {
 					JOIN skills s ON ib.attribute_id = s.id
 					LEFT JOIN item_paid_only p ON p.item_id=a.lowid
 					WHERE s.id = ? AND ib.amount > 0 AND p.item_id IS NULL
-					GROUP BY a.name,a.lowql,a.highql,ib.amount
+					GROUP BY a.name,it.item_type,a.lowql,a.highql,ib.amount
 					HAVING ib.amount > 0
 
 					UNION ALL
