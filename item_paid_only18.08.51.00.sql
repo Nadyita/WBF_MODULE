@@ -45,18 +45,6 @@ INSERT INTO item_paid_only (item_id) VALUES (152883); -- Internal Affairs Protec
 INSERT INTO item_paid_only (item_id) VALUES (152884); -- Community Representative Suit
 INSERT INTO item_paid_only (item_id) VALUES (156592);
 INSERT INTO item_paid_only (item_id) VALUES (158417);
-INSERT INTO item_paid_only (item_id) VALUES (160403);
-INSERT INTO item_paid_only (item_id) VALUES (160404);
-INSERT INTO item_paid_only (item_id) VALUES (160405);
-INSERT INTO item_paid_only (item_id) VALUES (160406);
-INSERT INTO item_paid_only (item_id) VALUES (160407);
-INSERT INTO item_paid_only (item_id) VALUES (160408);
-INSERT INTO item_paid_only (item_id) VALUES (160409);
-INSERT INTO item_paid_only (item_id) VALUES (160410);
-INSERT INTO item_paid_only (item_id) VALUES (160411);
-INSERT INTO item_paid_only (item_id) VALUES (160412);
-INSERT INTO item_paid_only (item_id) VALUES (160413);
-INSERT INTO item_paid_only (item_id) VALUES (160414);
 INSERT INTO item_paid_only (item_id) VALUES (160569);
 INSERT INTO item_paid_only (item_id) VALUES (161497);
 INSERT INTO item_paid_only (item_id) VALUES (161498);
