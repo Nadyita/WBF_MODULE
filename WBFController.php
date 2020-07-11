@@ -1,8 +1,11 @@
 <?php
 
-namespace Budabot\User\Modules;
+namespace Budabot\User\Modules\WBF_MODULE;
+
+use Budabot\Modules\ITEMS_MODULE\WhatBuffsController;
 
 /**
+ * @author Nadyita (RK5) <nadyita@hodorraid.org>
  * @Instance
  *
  * Commands this controller contains:
@@ -157,7 +160,7 @@ class WBFController extends WhatBuffsController {
 		if ($count == 0) {
 			$msg = "Could not find skill <highlight>$skill<end>.";
 		} elseif ($count > 1) {
-			$blob .= "Choose a skill:\n\n";
+			$blob = "Choose a skill:\n\n";
 			foreach ($data as $row) {
 				$blob .= $this->text->makeChatcmd(ucfirst($row->name), "/tell <myname> whatbuffsfroob $row->name") . "\n";
 			}

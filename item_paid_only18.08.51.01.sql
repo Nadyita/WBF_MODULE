@@ -1,12357 +1,12358 @@
 DROP TABLE IF EXISTS item_paid_only;
 CREATE TABLE item_paid_only (item_id INT PRIMARY KEY);
-INSERT INTO item_paid_only (item_id) VALUES (42449);
-INSERT INTO item_paid_only (item_id) VALUES (42451);
-INSERT INTO item_paid_only (item_id) VALUES (100000); -- The Senior Advisor Suit
-INSERT INTO item_paid_only (item_id) VALUES (100001); -- The Advisor Suit
-INSERT INTO item_paid_only (item_id) VALUES (100002); -- GM Suit
-INSERT INTO item_paid_only (item_id) VALUES (100003); -- GM Trenchcoat
-INSERT INTO item_paid_only (item_id) VALUES (100008); -- The Assistant Advisor Suit
-INSERT INTO item_paid_only (item_id) VALUES (150857);
-INSERT INTO item_paid_only (item_id) VALUES (150858);
-INSERT INTO item_paid_only (item_id) VALUES (150859);
-INSERT INTO item_paid_only (item_id) VALUES (150860);
-INSERT INTO item_paid_only (item_id) VALUES (150861);
-INSERT INTO item_paid_only (item_id) VALUES (150862);
-INSERT INTO item_paid_only (item_id) VALUES (150863);
-INSERT INTO item_paid_only (item_id) VALUES (150864);
-INSERT INTO item_paid_only (item_id) VALUES (150865);
-INSERT INTO item_paid_only (item_id) VALUES (150866);
-INSERT INTO item_paid_only (item_id) VALUES (150867);
-INSERT INTO item_paid_only (item_id) VALUES (150868);
-INSERT INTO item_paid_only (item_id) VALUES (150869);
-INSERT INTO item_paid_only (item_id) VALUES (150870);
-INSERT INTO item_paid_only (item_id) VALUES (150871);
-INSERT INTO item_paid_only (item_id) VALUES (151405); -- The Developers Attire
-INSERT INTO item_paid_only (item_id) VALUES (151702);
-INSERT INTO item_paid_only (item_id) VALUES (151703);
-INSERT INTO item_paid_only (item_id) VALUES (151704);
-INSERT INTO item_paid_only (item_id) VALUES (151705);
-INSERT INTO item_paid_only (item_id) VALUES (151706);
-INSERT INTO item_paid_only (item_id) VALUES (151707);
-INSERT INTO item_paid_only (item_id) VALUES (151737);
-INSERT INTO item_paid_only (item_id) VALUES (151738);
-INSERT INTO item_paid_only (item_id) VALUES (151884); -- Bughunters Protective Suit
-INSERT INTO item_paid_only (item_id) VALUES (151885); -- The Veteran Advisor Suit
-INSERT INTO item_paid_only (item_id) VALUES (152274);
-INSERT INTO item_paid_only (item_id) VALUES (152275);
-INSERT INTO item_paid_only (item_id) VALUES (152410);
-INSERT INTO item_paid_only (item_id) VALUES (152822); -- The Veteran Guardian
-INSERT INTO item_paid_only (item_id) VALUES (152825); -- Assistant Advisor Galla Uniform
-INSERT INTO item_paid_only (item_id) VALUES (152826); -- Advisor Galla Uniform
-INSERT INTO item_paid_only (item_id) VALUES (152827); -- Guardian Galla Uniform
-INSERT INTO item_paid_only (item_id) VALUES (152847); -- GM Galla Uniform
-INSERT INTO item_paid_only (item_id) VALUES (152883); -- Internal Affairs Protective Suit
-INSERT INTO item_paid_only (item_id) VALUES (152884); -- Community Representative Suit
-INSERT INTO item_paid_only (item_id) VALUES (156592);
-INSERT INTO item_paid_only (item_id) VALUES (158417);
-INSERT INTO item_paid_only (item_id) VALUES (160569);
-INSERT INTO item_paid_only (item_id) VALUES (161497);
-INSERT INTO item_paid_only (item_id) VALUES (161498);
-INSERT INTO item_paid_only (item_id) VALUES (161499);
-INSERT INTO item_paid_only (item_id) VALUES (161500);
-INSERT INTO item_paid_only (item_id) VALUES (161501);
-INSERT INTO item_paid_only (item_id) VALUES (161502);
-INSERT INTO item_paid_only (item_id) VALUES (161505);
-INSERT INTO item_paid_only (item_id) VALUES (161506);
-INSERT INTO item_paid_only (item_id) VALUES (161507);
-INSERT INTO item_paid_only (item_id) VALUES (161516);
-INSERT INTO item_paid_only (item_id) VALUES (161517);
-INSERT INTO item_paid_only (item_id) VALUES (161518);
-INSERT INTO item_paid_only (item_id) VALUES (161519);
-INSERT INTO item_paid_only (item_id) VALUES (161520);
-INSERT INTO item_paid_only (item_id) VALUES (161521);
-INSERT INTO item_paid_only (item_id) VALUES (161522);
-INSERT INTO item_paid_only (item_id) VALUES (161523);
-INSERT INTO item_paid_only (item_id) VALUES (161532);
-INSERT INTO item_paid_only (item_id) VALUES (161533);
-INSERT INTO item_paid_only (item_id) VALUES (161534);
-INSERT INTO item_paid_only (item_id) VALUES (161535);
-INSERT INTO item_paid_only (item_id) VALUES (161536);
-INSERT INTO item_paid_only (item_id) VALUES (161537);
-INSERT INTO item_paid_only (item_id) VALUES (161538);
-INSERT INTO item_paid_only (item_id) VALUES (161539);
-INSERT INTO item_paid_only (item_id) VALUES (161548);
-INSERT INTO item_paid_only (item_id) VALUES (161549);
-INSERT INTO item_paid_only (item_id) VALUES (161550);
-INSERT INTO item_paid_only (item_id) VALUES (161551);
-INSERT INTO item_paid_only (item_id) VALUES (161552);
-INSERT INTO item_paid_only (item_id) VALUES (161553);
-INSERT INTO item_paid_only (item_id) VALUES (161554);
-INSERT INTO item_paid_only (item_id) VALUES (161555);
-INSERT INTO item_paid_only (item_id) VALUES (161564);
-INSERT INTO item_paid_only (item_id) VALUES (161565);
-INSERT INTO item_paid_only (item_id) VALUES (161566);
-INSERT INTO item_paid_only (item_id) VALUES (161567);
-INSERT INTO item_paid_only (item_id) VALUES (161568);
-INSERT INTO item_paid_only (item_id) VALUES (161569);
-INSERT INTO item_paid_only (item_id) VALUES (161570);
-INSERT INTO item_paid_only (item_id) VALUES (161571);
-INSERT INTO item_paid_only (item_id) VALUES (161588);
-INSERT INTO item_paid_only (item_id) VALUES (161589);
-INSERT INTO item_paid_only (item_id) VALUES (161590);
-INSERT INTO item_paid_only (item_id) VALUES (161591);
-INSERT INTO item_paid_only (item_id) VALUES (161592);
-INSERT INTO item_paid_only (item_id) VALUES (161593);
-INSERT INTO item_paid_only (item_id) VALUES (161594);
-INSERT INTO item_paid_only (item_id) VALUES (161595);
-INSERT INTO item_paid_only (item_id) VALUES (161596);
-INSERT INTO item_paid_only (item_id) VALUES (162009);
-INSERT INTO item_paid_only (item_id) VALUES (162010);
-INSERT INTO item_paid_only (item_id) VALUES (162011);
-INSERT INTO item_paid_only (item_id) VALUES (162012);
-INSERT INTO item_paid_only (item_id) VALUES (162013);
-INSERT INTO item_paid_only (item_id) VALUES (162014);
-INSERT INTO item_paid_only (item_id) VALUES (162015);
-INSERT INTO item_paid_only (item_id) VALUES (162016);
-INSERT INTO item_paid_only (item_id) VALUES (162017);
-INSERT INTO item_paid_only (item_id) VALUES (162018);
-INSERT INTO item_paid_only (item_id) VALUES (162019);
-INSERT INTO item_paid_only (item_id) VALUES (162020);
-INSERT INTO item_paid_only (item_id) VALUES (162021);
-INSERT INTO item_paid_only (item_id) VALUES (162022);
-INSERT INTO item_paid_only (item_id) VALUES (162023);
-INSERT INTO item_paid_only (item_id) VALUES (162024);
-INSERT INTO item_paid_only (item_id) VALUES (162025);
-INSERT INTO item_paid_only (item_id) VALUES (162026);
-INSERT INTO item_paid_only (item_id) VALUES (162027);
-INSERT INTO item_paid_only (item_id) VALUES (162028);
-INSERT INTO item_paid_only (item_id) VALUES (162029);
-INSERT INTO item_paid_only (item_id) VALUES (163507);
-INSERT INTO item_paid_only (item_id) VALUES (163718);
-INSERT INTO item_paid_only (item_id) VALUES (163719);
-INSERT INTO item_paid_only (item_id) VALUES (165395);
-INSERT INTO item_paid_only (item_id) VALUES (165396);
-INSERT INTO item_paid_only (item_id) VALUES (165397);
-INSERT INTO item_paid_only (item_id) VALUES (165398);
-INSERT INTO item_paid_only (item_id) VALUES (165399);
-INSERT INTO item_paid_only (item_id) VALUES (165400);
-INSERT INTO item_paid_only (item_id) VALUES (165401);
-INSERT INTO item_paid_only (item_id) VALUES (165402);
-INSERT INTO item_paid_only (item_id) VALUES (165403);
-INSERT INTO item_paid_only (item_id) VALUES (165404);
-INSERT INTO item_paid_only (item_id) VALUES (165405);
-INSERT INTO item_paid_only (item_id) VALUES (165406);
-INSERT INTO item_paid_only (item_id) VALUES (165407);
-INSERT INTO item_paid_only (item_id) VALUES (165408);
-INSERT INTO item_paid_only (item_id) VALUES (165409);
-INSERT INTO item_paid_only (item_id) VALUES (165410);
-INSERT INTO item_paid_only (item_id) VALUES (165411);
-INSERT INTO item_paid_only (item_id) VALUES (165412);
-INSERT INTO item_paid_only (item_id) VALUES (165413);
-INSERT INTO item_paid_only (item_id) VALUES (165414);
-INSERT INTO item_paid_only (item_id) VALUES (165415);
-INSERT INTO item_paid_only (item_id) VALUES (165416);
-INSERT INTO item_paid_only (item_id) VALUES (165417);
-INSERT INTO item_paid_only (item_id) VALUES (165418);
-INSERT INTO item_paid_only (item_id) VALUES (165419);
-INSERT INTO item_paid_only (item_id) VALUES (165420);
-INSERT INTO item_paid_only (item_id) VALUES (165421);
-INSERT INTO item_paid_only (item_id) VALUES (165422);
-INSERT INTO item_paid_only (item_id) VALUES (165423);
-INSERT INTO item_paid_only (item_id) VALUES (165424);
-INSERT INTO item_paid_only (item_id) VALUES (168438);
-INSERT INTO item_paid_only (item_id) VALUES (168439);
-INSERT INTO item_paid_only (item_id) VALUES (168440);
-INSERT INTO item_paid_only (item_id) VALUES (168441);
-INSERT INTO item_paid_only (item_id) VALUES (168442);
-INSERT INTO item_paid_only (item_id) VALUES (168443);
-INSERT INTO item_paid_only (item_id) VALUES (168444);
-INSERT INTO item_paid_only (item_id) VALUES (168445);
-INSERT INTO item_paid_only (item_id) VALUES (168446);
-INSERT INTO item_paid_only (item_id) VALUES (168447);
-INSERT INTO item_paid_only (item_id) VALUES (168448);
-INSERT INTO item_paid_only (item_id) VALUES (168449);
-INSERT INTO item_paid_only (item_id) VALUES (168450);
-INSERT INTO item_paid_only (item_id) VALUES (168451);
-INSERT INTO item_paid_only (item_id) VALUES (168452);
-INSERT INTO item_paid_only (item_id) VALUES (168453);
-INSERT INTO item_paid_only (item_id) VALUES (168454);
-INSERT INTO item_paid_only (item_id) VALUES (168455);
-INSERT INTO item_paid_only (item_id) VALUES (168456);
-INSERT INTO item_paid_only (item_id) VALUES (168457);
-INSERT INTO item_paid_only (item_id) VALUES (168458);
-INSERT INTO item_paid_only (item_id) VALUES (168459);
-INSERT INTO item_paid_only (item_id) VALUES (168460);
-INSERT INTO item_paid_only (item_id) VALUES (168461);
-INSERT INTO item_paid_only (item_id) VALUES (168462);
-INSERT INTO item_paid_only (item_id) VALUES (168463);
-INSERT INTO item_paid_only (item_id) VALUES (168464);
-INSERT INTO item_paid_only (item_id) VALUES (168465);
-INSERT INTO item_paid_only (item_id) VALUES (168466);
-INSERT INTO item_paid_only (item_id) VALUES (168467);
-INSERT INTO item_paid_only (item_id) VALUES (168479);
-INSERT INTO item_paid_only (item_id) VALUES (168480);
-INSERT INTO item_paid_only (item_id) VALUES (168481);
-INSERT INTO item_paid_only (item_id) VALUES (168482);
-INSERT INTO item_paid_only (item_id) VALUES (168483);
-INSERT INTO item_paid_only (item_id) VALUES (168484);
-INSERT INTO item_paid_only (item_id) VALUES (168485);
-INSERT INTO item_paid_only (item_id) VALUES (168486);
-INSERT INTO item_paid_only (item_id) VALUES (168487);
-INSERT INTO item_paid_only (item_id) VALUES (168488);
-INSERT INTO item_paid_only (item_id) VALUES (168489);
-INSERT INTO item_paid_only (item_id) VALUES (168490);
-INSERT INTO item_paid_only (item_id) VALUES (168491);
-INSERT INTO item_paid_only (item_id) VALUES (168492);
-INSERT INTO item_paid_only (item_id) VALUES (168493);
-INSERT INTO item_paid_only (item_id) VALUES (168494);
-INSERT INTO item_paid_only (item_id) VALUES (168495);
-INSERT INTO item_paid_only (item_id) VALUES (168496);
-INSERT INTO item_paid_only (item_id) VALUES (168497);
-INSERT INTO item_paid_only (item_id) VALUES (168498);
-INSERT INTO item_paid_only (item_id) VALUES (168499);
-INSERT INTO item_paid_only (item_id) VALUES (168500);
-INSERT INTO item_paid_only (item_id) VALUES (168501);
-INSERT INTO item_paid_only (item_id) VALUES (168502);
-INSERT INTO item_paid_only (item_id) VALUES (168503);
-INSERT INTO item_paid_only (item_id) VALUES (168504);
-INSERT INTO item_paid_only (item_id) VALUES (168505);
-INSERT INTO item_paid_only (item_id) VALUES (168506);
-INSERT INTO item_paid_only (item_id) VALUES (168507);
-INSERT INTO item_paid_only (item_id) VALUES (168508);
-INSERT INTO item_paid_only (item_id) VALUES (168519);
-INSERT INTO item_paid_only (item_id) VALUES (168520);
-INSERT INTO item_paid_only (item_id) VALUES (168521);
-INSERT INTO item_paid_only (item_id) VALUES (168522);
-INSERT INTO item_paid_only (item_id) VALUES (168523);
-INSERT INTO item_paid_only (item_id) VALUES (168524);
-INSERT INTO item_paid_only (item_id) VALUES (168525);
-INSERT INTO item_paid_only (item_id) VALUES (168526);
-INSERT INTO item_paid_only (item_id) VALUES (168527);
-INSERT INTO item_paid_only (item_id) VALUES (168528);
-INSERT INTO item_paid_only (item_id) VALUES (168529);
-INSERT INTO item_paid_only (item_id) VALUES (168530);
-INSERT INTO item_paid_only (item_id) VALUES (168531);
-INSERT INTO item_paid_only (item_id) VALUES (168532);
-INSERT INTO item_paid_only (item_id) VALUES (168533);
-INSERT INTO item_paid_only (item_id) VALUES (168534);
-INSERT INTO item_paid_only (item_id) VALUES (168535);
-INSERT INTO item_paid_only (item_id) VALUES (168536);
-INSERT INTO item_paid_only (item_id) VALUES (168537);
-INSERT INTO item_paid_only (item_id) VALUES (168538);
-INSERT INTO item_paid_only (item_id) VALUES (168539);
-INSERT INTO item_paid_only (item_id) VALUES (168540);
-INSERT INTO item_paid_only (item_id) VALUES (168541);
-INSERT INTO item_paid_only (item_id) VALUES (168542);
-INSERT INTO item_paid_only (item_id) VALUES (168543);
-INSERT INTO item_paid_only (item_id) VALUES (168544);
-INSERT INTO item_paid_only (item_id) VALUES (168545);
-INSERT INTO item_paid_only (item_id) VALUES (168546);
-INSERT INTO item_paid_only (item_id) VALUES (168547);
-INSERT INTO item_paid_only (item_id) VALUES (168548);
-INSERT INTO item_paid_only (item_id) VALUES (168559);
-INSERT INTO item_paid_only (item_id) VALUES (168561);
-INSERT INTO item_paid_only (item_id) VALUES (168562);
-INSERT INTO item_paid_only (item_id) VALUES (168563);
-INSERT INTO item_paid_only (item_id) VALUES (168564);
-INSERT INTO item_paid_only (item_id) VALUES (168565);
-INSERT INTO item_paid_only (item_id) VALUES (168566);
-INSERT INTO item_paid_only (item_id) VALUES (168567);
-INSERT INTO item_paid_only (item_id) VALUES (168568);
-INSERT INTO item_paid_only (item_id) VALUES (168569);
-INSERT INTO item_paid_only (item_id) VALUES (168570);
-INSERT INTO item_paid_only (item_id) VALUES (168571);
-INSERT INTO item_paid_only (item_id) VALUES (168572);
-INSERT INTO item_paid_only (item_id) VALUES (168573);
-INSERT INTO item_paid_only (item_id) VALUES (168574);
-INSERT INTO item_paid_only (item_id) VALUES (168575);
-INSERT INTO item_paid_only (item_id) VALUES (168576);
-INSERT INTO item_paid_only (item_id) VALUES (168577);
-INSERT INTO item_paid_only (item_id) VALUES (168578);
-INSERT INTO item_paid_only (item_id) VALUES (168579);
-INSERT INTO item_paid_only (item_id) VALUES (168580);
-INSERT INTO item_paid_only (item_id) VALUES (168581);
-INSERT INTO item_paid_only (item_id) VALUES (168582);
-INSERT INTO item_paid_only (item_id) VALUES (168583);
-INSERT INTO item_paid_only (item_id) VALUES (168584);
-INSERT INTO item_paid_only (item_id) VALUES (168585);
-INSERT INTO item_paid_only (item_id) VALUES (168586);
-INSERT INTO item_paid_only (item_id) VALUES (168587);
-INSERT INTO item_paid_only (item_id) VALUES (168588);
-INSERT INTO item_paid_only (item_id) VALUES (168626);
-INSERT INTO item_paid_only (item_id) VALUES (168627);
-INSERT INTO item_paid_only (item_id) VALUES (168628);
-INSERT INTO item_paid_only (item_id) VALUES (168629);
-INSERT INTO item_paid_only (item_id) VALUES (168630);
-INSERT INTO item_paid_only (item_id) VALUES (168631);
-INSERT INTO item_paid_only (item_id) VALUES (168632);
-INSERT INTO item_paid_only (item_id) VALUES (168633);
-INSERT INTO item_paid_only (item_id) VALUES (168634);
-INSERT INTO item_paid_only (item_id) VALUES (168635);
-INSERT INTO item_paid_only (item_id) VALUES (168636);
-INSERT INTO item_paid_only (item_id) VALUES (168637);
-INSERT INTO item_paid_only (item_id) VALUES (168638);
-INSERT INTO item_paid_only (item_id) VALUES (168639);
-INSERT INTO item_paid_only (item_id) VALUES (168640);
-INSERT INTO item_paid_only (item_id) VALUES (168641);
-INSERT INTO item_paid_only (item_id) VALUES (168642);
-INSERT INTO item_paid_only (item_id) VALUES (168643);
-INSERT INTO item_paid_only (item_id) VALUES (168644);
-INSERT INTO item_paid_only (item_id) VALUES (168645);
-INSERT INTO item_paid_only (item_id) VALUES (168646);
-INSERT INTO item_paid_only (item_id) VALUES (168647);
-INSERT INTO item_paid_only (item_id) VALUES (168648);
-INSERT INTO item_paid_only (item_id) VALUES (168649);
-INSERT INTO item_paid_only (item_id) VALUES (168650);
-INSERT INTO item_paid_only (item_id) VALUES (168651);
-INSERT INTO item_paid_only (item_id) VALUES (168652);
-INSERT INTO item_paid_only (item_id) VALUES (168653);
-INSERT INTO item_paid_only (item_id) VALUES (168654);
-INSERT INTO item_paid_only (item_id) VALUES (168655);
-INSERT INTO item_paid_only (item_id) VALUES (168723);
-INSERT INTO item_paid_only (item_id) VALUES (168724);
-INSERT INTO item_paid_only (item_id) VALUES (168725);
-INSERT INTO item_paid_only (item_id) VALUES (168726);
-INSERT INTO item_paid_only (item_id) VALUES (168727);
-INSERT INTO item_paid_only (item_id) VALUES (168728);
-INSERT INTO item_paid_only (item_id) VALUES (168729);
-INSERT INTO item_paid_only (item_id) VALUES (168730);
-INSERT INTO item_paid_only (item_id) VALUES (168731);
-INSERT INTO item_paid_only (item_id) VALUES (168732);
-INSERT INTO item_paid_only (item_id) VALUES (168733);
-INSERT INTO item_paid_only (item_id) VALUES (168734);
-INSERT INTO item_paid_only (item_id) VALUES (168735);
-INSERT INTO item_paid_only (item_id) VALUES (168736);
-INSERT INTO item_paid_only (item_id) VALUES (168737);
-INSERT INTO item_paid_only (item_id) VALUES (168738);
-INSERT INTO item_paid_only (item_id) VALUES (168739);
-INSERT INTO item_paid_only (item_id) VALUES (168740);
-INSERT INTO item_paid_only (item_id) VALUES (168741);
-INSERT INTO item_paid_only (item_id) VALUES (168742);
-INSERT INTO item_paid_only (item_id) VALUES (168743);
-INSERT INTO item_paid_only (item_id) VALUES (168744);
-INSERT INTO item_paid_only (item_id) VALUES (168745);
-INSERT INTO item_paid_only (item_id) VALUES (168746);
-INSERT INTO item_paid_only (item_id) VALUES (168747);
-INSERT INTO item_paid_only (item_id) VALUES (168748);
-INSERT INTO item_paid_only (item_id) VALUES (168749);
-INSERT INTO item_paid_only (item_id) VALUES (168750);
-INSERT INTO item_paid_only (item_id) VALUES (168751);
-INSERT INTO item_paid_only (item_id) VALUES (168752);
-INSERT INTO item_paid_only (item_id) VALUES (168763);
-INSERT INTO item_paid_only (item_id) VALUES (168764);
-INSERT INTO item_paid_only (item_id) VALUES (168765);
-INSERT INTO item_paid_only (item_id) VALUES (168766);
-INSERT INTO item_paid_only (item_id) VALUES (168767);
-INSERT INTO item_paid_only (item_id) VALUES (168768);
-INSERT INTO item_paid_only (item_id) VALUES (168769);
-INSERT INTO item_paid_only (item_id) VALUES (168770);
-INSERT INTO item_paid_only (item_id) VALUES (168771);
-INSERT INTO item_paid_only (item_id) VALUES (168772);
-INSERT INTO item_paid_only (item_id) VALUES (168773);
-INSERT INTO item_paid_only (item_id) VALUES (168774);
-INSERT INTO item_paid_only (item_id) VALUES (168775);
-INSERT INTO item_paid_only (item_id) VALUES (168776);
-INSERT INTO item_paid_only (item_id) VALUES (168777);
-INSERT INTO item_paid_only (item_id) VALUES (168778);
-INSERT INTO item_paid_only (item_id) VALUES (168779);
-INSERT INTO item_paid_only (item_id) VALUES (168780);
-INSERT INTO item_paid_only (item_id) VALUES (168781);
-INSERT INTO item_paid_only (item_id) VALUES (168782);
-INSERT INTO item_paid_only (item_id) VALUES (168783);
-INSERT INTO item_paid_only (item_id) VALUES (168784);
-INSERT INTO item_paid_only (item_id) VALUES (168785);
-INSERT INTO item_paid_only (item_id) VALUES (168786);
-INSERT INTO item_paid_only (item_id) VALUES (168787);
-INSERT INTO item_paid_only (item_id) VALUES (168788);
-INSERT INTO item_paid_only (item_id) VALUES (168789);
-INSERT INTO item_paid_only (item_id) VALUES (168790);
-INSERT INTO item_paid_only (item_id) VALUES (168791);
-INSERT INTO item_paid_only (item_id) VALUES (168792);
-INSERT INTO item_paid_only (item_id) VALUES (168803);
-INSERT INTO item_paid_only (item_id) VALUES (168804);
-INSERT INTO item_paid_only (item_id) VALUES (168805);
-INSERT INTO item_paid_only (item_id) VALUES (168806);
-INSERT INTO item_paid_only (item_id) VALUES (168807);
-INSERT INTO item_paid_only (item_id) VALUES (168808);
-INSERT INTO item_paid_only (item_id) VALUES (168809);
-INSERT INTO item_paid_only (item_id) VALUES (168810);
-INSERT INTO item_paid_only (item_id) VALUES (168811);
-INSERT INTO item_paid_only (item_id) VALUES (168812);
-INSERT INTO item_paid_only (item_id) VALUES (168813);
-INSERT INTO item_paid_only (item_id) VALUES (168814);
-INSERT INTO item_paid_only (item_id) VALUES (168815);
-INSERT INTO item_paid_only (item_id) VALUES (168816);
-INSERT INTO item_paid_only (item_id) VALUES (168817);
-INSERT INTO item_paid_only (item_id) VALUES (168818);
-INSERT INTO item_paid_only (item_id) VALUES (168819);
-INSERT INTO item_paid_only (item_id) VALUES (168820);
-INSERT INTO item_paid_only (item_id) VALUES (168821);
-INSERT INTO item_paid_only (item_id) VALUES (168822);
-INSERT INTO item_paid_only (item_id) VALUES (168823);
-INSERT INTO item_paid_only (item_id) VALUES (168824);
-INSERT INTO item_paid_only (item_id) VALUES (168825);
-INSERT INTO item_paid_only (item_id) VALUES (168826);
-INSERT INTO item_paid_only (item_id) VALUES (168827);
-INSERT INTO item_paid_only (item_id) VALUES (168828);
-INSERT INTO item_paid_only (item_id) VALUES (168829);
-INSERT INTO item_paid_only (item_id) VALUES (168830);
-INSERT INTO item_paid_only (item_id) VALUES (168831);
-INSERT INTO item_paid_only (item_id) VALUES (168832);
-INSERT INTO item_paid_only (item_id) VALUES (168849);
-INSERT INTO item_paid_only (item_id) VALUES (168850);
-INSERT INTO item_paid_only (item_id) VALUES (168851);
-INSERT INTO item_paid_only (item_id) VALUES (168852);
-INSERT INTO item_paid_only (item_id) VALUES (168853);
-INSERT INTO item_paid_only (item_id) VALUES (168854);
-INSERT INTO item_paid_only (item_id) VALUES (168855);
-INSERT INTO item_paid_only (item_id) VALUES (168856);
-INSERT INTO item_paid_only (item_id) VALUES (168857);
-INSERT INTO item_paid_only (item_id) VALUES (168858);
-INSERT INTO item_paid_only (item_id) VALUES (168859);
-INSERT INTO item_paid_only (item_id) VALUES (168860);
-INSERT INTO item_paid_only (item_id) VALUES (168861);
-INSERT INTO item_paid_only (item_id) VALUES (168862);
-INSERT INTO item_paid_only (item_id) VALUES (168863);
-INSERT INTO item_paid_only (item_id) VALUES (168864);
-INSERT INTO item_paid_only (item_id) VALUES (168865);
-INSERT INTO item_paid_only (item_id) VALUES (168866);
-INSERT INTO item_paid_only (item_id) VALUES (168867);
-INSERT INTO item_paid_only (item_id) VALUES (168868);
-INSERT INTO item_paid_only (item_id) VALUES (168869);
-INSERT INTO item_paid_only (item_id) VALUES (168870);
-INSERT INTO item_paid_only (item_id) VALUES (168871);
-INSERT INTO item_paid_only (item_id) VALUES (168872);
-INSERT INTO item_paid_only (item_id) VALUES (168873);
-INSERT INTO item_paid_only (item_id) VALUES (168874);
-INSERT INTO item_paid_only (item_id) VALUES (168875);
-INSERT INTO item_paid_only (item_id) VALUES (168876);
-INSERT INTO item_paid_only (item_id) VALUES (168877);
-INSERT INTO item_paid_only (item_id) VALUES (168878);
-INSERT INTO item_paid_only (item_id) VALUES (202297);
-INSERT INTO item_paid_only (item_id) VALUES (202298);
-INSERT INTO item_paid_only (item_id) VALUES (202299);
-INSERT INTO item_paid_only (item_id) VALUES (202300);
-INSERT INTO item_paid_only (item_id) VALUES (202301);
-INSERT INTO item_paid_only (item_id) VALUES (202302);
-INSERT INTO item_paid_only (item_id) VALUES (202363);
-INSERT INTO item_paid_only (item_id) VALUES (202364);
-INSERT INTO item_paid_only (item_id) VALUES (202365);
-INSERT INTO item_paid_only (item_id) VALUES (202366);
-INSERT INTO item_paid_only (item_id) VALUES (202367);
-INSERT INTO item_paid_only (item_id) VALUES (202368);
-INSERT INTO item_paid_only (item_id) VALUES (202369);
-INSERT INTO item_paid_only (item_id) VALUES (202370);
-INSERT INTO item_paid_only (item_id) VALUES (202371);
-INSERT INTO item_paid_only (item_id) VALUES (202372);
-INSERT INTO item_paid_only (item_id) VALUES (202373);
-INSERT INTO item_paid_only (item_id) VALUES (202390);
-INSERT INTO item_paid_only (item_id) VALUES (202391);
-INSERT INTO item_paid_only (item_id) VALUES (202392);
-INSERT INTO item_paid_only (item_id) VALUES (202393);
-INSERT INTO item_paid_only (item_id) VALUES (202412);
-INSERT INTO item_paid_only (item_id) VALUES (202413);
-INSERT INTO item_paid_only (item_id) VALUES (202414);
-INSERT INTO item_paid_only (item_id) VALUES (202415);
-INSERT INTO item_paid_only (item_id) VALUES (202416);
-INSERT INTO item_paid_only (item_id) VALUES (202432);
-INSERT INTO item_paid_only (item_id) VALUES (202433);
-INSERT INTO item_paid_only (item_id) VALUES (202434);
-INSERT INTO item_paid_only (item_id) VALUES (202435);
-INSERT INTO item_paid_only (item_id) VALUES (202436);
-INSERT INTO item_paid_only (item_id) VALUES (202437);
-INSERT INTO item_paid_only (item_id) VALUES (205178); -- The CR Suit
-INSERT INTO item_paid_only (item_id) VALUES (206978);
-INSERT INTO item_paid_only (item_id) VALUES (210297);
-INSERT INTO item_paid_only (item_id) VALUES (210298);
-INSERT INTO item_paid_only (item_id) VALUES (210299);
-INSERT INTO item_paid_only (item_id) VALUES (210300);
-INSERT INTO item_paid_only (item_id) VALUES (210301);
-INSERT INTO item_paid_only (item_id) VALUES (210302);
-INSERT INTO item_paid_only (item_id) VALUES (210303);
-INSERT INTO item_paid_only (item_id) VALUES (210304);
-INSERT INTO item_paid_only (item_id) VALUES (210305);
-INSERT INTO item_paid_only (item_id) VALUES (210306);
-INSERT INTO item_paid_only (item_id) VALUES (210307);
-INSERT INTO item_paid_only (item_id) VALUES (210308);
-INSERT INTO item_paid_only (item_id) VALUES (210309);
-INSERT INTO item_paid_only (item_id) VALUES (210310);
-INSERT INTO item_paid_only (item_id) VALUES (210311);
-INSERT INTO item_paid_only (item_id) VALUES (210312);
-INSERT INTO item_paid_only (item_id) VALUES (210313);
-INSERT INTO item_paid_only (item_id) VALUES (210314);
-INSERT INTO item_paid_only (item_id) VALUES (210315);
-INSERT INTO item_paid_only (item_id) VALUES (210316);
-INSERT INTO item_paid_only (item_id) VALUES (210317);
-INSERT INTO item_paid_only (item_id) VALUES (210318);
-INSERT INTO item_paid_only (item_id) VALUES (210319);
-INSERT INTO item_paid_only (item_id) VALUES (210320);
-INSERT INTO item_paid_only (item_id) VALUES (210353);
-INSERT INTO item_paid_only (item_id) VALUES (210354);
-INSERT INTO item_paid_only (item_id) VALUES (210355);
-INSERT INTO item_paid_only (item_id) VALUES (210356);
-INSERT INTO item_paid_only (item_id) VALUES (210357);
-INSERT INTO item_paid_only (item_id) VALUES (210358);
-INSERT INTO item_paid_only (item_id) VALUES (210359);
-INSERT INTO item_paid_only (item_id) VALUES (210360);
-INSERT INTO item_paid_only (item_id) VALUES (210361);
-INSERT INTO item_paid_only (item_id) VALUES (210362);
-INSERT INTO item_paid_only (item_id) VALUES (210363);
-INSERT INTO item_paid_only (item_id) VALUES (210364);
-INSERT INTO item_paid_only (item_id) VALUES (210365);
-INSERT INTO item_paid_only (item_id) VALUES (210366);
-INSERT INTO item_paid_only (item_id) VALUES (210367);
-INSERT INTO item_paid_only (item_id) VALUES (210368);
-INSERT INTO item_paid_only (item_id) VALUES (210369);
-INSERT INTO item_paid_only (item_id) VALUES (210370);
-INSERT INTO item_paid_only (item_id) VALUES (210371);
-INSERT INTO item_paid_only (item_id) VALUES (210372);
-INSERT INTO item_paid_only (item_id) VALUES (210376);
-INSERT INTO item_paid_only (item_id) VALUES (210377);
-INSERT INTO item_paid_only (item_id) VALUES (210378);
-INSERT INTO item_paid_only (item_id) VALUES (210379);
-INSERT INTO item_paid_only (item_id) VALUES (210380);
-INSERT INTO item_paid_only (item_id) VALUES (210381);
-INSERT INTO item_paid_only (item_id) VALUES (210387);
-INSERT INTO item_paid_only (item_id) VALUES (210388);
-INSERT INTO item_paid_only (item_id) VALUES (210389);
-INSERT INTO item_paid_only (item_id) VALUES (210390);
-INSERT INTO item_paid_only (item_id) VALUES (210391);
-INSERT INTO item_paid_only (item_id) VALUES (210392);
-INSERT INTO item_paid_only (item_id) VALUES (210393);
-INSERT INTO item_paid_only (item_id) VALUES (210394);
-INSERT INTO item_paid_only (item_id) VALUES (210395);
-INSERT INTO item_paid_only (item_id) VALUES (210396);
-INSERT INTO item_paid_only (item_id) VALUES (210401);
-INSERT INTO item_paid_only (item_id) VALUES (210402);
-INSERT INTO item_paid_only (item_id) VALUES (210407);
-INSERT INTO item_paid_only (item_id) VALUES (210408);
-INSERT INTO item_paid_only (item_id) VALUES (210484);
-INSERT INTO item_paid_only (item_id) VALUES (210485);
-INSERT INTO item_paid_only (item_id) VALUES (210486);
-INSERT INTO item_paid_only (item_id) VALUES (210487);
-INSERT INTO item_paid_only (item_id) VALUES (210488);
-INSERT INTO item_paid_only (item_id) VALUES (210489);
-INSERT INTO item_paid_only (item_id) VALUES (210490);
-INSERT INTO item_paid_only (item_id) VALUES (210491);
-INSERT INTO item_paid_only (item_id) VALUES (210492);
-INSERT INTO item_paid_only (item_id) VALUES (210493);
-INSERT INTO item_paid_only (item_id) VALUES (210494);
-INSERT INTO item_paid_only (item_id) VALUES (210495);
-INSERT INTO item_paid_only (item_id) VALUES (210500);
-INSERT INTO item_paid_only (item_id) VALUES (210501);
-INSERT INTO item_paid_only (item_id) VALUES (210502);
-INSERT INTO item_paid_only (item_id) VALUES (210503);
-INSERT INTO item_paid_only (item_id) VALUES (210504);
-INSERT INTO item_paid_only (item_id) VALUES (210505);
-INSERT INTO item_paid_only (item_id) VALUES (210506);
-INSERT INTO item_paid_only (item_id) VALUES (210507);
-INSERT INTO item_paid_only (item_id) VALUES (210512);
-INSERT INTO item_paid_only (item_id) VALUES (210513);
-INSERT INTO item_paid_only (item_id) VALUES (210514);
-INSERT INTO item_paid_only (item_id) VALUES (210515);
-INSERT INTO item_paid_only (item_id) VALUES (210516);
-INSERT INTO item_paid_only (item_id) VALUES (210517);
-INSERT INTO item_paid_only (item_id) VALUES (210518);
-INSERT INTO item_paid_only (item_id) VALUES (210519);
-INSERT INTO item_paid_only (item_id) VALUES (210528);
-INSERT INTO item_paid_only (item_id) VALUES (210529);
-INSERT INTO item_paid_only (item_id) VALUES (210530);
-INSERT INTO item_paid_only (item_id) VALUES (210531);
-INSERT INTO item_paid_only (item_id) VALUES (210532);
-INSERT INTO item_paid_only (item_id) VALUES (210533);
-INSERT INTO item_paid_only (item_id) VALUES (210534);
-INSERT INTO item_paid_only (item_id) VALUES (210535);
-INSERT INTO item_paid_only (item_id) VALUES (210536);
-INSERT INTO item_paid_only (item_id) VALUES (210537);
-INSERT INTO item_paid_only (item_id) VALUES (210538);
-INSERT INTO item_paid_only (item_id) VALUES (210539);
-INSERT INTO item_paid_only (item_id) VALUES (210540);
-INSERT INTO item_paid_only (item_id) VALUES (210541);
-INSERT INTO item_paid_only (item_id) VALUES (210542);
-INSERT INTO item_paid_only (item_id) VALUES (210543);
-INSERT INTO item_paid_only (item_id) VALUES (210589);
-INSERT INTO item_paid_only (item_id) VALUES (210590);
-INSERT INTO item_paid_only (item_id) VALUES (210591);
-INSERT INTO item_paid_only (item_id) VALUES (210592);
-INSERT INTO item_paid_only (item_id) VALUES (210593);
-INSERT INTO item_paid_only (item_id) VALUES (210594);
-INSERT INTO item_paid_only (item_id) VALUES (210595);
-INSERT INTO item_paid_only (item_id) VALUES (210596);
-INSERT INTO item_paid_only (item_id) VALUES (210597);
-INSERT INTO item_paid_only (item_id) VALUES (210598);
-INSERT INTO item_paid_only (item_id) VALUES (210599);
-INSERT INTO item_paid_only (item_id) VALUES (210600);
-INSERT INTO item_paid_only (item_id) VALUES (210601);
-INSERT INTO item_paid_only (item_id) VALUES (210602);
-INSERT INTO item_paid_only (item_id) VALUES (210603);
-INSERT INTO item_paid_only (item_id) VALUES (210604);
-INSERT INTO item_paid_only (item_id) VALUES (210611);
-INSERT INTO item_paid_only (item_id) VALUES (210612);
-INSERT INTO item_paid_only (item_id) VALUES (210613);
-INSERT INTO item_paid_only (item_id) VALUES (210614);
-INSERT INTO item_paid_only (item_id) VALUES (210615);
-INSERT INTO item_paid_only (item_id) VALUES (210616);
-INSERT INTO item_paid_only (item_id) VALUES (210617);
-INSERT INTO item_paid_only (item_id) VALUES (210618);
-INSERT INTO item_paid_only (item_id) VALUES (210619);
-INSERT INTO item_paid_only (item_id) VALUES (210620);
-INSERT INTO item_paid_only (item_id) VALUES (210621);
-INSERT INTO item_paid_only (item_id) VALUES (210622);
-INSERT INTO item_paid_only (item_id) VALUES (210671);
-INSERT INTO item_paid_only (item_id) VALUES (210672);
-INSERT INTO item_paid_only (item_id) VALUES (210673);
-INSERT INTO item_paid_only (item_id) VALUES (210674);
-INSERT INTO item_paid_only (item_id) VALUES (210675);
-INSERT INTO item_paid_only (item_id) VALUES (210676);
-INSERT INTO item_paid_only (item_id) VALUES (210677);
-INSERT INTO item_paid_only (item_id) VALUES (210678);
-INSERT INTO item_paid_only (item_id) VALUES (210679);
-INSERT INTO item_paid_only (item_id) VALUES (210680);
-INSERT INTO item_paid_only (item_id) VALUES (210681);
-INSERT INTO item_paid_only (item_id) VALUES (210682);
-INSERT INTO item_paid_only (item_id) VALUES (210689);
-INSERT INTO item_paid_only (item_id) VALUES (210690);
-INSERT INTO item_paid_only (item_id) VALUES (210691);
-INSERT INTO item_paid_only (item_id) VALUES (210692);
-INSERT INTO item_paid_only (item_id) VALUES (210693);
-INSERT INTO item_paid_only (item_id) VALUES (210694);
-INSERT INTO item_paid_only (item_id) VALUES (210695);
-INSERT INTO item_paid_only (item_id) VALUES (210696);
-INSERT INTO item_paid_only (item_id) VALUES (210697);
-INSERT INTO item_paid_only (item_id) VALUES (210698);
-INSERT INTO item_paid_only (item_id) VALUES (210699);
-INSERT INTO item_paid_only (item_id) VALUES (210700);
-INSERT INTO item_paid_only (item_id) VALUES (210707);
-INSERT INTO item_paid_only (item_id) VALUES (210708);
-INSERT INTO item_paid_only (item_id) VALUES (210709);
-INSERT INTO item_paid_only (item_id) VALUES (210710);
-INSERT INTO item_paid_only (item_id) VALUES (210711);
-INSERT INTO item_paid_only (item_id) VALUES (210712);
-INSERT INTO item_paid_only (item_id) VALUES (210713);
-INSERT INTO item_paid_only (item_id) VALUES (210714);
-INSERT INTO item_paid_only (item_id) VALUES (210715);
-INSERT INTO item_paid_only (item_id) VALUES (210716);
-INSERT INTO item_paid_only (item_id) VALUES (210717);
-INSERT INTO item_paid_only (item_id) VALUES (210718);
-INSERT INTO item_paid_only (item_id) VALUES (210729);
-INSERT INTO item_paid_only (item_id) VALUES (210730);
-INSERT INTO item_paid_only (item_id) VALUES (210732);
-INSERT INTO item_paid_only (item_id) VALUES (210733);
-INSERT INTO item_paid_only (item_id) VALUES (210734);
-INSERT INTO item_paid_only (item_id) VALUES (210735);
-INSERT INTO item_paid_only (item_id) VALUES (210736);
-INSERT INTO item_paid_only (item_id) VALUES (210737);
-INSERT INTO item_paid_only (item_id) VALUES (210738);
-INSERT INTO item_paid_only (item_id) VALUES (210739);
-INSERT INTO item_paid_only (item_id) VALUES (210740);
-INSERT INTO item_paid_only (item_id) VALUES (210741);
-INSERT INTO item_paid_only (item_id) VALUES (210742);
-INSERT INTO item_paid_only (item_id) VALUES (210743);
-INSERT INTO item_paid_only (item_id) VALUES (210744);
-INSERT INTO item_paid_only (item_id) VALUES (210745);
-INSERT INTO item_paid_only (item_id) VALUES (210746);
-INSERT INTO item_paid_only (item_id) VALUES (210747);
-INSERT INTO item_paid_only (item_id) VALUES (210748);
-INSERT INTO item_paid_only (item_id) VALUES (210749);
-INSERT INTO item_paid_only (item_id) VALUES (210750);
-INSERT INTO item_paid_only (item_id) VALUES (210751);
-INSERT INTO item_paid_only (item_id) VALUES (210752);
-INSERT INTO item_paid_only (item_id) VALUES (210753);
-INSERT INTO item_paid_only (item_id) VALUES (210804);
-INSERT INTO item_paid_only (item_id) VALUES (210805);
-INSERT INTO item_paid_only (item_id) VALUES (210806);
-INSERT INTO item_paid_only (item_id) VALUES (210807);
-INSERT INTO item_paid_only (item_id) VALUES (210808);
-INSERT INTO item_paid_only (item_id) VALUES (210809);
-INSERT INTO item_paid_only (item_id) VALUES (210810);
-INSERT INTO item_paid_only (item_id) VALUES (210811);
-INSERT INTO item_paid_only (item_id) VALUES (210812);
-INSERT INTO item_paid_only (item_id) VALUES (210813);
-INSERT INTO item_paid_only (item_id) VALUES (211142);
-INSERT INTO item_paid_only (item_id) VALUES (211143);
-INSERT INTO item_paid_only (item_id) VALUES (211144);
-INSERT INTO item_paid_only (item_id) VALUES (211145);
-INSERT INTO item_paid_only (item_id) VALUES (211146);
-INSERT INTO item_paid_only (item_id) VALUES (211147);
-INSERT INTO item_paid_only (item_id) VALUES (211148);
-INSERT INTO item_paid_only (item_id) VALUES (211149);
-INSERT INTO item_paid_only (item_id) VALUES (211150);
-INSERT INTO item_paid_only (item_id) VALUES (211151);
-INSERT INTO item_paid_only (item_id) VALUES (211152);
-INSERT INTO item_paid_only (item_id) VALUES (211153);
-INSERT INTO item_paid_only (item_id) VALUES (211154);
-INSERT INTO item_paid_only (item_id) VALUES (211155);
-INSERT INTO item_paid_only (item_id) VALUES (211158);
-INSERT INTO item_paid_only (item_id) VALUES (211159);
-INSERT INTO item_paid_only (item_id) VALUES (211160);
-INSERT INTO item_paid_only (item_id) VALUES (211161);
-INSERT INTO item_paid_only (item_id) VALUES (211162);
-INSERT INTO item_paid_only (item_id) VALUES (211163);
-INSERT INTO item_paid_only (item_id) VALUES (211164);
-INSERT INTO item_paid_only (item_id) VALUES (211165);
-INSERT INTO item_paid_only (item_id) VALUES (211166);
-INSERT INTO item_paid_only (item_id) VALUES (211167);
-INSERT INTO item_paid_only (item_id) VALUES (211168);
-INSERT INTO item_paid_only (item_id) VALUES (211169);
-INSERT INTO item_paid_only (item_id) VALUES (211170);
-INSERT INTO item_paid_only (item_id) VALUES (211171);
-INSERT INTO item_paid_only (item_id) VALUES (211191);
-INSERT INTO item_paid_only (item_id) VALUES (211192);
-INSERT INTO item_paid_only (item_id) VALUES (211193);
-INSERT INTO item_paid_only (item_id) VALUES (211194);
-INSERT INTO item_paid_only (item_id) VALUES (211195);
-INSERT INTO item_paid_only (item_id) VALUES (211196);
-INSERT INTO item_paid_only (item_id) VALUES (211197);
-INSERT INTO item_paid_only (item_id) VALUES (211198);
-INSERT INTO item_paid_only (item_id) VALUES (211199);
-INSERT INTO item_paid_only (item_id) VALUES (211200);
-INSERT INTO item_paid_only (item_id) VALUES (211201);
-INSERT INTO item_paid_only (item_id) VALUES (211202);
-INSERT INTO item_paid_only (item_id) VALUES (211203);
-INSERT INTO item_paid_only (item_id) VALUES (211204);
-INSERT INTO item_paid_only (item_id) VALUES (211205);
-INSERT INTO item_paid_only (item_id) VALUES (211206);
-INSERT INTO item_paid_only (item_id) VALUES (211207);
-INSERT INTO item_paid_only (item_id) VALUES (211208);
-INSERT INTO item_paid_only (item_id) VALUES (211209);
-INSERT INTO item_paid_only (item_id) VALUES (211210);
-INSERT INTO item_paid_only (item_id) VALUES (211211);
-INSERT INTO item_paid_only (item_id) VALUES (211212);
-INSERT INTO item_paid_only (item_id) VALUES (211213);
-INSERT INTO item_paid_only (item_id) VALUES (211214);
-INSERT INTO item_paid_only (item_id) VALUES (211215);
-INSERT INTO item_paid_only (item_id) VALUES (211216);
-INSERT INTO item_paid_only (item_id) VALUES (211217);
-INSERT INTO item_paid_only (item_id) VALUES (211218);
-INSERT INTO item_paid_only (item_id) VALUES (211219);
-INSERT INTO item_paid_only (item_id) VALUES (211220);
-INSERT INTO item_paid_only (item_id) VALUES (211221);
-INSERT INTO item_paid_only (item_id) VALUES (211222);
-INSERT INTO item_paid_only (item_id) VALUES (211223);
-INSERT INTO item_paid_only (item_id) VALUES (211224);
-INSERT INTO item_paid_only (item_id) VALUES (211225);
-INSERT INTO item_paid_only (item_id) VALUES (211226);
-INSERT INTO item_paid_only (item_id) VALUES (211227);
-INSERT INTO item_paid_only (item_id) VALUES (211228);
-INSERT INTO item_paid_only (item_id) VALUES (211229);
-INSERT INTO item_paid_only (item_id) VALUES (211230);
-INSERT INTO item_paid_only (item_id) VALUES (211231);
-INSERT INTO item_paid_only (item_id) VALUES (211232);
-INSERT INTO item_paid_only (item_id) VALUES (211233);
-INSERT INTO item_paid_only (item_id) VALUES (211234);
-INSERT INTO item_paid_only (item_id) VALUES (211235);
-INSERT INTO item_paid_only (item_id) VALUES (211236);
-INSERT INTO item_paid_only (item_id) VALUES (211237);
-INSERT INTO item_paid_only (item_id) VALUES (211238);
-INSERT INTO item_paid_only (item_id) VALUES (211239);
-INSERT INTO item_paid_only (item_id) VALUES (211240);
-INSERT INTO item_paid_only (item_id) VALUES (211241);
-INSERT INTO item_paid_only (item_id) VALUES (211242);
-INSERT INTO item_paid_only (item_id) VALUES (211243);
-INSERT INTO item_paid_only (item_id) VALUES (211244);
-INSERT INTO item_paid_only (item_id) VALUES (211245);
-INSERT INTO item_paid_only (item_id) VALUES (211246);
-INSERT INTO item_paid_only (item_id) VALUES (211247);
-INSERT INTO item_paid_only (item_id) VALUES (211248);
-INSERT INTO item_paid_only (item_id) VALUES (211249);
-INSERT INTO item_paid_only (item_id) VALUES (211250);
-INSERT INTO item_paid_only (item_id) VALUES (211251);
-INSERT INTO item_paid_only (item_id) VALUES (211252);
-INSERT INTO item_paid_only (item_id) VALUES (211253);
-INSERT INTO item_paid_only (item_id) VALUES (211254);
-INSERT INTO item_paid_only (item_id) VALUES (211255);
-INSERT INTO item_paid_only (item_id) VALUES (211256);
-INSERT INTO item_paid_only (item_id) VALUES (211257);
-INSERT INTO item_paid_only (item_id) VALUES (211258);
-INSERT INTO item_paid_only (item_id) VALUES (211259);
-INSERT INTO item_paid_only (item_id) VALUES (211260);
-INSERT INTO item_paid_only (item_id) VALUES (211261);
-INSERT INTO item_paid_only (item_id) VALUES (211262);
-INSERT INTO item_paid_only (item_id) VALUES (211263);
-INSERT INTO item_paid_only (item_id) VALUES (211264);
-INSERT INTO item_paid_only (item_id) VALUES (211265);
-INSERT INTO item_paid_only (item_id) VALUES (211266);
-INSERT INTO item_paid_only (item_id) VALUES (211267);
-INSERT INTO item_paid_only (item_id) VALUES (211268);
-INSERT INTO item_paid_only (item_id) VALUES (211269);
-INSERT INTO item_paid_only (item_id) VALUES (211270);
-INSERT INTO item_paid_only (item_id) VALUES (211271);
-INSERT INTO item_paid_only (item_id) VALUES (211272);
-INSERT INTO item_paid_only (item_id) VALUES (211273);
-INSERT INTO item_paid_only (item_id) VALUES (211274);
-INSERT INTO item_paid_only (item_id) VALUES (211275);
-INSERT INTO item_paid_only (item_id) VALUES (211276);
-INSERT INTO item_paid_only (item_id) VALUES (211277);
-INSERT INTO item_paid_only (item_id) VALUES (211280);
-INSERT INTO item_paid_only (item_id) VALUES (211281);
-INSERT INTO item_paid_only (item_id) VALUES (211282);
-INSERT INTO item_paid_only (item_id) VALUES (212203);
-INSERT INTO item_paid_only (item_id) VALUES (212204);
-INSERT INTO item_paid_only (item_id) VALUES (212205);
-INSERT INTO item_paid_only (item_id) VALUES (212206);
-INSERT INTO item_paid_only (item_id) VALUES (212207);
-INSERT INTO item_paid_only (item_id) VALUES (212208);
-INSERT INTO item_paid_only (item_id) VALUES (212209);
-INSERT INTO item_paid_only (item_id) VALUES (212210);
-INSERT INTO item_paid_only (item_id) VALUES (212211);
-INSERT INTO item_paid_only (item_id) VALUES (212212);
-INSERT INTO item_paid_only (item_id) VALUES (212213);
-INSERT INTO item_paid_only (item_id) VALUES (212214);
-INSERT INTO item_paid_only (item_id) VALUES (212215);
-INSERT INTO item_paid_only (item_id) VALUES (212216);
-INSERT INTO item_paid_only (item_id) VALUES (212217);
-INSERT INTO item_paid_only (item_id) VALUES (212218);
-INSERT INTO item_paid_only (item_id) VALUES (212219);
-INSERT INTO item_paid_only (item_id) VALUES (212220);
-INSERT INTO item_paid_only (item_id) VALUES (212221);
-INSERT INTO item_paid_only (item_id) VALUES (212222);
-INSERT INTO item_paid_only (item_id) VALUES (212223);
-INSERT INTO item_paid_only (item_id) VALUES (212224);
-INSERT INTO item_paid_only (item_id) VALUES (212225);
-INSERT INTO item_paid_only (item_id) VALUES (212226);
-INSERT INTO item_paid_only (item_id) VALUES (212227);
-INSERT INTO item_paid_only (item_id) VALUES (212228);
-INSERT INTO item_paid_only (item_id) VALUES (212229);
-INSERT INTO item_paid_only (item_id) VALUES (212230);
-INSERT INTO item_paid_only (item_id) VALUES (212231);
-INSERT INTO item_paid_only (item_id) VALUES (212232);
-INSERT INTO item_paid_only (item_id) VALUES (212233);
-INSERT INTO item_paid_only (item_id) VALUES (212234);
-INSERT INTO item_paid_only (item_id) VALUES (212235);
-INSERT INTO item_paid_only (item_id) VALUES (212236);
-INSERT INTO item_paid_only (item_id) VALUES (212237);
-INSERT INTO item_paid_only (item_id) VALUES (212238);
-INSERT INTO item_paid_only (item_id) VALUES (212239);
-INSERT INTO item_paid_only (item_id) VALUES (212240);
-INSERT INTO item_paid_only (item_id) VALUES (212241);
-INSERT INTO item_paid_only (item_id) VALUES (212242);
-INSERT INTO item_paid_only (item_id) VALUES (212243);
-INSERT INTO item_paid_only (item_id) VALUES (212244);
-INSERT INTO item_paid_only (item_id) VALUES (212245);
-INSERT INTO item_paid_only (item_id) VALUES (212246);
-INSERT INTO item_paid_only (item_id) VALUES (212247);
-INSERT INTO item_paid_only (item_id) VALUES (212248);
-INSERT INTO item_paid_only (item_id) VALUES (212249);
-INSERT INTO item_paid_only (item_id) VALUES (212250);
-INSERT INTO item_paid_only (item_id) VALUES (212251);
-INSERT INTO item_paid_only (item_id) VALUES (212252);
-INSERT INTO item_paid_only (item_id) VALUES (212253);
-INSERT INTO item_paid_only (item_id) VALUES (212254);
-INSERT INTO item_paid_only (item_id) VALUES (212255);
-INSERT INTO item_paid_only (item_id) VALUES (212256);
-INSERT INTO item_paid_only (item_id) VALUES (212257);
-INSERT INTO item_paid_only (item_id) VALUES (212258);
-INSERT INTO item_paid_only (item_id) VALUES (212259);
-INSERT INTO item_paid_only (item_id) VALUES (212260);
-INSERT INTO item_paid_only (item_id) VALUES (212261);
-INSERT INTO item_paid_only (item_id) VALUES (212262);
-INSERT INTO item_paid_only (item_id) VALUES (212263);
-INSERT INTO item_paid_only (item_id) VALUES (212264);
-INSERT INTO item_paid_only (item_id) VALUES (212265);
-INSERT INTO item_paid_only (item_id) VALUES (212266);
-INSERT INTO item_paid_only (item_id) VALUES (212267);
-INSERT INTO item_paid_only (item_id) VALUES (212268);
-INSERT INTO item_paid_only (item_id) VALUES (212269);
-INSERT INTO item_paid_only (item_id) VALUES (212270);
-INSERT INTO item_paid_only (item_id) VALUES (212271);
-INSERT INTO item_paid_only (item_id) VALUES (212272);
-INSERT INTO item_paid_only (item_id) VALUES (212273);
-INSERT INTO item_paid_only (item_id) VALUES (212274);
-INSERT INTO item_paid_only (item_id) VALUES (212275);
-INSERT INTO item_paid_only (item_id) VALUES (212276);
-INSERT INTO item_paid_only (item_id) VALUES (212277);
-INSERT INTO item_paid_only (item_id) VALUES (212278);
-INSERT INTO item_paid_only (item_id) VALUES (212279);
-INSERT INTO item_paid_only (item_id) VALUES (212280);
-INSERT INTO item_paid_only (item_id) VALUES (212281);
-INSERT INTO item_paid_only (item_id) VALUES (212282);
-INSERT INTO item_paid_only (item_id) VALUES (212283);
-INSERT INTO item_paid_only (item_id) VALUES (212284);
-INSERT INTO item_paid_only (item_id) VALUES (212285);
-INSERT INTO item_paid_only (item_id) VALUES (212286);
-INSERT INTO item_paid_only (item_id) VALUES (212287);
-INSERT INTO item_paid_only (item_id) VALUES (212288);
-INSERT INTO item_paid_only (item_id) VALUES (212289);
-INSERT INTO item_paid_only (item_id) VALUES (212290);
-INSERT INTO item_paid_only (item_id) VALUES (212291);
-INSERT INTO item_paid_only (item_id) VALUES (212292);
-INSERT INTO item_paid_only (item_id) VALUES (212293);
-INSERT INTO item_paid_only (item_id) VALUES (212294);
-INSERT INTO item_paid_only (item_id) VALUES (212295);
-INSERT INTO item_paid_only (item_id) VALUES (212296);
-INSERT INTO item_paid_only (item_id) VALUES (212297);
-INSERT INTO item_paid_only (item_id) VALUES (212298);
-INSERT INTO item_paid_only (item_id) VALUES (212299);
-INSERT INTO item_paid_only (item_id) VALUES (212300);
-INSERT INTO item_paid_only (item_id) VALUES (212301);
-INSERT INTO item_paid_only (item_id) VALUES (212302);
-INSERT INTO item_paid_only (item_id) VALUES (212303);
-INSERT INTO item_paid_only (item_id) VALUES (212304);
-INSERT INTO item_paid_only (item_id) VALUES (212305);
-INSERT INTO item_paid_only (item_id) VALUES (212306);
-INSERT INTO item_paid_only (item_id) VALUES (212307);
-INSERT INTO item_paid_only (item_id) VALUES (212308);
-INSERT INTO item_paid_only (item_id) VALUES (212309);
-INSERT INTO item_paid_only (item_id) VALUES (212310);
-INSERT INTO item_paid_only (item_id) VALUES (212311);
-INSERT INTO item_paid_only (item_id) VALUES (212312);
-INSERT INTO item_paid_only (item_id) VALUES (212313);
-INSERT INTO item_paid_only (item_id) VALUES (212314);
-INSERT INTO item_paid_only (item_id) VALUES (212315);
-INSERT INTO item_paid_only (item_id) VALUES (212316);
-INSERT INTO item_paid_only (item_id) VALUES (212317);
-INSERT INTO item_paid_only (item_id) VALUES (212318);
-INSERT INTO item_paid_only (item_id) VALUES (212319);
-INSERT INTO item_paid_only (item_id) VALUES (212320);
-INSERT INTO item_paid_only (item_id) VALUES (212321);
-INSERT INTO item_paid_only (item_id) VALUES (212322);
-INSERT INTO item_paid_only (item_id) VALUES (212323);
-INSERT INTO item_paid_only (item_id) VALUES (212324);
-INSERT INTO item_paid_only (item_id) VALUES (212325);
-INSERT INTO item_paid_only (item_id) VALUES (212326);
-INSERT INTO item_paid_only (item_id) VALUES (212327);
-INSERT INTO item_paid_only (item_id) VALUES (212328);
-INSERT INTO item_paid_only (item_id) VALUES (212329);
-INSERT INTO item_paid_only (item_id) VALUES (212330);
-INSERT INTO item_paid_only (item_id) VALUES (212331);
-INSERT INTO item_paid_only (item_id) VALUES (212332);
-INSERT INTO item_paid_only (item_id) VALUES (212333);
-INSERT INTO item_paid_only (item_id) VALUES (212335);
-INSERT INTO item_paid_only (item_id) VALUES (212336);
-INSERT INTO item_paid_only (item_id) VALUES (212337);
-INSERT INTO item_paid_only (item_id) VALUES (212338);
-INSERT INTO item_paid_only (item_id) VALUES (212339);
-INSERT INTO item_paid_only (item_id) VALUES (212340);
-INSERT INTO item_paid_only (item_id) VALUES (212341);
-INSERT INTO item_paid_only (item_id) VALUES (212342);
-INSERT INTO item_paid_only (item_id) VALUES (212343);
-INSERT INTO item_paid_only (item_id) VALUES (212344);
-INSERT INTO item_paid_only (item_id) VALUES (212345);
-INSERT INTO item_paid_only (item_id) VALUES (212346);
-INSERT INTO item_paid_only (item_id) VALUES (212347);
-INSERT INTO item_paid_only (item_id) VALUES (212348);
-INSERT INTO item_paid_only (item_id) VALUES (212349);
-INSERT INTO item_paid_only (item_id) VALUES (212350);
-INSERT INTO item_paid_only (item_id) VALUES (212351);
-INSERT INTO item_paid_only (item_id) VALUES (212352);
-INSERT INTO item_paid_only (item_id) VALUES (212353);
-INSERT INTO item_paid_only (item_id) VALUES (212354);
-INSERT INTO item_paid_only (item_id) VALUES (212355);
-INSERT INTO item_paid_only (item_id) VALUES (212356);
-INSERT INTO item_paid_only (item_id) VALUES (212357);
-INSERT INTO item_paid_only (item_id) VALUES (212358);
-INSERT INTO item_paid_only (item_id) VALUES (212359);
-INSERT INTO item_paid_only (item_id) VALUES (212360);
-INSERT INTO item_paid_only (item_id) VALUES (212361);
-INSERT INTO item_paid_only (item_id) VALUES (212362);
-INSERT INTO item_paid_only (item_id) VALUES (212363);
-INSERT INTO item_paid_only (item_id) VALUES (212364);
-INSERT INTO item_paid_only (item_id) VALUES (212365);
-INSERT INTO item_paid_only (item_id) VALUES (212366);
-INSERT INTO item_paid_only (item_id) VALUES (212367);
-INSERT INTO item_paid_only (item_id) VALUES (212368);
-INSERT INTO item_paid_only (item_id) VALUES (212369);
-INSERT INTO item_paid_only (item_id) VALUES (212370);
-INSERT INTO item_paid_only (item_id) VALUES (212371);
-INSERT INTO item_paid_only (item_id) VALUES (212372);
-INSERT INTO item_paid_only (item_id) VALUES (212373);
-INSERT INTO item_paid_only (item_id) VALUES (212374);
-INSERT INTO item_paid_only (item_id) VALUES (212375);
-INSERT INTO item_paid_only (item_id) VALUES (212376);
-INSERT INTO item_paid_only (item_id) VALUES (212377);
-INSERT INTO item_paid_only (item_id) VALUES (212378);
-INSERT INTO item_paid_only (item_id) VALUES (212379);
-INSERT INTO item_paid_only (item_id) VALUES (212380);
-INSERT INTO item_paid_only (item_id) VALUES (212381);
-INSERT INTO item_paid_only (item_id) VALUES (212382);
-INSERT INTO item_paid_only (item_id) VALUES (212383);
-INSERT INTO item_paid_only (item_id) VALUES (212384);
-INSERT INTO item_paid_only (item_id) VALUES (212385);
-INSERT INTO item_paid_only (item_id) VALUES (212386);
-INSERT INTO item_paid_only (item_id) VALUES (212387);
-INSERT INTO item_paid_only (item_id) VALUES (212388);
-INSERT INTO item_paid_only (item_id) VALUES (212389);
-INSERT INTO item_paid_only (item_id) VALUES (212390);
-INSERT INTO item_paid_only (item_id) VALUES (212391);
-INSERT INTO item_paid_only (item_id) VALUES (212392);
-INSERT INTO item_paid_only (item_id) VALUES (212394);
-INSERT INTO item_paid_only (item_id) VALUES (212395);
-INSERT INTO item_paid_only (item_id) VALUES (212396);
-INSERT INTO item_paid_only (item_id) VALUES (212397);
-INSERT INTO item_paid_only (item_id) VALUES (212398);
-INSERT INTO item_paid_only (item_id) VALUES (212399);
-INSERT INTO item_paid_only (item_id) VALUES (212400);
-INSERT INTO item_paid_only (item_id) VALUES (212401);
-INSERT INTO item_paid_only (item_id) VALUES (212402);
-INSERT INTO item_paid_only (item_id) VALUES (212403);
-INSERT INTO item_paid_only (item_id) VALUES (212404);
-INSERT INTO item_paid_only (item_id) VALUES (212405);
-INSERT INTO item_paid_only (item_id) VALUES (212406);
-INSERT INTO item_paid_only (item_id) VALUES (212407);
-INSERT INTO item_paid_only (item_id) VALUES (212408);
-INSERT INTO item_paid_only (item_id) VALUES (212409);
-INSERT INTO item_paid_only (item_id) VALUES (212410);
-INSERT INTO item_paid_only (item_id) VALUES (212411);
-INSERT INTO item_paid_only (item_id) VALUES (212412);
-INSERT INTO item_paid_only (item_id) VALUES (212413);
-INSERT INTO item_paid_only (item_id) VALUES (212414);
-INSERT INTO item_paid_only (item_id) VALUES (212415);
-INSERT INTO item_paid_only (item_id) VALUES (212416);
-INSERT INTO item_paid_only (item_id) VALUES (212417);
-INSERT INTO item_paid_only (item_id) VALUES (212418);
-INSERT INTO item_paid_only (item_id) VALUES (212419);
-INSERT INTO item_paid_only (item_id) VALUES (212420);
-INSERT INTO item_paid_only (item_id) VALUES (212421);
-INSERT INTO item_paid_only (item_id) VALUES (212422);
-INSERT INTO item_paid_only (item_id) VALUES (212423);
-INSERT INTO item_paid_only (item_id) VALUES (212424);
-INSERT INTO item_paid_only (item_id) VALUES (212425);
-INSERT INTO item_paid_only (item_id) VALUES (212426);
-INSERT INTO item_paid_only (item_id) VALUES (212427);
-INSERT INTO item_paid_only (item_id) VALUES (212428);
-INSERT INTO item_paid_only (item_id) VALUES (212429);
-INSERT INTO item_paid_only (item_id) VALUES (212430);
-INSERT INTO item_paid_only (item_id) VALUES (212431);
-INSERT INTO item_paid_only (item_id) VALUES (212432);
-INSERT INTO item_paid_only (item_id) VALUES (212433);
-INSERT INTO item_paid_only (item_id) VALUES (212434);
-INSERT INTO item_paid_only (item_id) VALUES (212435);
-INSERT INTO item_paid_only (item_id) VALUES (212436);
-INSERT INTO item_paid_only (item_id) VALUES (212437);
-INSERT INTO item_paid_only (item_id) VALUES (212438);
-INSERT INTO item_paid_only (item_id) VALUES (212439);
-INSERT INTO item_paid_only (item_id) VALUES (212440);
-INSERT INTO item_paid_only (item_id) VALUES (212441);
-INSERT INTO item_paid_only (item_id) VALUES (212442);
-INSERT INTO item_paid_only (item_id) VALUES (212443);
-INSERT INTO item_paid_only (item_id) VALUES (212444);
-INSERT INTO item_paid_only (item_id) VALUES (212445);
-INSERT INTO item_paid_only (item_id) VALUES (212446);
-INSERT INTO item_paid_only (item_id) VALUES (212447);
-INSERT INTO item_paid_only (item_id) VALUES (212448);
-INSERT INTO item_paid_only (item_id) VALUES (212449);
-INSERT INTO item_paid_only (item_id) VALUES (212450);
-INSERT INTO item_paid_only (item_id) VALUES (212451);
-INSERT INTO item_paid_only (item_id) VALUES (212452);
-INSERT INTO item_paid_only (item_id) VALUES (212453);
-INSERT INTO item_paid_only (item_id) VALUES (212454);
-INSERT INTO item_paid_only (item_id) VALUES (212455);
-INSERT INTO item_paid_only (item_id) VALUES (212456);
-INSERT INTO item_paid_only (item_id) VALUES (212457);
-INSERT INTO item_paid_only (item_id) VALUES (212458);
-INSERT INTO item_paid_only (item_id) VALUES (212459);
-INSERT INTO item_paid_only (item_id) VALUES (212460);
-INSERT INTO item_paid_only (item_id) VALUES (212461);
-INSERT INTO item_paid_only (item_id) VALUES (212462);
-INSERT INTO item_paid_only (item_id) VALUES (212463);
-INSERT INTO item_paid_only (item_id) VALUES (212464);
-INSERT INTO item_paid_only (item_id) VALUES (212465);
-INSERT INTO item_paid_only (item_id) VALUES (212466);
-INSERT INTO item_paid_only (item_id) VALUES (212467);
-INSERT INTO item_paid_only (item_id) VALUES (212468);
-INSERT INTO item_paid_only (item_id) VALUES (212469);
-INSERT INTO item_paid_only (item_id) VALUES (212470);
-INSERT INTO item_paid_only (item_id) VALUES (212471);
-INSERT INTO item_paid_only (item_id) VALUES (212472);
-INSERT INTO item_paid_only (item_id) VALUES (212473);
-INSERT INTO item_paid_only (item_id) VALUES (212474);
-INSERT INTO item_paid_only (item_id) VALUES (212475);
-INSERT INTO item_paid_only (item_id) VALUES (212476);
-INSERT INTO item_paid_only (item_id) VALUES (212477);
-INSERT INTO item_paid_only (item_id) VALUES (212478);
-INSERT INTO item_paid_only (item_id) VALUES (212479);
-INSERT INTO item_paid_only (item_id) VALUES (212480);
-INSERT INTO item_paid_only (item_id) VALUES (212481);
-INSERT INTO item_paid_only (item_id) VALUES (212482);
-INSERT INTO item_paid_only (item_id) VALUES (212483);
-INSERT INTO item_paid_only (item_id) VALUES (212484);
-INSERT INTO item_paid_only (item_id) VALUES (212485);
-INSERT INTO item_paid_only (item_id) VALUES (212486);
-INSERT INTO item_paid_only (item_id) VALUES (212487);
-INSERT INTO item_paid_only (item_id) VALUES (212488);
-INSERT INTO item_paid_only (item_id) VALUES (212489);
-INSERT INTO item_paid_only (item_id) VALUES (212490);
-INSERT INTO item_paid_only (item_id) VALUES (212491);
-INSERT INTO item_paid_only (item_id) VALUES (212492);
-INSERT INTO item_paid_only (item_id) VALUES (212493);
-INSERT INTO item_paid_only (item_id) VALUES (212494);
-INSERT INTO item_paid_only (item_id) VALUES (212495);
-INSERT INTO item_paid_only (item_id) VALUES (212496);
-INSERT INTO item_paid_only (item_id) VALUES (212497);
-INSERT INTO item_paid_only (item_id) VALUES (212498);
-INSERT INTO item_paid_only (item_id) VALUES (212499);
-INSERT INTO item_paid_only (item_id) VALUES (212500);
-INSERT INTO item_paid_only (item_id) VALUES (212501);
-INSERT INTO item_paid_only (item_id) VALUES (212502);
-INSERT INTO item_paid_only (item_id) VALUES (212503);
-INSERT INTO item_paid_only (item_id) VALUES (212504);
-INSERT INTO item_paid_only (item_id) VALUES (212505);
-INSERT INTO item_paid_only (item_id) VALUES (212506);
-INSERT INTO item_paid_only (item_id) VALUES (212507);
-INSERT INTO item_paid_only (item_id) VALUES (212508);
-INSERT INTO item_paid_only (item_id) VALUES (212509);
-INSERT INTO item_paid_only (item_id) VALUES (212510);
-INSERT INTO item_paid_only (item_id) VALUES (212511);
-INSERT INTO item_paid_only (item_id) VALUES (212512);
-INSERT INTO item_paid_only (item_id) VALUES (212513);
-INSERT INTO item_paid_only (item_id) VALUES (212514);
-INSERT INTO item_paid_only (item_id) VALUES (212515);
-INSERT INTO item_paid_only (item_id) VALUES (212516);
-INSERT INTO item_paid_only (item_id) VALUES (212517);
-INSERT INTO item_paid_only (item_id) VALUES (212518);
-INSERT INTO item_paid_only (item_id) VALUES (212519);
-INSERT INTO item_paid_only (item_id) VALUES (212520);
-INSERT INTO item_paid_only (item_id) VALUES (212521);
-INSERT INTO item_paid_only (item_id) VALUES (212522);
-INSERT INTO item_paid_only (item_id) VALUES (212523);
-INSERT INTO item_paid_only (item_id) VALUES (212524);
-INSERT INTO item_paid_only (item_id) VALUES (212525);
-INSERT INTO item_paid_only (item_id) VALUES (212526);
-INSERT INTO item_paid_only (item_id) VALUES (212527);
-INSERT INTO item_paid_only (item_id) VALUES (212528);
-INSERT INTO item_paid_only (item_id) VALUES (212529);
-INSERT INTO item_paid_only (item_id) VALUES (212530);
-INSERT INTO item_paid_only (item_id) VALUES (212531);
-INSERT INTO item_paid_only (item_id) VALUES (212532);
-INSERT INTO item_paid_only (item_id) VALUES (212533);
-INSERT INTO item_paid_only (item_id) VALUES (212534);
-INSERT INTO item_paid_only (item_id) VALUES (212535);
-INSERT INTO item_paid_only (item_id) VALUES (212536);
-INSERT INTO item_paid_only (item_id) VALUES (212537);
-INSERT INTO item_paid_only (item_id) VALUES (212538);
-INSERT INTO item_paid_only (item_id) VALUES (212539);
-INSERT INTO item_paid_only (item_id) VALUES (212540);
-INSERT INTO item_paid_only (item_id) VALUES (212541);
-INSERT INTO item_paid_only (item_id) VALUES (212542);
-INSERT INTO item_paid_only (item_id) VALUES (212543);
-INSERT INTO item_paid_only (item_id) VALUES (212544);
-INSERT INTO item_paid_only (item_id) VALUES (212545);
-INSERT INTO item_paid_only (item_id) VALUES (212546);
-INSERT INTO item_paid_only (item_id) VALUES (212547);
-INSERT INTO item_paid_only (item_id) VALUES (212548);
-INSERT INTO item_paid_only (item_id) VALUES (212549);
-INSERT INTO item_paid_only (item_id) VALUES (212550);
-INSERT INTO item_paid_only (item_id) VALUES (212551);
-INSERT INTO item_paid_only (item_id) VALUES (212552);
-INSERT INTO item_paid_only (item_id) VALUES (212553);
-INSERT INTO item_paid_only (item_id) VALUES (212554);
-INSERT INTO item_paid_only (item_id) VALUES (212555);
-INSERT INTO item_paid_only (item_id) VALUES (212556);
-INSERT INTO item_paid_only (item_id) VALUES (212557);
-INSERT INTO item_paid_only (item_id) VALUES (212558);
-INSERT INTO item_paid_only (item_id) VALUES (212559);
-INSERT INTO item_paid_only (item_id) VALUES (212560);
-INSERT INTO item_paid_only (item_id) VALUES (212561);
-INSERT INTO item_paid_only (item_id) VALUES (212562);
-INSERT INTO item_paid_only (item_id) VALUES (212563);
-INSERT INTO item_paid_only (item_id) VALUES (212564);
-INSERT INTO item_paid_only (item_id) VALUES (212565);
-INSERT INTO item_paid_only (item_id) VALUES (212566);
-INSERT INTO item_paid_only (item_id) VALUES (212567);
-INSERT INTO item_paid_only (item_id) VALUES (212568);
-INSERT INTO item_paid_only (item_id) VALUES (212569);
-INSERT INTO item_paid_only (item_id) VALUES (212570);
-INSERT INTO item_paid_only (item_id) VALUES (212571);
-INSERT INTO item_paid_only (item_id) VALUES (212572);
-INSERT INTO item_paid_only (item_id) VALUES (212573);
-INSERT INTO item_paid_only (item_id) VALUES (212575);
-INSERT INTO item_paid_only (item_id) VALUES (212576);
-INSERT INTO item_paid_only (item_id) VALUES (212577);
-INSERT INTO item_paid_only (item_id) VALUES (212578);
-INSERT INTO item_paid_only (item_id) VALUES (212579);
-INSERT INTO item_paid_only (item_id) VALUES (212580);
-INSERT INTO item_paid_only (item_id) VALUES (212581);
-INSERT INTO item_paid_only (item_id) VALUES (212582);
-INSERT INTO item_paid_only (item_id) VALUES (212583);
-INSERT INTO item_paid_only (item_id) VALUES (212584);
-INSERT INTO item_paid_only (item_id) VALUES (212585);
-INSERT INTO item_paid_only (item_id) VALUES (212586);
-INSERT INTO item_paid_only (item_id) VALUES (212587);
-INSERT INTO item_paid_only (item_id) VALUES (212588);
-INSERT INTO item_paid_only (item_id) VALUES (212589);
-INSERT INTO item_paid_only (item_id) VALUES (212590);
-INSERT INTO item_paid_only (item_id) VALUES (212591);
-INSERT INTO item_paid_only (item_id) VALUES (212592);
-INSERT INTO item_paid_only (item_id) VALUES (212593);
-INSERT INTO item_paid_only (item_id) VALUES (212594);
-INSERT INTO item_paid_only (item_id) VALUES (212595);
-INSERT INTO item_paid_only (item_id) VALUES (212596);
-INSERT INTO item_paid_only (item_id) VALUES (212597);
-INSERT INTO item_paid_only (item_id) VALUES (212598);
-INSERT INTO item_paid_only (item_id) VALUES (212599);
-INSERT INTO item_paid_only (item_id) VALUES (212600);
-INSERT INTO item_paid_only (item_id) VALUES (212601);
-INSERT INTO item_paid_only (item_id) VALUES (212602);
-INSERT INTO item_paid_only (item_id) VALUES (212603);
-INSERT INTO item_paid_only (item_id) VALUES (212604);
-INSERT INTO item_paid_only (item_id) VALUES (212605);
-INSERT INTO item_paid_only (item_id) VALUES (212606);
-INSERT INTO item_paid_only (item_id) VALUES (212607);
-INSERT INTO item_paid_only (item_id) VALUES (212608);
-INSERT INTO item_paid_only (item_id) VALUES (212609);
-INSERT INTO item_paid_only (item_id) VALUES (212610);
-INSERT INTO item_paid_only (item_id) VALUES (212611);
-INSERT INTO item_paid_only (item_id) VALUES (212612);
-INSERT INTO item_paid_only (item_id) VALUES (212613);
-INSERT INTO item_paid_only (item_id) VALUES (212614);
-INSERT INTO item_paid_only (item_id) VALUES (212615);
-INSERT INTO item_paid_only (item_id) VALUES (212616);
-INSERT INTO item_paid_only (item_id) VALUES (212617);
-INSERT INTO item_paid_only (item_id) VALUES (212618);
-INSERT INTO item_paid_only (item_id) VALUES (212619);
-INSERT INTO item_paid_only (item_id) VALUES (212620);
-INSERT INTO item_paid_only (item_id) VALUES (212621);
-INSERT INTO item_paid_only (item_id) VALUES (212622);
-INSERT INTO item_paid_only (item_id) VALUES (212623);
-INSERT INTO item_paid_only (item_id) VALUES (212624);
-INSERT INTO item_paid_only (item_id) VALUES (212625);
-INSERT INTO item_paid_only (item_id) VALUES (212626);
-INSERT INTO item_paid_only (item_id) VALUES (212627);
-INSERT INTO item_paid_only (item_id) VALUES (212628);
-INSERT INTO item_paid_only (item_id) VALUES (212629);
-INSERT INTO item_paid_only (item_id) VALUES (212630);
-INSERT INTO item_paid_only (item_id) VALUES (212631);
-INSERT INTO item_paid_only (item_id) VALUES (212632);
-INSERT INTO item_paid_only (item_id) VALUES (212633);
-INSERT INTO item_paid_only (item_id) VALUES (212634);
-INSERT INTO item_paid_only (item_id) VALUES (212635);
-INSERT INTO item_paid_only (item_id) VALUES (212636);
-INSERT INTO item_paid_only (item_id) VALUES (212637);
-INSERT INTO item_paid_only (item_id) VALUES (212638);
-INSERT INTO item_paid_only (item_id) VALUES (212639);
-INSERT INTO item_paid_only (item_id) VALUES (212640);
-INSERT INTO item_paid_only (item_id) VALUES (212641);
-INSERT INTO item_paid_only (item_id) VALUES (212642);
-INSERT INTO item_paid_only (item_id) VALUES (212643);
-INSERT INTO item_paid_only (item_id) VALUES (212644);
-INSERT INTO item_paid_only (item_id) VALUES (212645);
-INSERT INTO item_paid_only (item_id) VALUES (212646);
-INSERT INTO item_paid_only (item_id) VALUES (212647);
-INSERT INTO item_paid_only (item_id) VALUES (212648);
-INSERT INTO item_paid_only (item_id) VALUES (212649);
-INSERT INTO item_paid_only (item_id) VALUES (212650);
-INSERT INTO item_paid_only (item_id) VALUES (212651);
-INSERT INTO item_paid_only (item_id) VALUES (212652);
-INSERT INTO item_paid_only (item_id) VALUES (212653);
-INSERT INTO item_paid_only (item_id) VALUES (212654);
-INSERT INTO item_paid_only (item_id) VALUES (212655);
-INSERT INTO item_paid_only (item_id) VALUES (212656);
-INSERT INTO item_paid_only (item_id) VALUES (212657);
-INSERT INTO item_paid_only (item_id) VALUES (212658);
-INSERT INTO item_paid_only (item_id) VALUES (212659);
-INSERT INTO item_paid_only (item_id) VALUES (212660);
-INSERT INTO item_paid_only (item_id) VALUES (212661);
-INSERT INTO item_paid_only (item_id) VALUES (212662);
-INSERT INTO item_paid_only (item_id) VALUES (212663);
-INSERT INTO item_paid_only (item_id) VALUES (212664);
-INSERT INTO item_paid_only (item_id) VALUES (212665);
-INSERT INTO item_paid_only (item_id) VALUES (212666);
-INSERT INTO item_paid_only (item_id) VALUES (212667);
-INSERT INTO item_paid_only (item_id) VALUES (212668);
-INSERT INTO item_paid_only (item_id) VALUES (212669);
-INSERT INTO item_paid_only (item_id) VALUES (212670);
-INSERT INTO item_paid_only (item_id) VALUES (212671);
-INSERT INTO item_paid_only (item_id) VALUES (212672);
-INSERT INTO item_paid_only (item_id) VALUES (212673);
-INSERT INTO item_paid_only (item_id) VALUES (212674);
-INSERT INTO item_paid_only (item_id) VALUES (212675);
-INSERT INTO item_paid_only (item_id) VALUES (212676);
-INSERT INTO item_paid_only (item_id) VALUES (212677);
-INSERT INTO item_paid_only (item_id) VALUES (212678);
-INSERT INTO item_paid_only (item_id) VALUES (212679);
-INSERT INTO item_paid_only (item_id) VALUES (212680);
-INSERT INTO item_paid_only (item_id) VALUES (212681);
-INSERT INTO item_paid_only (item_id) VALUES (212682);
-INSERT INTO item_paid_only (item_id) VALUES (212683);
-INSERT INTO item_paid_only (item_id) VALUES (212684);
-INSERT INTO item_paid_only (item_id) VALUES (212685);
-INSERT INTO item_paid_only (item_id) VALUES (212686);
-INSERT INTO item_paid_only (item_id) VALUES (212687);
-INSERT INTO item_paid_only (item_id) VALUES (212688);
-INSERT INTO item_paid_only (item_id) VALUES (212689);
-INSERT INTO item_paid_only (item_id) VALUES (212690);
-INSERT INTO item_paid_only (item_id) VALUES (212691);
-INSERT INTO item_paid_only (item_id) VALUES (212692);
-INSERT INTO item_paid_only (item_id) VALUES (212693);
-INSERT INTO item_paid_only (item_id) VALUES (212694);
-INSERT INTO item_paid_only (item_id) VALUES (212695);
-INSERT INTO item_paid_only (item_id) VALUES (212696);
-INSERT INTO item_paid_only (item_id) VALUES (212697);
-INSERT INTO item_paid_only (item_id) VALUES (212698);
-INSERT INTO item_paid_only (item_id) VALUES (212699);
-INSERT INTO item_paid_only (item_id) VALUES (212700);
-INSERT INTO item_paid_only (item_id) VALUES (212701);
-INSERT INTO item_paid_only (item_id) VALUES (212702);
-INSERT INTO item_paid_only (item_id) VALUES (212703);
-INSERT INTO item_paid_only (item_id) VALUES (212704);
-INSERT INTO item_paid_only (item_id) VALUES (212705);
-INSERT INTO item_paid_only (item_id) VALUES (212706);
-INSERT INTO item_paid_only (item_id) VALUES (212707);
-INSERT INTO item_paid_only (item_id) VALUES (212708);
-INSERT INTO item_paid_only (item_id) VALUES (212709);
-INSERT INTO item_paid_only (item_id) VALUES (212710);
-INSERT INTO item_paid_only (item_id) VALUES (212711);
-INSERT INTO item_paid_only (item_id) VALUES (212712);
-INSERT INTO item_paid_only (item_id) VALUES (212713);
-INSERT INTO item_paid_only (item_id) VALUES (212714);
-INSERT INTO item_paid_only (item_id) VALUES (212715);
-INSERT INTO item_paid_only (item_id) VALUES (212716);
-INSERT INTO item_paid_only (item_id) VALUES (212717);
-INSERT INTO item_paid_only (item_id) VALUES (212718);
-INSERT INTO item_paid_only (item_id) VALUES (212719);
-INSERT INTO item_paid_only (item_id) VALUES (212720);
-INSERT INTO item_paid_only (item_id) VALUES (212721);
-INSERT INTO item_paid_only (item_id) VALUES (212722);
-INSERT INTO item_paid_only (item_id) VALUES (212723);
-INSERT INTO item_paid_only (item_id) VALUES (212724);
-INSERT INTO item_paid_only (item_id) VALUES (212725);
-INSERT INTO item_paid_only (item_id) VALUES (212726);
-INSERT INTO item_paid_only (item_id) VALUES (212727);
-INSERT INTO item_paid_only (item_id) VALUES (212728);
-INSERT INTO item_paid_only (item_id) VALUES (212729);
-INSERT INTO item_paid_only (item_id) VALUES (212730);
-INSERT INTO item_paid_only (item_id) VALUES (212731);
-INSERT INTO item_paid_only (item_id) VALUES (212732);
-INSERT INTO item_paid_only (item_id) VALUES (212733);
-INSERT INTO item_paid_only (item_id) VALUES (212734);
-INSERT INTO item_paid_only (item_id) VALUES (212735);
-INSERT INTO item_paid_only (item_id) VALUES (212736);
-INSERT INTO item_paid_only (item_id) VALUES (212737);
-INSERT INTO item_paid_only (item_id) VALUES (212738);
-INSERT INTO item_paid_only (item_id) VALUES (212739);
-INSERT INTO item_paid_only (item_id) VALUES (212740);
-INSERT INTO item_paid_only (item_id) VALUES (212741);
-INSERT INTO item_paid_only (item_id) VALUES (212742);
-INSERT INTO item_paid_only (item_id) VALUES (212743);
-INSERT INTO item_paid_only (item_id) VALUES (212745);
-INSERT INTO item_paid_only (item_id) VALUES (212746);
-INSERT INTO item_paid_only (item_id) VALUES (212747);
-INSERT INTO item_paid_only (item_id) VALUES (212748);
-INSERT INTO item_paid_only (item_id) VALUES (212749);
-INSERT INTO item_paid_only (item_id) VALUES (212750);
-INSERT INTO item_paid_only (item_id) VALUES (212751);
-INSERT INTO item_paid_only (item_id) VALUES (212752);
-INSERT INTO item_paid_only (item_id) VALUES (212753);
-INSERT INTO item_paid_only (item_id) VALUES (212754);
-INSERT INTO item_paid_only (item_id) VALUES (212755);
-INSERT INTO item_paid_only (item_id) VALUES (212756);
-INSERT INTO item_paid_only (item_id) VALUES (212757);
-INSERT INTO item_paid_only (item_id) VALUES (212758);
-INSERT INTO item_paid_only (item_id) VALUES (212759);
-INSERT INTO item_paid_only (item_id) VALUES (212760);
-INSERT INTO item_paid_only (item_id) VALUES (212761);
-INSERT INTO item_paid_only (item_id) VALUES (212762);
-INSERT INTO item_paid_only (item_id) VALUES (212763);
-INSERT INTO item_paid_only (item_id) VALUES (212764);
-INSERT INTO item_paid_only (item_id) VALUES (212765);
-INSERT INTO item_paid_only (item_id) VALUES (212766);
-INSERT INTO item_paid_only (item_id) VALUES (212767);
-INSERT INTO item_paid_only (item_id) VALUES (212768);
-INSERT INTO item_paid_only (item_id) VALUES (212769);
-INSERT INTO item_paid_only (item_id) VALUES (212770);
-INSERT INTO item_paid_only (item_id) VALUES (212771);
-INSERT INTO item_paid_only (item_id) VALUES (212772);
-INSERT INTO item_paid_only (item_id) VALUES (212773);
-INSERT INTO item_paid_only (item_id) VALUES (212774);
-INSERT INTO item_paid_only (item_id) VALUES (212775);
-INSERT INTO item_paid_only (item_id) VALUES (212776);
-INSERT INTO item_paid_only (item_id) VALUES (212777);
-INSERT INTO item_paid_only (item_id) VALUES (212778);
-INSERT INTO item_paid_only (item_id) VALUES (212779);
-INSERT INTO item_paid_only (item_id) VALUES (212780);
-INSERT INTO item_paid_only (item_id) VALUES (212781);
-INSERT INTO item_paid_only (item_id) VALUES (212782);
-INSERT INTO item_paid_only (item_id) VALUES (212783);
-INSERT INTO item_paid_only (item_id) VALUES (212784);
-INSERT INTO item_paid_only (item_id) VALUES (212785);
-INSERT INTO item_paid_only (item_id) VALUES (212786);
-INSERT INTO item_paid_only (item_id) VALUES (212787);
-INSERT INTO item_paid_only (item_id) VALUES (212788);
-INSERT INTO item_paid_only (item_id) VALUES (212789);
-INSERT INTO item_paid_only (item_id) VALUES (212790);
-INSERT INTO item_paid_only (item_id) VALUES (212791);
-INSERT INTO item_paid_only (item_id) VALUES (212792);
-INSERT INTO item_paid_only (item_id) VALUES (212793);
-INSERT INTO item_paid_only (item_id) VALUES (212794);
-INSERT INTO item_paid_only (item_id) VALUES (212795);
-INSERT INTO item_paid_only (item_id) VALUES (212796);
-INSERT INTO item_paid_only (item_id) VALUES (212797);
-INSERT INTO item_paid_only (item_id) VALUES (212798);
-INSERT INTO item_paid_only (item_id) VALUES (212799);
-INSERT INTO item_paid_only (item_id) VALUES (212800);
-INSERT INTO item_paid_only (item_id) VALUES (212801);
-INSERT INTO item_paid_only (item_id) VALUES (212802);
-INSERT INTO item_paid_only (item_id) VALUES (212803);
-INSERT INTO item_paid_only (item_id) VALUES (212804);
-INSERT INTO item_paid_only (item_id) VALUES (212805);
-INSERT INTO item_paid_only (item_id) VALUES (212808);
-INSERT INTO item_paid_only (item_id) VALUES (212809);
-INSERT INTO item_paid_only (item_id) VALUES (212810);
-INSERT INTO item_paid_only (item_id) VALUES (212811);
-INSERT INTO item_paid_only (item_id) VALUES (212812);
-INSERT INTO item_paid_only (item_id) VALUES (212813);
-INSERT INTO item_paid_only (item_id) VALUES (212814);
-INSERT INTO item_paid_only (item_id) VALUES (212815);
-INSERT INTO item_paid_only (item_id) VALUES (212816);
-INSERT INTO item_paid_only (item_id) VALUES (212817);
-INSERT INTO item_paid_only (item_id) VALUES (212818);
-INSERT INTO item_paid_only (item_id) VALUES (212819);
-INSERT INTO item_paid_only (item_id) VALUES (212820);
-INSERT INTO item_paid_only (item_id) VALUES (212821);
-INSERT INTO item_paid_only (item_id) VALUES (212822);
-INSERT INTO item_paid_only (item_id) VALUES (212823);
-INSERT INTO item_paid_only (item_id) VALUES (212824);
-INSERT INTO item_paid_only (item_id) VALUES (212825);
-INSERT INTO item_paid_only (item_id) VALUES (212826);
-INSERT INTO item_paid_only (item_id) VALUES (212827);
-INSERT INTO item_paid_only (item_id) VALUES (212828);
-INSERT INTO item_paid_only (item_id) VALUES (212829);
-INSERT INTO item_paid_only (item_id) VALUES (212832);
-INSERT INTO item_paid_only (item_id) VALUES (212833);
-INSERT INTO item_paid_only (item_id) VALUES (212834);
-INSERT INTO item_paid_only (item_id) VALUES (212835);
-INSERT INTO item_paid_only (item_id) VALUES (212836);
-INSERT INTO item_paid_only (item_id) VALUES (212837);
-INSERT INTO item_paid_only (item_id) VALUES (212838);
-INSERT INTO item_paid_only (item_id) VALUES (212839);
-INSERT INTO item_paid_only (item_id) VALUES (212840);
-INSERT INTO item_paid_only (item_id) VALUES (212841);
-INSERT INTO item_paid_only (item_id) VALUES (212843);
-INSERT INTO item_paid_only (item_id) VALUES (212844);
-INSERT INTO item_paid_only (item_id) VALUES (212845);
-INSERT INTO item_paid_only (item_id) VALUES (212847);
-INSERT INTO item_paid_only (item_id) VALUES (212848);
-INSERT INTO item_paid_only (item_id) VALUES (212849);
-INSERT INTO item_paid_only (item_id) VALUES (212850);
-INSERT INTO item_paid_only (item_id) VALUES (212851);
-INSERT INTO item_paid_only (item_id) VALUES (212852);
-INSERT INTO item_paid_only (item_id) VALUES (212853);
-INSERT INTO item_paid_only (item_id) VALUES (212854);
-INSERT INTO item_paid_only (item_id) VALUES (212855);
-INSERT INTO item_paid_only (item_id) VALUES (212856);
-INSERT INTO item_paid_only (item_id) VALUES (212857);
-INSERT INTO item_paid_only (item_id) VALUES (212858);
-INSERT INTO item_paid_only (item_id) VALUES (212859);
-INSERT INTO item_paid_only (item_id) VALUES (212860);
-INSERT INTO item_paid_only (item_id) VALUES (212861);
-INSERT INTO item_paid_only (item_id) VALUES (212862);
-INSERT INTO item_paid_only (item_id) VALUES (212863);
-INSERT INTO item_paid_only (item_id) VALUES (212864);
-INSERT INTO item_paid_only (item_id) VALUES (212865);
-INSERT INTO item_paid_only (item_id) VALUES (212866);
-INSERT INTO item_paid_only (item_id) VALUES (212867);
-INSERT INTO item_paid_only (item_id) VALUES (212868);
-INSERT INTO item_paid_only (item_id) VALUES (212869);
-INSERT INTO item_paid_only (item_id) VALUES (212870);
-INSERT INTO item_paid_only (item_id) VALUES (212871);
-INSERT INTO item_paid_only (item_id) VALUES (212872);
-INSERT INTO item_paid_only (item_id) VALUES (212873);
-INSERT INTO item_paid_only (item_id) VALUES (212874);
-INSERT INTO item_paid_only (item_id) VALUES (212875);
-INSERT INTO item_paid_only (item_id) VALUES (212876);
-INSERT INTO item_paid_only (item_id) VALUES (212877);
-INSERT INTO item_paid_only (item_id) VALUES (212878);
-INSERT INTO item_paid_only (item_id) VALUES (212879);
-INSERT INTO item_paid_only (item_id) VALUES (212880);
-INSERT INTO item_paid_only (item_id) VALUES (212881);
-INSERT INTO item_paid_only (item_id) VALUES (212882);
-INSERT INTO item_paid_only (item_id) VALUES (212883);
-INSERT INTO item_paid_only (item_id) VALUES (212884);
-INSERT INTO item_paid_only (item_id) VALUES (212885);
-INSERT INTO item_paid_only (item_id) VALUES (212886);
-INSERT INTO item_paid_only (item_id) VALUES (212887);
-INSERT INTO item_paid_only (item_id) VALUES (212888);
-INSERT INTO item_paid_only (item_id) VALUES (212889);
-INSERT INTO item_paid_only (item_id) VALUES (212890);
-INSERT INTO item_paid_only (item_id) VALUES (212891);
-INSERT INTO item_paid_only (item_id) VALUES (213441);
-INSERT INTO item_paid_only (item_id) VALUES (213442);
-INSERT INTO item_paid_only (item_id) VALUES (213443);
-INSERT INTO item_paid_only (item_id) VALUES (213444);
-INSERT INTO item_paid_only (item_id) VALUES (213445);
-INSERT INTO item_paid_only (item_id) VALUES (213446);
-INSERT INTO item_paid_only (item_id) VALUES (213447);
-INSERT INTO item_paid_only (item_id) VALUES (213448);
-INSERT INTO item_paid_only (item_id) VALUES (213449);
-INSERT INTO item_paid_only (item_id) VALUES (213450);
-INSERT INTO item_paid_only (item_id) VALUES (214120);
-INSERT INTO item_paid_only (item_id) VALUES (214156);
-INSERT INTO item_paid_only (item_id) VALUES (214157);
-INSERT INTO item_paid_only (item_id) VALUES (214158);
-INSERT INTO item_paid_only (item_id) VALUES (214159);
-INSERT INTO item_paid_only (item_id) VALUES (214160);
-INSERT INTO item_paid_only (item_id) VALUES (214161);
-INSERT INTO item_paid_only (item_id) VALUES (214162);
-INSERT INTO item_paid_only (item_id) VALUES (214163);
-INSERT INTO item_paid_only (item_id) VALUES (214164);
-INSERT INTO item_paid_only (item_id) VALUES (214165);
-INSERT INTO item_paid_only (item_id) VALUES (214343);
-INSERT INTO item_paid_only (item_id) VALUES (214344);
-INSERT INTO item_paid_only (item_id) VALUES (214345);
-INSERT INTO item_paid_only (item_id) VALUES (214346);
-INSERT INTO item_paid_only (item_id) VALUES (214347);
-INSERT INTO item_paid_only (item_id) VALUES (214348);
-INSERT INTO item_paid_only (item_id) VALUES (214349);
-INSERT INTO item_paid_only (item_id) VALUES (214350);
-INSERT INTO item_paid_only (item_id) VALUES (214351);
-INSERT INTO item_paid_only (item_id) VALUES (214722);
-INSERT INTO item_paid_only (item_id) VALUES (214723);
-INSERT INTO item_paid_only (item_id) VALUES (214724);
-INSERT INTO item_paid_only (item_id) VALUES (214725);
-INSERT INTO item_paid_only (item_id) VALUES (214726);
-INSERT INTO item_paid_only (item_id) VALUES (214727);
-INSERT INTO item_paid_only (item_id) VALUES (214728);
-INSERT INTO item_paid_only (item_id) VALUES (214729);
-INSERT INTO item_paid_only (item_id) VALUES (214755);
-INSERT INTO item_paid_only (item_id) VALUES (214756);
-INSERT INTO item_paid_only (item_id) VALUES (214757);
-INSERT INTO item_paid_only (item_id) VALUES (214758);
-INSERT INTO item_paid_only (item_id) VALUES (214759);
-INSERT INTO item_paid_only (item_id) VALUES (214760);
-INSERT INTO item_paid_only (item_id) VALUES (214761);
-INSERT INTO item_paid_only (item_id) VALUES (214762);
-INSERT INTO item_paid_only (item_id) VALUES (214763);
-INSERT INTO item_paid_only (item_id) VALUES (214764);
-INSERT INTO item_paid_only (item_id) VALUES (214765);
-INSERT INTO item_paid_only (item_id) VALUES (214766);
-INSERT INTO item_paid_only (item_id) VALUES (214767);
-INSERT INTO item_paid_only (item_id) VALUES (214768);
-INSERT INTO item_paid_only (item_id) VALUES (214794);
-INSERT INTO item_paid_only (item_id) VALUES (214795);
-INSERT INTO item_paid_only (item_id) VALUES (214796);
-INSERT INTO item_paid_only (item_id) VALUES (214797);
-INSERT INTO item_paid_only (item_id) VALUES (214798);
-INSERT INTO item_paid_only (item_id) VALUES (214799);
-INSERT INTO item_paid_only (item_id) VALUES (214800);
-INSERT INTO item_paid_only (item_id) VALUES (214801);
-INSERT INTO item_paid_only (item_id) VALUES (214802);
-INSERT INTO item_paid_only (item_id) VALUES (214803);
-INSERT INTO item_paid_only (item_id) VALUES (214804);
-INSERT INTO item_paid_only (item_id) VALUES (214805);
-INSERT INTO item_paid_only (item_id) VALUES (214806);
-INSERT INTO item_paid_only (item_id) VALUES (214807);
-INSERT INTO item_paid_only (item_id) VALUES (214808);
-INSERT INTO item_paid_only (item_id) VALUES (214809);
-INSERT INTO item_paid_only (item_id) VALUES (214810);
-INSERT INTO item_paid_only (item_id) VALUES (214811);
-INSERT INTO item_paid_only (item_id) VALUES (214812);
-INSERT INTO item_paid_only (item_id) VALUES (214813);
-INSERT INTO item_paid_only (item_id) VALUES (214814);
-INSERT INTO item_paid_only (item_id) VALUES (214815);
-INSERT INTO item_paid_only (item_id) VALUES (214816);
-INSERT INTO item_paid_only (item_id) VALUES (214817);
-INSERT INTO item_paid_only (item_id) VALUES (214818);
-INSERT INTO item_paid_only (item_id) VALUES (214819);
-INSERT INTO item_paid_only (item_id) VALUES (214820);
-INSERT INTO item_paid_only (item_id) VALUES (214821);
-INSERT INTO item_paid_only (item_id) VALUES (214822);
-INSERT INTO item_paid_only (item_id) VALUES (214823);
-INSERT INTO item_paid_only (item_id) VALUES (214824);
-INSERT INTO item_paid_only (item_id) VALUES (214825);
-INSERT INTO item_paid_only (item_id) VALUES (214826);
-INSERT INTO item_paid_only (item_id) VALUES (214827);
-INSERT INTO item_paid_only (item_id) VALUES (214828);
-INSERT INTO item_paid_only (item_id) VALUES (214829);
-INSERT INTO item_paid_only (item_id) VALUES (214830);
-INSERT INTO item_paid_only (item_id) VALUES (214831);
-INSERT INTO item_paid_only (item_id) VALUES (214832);
-INSERT INTO item_paid_only (item_id) VALUES (214833);
-INSERT INTO item_paid_only (item_id) VALUES (214834);
-INSERT INTO item_paid_only (item_id) VALUES (214835);
-INSERT INTO item_paid_only (item_id) VALUES (214836);
-INSERT INTO item_paid_only (item_id) VALUES (214837);
-INSERT INTO item_paid_only (item_id) VALUES (214838);
-INSERT INTO item_paid_only (item_id) VALUES (214839);
-INSERT INTO item_paid_only (item_id) VALUES (214841);
-INSERT INTO item_paid_only (item_id) VALUES (214842);
-INSERT INTO item_paid_only (item_id) VALUES (214843);
-INSERT INTO item_paid_only (item_id) VALUES (214844);
-INSERT INTO item_paid_only (item_id) VALUES (214845);
-INSERT INTO item_paid_only (item_id) VALUES (214846);
-INSERT INTO item_paid_only (item_id) VALUES (214847);
-INSERT INTO item_paid_only (item_id) VALUES (214848);
-INSERT INTO item_paid_only (item_id) VALUES (214849);
-INSERT INTO item_paid_only (item_id) VALUES (214850);
-INSERT INTO item_paid_only (item_id) VALUES (214851);
-INSERT INTO item_paid_only (item_id) VALUES (214852);
-INSERT INTO item_paid_only (item_id) VALUES (214853);
-INSERT INTO item_paid_only (item_id) VALUES (214854);
-INSERT INTO item_paid_only (item_id) VALUES (214857);
-INSERT INTO item_paid_only (item_id) VALUES (214858);
-INSERT INTO item_paid_only (item_id) VALUES (214888);
-INSERT INTO item_paid_only (item_id) VALUES (214889);
-INSERT INTO item_paid_only (item_id) VALUES (215056);
-INSERT INTO item_paid_only (item_id) VALUES (215057);
-INSERT INTO item_paid_only (item_id) VALUES (215058);
-INSERT INTO item_paid_only (item_id) VALUES (215059);
-INSERT INTO item_paid_only (item_id) VALUES (215116);
-INSERT INTO item_paid_only (item_id) VALUES (215117);
-INSERT INTO item_paid_only (item_id) VALUES (215118);
-INSERT INTO item_paid_only (item_id) VALUES (215119);
-INSERT INTO item_paid_only (item_id) VALUES (215222);
-INSERT INTO item_paid_only (item_id) VALUES (215223);
-INSERT INTO item_paid_only (item_id) VALUES (215224);
-INSERT INTO item_paid_only (item_id) VALUES (215225);
-INSERT INTO item_paid_only (item_id) VALUES (215226);
-INSERT INTO item_paid_only (item_id) VALUES (215227);
-INSERT INTO item_paid_only (item_id) VALUES (215228);
-INSERT INTO item_paid_only (item_id) VALUES (215229);
-INSERT INTO item_paid_only (item_id) VALUES (215230);
-INSERT INTO item_paid_only (item_id) VALUES (215231);
-INSERT INTO item_paid_only (item_id) VALUES (215232);
-INSERT INTO item_paid_only (item_id) VALUES (215233);
-INSERT INTO item_paid_only (item_id) VALUES (215234);
-INSERT INTO item_paid_only (item_id) VALUES (215235);
-INSERT INTO item_paid_only (item_id) VALUES (215236);
-INSERT INTO item_paid_only (item_id) VALUES (215237);
-INSERT INTO item_paid_only (item_id) VALUES (215238);
-INSERT INTO item_paid_only (item_id) VALUES (215239);
-INSERT INTO item_paid_only (item_id) VALUES (215240);
-INSERT INTO item_paid_only (item_id) VALUES (215241);
-INSERT INTO item_paid_only (item_id) VALUES (215242);
-INSERT INTO item_paid_only (item_id) VALUES (215243);
-INSERT INTO item_paid_only (item_id) VALUES (215244);
-INSERT INTO item_paid_only (item_id) VALUES (215245);
-INSERT INTO item_paid_only (item_id) VALUES (215246);
-INSERT INTO item_paid_only (item_id) VALUES (215247);
-INSERT INTO item_paid_only (item_id) VALUES (215248);
-INSERT INTO item_paid_only (item_id) VALUES (215249);
-INSERT INTO item_paid_only (item_id) VALUES (215250);
-INSERT INTO item_paid_only (item_id) VALUES (215251);
-INSERT INTO item_paid_only (item_id) VALUES (215252);
-INSERT INTO item_paid_only (item_id) VALUES (215253);
-INSERT INTO item_paid_only (item_id) VALUES (215254);
-INSERT INTO item_paid_only (item_id) VALUES (215255);
-INSERT INTO item_paid_only (item_id) VALUES (215256);
-INSERT INTO item_paid_only (item_id) VALUES (215257);
-INSERT INTO item_paid_only (item_id) VALUES (215374);
-INSERT INTO item_paid_only (item_id) VALUES (215376);
-INSERT INTO item_paid_only (item_id) VALUES (215392);
-INSERT INTO item_paid_only (item_id) VALUES (215393);
-INSERT INTO item_paid_only (item_id) VALUES (215394);
-INSERT INTO item_paid_only (item_id) VALUES (215395);
-INSERT INTO item_paid_only (item_id) VALUES (215396);
-INSERT INTO item_paid_only (item_id) VALUES (215397);
-INSERT INTO item_paid_only (item_id) VALUES (215398);
-INSERT INTO item_paid_only (item_id) VALUES (215399);
-INSERT INTO item_paid_only (item_id) VALUES (215400);
-INSERT INTO item_paid_only (item_id) VALUES (215401);
-INSERT INTO item_paid_only (item_id) VALUES (215402);
-INSERT INTO item_paid_only (item_id) VALUES (215403);
-INSERT INTO item_paid_only (item_id) VALUES (215404);
-INSERT INTO item_paid_only (item_id) VALUES (215405);
-INSERT INTO item_paid_only (item_id) VALUES (215406);
-INSERT INTO item_paid_only (item_id) VALUES (215407);
-INSERT INTO item_paid_only (item_id) VALUES (215408);
-INSERT INTO item_paid_only (item_id) VALUES (215409);
-INSERT INTO item_paid_only (item_id) VALUES (215410);
-INSERT INTO item_paid_only (item_id) VALUES (215411);
-INSERT INTO item_paid_only (item_id) VALUES (215412);
-INSERT INTO item_paid_only (item_id) VALUES (215413);
-INSERT INTO item_paid_only (item_id) VALUES (215415);
-INSERT INTO item_paid_only (item_id) VALUES (215416);
-INSERT INTO item_paid_only (item_id) VALUES (215425);
-INSERT INTO item_paid_only (item_id) VALUES (215440);
-INSERT INTO item_paid_only (item_id) VALUES (215441);
-INSERT INTO item_paid_only (item_id) VALUES (215442);
-INSERT INTO item_paid_only (item_id) VALUES (215443);
-INSERT INTO item_paid_only (item_id) VALUES (215445);
-INSERT INTO item_paid_only (item_id) VALUES (215460);
-INSERT INTO item_paid_only (item_id) VALUES (215461);
-INSERT INTO item_paid_only (item_id) VALUES (215462);
-INSERT INTO item_paid_only (item_id) VALUES (215463);
-INSERT INTO item_paid_only (item_id) VALUES (215464);
-INSERT INTO item_paid_only (item_id) VALUES (215465);
-INSERT INTO item_paid_only (item_id) VALUES (215466);
-INSERT INTO item_paid_only (item_id) VALUES (215467);
-INSERT INTO item_paid_only (item_id) VALUES (215468);
-INSERT INTO item_paid_only (item_id) VALUES (215469);
-INSERT INTO item_paid_only (item_id) VALUES (215470);
-INSERT INTO item_paid_only (item_id) VALUES (215471);
-INSERT INTO item_paid_only (item_id) VALUES (215472);
-INSERT INTO item_paid_only (item_id) VALUES (215473);
-INSERT INTO item_paid_only (item_id) VALUES (215474);
-INSERT INTO item_paid_only (item_id) VALUES (215475);
-INSERT INTO item_paid_only (item_id) VALUES (215476);
-INSERT INTO item_paid_only (item_id) VALUES (215477);
-INSERT INTO item_paid_only (item_id) VALUES (215531);
-INSERT INTO item_paid_only (item_id) VALUES (215533);
-INSERT INTO item_paid_only (item_id) VALUES (215535);
-INSERT INTO item_paid_only (item_id) VALUES (215536);
-INSERT INTO item_paid_only (item_id) VALUES (215537);
-INSERT INTO item_paid_only (item_id) VALUES (215538);
-INSERT INTO item_paid_only (item_id) VALUES (215539);
-INSERT INTO item_paid_only (item_id) VALUES (215540);
-INSERT INTO item_paid_only (item_id) VALUES (215541);
-INSERT INTO item_paid_only (item_id) VALUES (215542);
-INSERT INTO item_paid_only (item_id) VALUES (215543);
-INSERT INTO item_paid_only (item_id) VALUES (215544);
-INSERT INTO item_paid_only (item_id) VALUES (215546);
-INSERT INTO item_paid_only (item_id) VALUES (215547);
-INSERT INTO item_paid_only (item_id) VALUES (215548);
-INSERT INTO item_paid_only (item_id) VALUES (215549);
-INSERT INTO item_paid_only (item_id) VALUES (215550);
-INSERT INTO item_paid_only (item_id) VALUES (215551);
-INSERT INTO item_paid_only (item_id) VALUES (215552);
-INSERT INTO item_paid_only (item_id) VALUES (215553);
-INSERT INTO item_paid_only (item_id) VALUES (215554);
-INSERT INTO item_paid_only (item_id) VALUES (215555);
-INSERT INTO item_paid_only (item_id) VALUES (215556);
-INSERT INTO item_paid_only (item_id) VALUES (215557);
-INSERT INTO item_paid_only (item_id) VALUES (215600);
-INSERT INTO item_paid_only (item_id) VALUES (215601);
-INSERT INTO item_paid_only (item_id) VALUES (215602);
-INSERT INTO item_paid_only (item_id) VALUES (215603);
-INSERT INTO item_paid_only (item_id) VALUES (215604);
-INSERT INTO item_paid_only (item_id) VALUES (215605);
-INSERT INTO item_paid_only (item_id) VALUES (215606);
-INSERT INTO item_paid_only (item_id) VALUES (215607);
-INSERT INTO item_paid_only (item_id) VALUES (215608);
-INSERT INTO item_paid_only (item_id) VALUES (215609);
-INSERT INTO item_paid_only (item_id) VALUES (215610);
-INSERT INTO item_paid_only (item_id) VALUES (215611);
-INSERT INTO item_paid_only (item_id) VALUES (215613);
-INSERT INTO item_paid_only (item_id) VALUES (215614);
-INSERT INTO item_paid_only (item_id) VALUES (215615);
-INSERT INTO item_paid_only (item_id) VALUES (215616);
-INSERT INTO item_paid_only (item_id) VALUES (215617);
-INSERT INTO item_paid_only (item_id) VALUES (215618);
-INSERT INTO item_paid_only (item_id) VALUES (215619);
-INSERT INTO item_paid_only (item_id) VALUES (215620);
-INSERT INTO item_paid_only (item_id) VALUES (215621);
-INSERT INTO item_paid_only (item_id) VALUES (215622);
-INSERT INTO item_paid_only (item_id) VALUES (215623);
-INSERT INTO item_paid_only (item_id) VALUES (215624);
-INSERT INTO item_paid_only (item_id) VALUES (215717);
-INSERT INTO item_paid_only (item_id) VALUES (215718);
-INSERT INTO item_paid_only (item_id) VALUES (215719);
-INSERT INTO item_paid_only (item_id) VALUES (215720);
-INSERT INTO item_paid_only (item_id) VALUES (215721);
-INSERT INTO item_paid_only (item_id) VALUES (215722);
-INSERT INTO item_paid_only (item_id) VALUES (216580);
-INSERT INTO item_paid_only (item_id) VALUES (216581);
-INSERT INTO item_paid_only (item_id) VALUES (216582);
-INSERT INTO item_paid_only (item_id) VALUES (216583);
-INSERT INTO item_paid_only (item_id) VALUES (216584);
-INSERT INTO item_paid_only (item_id) VALUES (216585);
-INSERT INTO item_paid_only (item_id) VALUES (216586);
-INSERT INTO item_paid_only (item_id) VALUES (216659);
-INSERT INTO item_paid_only (item_id) VALUES (216660);
-INSERT INTO item_paid_only (item_id) VALUES (216661);
-INSERT INTO item_paid_only (item_id) VALUES (216662);
-INSERT INTO item_paid_only (item_id) VALUES (216663);
-INSERT INTO item_paid_only (item_id) VALUES (216664);
-INSERT INTO item_paid_only (item_id) VALUES (216665);
-INSERT INTO item_paid_only (item_id) VALUES (216666);
-INSERT INTO item_paid_only (item_id) VALUES (216667);
-INSERT INTO item_paid_only (item_id) VALUES (216668);
-INSERT INTO item_paid_only (item_id) VALUES (216669);
-INSERT INTO item_paid_only (item_id) VALUES (216670);
-INSERT INTO item_paid_only (item_id) VALUES (216671);
-INSERT INTO item_paid_only (item_id) VALUES (216672);
-INSERT INTO item_paid_only (item_id) VALUES (216673);
-INSERT INTO item_paid_only (item_id) VALUES (216674);
-INSERT INTO item_paid_only (item_id) VALUES (216675);
-INSERT INTO item_paid_only (item_id) VALUES (216676);
-INSERT INTO item_paid_only (item_id) VALUES (216677);
-INSERT INTO item_paid_only (item_id) VALUES (216678);
-INSERT INTO item_paid_only (item_id) VALUES (216679);
-INSERT INTO item_paid_only (item_id) VALUES (216680);
-INSERT INTO item_paid_only (item_id) VALUES (216681);
-INSERT INTO item_paid_only (item_id) VALUES (216682);
-INSERT INTO item_paid_only (item_id) VALUES (216683);
-INSERT INTO item_paid_only (item_id) VALUES (216684);
-INSERT INTO item_paid_only (item_id) VALUES (216685);
-INSERT INTO item_paid_only (item_id) VALUES (216686);
-INSERT INTO item_paid_only (item_id) VALUES (216687);
-INSERT INTO item_paid_only (item_id) VALUES (216688);
-INSERT INTO item_paid_only (item_id) VALUES (216689);
-INSERT INTO item_paid_only (item_id) VALUES (216690);
-INSERT INTO item_paid_only (item_id) VALUES (216698);
-INSERT INTO item_paid_only (item_id) VALUES (216699);
-INSERT INTO item_paid_only (item_id) VALUES (216916);
-INSERT INTO item_paid_only (item_id) VALUES (216917);
-INSERT INTO item_paid_only (item_id) VALUES (216918);
-INSERT INTO item_paid_only (item_id) VALUES (216919);
-INSERT INTO item_paid_only (item_id) VALUES (216920);
-INSERT INTO item_paid_only (item_id) VALUES (216921);
-INSERT INTO item_paid_only (item_id) VALUES (216922);
-INSERT INTO item_paid_only (item_id) VALUES (216923);
-INSERT INTO item_paid_only (item_id) VALUES (216924);
-INSERT INTO item_paid_only (item_id) VALUES (216925);
-INSERT INTO item_paid_only (item_id) VALUES (216926);
-INSERT INTO item_paid_only (item_id) VALUES (216927);
-INSERT INTO item_paid_only (item_id) VALUES (216928);
-INSERT INTO item_paid_only (item_id) VALUES (216929);
-INSERT INTO item_paid_only (item_id) VALUES (216930);
-INSERT INTO item_paid_only (item_id) VALUES (216931);
-INSERT INTO item_paid_only (item_id) VALUES (216992);
-INSERT INTO item_paid_only (item_id) VALUES (216993);
-INSERT INTO item_paid_only (item_id) VALUES (216994);
-INSERT INTO item_paid_only (item_id) VALUES (216995);
-INSERT INTO item_paid_only (item_id) VALUES (216996);
-INSERT INTO item_paid_only (item_id) VALUES (216997);
-INSERT INTO item_paid_only (item_id) VALUES (216998);
-INSERT INTO item_paid_only (item_id) VALUES (216999);
-INSERT INTO item_paid_only (item_id) VALUES (217000);
-INSERT INTO item_paid_only (item_id) VALUES (217001);
-INSERT INTO item_paid_only (item_id) VALUES (217002);
-INSERT INTO item_paid_only (item_id) VALUES (217003);
-INSERT INTO item_paid_only (item_id) VALUES (217004);
-INSERT INTO item_paid_only (item_id) VALUES (217005);
-INSERT INTO item_paid_only (item_id) VALUES (217029);
-INSERT INTO item_paid_only (item_id) VALUES (217030);
-INSERT INTO item_paid_only (item_id) VALUES (217031);
-INSERT INTO item_paid_only (item_id) VALUES (217032);
-INSERT INTO item_paid_only (item_id) VALUES (217033);
-INSERT INTO item_paid_only (item_id) VALUES (217034);
-INSERT INTO item_paid_only (item_id) VALUES (217035);
-INSERT INTO item_paid_only (item_id) VALUES (217036);
-INSERT INTO item_paid_only (item_id) VALUES (217037);
-INSERT INTO item_paid_only (item_id) VALUES (217038);
-INSERT INTO item_paid_only (item_id) VALUES (217039);
-INSERT INTO item_paid_only (item_id) VALUES (217040);
-INSERT INTO item_paid_only (item_id) VALUES (217635);
-INSERT INTO item_paid_only (item_id) VALUES (217636);
-INSERT INTO item_paid_only (item_id) VALUES (217637);
-INSERT INTO item_paid_only (item_id) VALUES (217638);
-INSERT INTO item_paid_only (item_id) VALUES (217639);
-INSERT INTO item_paid_only (item_id) VALUES (217640);
-INSERT INTO item_paid_only (item_id) VALUES (217641);
-INSERT INTO item_paid_only (item_id) VALUES (217642);
-INSERT INTO item_paid_only (item_id) VALUES (217643);
-INSERT INTO item_paid_only (item_id) VALUES (217644);
-INSERT INTO item_paid_only (item_id) VALUES (217645);
-INSERT INTO item_paid_only (item_id) VALUES (217646);
-INSERT INTO item_paid_only (item_id) VALUES (217647);
-INSERT INTO item_paid_only (item_id) VALUES (217648);
-INSERT INTO item_paid_only (item_id) VALUES (217649);
-INSERT INTO item_paid_only (item_id) VALUES (217650);
-INSERT INTO item_paid_only (item_id) VALUES (217653);
-INSERT INTO item_paid_only (item_id) VALUES (217654);
-INSERT INTO item_paid_only (item_id) VALUES (217655);
-INSERT INTO item_paid_only (item_id) VALUES (217656);
-INSERT INTO item_paid_only (item_id) VALUES (217657);
-INSERT INTO item_paid_only (item_id) VALUES (217658);
-INSERT INTO item_paid_only (item_id) VALUES (217659);
-INSERT INTO item_paid_only (item_id) VALUES (217660);
-INSERT INTO item_paid_only (item_id) VALUES (217661);
-INSERT INTO item_paid_only (item_id) VALUES (217662);
-INSERT INTO item_paid_only (item_id) VALUES (217663);
-INSERT INTO item_paid_only (item_id) VALUES (217664);
-INSERT INTO item_paid_only (item_id) VALUES (217665);
-INSERT INTO item_paid_only (item_id) VALUES (217666);
-INSERT INTO item_paid_only (item_id) VALUES (217670);
-INSERT INTO item_paid_only (item_id) VALUES (217671);
-INSERT INTO item_paid_only (item_id) VALUES (217672);
-INSERT INTO item_paid_only (item_id) VALUES (217674);
-INSERT INTO item_paid_only (item_id) VALUES (217676);
-INSERT INTO item_paid_only (item_id) VALUES (217678);
-INSERT INTO item_paid_only (item_id) VALUES (217680);
-INSERT INTO item_paid_only (item_id) VALUES (217681);
-INSERT INTO item_paid_only (item_id) VALUES (217682);
-INSERT INTO item_paid_only (item_id) VALUES (217683);
-INSERT INTO item_paid_only (item_id) VALUES (217684);
-INSERT INTO item_paid_only (item_id) VALUES (217685);
-INSERT INTO item_paid_only (item_id) VALUES (217686);
-INSERT INTO item_paid_only (item_id) VALUES (217687);
-INSERT INTO item_paid_only (item_id) VALUES (217688);
-INSERT INTO item_paid_only (item_id) VALUES (217689);
-INSERT INTO item_paid_only (item_id) VALUES (217690);
-INSERT INTO item_paid_only (item_id) VALUES (217691);
-INSERT INTO item_paid_only (item_id) VALUES (217698);
-INSERT INTO item_paid_only (item_id) VALUES (217699);
-INSERT INTO item_paid_only (item_id) VALUES (217700);
-INSERT INTO item_paid_only (item_id) VALUES (217701);
-INSERT INTO item_paid_only (item_id) VALUES (217702);
-INSERT INTO item_paid_only (item_id) VALUES (217703);
-INSERT INTO item_paid_only (item_id) VALUES (217704);
-INSERT INTO item_paid_only (item_id) VALUES (217705);
-INSERT INTO item_paid_only (item_id) VALUES (217706);
-INSERT INTO item_paid_only (item_id) VALUES (217707);
-INSERT INTO item_paid_only (item_id) VALUES (217710);
-INSERT INTO item_paid_only (item_id) VALUES (217711);
-INSERT INTO item_paid_only (item_id) VALUES (217712);
-INSERT INTO item_paid_only (item_id) VALUES (217713);
-INSERT INTO item_paid_only (item_id) VALUES (217714);
-INSERT INTO item_paid_only (item_id) VALUES (217715);
-INSERT INTO item_paid_only (item_id) VALUES (217716);
-INSERT INTO item_paid_only (item_id) VALUES (217717);
-INSERT INTO item_paid_only (item_id) VALUES (217718);
-INSERT INTO item_paid_only (item_id) VALUES (217719);
-INSERT INTO item_paid_only (item_id) VALUES (217720);
-INSERT INTO item_paid_only (item_id) VALUES (217721);
-INSERT INTO item_paid_only (item_id) VALUES (217722);
-INSERT INTO item_paid_only (item_id) VALUES (217723);
-INSERT INTO item_paid_only (item_id) VALUES (217724);
-INSERT INTO item_paid_only (item_id) VALUES (217725);
-INSERT INTO item_paid_only (item_id) VALUES (217989);
-INSERT INTO item_paid_only (item_id) VALUES (217990);
-INSERT INTO item_paid_only (item_id) VALUES (217991);
-INSERT INTO item_paid_only (item_id) VALUES (217992);
-INSERT INTO item_paid_only (item_id) VALUES (217993);
-INSERT INTO item_paid_only (item_id) VALUES (217994);
-INSERT INTO item_paid_only (item_id) VALUES (217995);
-INSERT INTO item_paid_only (item_id) VALUES (217996);
-INSERT INTO item_paid_only (item_id) VALUES (217997);
-INSERT INTO item_paid_only (item_id) VALUES (217998);
-INSERT INTO item_paid_only (item_id) VALUES (217999);
-INSERT INTO item_paid_only (item_id) VALUES (218000);
-INSERT INTO item_paid_only (item_id) VALUES (218001);
-INSERT INTO item_paid_only (item_id) VALUES (218002);
-INSERT INTO item_paid_only (item_id) VALUES (218003);
-INSERT INTO item_paid_only (item_id) VALUES (218004);
-INSERT INTO item_paid_only (item_id) VALUES (218005);
-INSERT INTO item_paid_only (item_id) VALUES (218006);
-INSERT INTO item_paid_only (item_id) VALUES (218007);
-INSERT INTO item_paid_only (item_id) VALUES (218008);
-INSERT INTO item_paid_only (item_id) VALUES (218009);
-INSERT INTO item_paid_only (item_id) VALUES (218010);
-INSERT INTO item_paid_only (item_id) VALUES (218011);
-INSERT INTO item_paid_only (item_id) VALUES (218012);
-INSERT INTO item_paid_only (item_id) VALUES (218013);
-INSERT INTO item_paid_only (item_id) VALUES (218014);
-INSERT INTO item_paid_only (item_id) VALUES (218015);
-INSERT INTO item_paid_only (item_id) VALUES (218016);
-INSERT INTO item_paid_only (item_id) VALUES (218017);
-INSERT INTO item_paid_only (item_id) VALUES (218036);
-INSERT INTO item_paid_only (item_id) VALUES (218037);
-INSERT INTO item_paid_only (item_id) VALUES (218038);
-INSERT INTO item_paid_only (item_id) VALUES (218039);
-INSERT INTO item_paid_only (item_id) VALUES (218040);
-INSERT INTO item_paid_only (item_id) VALUES (218041);
-INSERT INTO item_paid_only (item_id) VALUES (218042);
-INSERT INTO item_paid_only (item_id) VALUES (218043);
-INSERT INTO item_paid_only (item_id) VALUES (218044);
-INSERT INTO item_paid_only (item_id) VALUES (218045);
-INSERT INTO item_paid_only (item_id) VALUES (218046);
-INSERT INTO item_paid_only (item_id) VALUES (218047);
-INSERT INTO item_paid_only (item_id) VALUES (218048);
-INSERT INTO item_paid_only (item_id) VALUES (218049);
-INSERT INTO item_paid_only (item_id) VALUES (218050);
-INSERT INTO item_paid_only (item_id) VALUES (218051);
-INSERT INTO item_paid_only (item_id) VALUES (218052);
-INSERT INTO item_paid_only (item_id) VALUES (218053);
-INSERT INTO item_paid_only (item_id) VALUES (218054);
-INSERT INTO item_paid_only (item_id) VALUES (218055);
-INSERT INTO item_paid_only (item_id) VALUES (218056);
-INSERT INTO item_paid_only (item_id) VALUES (218057);
-INSERT INTO item_paid_only (item_id) VALUES (218058);
-INSERT INTO item_paid_only (item_id) VALUES (218059);
-INSERT INTO item_paid_only (item_id) VALUES (218060);
-INSERT INTO item_paid_only (item_id) VALUES (218061);
-INSERT INTO item_paid_only (item_id) VALUES (218062);
-INSERT INTO item_paid_only (item_id) VALUES (218063);
-INSERT INTO item_paid_only (item_id) VALUES (218064);
-INSERT INTO item_paid_only (item_id) VALUES (218065);
-INSERT INTO item_paid_only (item_id) VALUES (218066);
-INSERT INTO item_paid_only (item_id) VALUES (218067);
-INSERT INTO item_paid_only (item_id) VALUES (218068);
-INSERT INTO item_paid_only (item_id) VALUES (218069);
-INSERT INTO item_paid_only (item_id) VALUES (218070);
-INSERT INTO item_paid_only (item_id) VALUES (218071);
-INSERT INTO item_paid_only (item_id) VALUES (218072);
-INSERT INTO item_paid_only (item_id) VALUES (218073);
-INSERT INTO item_paid_only (item_id) VALUES (218074);
-INSERT INTO item_paid_only (item_id) VALUES (218075);
-INSERT INTO item_paid_only (item_id) VALUES (218076);
-INSERT INTO item_paid_only (item_id) VALUES (218077);
-INSERT INTO item_paid_only (item_id) VALUES (218078);
-INSERT INTO item_paid_only (item_id) VALUES (218079);
-INSERT INTO item_paid_only (item_id) VALUES (218080);
-INSERT INTO item_paid_only (item_id) VALUES (218081);
-INSERT INTO item_paid_only (item_id) VALUES (218082);
-INSERT INTO item_paid_only (item_id) VALUES (218083);
-INSERT INTO item_paid_only (item_id) VALUES (218084);
-INSERT INTO item_paid_only (item_id) VALUES (218085);
-INSERT INTO item_paid_only (item_id) VALUES (218086);
-INSERT INTO item_paid_only (item_id) VALUES (218087);
-INSERT INTO item_paid_only (item_id) VALUES (218088);
-INSERT INTO item_paid_only (item_id) VALUES (218089);
-INSERT INTO item_paid_only (item_id) VALUES (218090);
-INSERT INTO item_paid_only (item_id) VALUES (218091);
-INSERT INTO item_paid_only (item_id) VALUES (218092);
-INSERT INTO item_paid_only (item_id) VALUES (218093);
-INSERT INTO item_paid_only (item_id) VALUES (218094);
-INSERT INTO item_paid_only (item_id) VALUES (218095);
-INSERT INTO item_paid_only (item_id) VALUES (218096);
-INSERT INTO item_paid_only (item_id) VALUES (218097);
-INSERT INTO item_paid_only (item_id) VALUES (218098);
-INSERT INTO item_paid_only (item_id) VALUES (218099);
-INSERT INTO item_paid_only (item_id) VALUES (218100);
-INSERT INTO item_paid_only (item_id) VALUES (218101);
-INSERT INTO item_paid_only (item_id) VALUES (218102);
-INSERT INTO item_paid_only (item_id) VALUES (218103);
-INSERT INTO item_paid_only (item_id) VALUES (218104);
-INSERT INTO item_paid_only (item_id) VALUES (218105);
-INSERT INTO item_paid_only (item_id) VALUES (218106);
-INSERT INTO item_paid_only (item_id) VALUES (218107);
-INSERT INTO item_paid_only (item_id) VALUES (218108);
-INSERT INTO item_paid_only (item_id) VALUES (218109);
-INSERT INTO item_paid_only (item_id) VALUES (218110);
-INSERT INTO item_paid_only (item_id) VALUES (218111);
-INSERT INTO item_paid_only (item_id) VALUES (218112);
-INSERT INTO item_paid_only (item_id) VALUES (218113);
-INSERT INTO item_paid_only (item_id) VALUES (218114);
-INSERT INTO item_paid_only (item_id) VALUES (218115);
-INSERT INTO item_paid_only (item_id) VALUES (218116);
-INSERT INTO item_paid_only (item_id) VALUES (218117);
-INSERT INTO item_paid_only (item_id) VALUES (218118);
-INSERT INTO item_paid_only (item_id) VALUES (218119);
-INSERT INTO item_paid_only (item_id) VALUES (218120);
-INSERT INTO item_paid_only (item_id) VALUES (218121);
-INSERT INTO item_paid_only (item_id) VALUES (218122);
-INSERT INTO item_paid_only (item_id) VALUES (218123);
-INSERT INTO item_paid_only (item_id) VALUES (218124);
-INSERT INTO item_paid_only (item_id) VALUES (218125);
-INSERT INTO item_paid_only (item_id) VALUES (218126);
-INSERT INTO item_paid_only (item_id) VALUES (218127);
-INSERT INTO item_paid_only (item_id) VALUES (218128);
-INSERT INTO item_paid_only (item_id) VALUES (218129);
-INSERT INTO item_paid_only (item_id) VALUES (218130);
-INSERT INTO item_paid_only (item_id) VALUES (218131);
-INSERT INTO item_paid_only (item_id) VALUES (218132);
-INSERT INTO item_paid_only (item_id) VALUES (218133);
-INSERT INTO item_paid_only (item_id) VALUES (218134);
-INSERT INTO item_paid_only (item_id) VALUES (218135);
-INSERT INTO item_paid_only (item_id) VALUES (218136);
-INSERT INTO item_paid_only (item_id) VALUES (218137);
-INSERT INTO item_paid_only (item_id) VALUES (218138);
-INSERT INTO item_paid_only (item_id) VALUES (218139);
-INSERT INTO item_paid_only (item_id) VALUES (218140);
-INSERT INTO item_paid_only (item_id) VALUES (218141);
-INSERT INTO item_paid_only (item_id) VALUES (218142);
-INSERT INTO item_paid_only (item_id) VALUES (218143);
-INSERT INTO item_paid_only (item_id) VALUES (218144);
-INSERT INTO item_paid_only (item_id) VALUES (218145);
-INSERT INTO item_paid_only (item_id) VALUES (218146);
-INSERT INTO item_paid_only (item_id) VALUES (218147);
-INSERT INTO item_paid_only (item_id) VALUES (218148);
-INSERT INTO item_paid_only (item_id) VALUES (218149);
-INSERT INTO item_paid_only (item_id) VALUES (218150);
-INSERT INTO item_paid_only (item_id) VALUES (218151);
-INSERT INTO item_paid_only (item_id) VALUES (218152);
-INSERT INTO item_paid_only (item_id) VALUES (218153);
-INSERT INTO item_paid_only (item_id) VALUES (218154);
-INSERT INTO item_paid_only (item_id) VALUES (218155);
-INSERT INTO item_paid_only (item_id) VALUES (218156);
-INSERT INTO item_paid_only (item_id) VALUES (218157);
-INSERT INTO item_paid_only (item_id) VALUES (218158);
-INSERT INTO item_paid_only (item_id) VALUES (218159);
-INSERT INTO item_paid_only (item_id) VALUES (218160);
-INSERT INTO item_paid_only (item_id) VALUES (218161);
-INSERT INTO item_paid_only (item_id) VALUES (218162);
-INSERT INTO item_paid_only (item_id) VALUES (218163);
-INSERT INTO item_paid_only (item_id) VALUES (218164);
-INSERT INTO item_paid_only (item_id) VALUES (218165);
-INSERT INTO item_paid_only (item_id) VALUES (218166);
-INSERT INTO item_paid_only (item_id) VALUES (218167);
-INSERT INTO item_paid_only (item_id) VALUES (218168);
-INSERT INTO item_paid_only (item_id) VALUES (218169);
-INSERT INTO item_paid_only (item_id) VALUES (218172);
-INSERT INTO item_paid_only (item_id) VALUES (218173);
-INSERT INTO item_paid_only (item_id) VALUES (218174);
-INSERT INTO item_paid_only (item_id) VALUES (218175);
-INSERT INTO item_paid_only (item_id) VALUES (218176);
-INSERT INTO item_paid_only (item_id) VALUES (218177);
-INSERT INTO item_paid_only (item_id) VALUES (218178);
-INSERT INTO item_paid_only (item_id) VALUES (218179);
-INSERT INTO item_paid_only (item_id) VALUES (218180);
-INSERT INTO item_paid_only (item_id) VALUES (218181);
-INSERT INTO item_paid_only (item_id) VALUES (218182);
-INSERT INTO item_paid_only (item_id) VALUES (218183);
-INSERT INTO item_paid_only (item_id) VALUES (218184);
-INSERT INTO item_paid_only (item_id) VALUES (218185);
-INSERT INTO item_paid_only (item_id) VALUES (218186);
-INSERT INTO item_paid_only (item_id) VALUES (218187);
-INSERT INTO item_paid_only (item_id) VALUES (218206);
-INSERT INTO item_paid_only (item_id) VALUES (218207);
-INSERT INTO item_paid_only (item_id) VALUES (218208);
-INSERT INTO item_paid_only (item_id) VALUES (218209);
-INSERT INTO item_paid_only (item_id) VALUES (218210);
-INSERT INTO item_paid_only (item_id) VALUES (218211);
-INSERT INTO item_paid_only (item_id) VALUES (218212);
-INSERT INTO item_paid_only (item_id) VALUES (218213);
-INSERT INTO item_paid_only (item_id) VALUES (218214);
-INSERT INTO item_paid_only (item_id) VALUES (218215);
-INSERT INTO item_paid_only (item_id) VALUES (218216);
-INSERT INTO item_paid_only (item_id) VALUES (218217);
-INSERT INTO item_paid_only (item_id) VALUES (218218);
-INSERT INTO item_paid_only (item_id) VALUES (218219);
-INSERT INTO item_paid_only (item_id) VALUES (218220);
-INSERT INTO item_paid_only (item_id) VALUES (218221);
-INSERT INTO item_paid_only (item_id) VALUES (218236);
-INSERT INTO item_paid_only (item_id) VALUES (218237);
-INSERT INTO item_paid_only (item_id) VALUES (218238);
-INSERT INTO item_paid_only (item_id) VALUES (218239);
-INSERT INTO item_paid_only (item_id) VALUES (218240);
-INSERT INTO item_paid_only (item_id) VALUES (218241);
-INSERT INTO item_paid_only (item_id) VALUES (218242);
-INSERT INTO item_paid_only (item_id) VALUES (218243);
-INSERT INTO item_paid_only (item_id) VALUES (218244);
-INSERT INTO item_paid_only (item_id) VALUES (218245);
-INSERT INTO item_paid_only (item_id) VALUES (218246);
-INSERT INTO item_paid_only (item_id) VALUES (218247);
-INSERT INTO item_paid_only (item_id) VALUES (218248);
-INSERT INTO item_paid_only (item_id) VALUES (218249);
-INSERT INTO item_paid_only (item_id) VALUES (218250);
-INSERT INTO item_paid_only (item_id) VALUES (218251);
-INSERT INTO item_paid_only (item_id) VALUES (218252);
-INSERT INTO item_paid_only (item_id) VALUES (218253);
-INSERT INTO item_paid_only (item_id) VALUES (218254);
-INSERT INTO item_paid_only (item_id) VALUES (218255);
-INSERT INTO item_paid_only (item_id) VALUES (218256);
-INSERT INTO item_paid_only (item_id) VALUES (218257);
-INSERT INTO item_paid_only (item_id) VALUES (218258);
-INSERT INTO item_paid_only (item_id) VALUES (218259);
-INSERT INTO item_paid_only (item_id) VALUES (218260);
-INSERT INTO item_paid_only (item_id) VALUES (218261);
-INSERT INTO item_paid_only (item_id) VALUES (218262);
-INSERT INTO item_paid_only (item_id) VALUES (218263);
-INSERT INTO item_paid_only (item_id) VALUES (218264);
-INSERT INTO item_paid_only (item_id) VALUES (218265);
-INSERT INTO item_paid_only (item_id) VALUES (218266);
-INSERT INTO item_paid_only (item_id) VALUES (218267);
-INSERT INTO item_paid_only (item_id) VALUES (218268);
-INSERT INTO item_paid_only (item_id) VALUES (218269);
-INSERT INTO item_paid_only (item_id) VALUES (218270);
-INSERT INTO item_paid_only (item_id) VALUES (218271);
-INSERT INTO item_paid_only (item_id) VALUES (218272);
-INSERT INTO item_paid_only (item_id) VALUES (218273);
-INSERT INTO item_paid_only (item_id) VALUES (218274);
-INSERT INTO item_paid_only (item_id) VALUES (218275);
-INSERT INTO item_paid_only (item_id) VALUES (218279);
-INSERT INTO item_paid_only (item_id) VALUES (218280);
-INSERT INTO item_paid_only (item_id) VALUES (218281);
-INSERT INTO item_paid_only (item_id) VALUES (218282);
-INSERT INTO item_paid_only (item_id) VALUES (218283);
-INSERT INTO item_paid_only (item_id) VALUES (218284);
-INSERT INTO item_paid_only (item_id) VALUES (218285);
-INSERT INTO item_paid_only (item_id) VALUES (218286);
-INSERT INTO item_paid_only (item_id) VALUES (218287);
-INSERT INTO item_paid_only (item_id) VALUES (218288);
-INSERT INTO item_paid_only (item_id) VALUES (218289);
-INSERT INTO item_paid_only (item_id) VALUES (218290);
-INSERT INTO item_paid_only (item_id) VALUES (218291);
-INSERT INTO item_paid_only (item_id) VALUES (218292);
-INSERT INTO item_paid_only (item_id) VALUES (218293);
-INSERT INTO item_paid_only (item_id) VALUES (218294);
-INSERT INTO item_paid_only (item_id) VALUES (218427);
-INSERT INTO item_paid_only (item_id) VALUES (218428);
-INSERT INTO item_paid_only (item_id) VALUES (218429);
-INSERT INTO item_paid_only (item_id) VALUES (218430);
-INSERT INTO item_paid_only (item_id) VALUES (218431);
-INSERT INTO item_paid_only (item_id) VALUES (218432);
-INSERT INTO item_paid_only (item_id) VALUES (218433);
-INSERT INTO item_paid_only (item_id) VALUES (218434);
-INSERT INTO item_paid_only (item_id) VALUES (218435);
-INSERT INTO item_paid_only (item_id) VALUES (218436);
-INSERT INTO item_paid_only (item_id) VALUES (218437);
-INSERT INTO item_paid_only (item_id) VALUES (218438);
-INSERT INTO item_paid_only (item_id) VALUES (218439);
-INSERT INTO item_paid_only (item_id) VALUES (218440);
-INSERT INTO item_paid_only (item_id) VALUES (218453);
-INSERT INTO item_paid_only (item_id) VALUES (218454);
-INSERT INTO item_paid_only (item_id) VALUES (218455);
-INSERT INTO item_paid_only (item_id) VALUES (218456);
-INSERT INTO item_paid_only (item_id) VALUES (218457);
-INSERT INTO item_paid_only (item_id) VALUES (218458);
-INSERT INTO item_paid_only (item_id) VALUES (218459);
-INSERT INTO item_paid_only (item_id) VALUES (218460);
-INSERT INTO item_paid_only (item_id) VALUES (218461);
-INSERT INTO item_paid_only (item_id) VALUES (218462);
-INSERT INTO item_paid_only (item_id) VALUES (218489);
-INSERT INTO item_paid_only (item_id) VALUES (218490);
-INSERT INTO item_paid_only (item_id) VALUES (218514);
-INSERT INTO item_paid_only (item_id) VALUES (218515);
-INSERT INTO item_paid_only (item_id) VALUES (218516);
-INSERT INTO item_paid_only (item_id) VALUES (218517);
-INSERT INTO item_paid_only (item_id) VALUES (218518);
-INSERT INTO item_paid_only (item_id) VALUES (218519);
-INSERT INTO item_paid_only (item_id) VALUES (218520);
-INSERT INTO item_paid_only (item_id) VALUES (218521);
-INSERT INTO item_paid_only (item_id) VALUES (218522);
-INSERT INTO item_paid_only (item_id) VALUES (218523);
-INSERT INTO item_paid_only (item_id) VALUES (218525);
-INSERT INTO item_paid_only (item_id) VALUES (218526);
-INSERT INTO item_paid_only (item_id) VALUES (218529);
-INSERT INTO item_paid_only (item_id) VALUES (218530);
-INSERT INTO item_paid_only (item_id) VALUES (218535);
-INSERT INTO item_paid_only (item_id) VALUES (218536);
-INSERT INTO item_paid_only (item_id) VALUES (218537);
-INSERT INTO item_paid_only (item_id) VALUES (218538);
-INSERT INTO item_paid_only (item_id) VALUES (218539);
-INSERT INTO item_paid_only (item_id) VALUES (218540);
-INSERT INTO item_paid_only (item_id) VALUES (218541);
-INSERT INTO item_paid_only (item_id) VALUES (218542);
-INSERT INTO item_paid_only (item_id) VALUES (218543);
-INSERT INTO item_paid_only (item_id) VALUES (218544);
-INSERT INTO item_paid_only (item_id) VALUES (218545);
-INSERT INTO item_paid_only (item_id) VALUES (218546);
-INSERT INTO item_paid_only (item_id) VALUES (218547);
-INSERT INTO item_paid_only (item_id) VALUES (218548);
-INSERT INTO item_paid_only (item_id) VALUES (218549);
-INSERT INTO item_paid_only (item_id) VALUES (218550);
-INSERT INTO item_paid_only (item_id) VALUES (218551);
-INSERT INTO item_paid_only (item_id) VALUES (218552);
-INSERT INTO item_paid_only (item_id) VALUES (218553);
-INSERT INTO item_paid_only (item_id) VALUES (218554);
-INSERT INTO item_paid_only (item_id) VALUES (218555);
-INSERT INTO item_paid_only (item_id) VALUES (218556);
-INSERT INTO item_paid_only (item_id) VALUES (218557);
-INSERT INTO item_paid_only (item_id) VALUES (218558);
-INSERT INTO item_paid_only (item_id) VALUES (218559);
-INSERT INTO item_paid_only (item_id) VALUES (218560);
-INSERT INTO item_paid_only (item_id) VALUES (218562);
-INSERT INTO item_paid_only (item_id) VALUES (218563);
-INSERT INTO item_paid_only (item_id) VALUES (218564);
-INSERT INTO item_paid_only (item_id) VALUES (218565);
-INSERT INTO item_paid_only (item_id) VALUES (218566);
-INSERT INTO item_paid_only (item_id) VALUES (218567);
-INSERT INTO item_paid_only (item_id) VALUES (218568);
-INSERT INTO item_paid_only (item_id) VALUES (218569);
-INSERT INTO item_paid_only (item_id) VALUES (218570);
-INSERT INTO item_paid_only (item_id) VALUES (218571);
-INSERT INTO item_paid_only (item_id) VALUES (218572);
-INSERT INTO item_paid_only (item_id) VALUES (218573);
-INSERT INTO item_paid_only (item_id) VALUES (218574);
-INSERT INTO item_paid_only (item_id) VALUES (218575);
-INSERT INTO item_paid_only (item_id) VALUES (218576);
-INSERT INTO item_paid_only (item_id) VALUES (218577);
-INSERT INTO item_paid_only (item_id) VALUES (218578);
-INSERT INTO item_paid_only (item_id) VALUES (218579);
-INSERT INTO item_paid_only (item_id) VALUES (218580);
-INSERT INTO item_paid_only (item_id) VALUES (218581);
-INSERT INTO item_paid_only (item_id) VALUES (218582);
-INSERT INTO item_paid_only (item_id) VALUES (218583);
-INSERT INTO item_paid_only (item_id) VALUES (218584);
-INSERT INTO item_paid_only (item_id) VALUES (218585);
-INSERT INTO item_paid_only (item_id) VALUES (218586);
-INSERT INTO item_paid_only (item_id) VALUES (218587);
-INSERT INTO item_paid_only (item_id) VALUES (218588);
-INSERT INTO item_paid_only (item_id) VALUES (218589);
-INSERT INTO item_paid_only (item_id) VALUES (218590);
-INSERT INTO item_paid_only (item_id) VALUES (218591);
-INSERT INTO item_paid_only (item_id) VALUES (218592);
-INSERT INTO item_paid_only (item_id) VALUES (218606);
-INSERT INTO item_paid_only (item_id) VALUES (218607);
-INSERT INTO item_paid_only (item_id) VALUES (218608);
-INSERT INTO item_paid_only (item_id) VALUES (218609);
-INSERT INTO item_paid_only (item_id) VALUES (218610);
-INSERT INTO item_paid_only (item_id) VALUES (218611);
-INSERT INTO item_paid_only (item_id) VALUES (218612);
-INSERT INTO item_paid_only (item_id) VALUES (218613);
-INSERT INTO item_paid_only (item_id) VALUES (218624);
-INSERT INTO item_paid_only (item_id) VALUES (218625);
-INSERT INTO item_paid_only (item_id) VALUES (218626);
-INSERT INTO item_paid_only (item_id) VALUES (218627);
-INSERT INTO item_paid_only (item_id) VALUES (218633);
-INSERT INTO item_paid_only (item_id) VALUES (218634);
-INSERT INTO item_paid_only (item_id) VALUES (218635);
-INSERT INTO item_paid_only (item_id) VALUES (218636);
-INSERT INTO item_paid_only (item_id) VALUES (218689);
-INSERT INTO item_paid_only (item_id) VALUES (218690);
-INSERT INTO item_paid_only (item_id) VALUES (218691);
-INSERT INTO item_paid_only (item_id) VALUES (218692);
-INSERT INTO item_paid_only (item_id) VALUES (218693);
-INSERT INTO item_paid_only (item_id) VALUES (218694);
-INSERT INTO item_paid_only (item_id) VALUES (218696);
-INSERT INTO item_paid_only (item_id) VALUES (218697);
-INSERT INTO item_paid_only (item_id) VALUES (218698);
-INSERT INTO item_paid_only (item_id) VALUES (218699);
-INSERT INTO item_paid_only (item_id) VALUES (218717);
-INSERT INTO item_paid_only (item_id) VALUES (218718);
-INSERT INTO item_paid_only (item_id) VALUES (218726);
-INSERT INTO item_paid_only (item_id) VALUES (218727);
-INSERT INTO item_paid_only (item_id) VALUES (218820);
-INSERT INTO item_paid_only (item_id) VALUES (218821);
-INSERT INTO item_paid_only (item_id) VALUES (218858);
-INSERT INTO item_paid_only (item_id) VALUES (218859);
-INSERT INTO item_paid_only (item_id) VALUES (218860);
-INSERT INTO item_paid_only (item_id) VALUES (218861);
-INSERT INTO item_paid_only (item_id) VALUES (218862);
-INSERT INTO item_paid_only (item_id) VALUES (218863);
-INSERT INTO item_paid_only (item_id) VALUES (218864);
-INSERT INTO item_paid_only (item_id) VALUES (218865);
-INSERT INTO item_paid_only (item_id) VALUES (218866);
-INSERT INTO item_paid_only (item_id) VALUES (218867);
-INSERT INTO item_paid_only (item_id) VALUES (218868);
-INSERT INTO item_paid_only (item_id) VALUES (218869);
-INSERT INTO item_paid_only (item_id) VALUES (218870);
-INSERT INTO item_paid_only (item_id) VALUES (218871);
-INSERT INTO item_paid_only (item_id) VALUES (218881);
-INSERT INTO item_paid_only (item_id) VALUES (218882);
-INSERT INTO item_paid_only (item_id) VALUES (218883);
-INSERT INTO item_paid_only (item_id) VALUES (218884);
-INSERT INTO item_paid_only (item_id) VALUES (218885);
-INSERT INTO item_paid_only (item_id) VALUES (218886);
-INSERT INTO item_paid_only (item_id) VALUES (218899);
-INSERT INTO item_paid_only (item_id) VALUES (218900);
-INSERT INTO item_paid_only (item_id) VALUES (218901);
-INSERT INTO item_paid_only (item_id) VALUES (218902);
-INSERT INTO item_paid_only (item_id) VALUES (218903);
-INSERT INTO item_paid_only (item_id) VALUES (218904);
-INSERT INTO item_paid_only (item_id) VALUES (218905);
-INSERT INTO item_paid_only (item_id) VALUES (218906);
-INSERT INTO item_paid_only (item_id) VALUES (218907);
-INSERT INTO item_paid_only (item_id) VALUES (218908);
-INSERT INTO item_paid_only (item_id) VALUES (218909);
-INSERT INTO item_paid_only (item_id) VALUES (218910);
-INSERT INTO item_paid_only (item_id) VALUES (218911);
-INSERT INTO item_paid_only (item_id) VALUES (218912);
-INSERT INTO item_paid_only (item_id) VALUES (218913);
-INSERT INTO item_paid_only (item_id) VALUES (218914);
-INSERT INTO item_paid_only (item_id) VALUES (218915);
-INSERT INTO item_paid_only (item_id) VALUES (218916);
-INSERT INTO item_paid_only (item_id) VALUES (218917);
-INSERT INTO item_paid_only (item_id) VALUES (218918);
-INSERT INTO item_paid_only (item_id) VALUES (218919);
-INSERT INTO item_paid_only (item_id) VALUES (218920);
-INSERT INTO item_paid_only (item_id) VALUES (218921);
-INSERT INTO item_paid_only (item_id) VALUES (218922);
-INSERT INTO item_paid_only (item_id) VALUES (218923);
-INSERT INTO item_paid_only (item_id) VALUES (218924);
-INSERT INTO item_paid_only (item_id) VALUES (218925);
-INSERT INTO item_paid_only (item_id) VALUES (218926);
-INSERT INTO item_paid_only (item_id) VALUES (218929);
-INSERT INTO item_paid_only (item_id) VALUES (218930);
-INSERT INTO item_paid_only (item_id) VALUES (218931);
-INSERT INTO item_paid_only (item_id) VALUES (218932);
-INSERT INTO item_paid_only (item_id) VALUES (218933);
-INSERT INTO item_paid_only (item_id) VALUES (218934);
-INSERT INTO item_paid_only (item_id) VALUES (218945);
-INSERT INTO item_paid_only (item_id) VALUES (218946);
-INSERT INTO item_paid_only (item_id) VALUES (218947);
-INSERT INTO item_paid_only (item_id) VALUES (218948);
-INSERT INTO item_paid_only (item_id) VALUES (218949);
-INSERT INTO item_paid_only (item_id) VALUES (218950);
-INSERT INTO item_paid_only (item_id) VALUES (218959);
-INSERT INTO item_paid_only (item_id) VALUES (218960);
-INSERT INTO item_paid_only (item_id) VALUES (218963);
-INSERT INTO item_paid_only (item_id) VALUES (218964);
-INSERT INTO item_paid_only (item_id) VALUES (218965);
-INSERT INTO item_paid_only (item_id) VALUES (218966);
-INSERT INTO item_paid_only (item_id) VALUES (218967);
-INSERT INTO item_paid_only (item_id) VALUES (218968);
-INSERT INTO item_paid_only (item_id) VALUES (218969);
-INSERT INTO item_paid_only (item_id) VALUES (218970);
-INSERT INTO item_paid_only (item_id) VALUES (219020);
-INSERT INTO item_paid_only (item_id) VALUES (219021);
-INSERT INTO item_paid_only (item_id) VALUES (219023);
-INSERT INTO item_paid_only (item_id) VALUES (219024);
-INSERT INTO item_paid_only (item_id) VALUES (219025);
-INSERT INTO item_paid_only (item_id) VALUES (219026);
-INSERT INTO item_paid_only (item_id) VALUES (219029);
-INSERT INTO item_paid_only (item_id) VALUES (219030);
-INSERT INTO item_paid_only (item_id) VALUES (219033);
-INSERT INTO item_paid_only (item_id) VALUES (219034);
-INSERT INTO item_paid_only (item_id) VALUES (219037);
-INSERT INTO item_paid_only (item_id) VALUES (219038);
-INSERT INTO item_paid_only (item_id) VALUES (219041);
-INSERT INTO item_paid_only (item_id) VALUES (219042);
-INSERT INTO item_paid_only (item_id) VALUES (219045);
-INSERT INTO item_paid_only (item_id) VALUES (219046);
-INSERT INTO item_paid_only (item_id) VALUES (219049);
-INSERT INTO item_paid_only (item_id) VALUES (219050);
-INSERT INTO item_paid_only (item_id) VALUES (219055);
-INSERT INTO item_paid_only (item_id) VALUES (219056);
-INSERT INTO item_paid_only (item_id) VALUES (219057);
-INSERT INTO item_paid_only (item_id) VALUES (219058);
-INSERT INTO item_paid_only (item_id) VALUES (219059);
-INSERT INTO item_paid_only (item_id) VALUES (219060);
-INSERT INTO item_paid_only (item_id) VALUES (219061);
-INSERT INTO item_paid_only (item_id) VALUES (219062);
-INSERT INTO item_paid_only (item_id) VALUES (219065);
-INSERT INTO item_paid_only (item_id) VALUES (219066);
-INSERT INTO item_paid_only (item_id) VALUES (219067);
-INSERT INTO item_paid_only (item_id) VALUES (219068);
-INSERT INTO item_paid_only (item_id) VALUES (219069);
-INSERT INTO item_paid_only (item_id) VALUES (219070);
-INSERT INTO item_paid_only (item_id) VALUES (219086);
-INSERT INTO item_paid_only (item_id) VALUES (219087);
-INSERT INTO item_paid_only (item_id) VALUES (219088);
-INSERT INTO item_paid_only (item_id) VALUES (219089);
-INSERT INTO item_paid_only (item_id) VALUES (219092);
-INSERT INTO item_paid_only (item_id) VALUES (219093);
-INSERT INTO item_paid_only (item_id) VALUES (219096);
-INSERT INTO item_paid_only (item_id) VALUES (219097);
-INSERT INTO item_paid_only (item_id) VALUES (219100);
-INSERT INTO item_paid_only (item_id) VALUES (219101);
-INSERT INTO item_paid_only (item_id) VALUES (219124);
-INSERT INTO item_paid_only (item_id) VALUES (219125);
-INSERT INTO item_paid_only (item_id) VALUES (219126);
-INSERT INTO item_paid_only (item_id) VALUES (219127);
-INSERT INTO item_paid_only (item_id) VALUES (219128);
-INSERT INTO item_paid_only (item_id) VALUES (219129);
-INSERT INTO item_paid_only (item_id) VALUES (219130);
-INSERT INTO item_paid_only (item_id) VALUES (219131);
-INSERT INTO item_paid_only (item_id) VALUES (219132);
-INSERT INTO item_paid_only (item_id) VALUES (219133);
-INSERT INTO item_paid_only (item_id) VALUES (219134);
-INSERT INTO item_paid_only (item_id) VALUES (219135);
-INSERT INTO item_paid_only (item_id) VALUES (219136);
-INSERT INTO item_paid_only (item_id) VALUES (219137);
-INSERT INTO item_paid_only (item_id) VALUES (219138);
-INSERT INTO item_paid_only (item_id) VALUES (219139);
-INSERT INTO item_paid_only (item_id) VALUES (219140);
-INSERT INTO item_paid_only (item_id) VALUES (220237);
-INSERT INTO item_paid_only (item_id) VALUES (220238);
-INSERT INTO item_paid_only (item_id) VALUES (220239);
-INSERT INTO item_paid_only (item_id) VALUES (220240);
-INSERT INTO item_paid_only (item_id) VALUES (220243);
-INSERT INTO item_paid_only (item_id) VALUES (220244);
-INSERT INTO item_paid_only (item_id) VALUES (220247);
-INSERT INTO item_paid_only (item_id) VALUES (220248);
-INSERT INTO item_paid_only (item_id) VALUES (220251);
-INSERT INTO item_paid_only (item_id) VALUES (220252);
-INSERT INTO item_paid_only (item_id) VALUES (220255);
-INSERT INTO item_paid_only (item_id) VALUES (220256);
-INSERT INTO item_paid_only (item_id) VALUES (220259);
-INSERT INTO item_paid_only (item_id) VALUES (220260);
-INSERT INTO item_paid_only (item_id) VALUES (220263);
-INSERT INTO item_paid_only (item_id) VALUES (220264);
-INSERT INTO item_paid_only (item_id) VALUES (220269);
-INSERT INTO item_paid_only (item_id) VALUES (220270);
-INSERT INTO item_paid_only (item_id) VALUES (220271);
-INSERT INTO item_paid_only (item_id) VALUES (220272);
-INSERT INTO item_paid_only (item_id) VALUES (220275);
-INSERT INTO item_paid_only (item_id) VALUES (220276);
-INSERT INTO item_paid_only (item_id) VALUES (220277);
-INSERT INTO item_paid_only (item_id) VALUES (220278);
-INSERT INTO item_paid_only (item_id) VALUES (220279);
-INSERT INTO item_paid_only (item_id) VALUES (220280);
-INSERT INTO item_paid_only (item_id) VALUES (220281);
-INSERT INTO item_paid_only (item_id) VALUES (220282);
-INSERT INTO item_paid_only (item_id) VALUES (220283);
-INSERT INTO item_paid_only (item_id) VALUES (220284);
-INSERT INTO item_paid_only (item_id) VALUES (220287);
-INSERT INTO item_paid_only (item_id) VALUES (220288);
-INSERT INTO item_paid_only (item_id) VALUES (220295);
-INSERT INTO item_paid_only (item_id) VALUES (220296);
-INSERT INTO item_paid_only (item_id) VALUES (220299);
-INSERT INTO item_paid_only (item_id) VALUES (220303);
-INSERT INTO item_paid_only (item_id) VALUES (220304);
-INSERT INTO item_paid_only (item_id) VALUES (220305);
-INSERT INTO item_paid_only (item_id) VALUES (220306);
-INSERT INTO item_paid_only (item_id) VALUES (220307);
-INSERT INTO item_paid_only (item_id) VALUES (220308);
-INSERT INTO item_paid_only (item_id) VALUES (220310);
-INSERT INTO item_paid_only (item_id) VALUES (220311);
-INSERT INTO item_paid_only (item_id) VALUES (220313);
-INSERT INTO item_paid_only (item_id) VALUES (220314);
-INSERT INTO item_paid_only (item_id) VALUES (220315);
-INSERT INTO item_paid_only (item_id) VALUES (220316);
-INSERT INTO item_paid_only (item_id) VALUES (220317);
-INSERT INTO item_paid_only (item_id) VALUES (220318);
-INSERT INTO item_paid_only (item_id) VALUES (220331);
-INSERT INTO item_paid_only (item_id) VALUES (220332);
-INSERT INTO item_paid_only (item_id) VALUES (220333);
-INSERT INTO item_paid_only (item_id) VALUES (220334);
-INSERT INTO item_paid_only (item_id) VALUES (220335);
-INSERT INTO item_paid_only (item_id) VALUES (220336);
-INSERT INTO item_paid_only (item_id) VALUES (220337);
-INSERT INTO item_paid_only (item_id) VALUES (220338);
-INSERT INTO item_paid_only (item_id) VALUES (220339);
-INSERT INTO item_paid_only (item_id) VALUES (220340);
-INSERT INTO item_paid_only (item_id) VALUES (220341);
-INSERT INTO item_paid_only (item_id) VALUES (220342);
-INSERT INTO item_paid_only (item_id) VALUES (220343);
-INSERT INTO item_paid_only (item_id) VALUES (220344);
-INSERT INTO item_paid_only (item_id) VALUES (220345);
-INSERT INTO item_paid_only (item_id) VALUES (220346);
-INSERT INTO item_paid_only (item_id) VALUES (220347);
-INSERT INTO item_paid_only (item_id) VALUES (220348);
-INSERT INTO item_paid_only (item_id) VALUES (220349);
-INSERT INTO item_paid_only (item_id) VALUES (220350);
-INSERT INTO item_paid_only (item_id) VALUES (220442);
-INSERT INTO item_paid_only (item_id) VALUES (220447);
-INSERT INTO item_paid_only (item_id) VALUES (220450);
-INSERT INTO item_paid_only (item_id) VALUES (220453);
-INSERT INTO item_paid_only (item_id) VALUES (220455);
-INSERT INTO item_paid_only (item_id) VALUES (220456);
-INSERT INTO item_paid_only (item_id) VALUES (220457);
-INSERT INTO item_paid_only (item_id) VALUES (220461);
-INSERT INTO item_paid_only (item_id) VALUES (220463);
-INSERT INTO item_paid_only (item_id) VALUES (220465);
-INSERT INTO item_paid_only (item_id) VALUES (220471);
-INSERT INTO item_paid_only (item_id) VALUES (220473);
-INSERT INTO item_paid_only (item_id) VALUES (220476);
-INSERT INTO item_paid_only (item_id) VALUES (220480);
-INSERT INTO item_paid_only (item_id) VALUES (220490);
-INSERT INTO item_paid_only (item_id) VALUES (220495);
-INSERT INTO item_paid_only (item_id) VALUES (220497);
-INSERT INTO item_paid_only (item_id) VALUES (220499);
-INSERT INTO item_paid_only (item_id) VALUES (220500);
-INSERT INTO item_paid_only (item_id) VALUES (220502);
-INSERT INTO item_paid_only (item_id) VALUES (220503);
-INSERT INTO item_paid_only (item_id) VALUES (220504);
-INSERT INTO item_paid_only (item_id) VALUES (220508);
-INSERT INTO item_paid_only (item_id) VALUES (220515);
-INSERT INTO item_paid_only (item_id) VALUES (220518);
-INSERT INTO item_paid_only (item_id) VALUES (220521);
-INSERT INTO item_paid_only (item_id) VALUES (220524);
-INSERT INTO item_paid_only (item_id) VALUES (220525);
-INSERT INTO item_paid_only (item_id) VALUES (220526);
-INSERT INTO item_paid_only (item_id) VALUES (220527);
-INSERT INTO item_paid_only (item_id) VALUES (220528);
-INSERT INTO item_paid_only (item_id) VALUES (220534);
-INSERT INTO item_paid_only (item_id) VALUES (220539);
-INSERT INTO item_paid_only (item_id) VALUES (220544);
-INSERT INTO item_paid_only (item_id) VALUES (220545);
-INSERT INTO item_paid_only (item_id) VALUES (220571);
-INSERT INTO item_paid_only (item_id) VALUES (220593);
-INSERT INTO item_paid_only (item_id) VALUES (220598);
-INSERT INTO item_paid_only (item_id) VALUES (220606);
-INSERT INTO item_paid_only (item_id) VALUES (220611);
-INSERT INTO item_paid_only (item_id) VALUES (220612);
-INSERT INTO item_paid_only (item_id) VALUES (220620);
-INSERT INTO item_paid_only (item_id) VALUES (220629);
-INSERT INTO item_paid_only (item_id) VALUES (220630);
-INSERT INTO item_paid_only (item_id) VALUES (220631);
-INSERT INTO item_paid_only (item_id) VALUES (220639);
-INSERT INTO item_paid_only (item_id) VALUES (220645);
-INSERT INTO item_paid_only (item_id) VALUES (220649);
-INSERT INTO item_paid_only (item_id) VALUES (220651);
-INSERT INTO item_paid_only (item_id) VALUES (220653);
-INSERT INTO item_paid_only (item_id) VALUES (220657);
-INSERT INTO item_paid_only (item_id) VALUES (220663);
-INSERT INTO item_paid_only (item_id) VALUES (220677);
-INSERT INTO item_paid_only (item_id) VALUES (220681);
-INSERT INTO item_paid_only (item_id) VALUES (220683);
-INSERT INTO item_paid_only (item_id) VALUES (220692);
-INSERT INTO item_paid_only (item_id) VALUES (220693);
-INSERT INTO item_paid_only (item_id) VALUES (220697);
-INSERT INTO item_paid_only (item_id) VALUES (220702);
-INSERT INTO item_paid_only (item_id) VALUES (220727);
-INSERT INTO item_paid_only (item_id) VALUES (220729);
-INSERT INTO item_paid_only (item_id) VALUES (220733);
-INSERT INTO item_paid_only (item_id) VALUES (220736);
-INSERT INTO item_paid_only (item_id) VALUES (220750);
-INSERT INTO item_paid_only (item_id) VALUES (220756);
-INSERT INTO item_paid_only (item_id) VALUES (220758);
-INSERT INTO item_paid_only (item_id) VALUES (220764);
-INSERT INTO item_paid_only (item_id) VALUES (220765);
-INSERT INTO item_paid_only (item_id) VALUES (220769);
-INSERT INTO item_paid_only (item_id) VALUES (220773);
-INSERT INTO item_paid_only (item_id) VALUES (220786);
-INSERT INTO item_paid_only (item_id) VALUES (220787);
-INSERT INTO item_paid_only (item_id) VALUES (220794);
-INSERT INTO item_paid_only (item_id) VALUES (220795);
-INSERT INTO item_paid_only (item_id) VALUES (220799);
-INSERT INTO item_paid_only (item_id) VALUES (220805);
-INSERT INTO item_paid_only (item_id) VALUES (220826);
-INSERT INTO item_paid_only (item_id) VALUES (220836);
-INSERT INTO item_paid_only (item_id) VALUES (220837);
-INSERT INTO item_paid_only (item_id) VALUES (220839);
-INSERT INTO item_paid_only (item_id) VALUES (220845);
-INSERT INTO item_paid_only (item_id) VALUES (220849);
-INSERT INTO item_paid_only (item_id) VALUES (220855);
-INSERT INTO item_paid_only (item_id) VALUES (220886);
-INSERT INTO item_paid_only (item_id) VALUES (220888);
-INSERT INTO item_paid_only (item_id) VALUES (220895);
-INSERT INTO item_paid_only (item_id) VALUES (220900);
-INSERT INTO item_paid_only (item_id) VALUES (220929);
-INSERT INTO item_paid_only (item_id) VALUES (220933);
-INSERT INTO item_paid_only (item_id) VALUES (220935);
-INSERT INTO item_paid_only (item_id) VALUES (220945);
-INSERT INTO item_paid_only (item_id) VALUES (220948);
-INSERT INTO item_paid_only (item_id) VALUES (220950);
-INSERT INTO item_paid_only (item_id) VALUES (220951);
-INSERT INTO item_paid_only (item_id) VALUES (220955);
-INSERT INTO item_paid_only (item_id) VALUES (220961);
-INSERT INTO item_paid_only (item_id) VALUES (220963);
-INSERT INTO item_paid_only (item_id) VALUES (220965);
-INSERT INTO item_paid_only (item_id) VALUES (220967);
-INSERT INTO item_paid_only (item_id) VALUES (220978);
-INSERT INTO item_paid_only (item_id) VALUES (220981);
-INSERT INTO item_paid_only (item_id) VALUES (220982);
-INSERT INTO item_paid_only (item_id) VALUES (220984);
-INSERT INTO item_paid_only (item_id) VALUES (220987);
-INSERT INTO item_paid_only (item_id) VALUES (220990);
-INSERT INTO item_paid_only (item_id) VALUES (220995);
-INSERT INTO item_paid_only (item_id) VALUES (221005);
-INSERT INTO item_paid_only (item_id) VALUES (221008);
-INSERT INTO item_paid_only (item_id) VALUES (221039);
-INSERT INTO item_paid_only (item_id) VALUES (221045);
-INSERT INTO item_paid_only (item_id) VALUES (221049);
-INSERT INTO item_paid_only (item_id) VALUES (221055);
-INSERT INTO item_paid_only (item_id) VALUES (221059);
-INSERT INTO item_paid_only (item_id) VALUES (221060);
-INSERT INTO item_paid_only (item_id) VALUES (221062);
-INSERT INTO item_paid_only (item_id) VALUES (221063);
-INSERT INTO item_paid_only (item_id) VALUES (221073);
-INSERT INTO item_paid_only (item_id) VALUES (221081);
-INSERT INTO item_paid_only (item_id) VALUES (221087);
-INSERT INTO item_paid_only (item_id) VALUES (221090);
-INSERT INTO item_paid_only (item_id) VALUES (221094);
-INSERT INTO item_paid_only (item_id) VALUES (221117);
-INSERT INTO item_paid_only (item_id) VALUES (221118);
-INSERT INTO item_paid_only (item_id) VALUES (221128);
-INSERT INTO item_paid_only (item_id) VALUES (221131);
-INSERT INTO item_paid_only (item_id) VALUES (221132);
-INSERT INTO item_paid_only (item_id) VALUES (221134);
-INSERT INTO item_paid_only (item_id) VALUES (221136);
-INSERT INTO item_paid_only (item_id) VALUES (221144);
-INSERT INTO item_paid_only (item_id) VALUES (221149);
-INSERT INTO item_paid_only (item_id) VALUES (221159);
-INSERT INTO item_paid_only (item_id) VALUES (221175);
-INSERT INTO item_paid_only (item_id) VALUES (221177);
-INSERT INTO item_paid_only (item_id) VALUES (221185);
-INSERT INTO item_paid_only (item_id) VALUES (221186);
-INSERT INTO item_paid_only (item_id) VALUES (221188);
-INSERT INTO item_paid_only (item_id) VALUES (221194);
-INSERT INTO item_paid_only (item_id) VALUES (221196);
-INSERT INTO item_paid_only (item_id) VALUES (221198);
-INSERT INTO item_paid_only (item_id) VALUES (221200);
-INSERT INTO item_paid_only (item_id) VALUES (221203);
-INSERT INTO item_paid_only (item_id) VALUES (221204);
-INSERT INTO item_paid_only (item_id) VALUES (221211);
-INSERT INTO item_paid_only (item_id) VALUES (221217);
-INSERT INTO item_paid_only (item_id) VALUES (221218);
-INSERT INTO item_paid_only (item_id) VALUES (221222);
-INSERT INTO item_paid_only (item_id) VALUES (221223);
-INSERT INTO item_paid_only (item_id) VALUES (221225);
-INSERT INTO item_paid_only (item_id) VALUES (221229);
-INSERT INTO item_paid_only (item_id) VALUES (221231);
-INSERT INTO item_paid_only (item_id) VALUES (221235);
-INSERT INTO item_paid_only (item_id) VALUES (221236);
-INSERT INTO item_paid_only (item_id) VALUES (221237);
-INSERT INTO item_paid_only (item_id) VALUES (221238);
-INSERT INTO item_paid_only (item_id) VALUES (221240);
-INSERT INTO item_paid_only (item_id) VALUES (221255);
-INSERT INTO item_paid_only (item_id) VALUES (221265);
-INSERT INTO item_paid_only (item_id) VALUES (221266);
-INSERT INTO item_paid_only (item_id) VALUES (221267);
-INSERT INTO item_paid_only (item_id) VALUES (221268);
-INSERT INTO item_paid_only (item_id) VALUES (221269);
-INSERT INTO item_paid_only (item_id) VALUES (221270);
-INSERT INTO item_paid_only (item_id) VALUES (221277);
-INSERT INTO item_paid_only (item_id) VALUES (221278);
-INSERT INTO item_paid_only (item_id) VALUES (221280);
-INSERT INTO item_paid_only (item_id) VALUES (221290);
-INSERT INTO item_paid_only (item_id) VALUES (221291);
-INSERT INTO item_paid_only (item_id) VALUES (221293);
-INSERT INTO item_paid_only (item_id) VALUES (221300);
-INSERT INTO item_paid_only (item_id) VALUES (221302);
-INSERT INTO item_paid_only (item_id) VALUES (221304);
-INSERT INTO item_paid_only (item_id) VALUES (221306);
-INSERT INTO item_paid_only (item_id) VALUES (221307);
-INSERT INTO item_paid_only (item_id) VALUES (221308);
-INSERT INTO item_paid_only (item_id) VALUES (221309);
-INSERT INTO item_paid_only (item_id) VALUES (221310);
-INSERT INTO item_paid_only (item_id) VALUES (221311);
-INSERT INTO item_paid_only (item_id) VALUES (221314);
-INSERT INTO item_paid_only (item_id) VALUES (221367);
-INSERT INTO item_paid_only (item_id) VALUES (221451);
-INSERT INTO item_paid_only (item_id) VALUES (221453);
-INSERT INTO item_paid_only (item_id) VALUES (221456);
-INSERT INTO item_paid_only (item_id) VALUES (221457);
-INSERT INTO item_paid_only (item_id) VALUES (221462);
-INSERT INTO item_paid_only (item_id) VALUES (221463);
-INSERT INTO item_paid_only (item_id) VALUES (221467);
-INSERT INTO item_paid_only (item_id) VALUES (221469);
-INSERT INTO item_paid_only (item_id) VALUES (221471);
-INSERT INTO item_paid_only (item_id) VALUES (221472);
-INSERT INTO item_paid_only (item_id) VALUES (221477);
-INSERT INTO item_paid_only (item_id) VALUES (221478);
-INSERT INTO item_paid_only (item_id) VALUES (221483);
-INSERT INTO item_paid_only (item_id) VALUES (221484);
-INSERT INTO item_paid_only (item_id) VALUES (221486);
-INSERT INTO item_paid_only (item_id) VALUES (221487);
-INSERT INTO item_paid_only (item_id) VALUES (221551);
-INSERT INTO item_paid_only (item_id) VALUES (221573);
-INSERT INTO item_paid_only (item_id) VALUES (221580);
-INSERT INTO item_paid_only (item_id) VALUES (221582);
-INSERT INTO item_paid_only (item_id) VALUES (221586);
-INSERT INTO item_paid_only (item_id) VALUES (221606);
-INSERT INTO item_paid_only (item_id) VALUES (221622);
-INSERT INTO item_paid_only (item_id) VALUES (221625);
-INSERT INTO item_paid_only (item_id) VALUES (221628);
-INSERT INTO item_paid_only (item_id) VALUES (221629);
-INSERT INTO item_paid_only (item_id) VALUES (221634);
-INSERT INTO item_paid_only (item_id) VALUES (221636);
-INSERT INTO item_paid_only (item_id) VALUES (221638);
-INSERT INTO item_paid_only (item_id) VALUES (221639);
-INSERT INTO item_paid_only (item_id) VALUES (221649);
-INSERT INTO item_paid_only (item_id) VALUES (221653);
-INSERT INTO item_paid_only (item_id) VALUES (221674);
-INSERT INTO item_paid_only (item_id) VALUES (221682);
-INSERT INTO item_paid_only (item_id) VALUES (221685);
-INSERT INTO item_paid_only (item_id) VALUES (221696);
-INSERT INTO item_paid_only (item_id) VALUES (221707);
-INSERT INTO item_paid_only (item_id) VALUES (221708);
-INSERT INTO item_paid_only (item_id) VALUES (221712);
-INSERT INTO item_paid_only (item_id) VALUES (221717);
-INSERT INTO item_paid_only (item_id) VALUES (221726);
-INSERT INTO item_paid_only (item_id) VALUES (221727);
-INSERT INTO item_paid_only (item_id) VALUES (221730);
-INSERT INTO item_paid_only (item_id) VALUES (221732);
-INSERT INTO item_paid_only (item_id) VALUES (221740);
-INSERT INTO item_paid_only (item_id) VALUES (221741);
-INSERT INTO item_paid_only (item_id) VALUES (221748);
-INSERT INTO item_paid_only (item_id) VALUES (221750);
-INSERT INTO item_paid_only (item_id) VALUES (221757);
-INSERT INTO item_paid_only (item_id) VALUES (221768);
-INSERT INTO item_paid_only (item_id) VALUES (221777);
-INSERT INTO item_paid_only (item_id) VALUES (221779);
-INSERT INTO item_paid_only (item_id) VALUES (221789);
-INSERT INTO item_paid_only (item_id) VALUES (221790);
-INSERT INTO item_paid_only (item_id) VALUES (221794);
-INSERT INTO item_paid_only (item_id) VALUES (221809);
-INSERT INTO item_paid_only (item_id) VALUES (221818);
-INSERT INTO item_paid_only (item_id) VALUES (221831);
-INSERT INTO item_paid_only (item_id) VALUES (221833);
-INSERT INTO item_paid_only (item_id) VALUES (221850);
-INSERT INTO item_paid_only (item_id) VALUES (221859);
-INSERT INTO item_paid_only (item_id) VALUES (221861);
-INSERT INTO item_paid_only (item_id) VALUES (221863);
-INSERT INTO item_paid_only (item_id) VALUES (221871);
-INSERT INTO item_paid_only (item_id) VALUES (221879);
-INSERT INTO item_paid_only (item_id) VALUES (221891);
-INSERT INTO item_paid_only (item_id) VALUES (221899);
-INSERT INTO item_paid_only (item_id) VALUES (221901);
-INSERT INTO item_paid_only (item_id) VALUES (221902);
-INSERT INTO item_paid_only (item_id) VALUES (221903);
-INSERT INTO item_paid_only (item_id) VALUES (221905);
-INSERT INTO item_paid_only (item_id) VALUES (221906);
-INSERT INTO item_paid_only (item_id) VALUES (221907);
-INSERT INTO item_paid_only (item_id) VALUES (221908);
-INSERT INTO item_paid_only (item_id) VALUES (221910);
-INSERT INTO item_paid_only (item_id) VALUES (221917);
-INSERT INTO item_paid_only (item_id) VALUES (221920);
-INSERT INTO item_paid_only (item_id) VALUES (221921);
-INSERT INTO item_paid_only (item_id) VALUES (221924);
-INSERT INTO item_paid_only (item_id) VALUES (221925);
-INSERT INTO item_paid_only (item_id) VALUES (221930);
-INSERT INTO item_paid_only (item_id) VALUES (221931);
-INSERT INTO item_paid_only (item_id) VALUES (221932);
-INSERT INTO item_paid_only (item_id) VALUES (221933);
-INSERT INTO item_paid_only (item_id) VALUES (221938);
-INSERT INTO item_paid_only (item_id) VALUES (221939);
-INSERT INTO item_paid_only (item_id) VALUES (221940);
-INSERT INTO item_paid_only (item_id) VALUES (221941);
-INSERT INTO item_paid_only (item_id) VALUES (221942);
-INSERT INTO item_paid_only (item_id) VALUES (221943);
-INSERT INTO item_paid_only (item_id) VALUES (221944);
-INSERT INTO item_paid_only (item_id) VALUES (221945);
-INSERT INTO item_paid_only (item_id) VALUES (221947);
-INSERT INTO item_paid_only (item_id) VALUES (221950);
-INSERT INTO item_paid_only (item_id) VALUES (221952);
-INSERT INTO item_paid_only (item_id) VALUES (221956);
-INSERT INTO item_paid_only (item_id) VALUES (221961);
-INSERT INTO item_paid_only (item_id) VALUES (221965);
-INSERT INTO item_paid_only (item_id) VALUES (221974);
-INSERT INTO item_paid_only (item_id) VALUES (221975);
-INSERT INTO item_paid_only (item_id) VALUES (221979);
-INSERT INTO item_paid_only (item_id) VALUES (221980);
-INSERT INTO item_paid_only (item_id) VALUES (221984);
-INSERT INTO item_paid_only (item_id) VALUES (221990);
-INSERT INTO item_paid_only (item_id) VALUES (221996);
-INSERT INTO item_paid_only (item_id) VALUES (222010);
-INSERT INTO item_paid_only (item_id) VALUES (222013);
-INSERT INTO item_paid_only (item_id) VALUES (222014);
-INSERT INTO item_paid_only (item_id) VALUES (222027);
-INSERT INTO item_paid_only (item_id) VALUES (222031);
-INSERT INTO item_paid_only (item_id) VALUES (222039);
-INSERT INTO item_paid_only (item_id) VALUES (222040);
-INSERT INTO item_paid_only (item_id) VALUES (222053);
-INSERT INTO item_paid_only (item_id) VALUES (222060);
-INSERT INTO item_paid_only (item_id) VALUES (222061);
-INSERT INTO item_paid_only (item_id) VALUES (222065);
-INSERT INTO item_paid_only (item_id) VALUES (222072);
-INSERT INTO item_paid_only (item_id) VALUES (222098);
-INSERT INTO item_paid_only (item_id) VALUES (222111);
-INSERT INTO item_paid_only (item_id) VALUES (222112);
-INSERT INTO item_paid_only (item_id) VALUES (222113);
-INSERT INTO item_paid_only (item_id) VALUES (222116);
-INSERT INTO item_paid_only (item_id) VALUES (222118);
-INSERT INTO item_paid_only (item_id) VALUES (222127);
-INSERT INTO item_paid_only (item_id) VALUES (222131);
-INSERT INTO item_paid_only (item_id) VALUES (222136);
-INSERT INTO item_paid_only (item_id) VALUES (222157);
-INSERT INTO item_paid_only (item_id) VALUES (222160);
-INSERT INTO item_paid_only (item_id) VALUES (222171);
-INSERT INTO item_paid_only (item_id) VALUES (222175);
-INSERT INTO item_paid_only (item_id) VALUES (222176);
-INSERT INTO item_paid_only (item_id) VALUES (222177);
-INSERT INTO item_paid_only (item_id) VALUES (222185);
-INSERT INTO item_paid_only (item_id) VALUES (222188);
-INSERT INTO item_paid_only (item_id) VALUES (222191);
-INSERT INTO item_paid_only (item_id) VALUES (222194);
-INSERT INTO item_paid_only (item_id) VALUES (222195);
-INSERT INTO item_paid_only (item_id) VALUES (222199);
-INSERT INTO item_paid_only (item_id) VALUES (222201);
-INSERT INTO item_paid_only (item_id) VALUES (222203);
-INSERT INTO item_paid_only (item_id) VALUES (222204);
-INSERT INTO item_paid_only (item_id) VALUES (222205);
-INSERT INTO item_paid_only (item_id) VALUES (222206);
-INSERT INTO item_paid_only (item_id) VALUES (222224);
-INSERT INTO item_paid_only (item_id) VALUES (222225);
-INSERT INTO item_paid_only (item_id) VALUES (222244);
-INSERT INTO item_paid_only (item_id) VALUES (222248);
-INSERT INTO item_paid_only (item_id) VALUES (222249);
-INSERT INTO item_paid_only (item_id) VALUES (222254);
-INSERT INTO item_paid_only (item_id) VALUES (222273);
-INSERT INTO item_paid_only (item_id) VALUES (222274);
-INSERT INTO item_paid_only (item_id) VALUES (222279);
-INSERT INTO item_paid_only (item_id) VALUES (222280);
-INSERT INTO item_paid_only (item_id) VALUES (222281);
-INSERT INTO item_paid_only (item_id) VALUES (222282);
-INSERT INTO item_paid_only (item_id) VALUES (222283);
-INSERT INTO item_paid_only (item_id) VALUES (222284);
-INSERT INTO item_paid_only (item_id) VALUES (222285);
-INSERT INTO item_paid_only (item_id) VALUES (222286);
-INSERT INTO item_paid_only (item_id) VALUES (222287);
-INSERT INTO item_paid_only (item_id) VALUES (222288);
-INSERT INTO item_paid_only (item_id) VALUES (222289);
-INSERT INTO item_paid_only (item_id) VALUES (222291);
-INSERT INTO item_paid_only (item_id) VALUES (222327);
-INSERT INTO item_paid_only (item_id) VALUES (222328);
-INSERT INTO item_paid_only (item_id) VALUES (222329);
-INSERT INTO item_paid_only (item_id) VALUES (222330);
-INSERT INTO item_paid_only (item_id) VALUES (222331);
-INSERT INTO item_paid_only (item_id) VALUES (222332);
-INSERT INTO item_paid_only (item_id) VALUES (222333);
-INSERT INTO item_paid_only (item_id) VALUES (222334);
-INSERT INTO item_paid_only (item_id) VALUES (222335);
-INSERT INTO item_paid_only (item_id) VALUES (222336);
-INSERT INTO item_paid_only (item_id) VALUES (222337);
-INSERT INTO item_paid_only (item_id) VALUES (222338);
-INSERT INTO item_paid_only (item_id) VALUES (222339);
-INSERT INTO item_paid_only (item_id) VALUES (222340);
-INSERT INTO item_paid_only (item_id) VALUES (222341);
-INSERT INTO item_paid_only (item_id) VALUES (222342);
-INSERT INTO item_paid_only (item_id) VALUES (222343);
-INSERT INTO item_paid_only (item_id) VALUES (222344);
-INSERT INTO item_paid_only (item_id) VALUES (222345);
-INSERT INTO item_paid_only (item_id) VALUES (222346);
-INSERT INTO item_paid_only (item_id) VALUES (222382);
-INSERT INTO item_paid_only (item_id) VALUES (222383);
-INSERT INTO item_paid_only (item_id) VALUES (222384);
-INSERT INTO item_paid_only (item_id) VALUES (222385);
-INSERT INTO item_paid_only (item_id) VALUES (222386);
-INSERT INTO item_paid_only (item_id) VALUES (222387);
-INSERT INTO item_paid_only (item_id) VALUES (222388);
-INSERT INTO item_paid_only (item_id) VALUES (222389);
-INSERT INTO item_paid_only (item_id) VALUES (222390);
-INSERT INTO item_paid_only (item_id) VALUES (222391);
-INSERT INTO item_paid_only (item_id) VALUES (222392);
-INSERT INTO item_paid_only (item_id) VALUES (222393);
-INSERT INTO item_paid_only (item_id) VALUES (222394);
-INSERT INTO item_paid_only (item_id) VALUES (222395);
-INSERT INTO item_paid_only (item_id) VALUES (222435);
-INSERT INTO item_paid_only (item_id) VALUES (222436);
-INSERT INTO item_paid_only (item_id) VALUES (222437);
-INSERT INTO item_paid_only (item_id) VALUES (222438);
-INSERT INTO item_paid_only (item_id) VALUES (222439);
-INSERT INTO item_paid_only (item_id) VALUES (222440);
-INSERT INTO item_paid_only (item_id) VALUES (222441);
-INSERT INTO item_paid_only (item_id) VALUES (222442);
-INSERT INTO item_paid_only (item_id) VALUES (222443);
-INSERT INTO item_paid_only (item_id) VALUES (222444);
-INSERT INTO item_paid_only (item_id) VALUES (222445);
-INSERT INTO item_paid_only (item_id) VALUES (222446);
-INSERT INTO item_paid_only (item_id) VALUES (222447);
-INSERT INTO item_paid_only (item_id) VALUES (222448);
-INSERT INTO item_paid_only (item_id) VALUES (222449);
-INSERT INTO item_paid_only (item_id) VALUES (222495);
-INSERT INTO item_paid_only (item_id) VALUES (222498);
-INSERT INTO item_paid_only (item_id) VALUES (222509);
-INSERT INTO item_paid_only (item_id) VALUES (222525);
-INSERT INTO item_paid_only (item_id) VALUES (222526);
-INSERT INTO item_paid_only (item_id) VALUES (222527);
-INSERT INTO item_paid_only (item_id) VALUES (222528);
-INSERT INTO item_paid_only (item_id) VALUES (222529);
-INSERT INTO item_paid_only (item_id) VALUES (222541);
-INSERT INTO item_paid_only (item_id) VALUES (222542);
-INSERT INTO item_paid_only (item_id) VALUES (222543);
-INSERT INTO item_paid_only (item_id) VALUES (222544);
-INSERT INTO item_paid_only (item_id) VALUES (222545);
-INSERT INTO item_paid_only (item_id) VALUES (222546);
-INSERT INTO item_paid_only (item_id) VALUES (222547);
-INSERT INTO item_paid_only (item_id) VALUES (222548);
-INSERT INTO item_paid_only (item_id) VALUES (222549);
-INSERT INTO item_paid_only (item_id) VALUES (222550);
-INSERT INTO item_paid_only (item_id) VALUES (222551);
-INSERT INTO item_paid_only (item_id) VALUES (222552);
-INSERT INTO item_paid_only (item_id) VALUES (222553);
-INSERT INTO item_paid_only (item_id) VALUES (222554);
-INSERT INTO item_paid_only (item_id) VALUES (222555);
-INSERT INTO item_paid_only (item_id) VALUES (222556);
-INSERT INTO item_paid_only (item_id) VALUES (222557);
-INSERT INTO item_paid_only (item_id) VALUES (222558);
-INSERT INTO item_paid_only (item_id) VALUES (222559);
-INSERT INTO item_paid_only (item_id) VALUES (222560);
-INSERT INTO item_paid_only (item_id) VALUES (222561);
-INSERT INTO item_paid_only (item_id) VALUES (222562);
-INSERT INTO item_paid_only (item_id) VALUES (222563);
-INSERT INTO item_paid_only (item_id) VALUES (222564);
-INSERT INTO item_paid_only (item_id) VALUES (222565);
-INSERT INTO item_paid_only (item_id) VALUES (222566);
-INSERT INTO item_paid_only (item_id) VALUES (222567);
-INSERT INTO item_paid_only (item_id) VALUES (222568);
-INSERT INTO item_paid_only (item_id) VALUES (222569);
-INSERT INTO item_paid_only (item_id) VALUES (222570);
-INSERT INTO item_paid_only (item_id) VALUES (222571);
-INSERT INTO item_paid_only (item_id) VALUES (222572);
-INSERT INTO item_paid_only (item_id) VALUES (222573);
-INSERT INTO item_paid_only (item_id) VALUES (222574);
-INSERT INTO item_paid_only (item_id) VALUES (222575);
-INSERT INTO item_paid_only (item_id) VALUES (222576);
-INSERT INTO item_paid_only (item_id) VALUES (222577);
-INSERT INTO item_paid_only (item_id) VALUES (222578);
-INSERT INTO item_paid_only (item_id) VALUES (222579);
-INSERT INTO item_paid_only (item_id) VALUES (222580);
-INSERT INTO item_paid_only (item_id) VALUES (222581);
-INSERT INTO item_paid_only (item_id) VALUES (222582);
-INSERT INTO item_paid_only (item_id) VALUES (222583);
-INSERT INTO item_paid_only (item_id) VALUES (222584);
-INSERT INTO item_paid_only (item_id) VALUES (222585);
-INSERT INTO item_paid_only (item_id) VALUES (222586);
-INSERT INTO item_paid_only (item_id) VALUES (222587);
-INSERT INTO item_paid_only (item_id) VALUES (222588);
-INSERT INTO item_paid_only (item_id) VALUES (222589);
-INSERT INTO item_paid_only (item_id) VALUES (222590);
-INSERT INTO item_paid_only (item_id) VALUES (222591);
-INSERT INTO item_paid_only (item_id) VALUES (222592);
-INSERT INTO item_paid_only (item_id) VALUES (222593);
-INSERT INTO item_paid_only (item_id) VALUES (222594);
-INSERT INTO item_paid_only (item_id) VALUES (222595);
-INSERT INTO item_paid_only (item_id) VALUES (222596);
-INSERT INTO item_paid_only (item_id) VALUES (222597);
-INSERT INTO item_paid_only (item_id) VALUES (222598);
-INSERT INTO item_paid_only (item_id) VALUES (222599);
-INSERT INTO item_paid_only (item_id) VALUES (222600);
-INSERT INTO item_paid_only (item_id) VALUES (222603);
-INSERT INTO item_paid_only (item_id) VALUES (222604);
-INSERT INTO item_paid_only (item_id) VALUES (222605);
-INSERT INTO item_paid_only (item_id) VALUES (222606);
-INSERT INTO item_paid_only (item_id) VALUES (222609);
-INSERT INTO item_paid_only (item_id) VALUES (222610);
-INSERT INTO item_paid_only (item_id) VALUES (222611);
-INSERT INTO item_paid_only (item_id) VALUES (222612);
-INSERT INTO item_paid_only (item_id) VALUES (222613);
-INSERT INTO item_paid_only (item_id) VALUES (222614);
-INSERT INTO item_paid_only (item_id) VALUES (222617);
-INSERT INTO item_paid_only (item_id) VALUES (222618);
-INSERT INTO item_paid_only (item_id) VALUES (222621);
-INSERT INTO item_paid_only (item_id) VALUES (222622);
-INSERT INTO item_paid_only (item_id) VALUES (222625);
-INSERT INTO item_paid_only (item_id) VALUES (222626);
-INSERT INTO item_paid_only (item_id) VALUES (222629);
-INSERT INTO item_paid_only (item_id) VALUES (222630);
-INSERT INTO item_paid_only (item_id) VALUES (222631);
-INSERT INTO item_paid_only (item_id) VALUES (222632);
-INSERT INTO item_paid_only (item_id) VALUES (222633);
-INSERT INTO item_paid_only (item_id) VALUES (222634);
-INSERT INTO item_paid_only (item_id) VALUES (222637);
-INSERT INTO item_paid_only (item_id) VALUES (222638);
-INSERT INTO item_paid_only (item_id) VALUES (222641);
-INSERT INTO item_paid_only (item_id) VALUES (222642);
-INSERT INTO item_paid_only (item_id) VALUES (222645);
-INSERT INTO item_paid_only (item_id) VALUES (222646);
-INSERT INTO item_paid_only (item_id) VALUES (222649);
-INSERT INTO item_paid_only (item_id) VALUES (222650);
-INSERT INTO item_paid_only (item_id) VALUES (222651);
-INSERT INTO item_paid_only (item_id) VALUES (222652);
-INSERT INTO item_paid_only (item_id) VALUES (222653);
-INSERT INTO item_paid_only (item_id) VALUES (222654);
-INSERT INTO item_paid_only (item_id) VALUES (222655);
-INSERT INTO item_paid_only (item_id) VALUES (222656);
-INSERT INTO item_paid_only (item_id) VALUES (222657);
-INSERT INTO item_paid_only (item_id) VALUES (222658);
-INSERT INTO item_paid_only (item_id) VALUES (222659);
-INSERT INTO item_paid_only (item_id) VALUES (222660);
-INSERT INTO item_paid_only (item_id) VALUES (222661);
-INSERT INTO item_paid_only (item_id) VALUES (222662);
-INSERT INTO item_paid_only (item_id) VALUES (222663);
-INSERT INTO item_paid_only (item_id) VALUES (222664);
-INSERT INTO item_paid_only (item_id) VALUES (222667);
-INSERT INTO item_paid_only (item_id) VALUES (222668);
-INSERT INTO item_paid_only (item_id) VALUES (222669);
-INSERT INTO item_paid_only (item_id) VALUES (222670);
-INSERT INTO item_paid_only (item_id) VALUES (222673);
-INSERT INTO item_paid_only (item_id) VALUES (222674);
-INSERT INTO item_paid_only (item_id) VALUES (222677);
-INSERT INTO item_paid_only (item_id) VALUES (222678);
-INSERT INTO item_paid_only (item_id) VALUES (222681);
-INSERT INTO item_paid_only (item_id) VALUES (222682);
-INSERT INTO item_paid_only (item_id) VALUES (222683);
-INSERT INTO item_paid_only (item_id) VALUES (222684);
-INSERT INTO item_paid_only (item_id) VALUES (222687);
-INSERT INTO item_paid_only (item_id) VALUES (222693);
-INSERT INTO item_paid_only (item_id) VALUES (222694);
-INSERT INTO item_paid_only (item_id) VALUES (222706);
-INSERT INTO item_paid_only (item_id) VALUES (222707);
-INSERT INTO item_paid_only (item_id) VALUES (222746);
-INSERT INTO item_paid_only (item_id) VALUES (222747);
-INSERT INTO item_paid_only (item_id) VALUES (222748);
-INSERT INTO item_paid_only (item_id) VALUES (222749);
-INSERT INTO item_paid_only (item_id) VALUES (222750);
-INSERT INTO item_paid_only (item_id) VALUES (222751);
-INSERT INTO item_paid_only (item_id) VALUES (222754);
-INSERT INTO item_paid_only (item_id) VALUES (222755);
-INSERT INTO item_paid_only (item_id) VALUES (222758);
-INSERT INTO item_paid_only (item_id) VALUES (222759);
-INSERT INTO item_paid_only (item_id) VALUES (222762);
-INSERT INTO item_paid_only (item_id) VALUES (222763);
-INSERT INTO item_paid_only (item_id) VALUES (222766);
-INSERT INTO item_paid_only (item_id) VALUES (222767);
-INSERT INTO item_paid_only (item_id) VALUES (222770);
-INSERT INTO item_paid_only (item_id) VALUES (222771);
-INSERT INTO item_paid_only (item_id) VALUES (222774);
-INSERT INTO item_paid_only (item_id) VALUES (222775);
-INSERT INTO item_paid_only (item_id) VALUES (222783);
-INSERT INTO item_paid_only (item_id) VALUES (222784);
-INSERT INTO item_paid_only (item_id) VALUES (222785);
-INSERT INTO item_paid_only (item_id) VALUES (222786);
-INSERT INTO item_paid_only (item_id) VALUES (222789);
-INSERT INTO item_paid_only (item_id) VALUES (222790);
-INSERT INTO item_paid_only (item_id) VALUES (222793);
-INSERT INTO item_paid_only (item_id) VALUES (222794);
-INSERT INTO item_paid_only (item_id) VALUES (222797);
-INSERT INTO item_paid_only (item_id) VALUES (222798);
-INSERT INTO item_paid_only (item_id) VALUES (222801);
-INSERT INTO item_paid_only (item_id) VALUES (222802);
-INSERT INTO item_paid_only (item_id) VALUES (222856);
-INSERT INTO item_paid_only (item_id) VALUES (222865);
-INSERT INTO item_paid_only (item_id) VALUES (222866);
-INSERT INTO item_paid_only (item_id) VALUES (222867);
-INSERT INTO item_paid_only (item_id) VALUES (222868);
-INSERT INTO item_paid_only (item_id) VALUES (222871);
-INSERT INTO item_paid_only (item_id) VALUES (222872);
-INSERT INTO item_paid_only (item_id) VALUES (222875);
-INSERT INTO item_paid_only (item_id) VALUES (222876);
-INSERT INTO item_paid_only (item_id) VALUES (222879);
-INSERT INTO item_paid_only (item_id) VALUES (222880);
-INSERT INTO item_paid_only (item_id) VALUES (222897);
-INSERT INTO item_paid_only (item_id) VALUES (222898);
-INSERT INTO item_paid_only (item_id) VALUES (222899);
-INSERT INTO item_paid_only (item_id) VALUES (222900);
-INSERT INTO item_paid_only (item_id) VALUES (222901);
-INSERT INTO item_paid_only (item_id) VALUES (222902);
-INSERT INTO item_paid_only (item_id) VALUES (222903);
-INSERT INTO item_paid_only (item_id) VALUES (222904);
-INSERT INTO item_paid_only (item_id) VALUES (222907);
-INSERT INTO item_paid_only (item_id) VALUES (222908);
-INSERT INTO item_paid_only (item_id) VALUES (222911);
-INSERT INTO item_paid_only (item_id) VALUES (222912);
-INSERT INTO item_paid_only (item_id) VALUES (222913);
-INSERT INTO item_paid_only (item_id) VALUES (222914);
-INSERT INTO item_paid_only (item_id) VALUES (222915);
-INSERT INTO item_paid_only (item_id) VALUES (222916);
-INSERT INTO item_paid_only (item_id) VALUES (222917);
-INSERT INTO item_paid_only (item_id) VALUES (222918);
-INSERT INTO item_paid_only (item_id) VALUES (222919);
-INSERT INTO item_paid_only (item_id) VALUES (222920);
-INSERT INTO item_paid_only (item_id) VALUES (222921);
-INSERT INTO item_paid_only (item_id) VALUES (222922);
-INSERT INTO item_paid_only (item_id) VALUES (222923);
-INSERT INTO item_paid_only (item_id) VALUES (222924);
-INSERT INTO item_paid_only (item_id) VALUES (222925);
-INSERT INTO item_paid_only (item_id) VALUES (222926);
-INSERT INTO item_paid_only (item_id) VALUES (222927);
-INSERT INTO item_paid_only (item_id) VALUES (222928);
-INSERT INTO item_paid_only (item_id) VALUES (222929);
-INSERT INTO item_paid_only (item_id) VALUES (222930);
-INSERT INTO item_paid_only (item_id) VALUES (222931);
-INSERT INTO item_paid_only (item_id) VALUES (222932);
-INSERT INTO item_paid_only (item_id) VALUES (222933);
-INSERT INTO item_paid_only (item_id) VALUES (222934);
-INSERT INTO item_paid_only (item_id) VALUES (222935);
-INSERT INTO item_paid_only (item_id) VALUES (222936);
-INSERT INTO item_paid_only (item_id) VALUES (222939);
-INSERT INTO item_paid_only (item_id) VALUES (222940);
-INSERT INTO item_paid_only (item_id) VALUES (222941);
-INSERT INTO item_paid_only (item_id) VALUES (222942);
-INSERT INTO item_paid_only (item_id) VALUES (222977);
-INSERT INTO item_paid_only (item_id) VALUES (222978);
-INSERT INTO item_paid_only (item_id) VALUES (222981);
-INSERT INTO item_paid_only (item_id) VALUES (222982);
-INSERT INTO item_paid_only (item_id) VALUES (222983);
-INSERT INTO item_paid_only (item_id) VALUES (222984);
-INSERT INTO item_paid_only (item_id) VALUES (223020);
-INSERT INTO item_paid_only (item_id) VALUES (223021);
-INSERT INTO item_paid_only (item_id) VALUES (223022);
-INSERT INTO item_paid_only (item_id) VALUES (223023);
-INSERT INTO item_paid_only (item_id) VALUES (223024);
-INSERT INTO item_paid_only (item_id) VALUES (223025);
-INSERT INTO item_paid_only (item_id) VALUES (223026);
-INSERT INTO item_paid_only (item_id) VALUES (223027);
-INSERT INTO item_paid_only (item_id) VALUES (223028);
-INSERT INTO item_paid_only (item_id) VALUES (223029);
-INSERT INTO item_paid_only (item_id) VALUES (223030);
-INSERT INTO item_paid_only (item_id) VALUES (223031);
-INSERT INTO item_paid_only (item_id) VALUES (223083);
-INSERT INTO item_paid_only (item_id) VALUES (223084);
-INSERT INTO item_paid_only (item_id) VALUES (223085);
-INSERT INTO item_paid_only (item_id) VALUES (223086);
-INSERT INTO item_paid_only (item_id) VALUES (223087);
-INSERT INTO item_paid_only (item_id) VALUES (223088);
-INSERT INTO item_paid_only (item_id) VALUES (223089);
-INSERT INTO item_paid_only (item_id) VALUES (223090);
-INSERT INTO item_paid_only (item_id) VALUES (223091);
-INSERT INTO item_paid_only (item_id) VALUES (223092);
-INSERT INTO item_paid_only (item_id) VALUES (223093);
-INSERT INTO item_paid_only (item_id) VALUES (223094);
-INSERT INTO item_paid_only (item_id) VALUES (223095);
-INSERT INTO item_paid_only (item_id) VALUES (223096);
-INSERT INTO item_paid_only (item_id) VALUES (223097);
-INSERT INTO item_paid_only (item_id) VALUES (223098);
-INSERT INTO item_paid_only (item_id) VALUES (223099);
-INSERT INTO item_paid_only (item_id) VALUES (223100);
-INSERT INTO item_paid_only (item_id) VALUES (223101);
-INSERT INTO item_paid_only (item_id) VALUES (223102);
-INSERT INTO item_paid_only (item_id) VALUES (223103);
-INSERT INTO item_paid_only (item_id) VALUES (223104);
-INSERT INTO item_paid_only (item_id) VALUES (223105);
-INSERT INTO item_paid_only (item_id) VALUES (223106);
-INSERT INTO item_paid_only (item_id) VALUES (223107);
-INSERT INTO item_paid_only (item_id) VALUES (223108);
-INSERT INTO item_paid_only (item_id) VALUES (223109);
-INSERT INTO item_paid_only (item_id) VALUES (223110);
-INSERT INTO item_paid_only (item_id) VALUES (223111);
-INSERT INTO item_paid_only (item_id) VALUES (223112);
-INSERT INTO item_paid_only (item_id) VALUES (223113);
-INSERT INTO item_paid_only (item_id) VALUES (223114);
-INSERT INTO item_paid_only (item_id) VALUES (223115);
-INSERT INTO item_paid_only (item_id) VALUES (223116);
-INSERT INTO item_paid_only (item_id) VALUES (223117);
-INSERT INTO item_paid_only (item_id) VALUES (223118);
-INSERT INTO item_paid_only (item_id) VALUES (223119);
-INSERT INTO item_paid_only (item_id) VALUES (223120);
-INSERT INTO item_paid_only (item_id) VALUES (223121);
-INSERT INTO item_paid_only (item_id) VALUES (223122);
-INSERT INTO item_paid_only (item_id) VALUES (223123);
-INSERT INTO item_paid_only (item_id) VALUES (223124);
-INSERT INTO item_paid_only (item_id) VALUES (223125);
-INSERT INTO item_paid_only (item_id) VALUES (223126);
-INSERT INTO item_paid_only (item_id) VALUES (223127);
-INSERT INTO item_paid_only (item_id) VALUES (223128);
-INSERT INTO item_paid_only (item_id) VALUES (223129);
-INSERT INTO item_paid_only (item_id) VALUES (223130);
-INSERT INTO item_paid_only (item_id) VALUES (223131);
-INSERT INTO item_paid_only (item_id) VALUES (223132);
-INSERT INTO item_paid_only (item_id) VALUES (223133);
-INSERT INTO item_paid_only (item_id) VALUES (223134);
-INSERT INTO item_paid_only (item_id) VALUES (223135);
-INSERT INTO item_paid_only (item_id) VALUES (223136);
-INSERT INTO item_paid_only (item_id) VALUES (223137);
-INSERT INTO item_paid_only (item_id) VALUES (223138);
-INSERT INTO item_paid_only (item_id) VALUES (223139);
-INSERT INTO item_paid_only (item_id) VALUES (223140);
-INSERT INTO item_paid_only (item_id) VALUES (223141);
-INSERT INTO item_paid_only (item_id) VALUES (223142);
-INSERT INTO item_paid_only (item_id) VALUES (223143);
-INSERT INTO item_paid_only (item_id) VALUES (223144);
-INSERT INTO item_paid_only (item_id) VALUES (223147);
-INSERT INTO item_paid_only (item_id) VALUES (223148);
-INSERT INTO item_paid_only (item_id) VALUES (223151);
-INSERT INTO item_paid_only (item_id) VALUES (223152);
-INSERT INTO item_paid_only (item_id) VALUES (223167);
-INSERT INTO item_paid_only (item_id) VALUES (223168);
-INSERT INTO item_paid_only (item_id) VALUES (223169);
-INSERT INTO item_paid_only (item_id) VALUES (223170);
-INSERT INTO item_paid_only (item_id) VALUES (223171);
-INSERT INTO item_paid_only (item_id) VALUES (223172);
-INSERT INTO item_paid_only (item_id) VALUES (223173);
-INSERT INTO item_paid_only (item_id) VALUES (223174);
-INSERT INTO item_paid_only (item_id) VALUES (223175);
-INSERT INTO item_paid_only (item_id) VALUES (223176);
-INSERT INTO item_paid_only (item_id) VALUES (223177);
-INSERT INTO item_paid_only (item_id) VALUES (223178);
-INSERT INTO item_paid_only (item_id) VALUES (223179);
-INSERT INTO item_paid_only (item_id) VALUES (223180);
-INSERT INTO item_paid_only (item_id) VALUES (223181);
-INSERT INTO item_paid_only (item_id) VALUES (223182);
-INSERT INTO item_paid_only (item_id) VALUES (223183);
-INSERT INTO item_paid_only (item_id) VALUES (223184);
-INSERT INTO item_paid_only (item_id) VALUES (223185);
-INSERT INTO item_paid_only (item_id) VALUES (223186);
-INSERT INTO item_paid_only (item_id) VALUES (223187);
-INSERT INTO item_paid_only (item_id) VALUES (223188);
-INSERT INTO item_paid_only (item_id) VALUES (223189);
-INSERT INTO item_paid_only (item_id) VALUES (223190);
-INSERT INTO item_paid_only (item_id) VALUES (223191);
-INSERT INTO item_paid_only (item_id) VALUES (223192);
-INSERT INTO item_paid_only (item_id) VALUES (223193);
-INSERT INTO item_paid_only (item_id) VALUES (223194);
-INSERT INTO item_paid_only (item_id) VALUES (223195);
-INSERT INTO item_paid_only (item_id) VALUES (223196);
-INSERT INTO item_paid_only (item_id) VALUES (223197);
-INSERT INTO item_paid_only (item_id) VALUES (223198);
-INSERT INTO item_paid_only (item_id) VALUES (223199);
-INSERT INTO item_paid_only (item_id) VALUES (223200);
-INSERT INTO item_paid_only (item_id) VALUES (223201);
-INSERT INTO item_paid_only (item_id) VALUES (223202);
-INSERT INTO item_paid_only (item_id) VALUES (223203);
-INSERT INTO item_paid_only (item_id) VALUES (223204);
-INSERT INTO item_paid_only (item_id) VALUES (223205);
-INSERT INTO item_paid_only (item_id) VALUES (223206);
-INSERT INTO item_paid_only (item_id) VALUES (223207);
-INSERT INTO item_paid_only (item_id) VALUES (223208);
-INSERT INTO item_paid_only (item_id) VALUES (223209);
-INSERT INTO item_paid_only (item_id) VALUES (223210);
-INSERT INTO item_paid_only (item_id) VALUES (223211);
-INSERT INTO item_paid_only (item_id) VALUES (223212);
-INSERT INTO item_paid_only (item_id) VALUES (223213);
-INSERT INTO item_paid_only (item_id) VALUES (223214);
-INSERT INTO item_paid_only (item_id) VALUES (223215);
-INSERT INTO item_paid_only (item_id) VALUES (223216);
-INSERT INTO item_paid_only (item_id) VALUES (223217);
-INSERT INTO item_paid_only (item_id) VALUES (223218);
-INSERT INTO item_paid_only (item_id) VALUES (223219);
-INSERT INTO item_paid_only (item_id) VALUES (223220);
-INSERT INTO item_paid_only (item_id) VALUES (223221);
-INSERT INTO item_paid_only (item_id) VALUES (223222);
-INSERT INTO item_paid_only (item_id) VALUES (223223);
-INSERT INTO item_paid_only (item_id) VALUES (223224);
-INSERT INTO item_paid_only (item_id) VALUES (223225);
-INSERT INTO item_paid_only (item_id) VALUES (223226);
-INSERT INTO item_paid_only (item_id) VALUES (223227);
-INSERT INTO item_paid_only (item_id) VALUES (223228);
-INSERT INTO item_paid_only (item_id) VALUES (223229);
-INSERT INTO item_paid_only (item_id) VALUES (223230);
-INSERT INTO item_paid_only (item_id) VALUES (223231);
-INSERT INTO item_paid_only (item_id) VALUES (223232);
-INSERT INTO item_paid_only (item_id) VALUES (223233);
-INSERT INTO item_paid_only (item_id) VALUES (223234);
-INSERT INTO item_paid_only (item_id) VALUES (223235);
-INSERT INTO item_paid_only (item_id) VALUES (223236);
-INSERT INTO item_paid_only (item_id) VALUES (223237);
-INSERT INTO item_paid_only (item_id) VALUES (223238);
-INSERT INTO item_paid_only (item_id) VALUES (223239);
-INSERT INTO item_paid_only (item_id) VALUES (223240);
-INSERT INTO item_paid_only (item_id) VALUES (223241);
-INSERT INTO item_paid_only (item_id) VALUES (223242);
-INSERT INTO item_paid_only (item_id) VALUES (223243);
-INSERT INTO item_paid_only (item_id) VALUES (223244);
-INSERT INTO item_paid_only (item_id) VALUES (223245);
-INSERT INTO item_paid_only (item_id) VALUES (223246);
-INSERT INTO item_paid_only (item_id) VALUES (223247);
-INSERT INTO item_paid_only (item_id) VALUES (223248);
-INSERT INTO item_paid_only (item_id) VALUES (223249);
-INSERT INTO item_paid_only (item_id) VALUES (223250);
-INSERT INTO item_paid_only (item_id) VALUES (223251);
-INSERT INTO item_paid_only (item_id) VALUES (223252);
-INSERT INTO item_paid_only (item_id) VALUES (223253);
-INSERT INTO item_paid_only (item_id) VALUES (223254);
-INSERT INTO item_paid_only (item_id) VALUES (223255);
-INSERT INTO item_paid_only (item_id) VALUES (223256);
-INSERT INTO item_paid_only (item_id) VALUES (223257);
-INSERT INTO item_paid_only (item_id) VALUES (223258);
-INSERT INTO item_paid_only (item_id) VALUES (223261);
-INSERT INTO item_paid_only (item_id) VALUES (223262);
-INSERT INTO item_paid_only (item_id) VALUES (223263);
-INSERT INTO item_paid_only (item_id) VALUES (223264);
-INSERT INTO item_paid_only (item_id) VALUES (223265);
-INSERT INTO item_paid_only (item_id) VALUES (223266);
-INSERT INTO item_paid_only (item_id) VALUES (223267);
-INSERT INTO item_paid_only (item_id) VALUES (223268);
-INSERT INTO item_paid_only (item_id) VALUES (223269);
-INSERT INTO item_paid_only (item_id) VALUES (223270);
-INSERT INTO item_paid_only (item_id) VALUES (223271);
-INSERT INTO item_paid_only (item_id) VALUES (223272);
-INSERT INTO item_paid_only (item_id) VALUES (223273);
-INSERT INTO item_paid_only (item_id) VALUES (223274);
-INSERT INTO item_paid_only (item_id) VALUES (223275);
-INSERT INTO item_paid_only (item_id) VALUES (223276);
-INSERT INTO item_paid_only (item_id) VALUES (223277);
-INSERT INTO item_paid_only (item_id) VALUES (223278);
-INSERT INTO item_paid_only (item_id) VALUES (223279);
-INSERT INTO item_paid_only (item_id) VALUES (223280);
-INSERT INTO item_paid_only (item_id) VALUES (223281);
-INSERT INTO item_paid_only (item_id) VALUES (223282);
-INSERT INTO item_paid_only (item_id) VALUES (223285);
-INSERT INTO item_paid_only (item_id) VALUES (223286);
-INSERT INTO item_paid_only (item_id) VALUES (223287);
-INSERT INTO item_paid_only (item_id) VALUES (223288);
-INSERT INTO item_paid_only (item_id) VALUES (223289);
-INSERT INTO item_paid_only (item_id) VALUES (223290);
-INSERT INTO item_paid_only (item_id) VALUES (223291);
-INSERT INTO item_paid_only (item_id) VALUES (223292);
-INSERT INTO item_paid_only (item_id) VALUES (223293);
-INSERT INTO item_paid_only (item_id) VALUES (223294);
-INSERT INTO item_paid_only (item_id) VALUES (223295);
-INSERT INTO item_paid_only (item_id) VALUES (223296);
-INSERT INTO item_paid_only (item_id) VALUES (223297);
-INSERT INTO item_paid_only (item_id) VALUES (223298);
-INSERT INTO item_paid_only (item_id) VALUES (223299);
-INSERT INTO item_paid_only (item_id) VALUES (223300);
-INSERT INTO item_paid_only (item_id) VALUES (223305);
-INSERT INTO item_paid_only (item_id) VALUES (223306);
-INSERT INTO item_paid_only (item_id) VALUES (223307);
-INSERT INTO item_paid_only (item_id) VALUES (223308);
-INSERT INTO item_paid_only (item_id) VALUES (223309);
-INSERT INTO item_paid_only (item_id) VALUES (223310);
-INSERT INTO item_paid_only (item_id) VALUES (223311);
-INSERT INTO item_paid_only (item_id) VALUES (223312);
-INSERT INTO item_paid_only (item_id) VALUES (223313);
-INSERT INTO item_paid_only (item_id) VALUES (223314);
-INSERT INTO item_paid_only (item_id) VALUES (223315);
-INSERT INTO item_paid_only (item_id) VALUES (223316);
-INSERT INTO item_paid_only (item_id) VALUES (223317);
-INSERT INTO item_paid_only (item_id) VALUES (223318);
-INSERT INTO item_paid_only (item_id) VALUES (223319);
-INSERT INTO item_paid_only (item_id) VALUES (223320);
-INSERT INTO item_paid_only (item_id) VALUES (223321);
-INSERT INTO item_paid_only (item_id) VALUES (223322);
-INSERT INTO item_paid_only (item_id) VALUES (223323);
-INSERT INTO item_paid_only (item_id) VALUES (223324);
-INSERT INTO item_paid_only (item_id) VALUES (223325);
-INSERT INTO item_paid_only (item_id) VALUES (223326);
-INSERT INTO item_paid_only (item_id) VALUES (223327);
-INSERT INTO item_paid_only (item_id) VALUES (223328);
-INSERT INTO item_paid_only (item_id) VALUES (223329);
-INSERT INTO item_paid_only (item_id) VALUES (223330);
-INSERT INTO item_paid_only (item_id) VALUES (223331);
-INSERT INTO item_paid_only (item_id) VALUES (223332);
-INSERT INTO item_paid_only (item_id) VALUES (223333);
-INSERT INTO item_paid_only (item_id) VALUES (223334);
-INSERT INTO item_paid_only (item_id) VALUES (223335);
-INSERT INTO item_paid_only (item_id) VALUES (223336);
-INSERT INTO item_paid_only (item_id) VALUES (223337);
-INSERT INTO item_paid_only (item_id) VALUES (223338);
-INSERT INTO item_paid_only (item_id) VALUES (223339);
-INSERT INTO item_paid_only (item_id) VALUES (223340);
-INSERT INTO item_paid_only (item_id) VALUES (223350);
-INSERT INTO item_paid_only (item_id) VALUES (223351);
-INSERT INTO item_paid_only (item_id) VALUES (223352);
-INSERT INTO item_paid_only (item_id) VALUES (223353);
-INSERT INTO item_paid_only (item_id) VALUES (223354);
-INSERT INTO item_paid_only (item_id) VALUES (223355);
-INSERT INTO item_paid_only (item_id) VALUES (223356);
-INSERT INTO item_paid_only (item_id) VALUES (223357);
-INSERT INTO item_paid_only (item_id) VALUES (223358);
-INSERT INTO item_paid_only (item_id) VALUES (223359);
-INSERT INTO item_paid_only (item_id) VALUES (223362);
-INSERT INTO item_paid_only (item_id) VALUES (223363);
-INSERT INTO item_paid_only (item_id) VALUES (223366);
-INSERT INTO item_paid_only (item_id) VALUES (223367);
-INSERT INTO item_paid_only (item_id) VALUES (223368);
-INSERT INTO item_paid_only (item_id) VALUES (223369);
-INSERT INTO item_paid_only (item_id) VALUES (223370);
-INSERT INTO item_paid_only (item_id) VALUES (223371);
-INSERT INTO item_paid_only (item_id) VALUES (223374);
-INSERT INTO item_paid_only (item_id) VALUES (223375);
-INSERT INTO item_paid_only (item_id) VALUES (223376);
-INSERT INTO item_paid_only (item_id) VALUES (223377);
-INSERT INTO item_paid_only (item_id) VALUES (223378);
-INSERT INTO item_paid_only (item_id) VALUES (223379);
-INSERT INTO item_paid_only (item_id) VALUES (223382);
-INSERT INTO item_paid_only (item_id) VALUES (223383);
-INSERT INTO item_paid_only (item_id) VALUES (223384);
-INSERT INTO item_paid_only (item_id) VALUES (223385);
-INSERT INTO item_paid_only (item_id) VALUES (223386);
-INSERT INTO item_paid_only (item_id) VALUES (223387);
-INSERT INTO item_paid_only (item_id) VALUES (223388);
-INSERT INTO item_paid_only (item_id) VALUES (223389);
-INSERT INTO item_paid_only (item_id) VALUES (223390);
-INSERT INTO item_paid_only (item_id) VALUES (223391);
-INSERT INTO item_paid_only (item_id) VALUES (223392);
-INSERT INTO item_paid_only (item_id) VALUES (223393);
-INSERT INTO item_paid_only (item_id) VALUES (223394);
-INSERT INTO item_paid_only (item_id) VALUES (223395);
-INSERT INTO item_paid_only (item_id) VALUES (223396);
-INSERT INTO item_paid_only (item_id) VALUES (223397);
-INSERT INTO item_paid_only (item_id) VALUES (223400);
-INSERT INTO item_paid_only (item_id) VALUES (223401);
-INSERT INTO item_paid_only (item_id) VALUES (223403);
-INSERT INTO item_paid_only (item_id) VALUES (223404);
-INSERT INTO item_paid_only (item_id) VALUES (223405);
-INSERT INTO item_paid_only (item_id) VALUES (223406);
-INSERT INTO item_paid_only (item_id) VALUES (223407);
-INSERT INTO item_paid_only (item_id) VALUES (223408);
-INSERT INTO item_paid_only (item_id) VALUES (223409);
-INSERT INTO item_paid_only (item_id) VALUES (223410);
-INSERT INTO item_paid_only (item_id) VALUES (223411);
-INSERT INTO item_paid_only (item_id) VALUES (223412);
-INSERT INTO item_paid_only (item_id) VALUES (223413);
-INSERT INTO item_paid_only (item_id) VALUES (223414);
-INSERT INTO item_paid_only (item_id) VALUES (223415);
-INSERT INTO item_paid_only (item_id) VALUES (223416);
-INSERT INTO item_paid_only (item_id) VALUES (223417);
-INSERT INTO item_paid_only (item_id) VALUES (223418);
-INSERT INTO item_paid_only (item_id) VALUES (223419);
-INSERT INTO item_paid_only (item_id) VALUES (223420);
-INSERT INTO item_paid_only (item_id) VALUES (223515);
-INSERT INTO item_paid_only (item_id) VALUES (223720);
-INSERT INTO item_paid_only (item_id) VALUES (223721);
-INSERT INTO item_paid_only (item_id) VALUES (223722);
-INSERT INTO item_paid_only (item_id) VALUES (223723);
-INSERT INTO item_paid_only (item_id) VALUES (223724);
-INSERT INTO item_paid_only (item_id) VALUES (223725);
-INSERT INTO item_paid_only (item_id) VALUES (223743);
-INSERT INTO item_paid_only (item_id) VALUES (223744);
-INSERT INTO item_paid_only (item_id) VALUES (223745);
-INSERT INTO item_paid_only (item_id) VALUES (223746);
-INSERT INTO item_paid_only (item_id) VALUES (223762);
-INSERT INTO item_paid_only (item_id) VALUES (223765);
-INSERT INTO item_paid_only (item_id) VALUES (223767);
-INSERT INTO item_paid_only (item_id) VALUES (223768);
-INSERT INTO item_paid_only (item_id) VALUES (223953);
-INSERT INTO item_paid_only (item_id) VALUES (223954);
-INSERT INTO item_paid_only (item_id) VALUES (223955);
-INSERT INTO item_paid_only (item_id) VALUES (223956);
-INSERT INTO item_paid_only (item_id) VALUES (223971);
-INSERT INTO item_paid_only (item_id) VALUES (223972);
-INSERT INTO item_paid_only (item_id) VALUES (223974);
-INSERT INTO item_paid_only (item_id) VALUES (223975);
-INSERT INTO item_paid_only (item_id) VALUES (223979);
-INSERT INTO item_paid_only (item_id) VALUES (223980);
-INSERT INTO item_paid_only (item_id) VALUES (223983);
-INSERT INTO item_paid_only (item_id) VALUES (223984);
-INSERT INTO item_paid_only (item_id) VALUES (223985);
-INSERT INTO item_paid_only (item_id) VALUES (223986);
-INSERT INTO item_paid_only (item_id) VALUES (223987);
-INSERT INTO item_paid_only (item_id) VALUES (223988);
-INSERT INTO item_paid_only (item_id) VALUES (223989);
-INSERT INTO item_paid_only (item_id) VALUES (223990);
-INSERT INTO item_paid_only (item_id) VALUES (223991);
-INSERT INTO item_paid_only (item_id) VALUES (223992);
-INSERT INTO item_paid_only (item_id) VALUES (223995);
-INSERT INTO item_paid_only (item_id) VALUES (223996);
-INSERT INTO item_paid_only (item_id) VALUES (223998);
-INSERT INTO item_paid_only (item_id) VALUES (224019);
-INSERT INTO item_paid_only (item_id) VALUES (224035);
-INSERT INTO item_paid_only (item_id) VALUES (224037);
-INSERT INTO item_paid_only (item_id) VALUES (224053);
-INSERT INTO item_paid_only (item_id) VALUES (224054);
-INSERT INTO item_paid_only (item_id) VALUES (224055);
-INSERT INTO item_paid_only (item_id) VALUES (224070);
-INSERT INTO item_paid_only (item_id) VALUES (224071);
-INSERT INTO item_paid_only (item_id) VALUES (224073);
-INSERT INTO item_paid_only (item_id) VALUES (224074);
-INSERT INTO item_paid_only (item_id) VALUES (224077);
-INSERT INTO item_paid_only (item_id) VALUES (224078);
-INSERT INTO item_paid_only (item_id) VALUES (224080);
-INSERT INTO item_paid_only (item_id) VALUES (224081);
-INSERT INTO item_paid_only (item_id) VALUES (224083);
-INSERT INTO item_paid_only (item_id) VALUES (224084);
-INSERT INTO item_paid_only (item_id) VALUES (224086);
-INSERT INTO item_paid_only (item_id) VALUES (224088);
-INSERT INTO item_paid_only (item_id) VALUES (224089);
-INSERT INTO item_paid_only (item_id) VALUES (224090);
-INSERT INTO item_paid_only (item_id) VALUES (224091);
-INSERT INTO item_paid_only (item_id) VALUES (224092);
-INSERT INTO item_paid_only (item_id) VALUES (224093);
-INSERT INTO item_paid_only (item_id) VALUES (224098);
-INSERT INTO item_paid_only (item_id) VALUES (224110);
-INSERT INTO item_paid_only (item_id) VALUES (224115);
-INSERT INTO item_paid_only (item_id) VALUES (224116);
-INSERT INTO item_paid_only (item_id) VALUES (224117);
-INSERT INTO item_paid_only (item_id) VALUES (224118);
-INSERT INTO item_paid_only (item_id) VALUES (224119);
-INSERT INTO item_paid_only (item_id) VALUES (224120);
-INSERT INTO item_paid_only (item_id) VALUES (224121);
-INSERT INTO item_paid_only (item_id) VALUES (224122);
-INSERT INTO item_paid_only (item_id) VALUES (224123);
-INSERT INTO item_paid_only (item_id) VALUES (224124);
-INSERT INTO item_paid_only (item_id) VALUES (224125);
-INSERT INTO item_paid_only (item_id) VALUES (224126);
-INSERT INTO item_paid_only (item_id) VALUES (224127);
-INSERT INTO item_paid_only (item_id) VALUES (224128);
-INSERT INTO item_paid_only (item_id) VALUES (224129);
-INSERT INTO item_paid_only (item_id) VALUES (224130);
-INSERT INTO item_paid_only (item_id) VALUES (224131);
-INSERT INTO item_paid_only (item_id) VALUES (224132);
-INSERT INTO item_paid_only (item_id) VALUES (224133);
-INSERT INTO item_paid_only (item_id) VALUES (224134);
-INSERT INTO item_paid_only (item_id) VALUES (224135);
-INSERT INTO item_paid_only (item_id) VALUES (224136);
-INSERT INTO item_paid_only (item_id) VALUES (224137);
-INSERT INTO item_paid_only (item_id) VALUES (224138);
-INSERT INTO item_paid_only (item_id) VALUES (224139);
-INSERT INTO item_paid_only (item_id) VALUES (224140);
-INSERT INTO item_paid_only (item_id) VALUES (224141);
-INSERT INTO item_paid_only (item_id) VALUES (224142);
-INSERT INTO item_paid_only (item_id) VALUES (224143);
-INSERT INTO item_paid_only (item_id) VALUES (224144);
-INSERT INTO item_paid_only (item_id) VALUES (224145);
-INSERT INTO item_paid_only (item_id) VALUES (224146);
-INSERT INTO item_paid_only (item_id) VALUES (224147);
-INSERT INTO item_paid_only (item_id) VALUES (224148);
-INSERT INTO item_paid_only (item_id) VALUES (224149);
-INSERT INTO item_paid_only (item_id) VALUES (224150);
-INSERT INTO item_paid_only (item_id) VALUES (224159);
-INSERT INTO item_paid_only (item_id) VALUES (224160);
-INSERT INTO item_paid_only (item_id) VALUES (224161);
-INSERT INTO item_paid_only (item_id) VALUES (224162);
-INSERT INTO item_paid_only (item_id) VALUES (224163);
-INSERT INTO item_paid_only (item_id) VALUES (224164);
-INSERT INTO item_paid_only (item_id) VALUES (224165);
-INSERT INTO item_paid_only (item_id) VALUES (224166);
-INSERT INTO item_paid_only (item_id) VALUES (224167);
-INSERT INTO item_paid_only (item_id) VALUES (224168);
-INSERT INTO item_paid_only (item_id) VALUES (224169);
-INSERT INTO item_paid_only (item_id) VALUES (224170);
-INSERT INTO item_paid_only (item_id) VALUES (224171);
-INSERT INTO item_paid_only (item_id) VALUES (224172);
-INSERT INTO item_paid_only (item_id) VALUES (224177);
-INSERT INTO item_paid_only (item_id) VALUES (224178);
-INSERT INTO item_paid_only (item_id) VALUES (224179);
-INSERT INTO item_paid_only (item_id) VALUES (224180);
-INSERT INTO item_paid_only (item_id) VALUES (224184);
-INSERT INTO item_paid_only (item_id) VALUES (224185);
-INSERT INTO item_paid_only (item_id) VALUES (224390);
-INSERT INTO item_paid_only (item_id) VALUES (224392);
-INSERT INTO item_paid_only (item_id) VALUES (224393);
-INSERT INTO item_paid_only (item_id) VALUES (224394);
-INSERT INTO item_paid_only (item_id) VALUES (224395);
-INSERT INTO item_paid_only (item_id) VALUES (224396);
-INSERT INTO item_paid_only (item_id) VALUES (224397);
-INSERT INTO item_paid_only (item_id) VALUES (224398);
-INSERT INTO item_paid_only (item_id) VALUES (224399);
-INSERT INTO item_paid_only (item_id) VALUES (224400);
-INSERT INTO item_paid_only (item_id) VALUES (224403);
-INSERT INTO item_paid_only (item_id) VALUES (224404);
-INSERT INTO item_paid_only (item_id) VALUES (224405);
-INSERT INTO item_paid_only (item_id) VALUES (224407);
-INSERT INTO item_paid_only (item_id) VALUES (224408);
-INSERT INTO item_paid_only (item_id) VALUES (224409);
-INSERT INTO item_paid_only (item_id) VALUES (224410);
-INSERT INTO item_paid_only (item_id) VALUES (224411);
-INSERT INTO item_paid_only (item_id) VALUES (224412);
-INSERT INTO item_paid_only (item_id) VALUES (224413);
-INSERT INTO item_paid_only (item_id) VALUES (224414);
-INSERT INTO item_paid_only (item_id) VALUES (224415);
-INSERT INTO item_paid_only (item_id) VALUES (224416);
-INSERT INTO item_paid_only (item_id) VALUES (224417);
-INSERT INTO item_paid_only (item_id) VALUES (224418);
-INSERT INTO item_paid_only (item_id) VALUES (224419);
-INSERT INTO item_paid_only (item_id) VALUES (224420);
-INSERT INTO item_paid_only (item_id) VALUES (224421);
-INSERT INTO item_paid_only (item_id) VALUES (224422);
-INSERT INTO item_paid_only (item_id) VALUES (224423);
-INSERT INTO item_paid_only (item_id) VALUES (224431);
-INSERT INTO item_paid_only (item_id) VALUES (224432);
-INSERT INTO item_paid_only (item_id) VALUES (224437);
-INSERT INTO item_paid_only (item_id) VALUES (224515);
-INSERT INTO item_paid_only (item_id) VALUES (224521);
-INSERT INTO item_paid_only (item_id) VALUES (224522);
-INSERT INTO item_paid_only (item_id) VALUES (224645);
-INSERT INTO item_paid_only (item_id) VALUES (224646);
-INSERT INTO item_paid_only (item_id) VALUES (224647);
-INSERT INTO item_paid_only (item_id) VALUES (224648);
-INSERT INTO item_paid_only (item_id) VALUES (224649);
-INSERT INTO item_paid_only (item_id) VALUES (224650);
-INSERT INTO item_paid_only (item_id) VALUES (224651);
-INSERT INTO item_paid_only (item_id) VALUES (224652);
-INSERT INTO item_paid_only (item_id) VALUES (224653);
-INSERT INTO item_paid_only (item_id) VALUES (224654);
-INSERT INTO item_paid_only (item_id) VALUES (224655);
-INSERT INTO item_paid_only (item_id) VALUES (224656);
-INSERT INTO item_paid_only (item_id) VALUES (224657);
-INSERT INTO item_paid_only (item_id) VALUES (224658);
-INSERT INTO item_paid_only (item_id) VALUES (224659);
-INSERT INTO item_paid_only (item_id) VALUES (224661);
-INSERT INTO item_paid_only (item_id) VALUES (224662);
-INSERT INTO item_paid_only (item_id) VALUES (224663);
-INSERT INTO item_paid_only (item_id) VALUES (224664);
-INSERT INTO item_paid_only (item_id) VALUES (224665);
-INSERT INTO item_paid_only (item_id) VALUES (224666);
-INSERT INTO item_paid_only (item_id) VALUES (224667);
-INSERT INTO item_paid_only (item_id) VALUES (224668);
-INSERT INTO item_paid_only (item_id) VALUES (224669);
-INSERT INTO item_paid_only (item_id) VALUES (224670);
-INSERT INTO item_paid_only (item_id) VALUES (224671);
-INSERT INTO item_paid_only (item_id) VALUES (224672);
-INSERT INTO item_paid_only (item_id) VALUES (224673);
-INSERT INTO item_paid_only (item_id) VALUES (224674);
-INSERT INTO item_paid_only (item_id) VALUES (224675);
-INSERT INTO item_paid_only (item_id) VALUES (224677);
-INSERT INTO item_paid_only (item_id) VALUES (224678);
-INSERT INTO item_paid_only (item_id) VALUES (224679);
-INSERT INTO item_paid_only (item_id) VALUES (224680);
-INSERT INTO item_paid_only (item_id) VALUES (224681);
-INSERT INTO item_paid_only (item_id) VALUES (224682);
-INSERT INTO item_paid_only (item_id) VALUES (224683);
-INSERT INTO item_paid_only (item_id) VALUES (224684);
-INSERT INTO item_paid_only (item_id) VALUES (224685);
-INSERT INTO item_paid_only (item_id) VALUES (224686);
-INSERT INTO item_paid_only (item_id) VALUES (224687);
-INSERT INTO item_paid_only (item_id) VALUES (224688);
-INSERT INTO item_paid_only (item_id) VALUES (224689);
-INSERT INTO item_paid_only (item_id) VALUES (224690);
-INSERT INTO item_paid_only (item_id) VALUES (224691);
-INSERT INTO item_paid_only (item_id) VALUES (224692);
-INSERT INTO item_paid_only (item_id) VALUES (224693);
-INSERT INTO item_paid_only (item_id) VALUES (224694);
-INSERT INTO item_paid_only (item_id) VALUES (224695);
-INSERT INTO item_paid_only (item_id) VALUES (224696);
-INSERT INTO item_paid_only (item_id) VALUES (224697);
-INSERT INTO item_paid_only (item_id) VALUES (224698);
-INSERT INTO item_paid_only (item_id) VALUES (224699);
-INSERT INTO item_paid_only (item_id) VALUES (224700);
-INSERT INTO item_paid_only (item_id) VALUES (224701);
-INSERT INTO item_paid_only (item_id) VALUES (224702);
-INSERT INTO item_paid_only (item_id) VALUES (224703);
-INSERT INTO item_paid_only (item_id) VALUES (224704);
-INSERT INTO item_paid_only (item_id) VALUES (224705);
-INSERT INTO item_paid_only (item_id) VALUES (224706);
-INSERT INTO item_paid_only (item_id) VALUES (224707);
-INSERT INTO item_paid_only (item_id) VALUES (224708);
-INSERT INTO item_paid_only (item_id) VALUES (224709);
-INSERT INTO item_paid_only (item_id) VALUES (224710);
-INSERT INTO item_paid_only (item_id) VALUES (224711);
-INSERT INTO item_paid_only (item_id) VALUES (224712);
-INSERT INTO item_paid_only (item_id) VALUES (224713);
-INSERT INTO item_paid_only (item_id) VALUES (224714);
-INSERT INTO item_paid_only (item_id) VALUES (224715);
-INSERT INTO item_paid_only (item_id) VALUES (224716);
-INSERT INTO item_paid_only (item_id) VALUES (224717);
-INSERT INTO item_paid_only (item_id) VALUES (224718);
-INSERT INTO item_paid_only (item_id) VALUES (224719);
-INSERT INTO item_paid_only (item_id) VALUES (224720);
-INSERT INTO item_paid_only (item_id) VALUES (224721);
-INSERT INTO item_paid_only (item_id) VALUES (224722);
-INSERT INTO item_paid_only (item_id) VALUES (224723);
-INSERT INTO item_paid_only (item_id) VALUES (224724);
-INSERT INTO item_paid_only (item_id) VALUES (224725);
-INSERT INTO item_paid_only (item_id) VALUES (224726);
-INSERT INTO item_paid_only (item_id) VALUES (224727);
-INSERT INTO item_paid_only (item_id) VALUES (224728);
-INSERT INTO item_paid_only (item_id) VALUES (224729);
-INSERT INTO item_paid_only (item_id) VALUES (224730);
-INSERT INTO item_paid_only (item_id) VALUES (224731);
-INSERT INTO item_paid_only (item_id) VALUES (224732);
-INSERT INTO item_paid_only (item_id) VALUES (224733);
-INSERT INTO item_paid_only (item_id) VALUES (224734);
-INSERT INTO item_paid_only (item_id) VALUES (224735);
-INSERT INTO item_paid_only (item_id) VALUES (224736);
-INSERT INTO item_paid_only (item_id) VALUES (224737);
-INSERT INTO item_paid_only (item_id) VALUES (224738);
-INSERT INTO item_paid_only (item_id) VALUES (224739);
-INSERT INTO item_paid_only (item_id) VALUES (224740);
-INSERT INTO item_paid_only (item_id) VALUES (224741);
-INSERT INTO item_paid_only (item_id) VALUES (224742);
-INSERT INTO item_paid_only (item_id) VALUES (224743);
-INSERT INTO item_paid_only (item_id) VALUES (224744);
-INSERT INTO item_paid_only (item_id) VALUES (224745);
-INSERT INTO item_paid_only (item_id) VALUES (224746);
-INSERT INTO item_paid_only (item_id) VALUES (224747);
-INSERT INTO item_paid_only (item_id) VALUES (224748);
-INSERT INTO item_paid_only (item_id) VALUES (224749);
-INSERT INTO item_paid_only (item_id) VALUES (224750);
-INSERT INTO item_paid_only (item_id) VALUES (224751);
-INSERT INTO item_paid_only (item_id) VALUES (224752);
-INSERT INTO item_paid_only (item_id) VALUES (224753);
-INSERT INTO item_paid_only (item_id) VALUES (224754);
-INSERT INTO item_paid_only (item_id) VALUES (224755);
-INSERT INTO item_paid_only (item_id) VALUES (224756);
-INSERT INTO item_paid_only (item_id) VALUES (224757);
-INSERT INTO item_paid_only (item_id) VALUES (224758);
-INSERT INTO item_paid_only (item_id) VALUES (224759);
-INSERT INTO item_paid_only (item_id) VALUES (224760);
-INSERT INTO item_paid_only (item_id) VALUES (224761);
-INSERT INTO item_paid_only (item_id) VALUES (224762);
-INSERT INTO item_paid_only (item_id) VALUES (224763);
-INSERT INTO item_paid_only (item_id) VALUES (224764);
-INSERT INTO item_paid_only (item_id) VALUES (224765);
-INSERT INTO item_paid_only (item_id) VALUES (224766);
-INSERT INTO item_paid_only (item_id) VALUES (224767);
-INSERT INTO item_paid_only (item_id) VALUES (224768);
-INSERT INTO item_paid_only (item_id) VALUES (224769);
-INSERT INTO item_paid_only (item_id) VALUES (224770);
-INSERT INTO item_paid_only (item_id) VALUES (224771);
-INSERT INTO item_paid_only (item_id) VALUES (224772);
-INSERT INTO item_paid_only (item_id) VALUES (224773);
-INSERT INTO item_paid_only (item_id) VALUES (224774);
-INSERT INTO item_paid_only (item_id) VALUES (224775);
-INSERT INTO item_paid_only (item_id) VALUES (224776);
-INSERT INTO item_paid_only (item_id) VALUES (224777);
-INSERT INTO item_paid_only (item_id) VALUES (224778);
-INSERT INTO item_paid_only (item_id) VALUES (224779);
-INSERT INTO item_paid_only (item_id) VALUES (224780);
-INSERT INTO item_paid_only (item_id) VALUES (224781);
-INSERT INTO item_paid_only (item_id) VALUES (224782);
-INSERT INTO item_paid_only (item_id) VALUES (224783);
-INSERT INTO item_paid_only (item_id) VALUES (224784);
-INSERT INTO item_paid_only (item_id) VALUES (224785);
-INSERT INTO item_paid_only (item_id) VALUES (224786);
-INSERT INTO item_paid_only (item_id) VALUES (224787);
-INSERT INTO item_paid_only (item_id) VALUES (224788);
-INSERT INTO item_paid_only (item_id) VALUES (224789);
-INSERT INTO item_paid_only (item_id) VALUES (224790);
-INSERT INTO item_paid_only (item_id) VALUES (224791);
-INSERT INTO item_paid_only (item_id) VALUES (224792);
-INSERT INTO item_paid_only (item_id) VALUES (224793);
-INSERT INTO item_paid_only (item_id) VALUES (224794);
-INSERT INTO item_paid_only (item_id) VALUES (224795);
-INSERT INTO item_paid_only (item_id) VALUES (224796);
-INSERT INTO item_paid_only (item_id) VALUES (224797);
-INSERT INTO item_paid_only (item_id) VALUES (224798);
-INSERT INTO item_paid_only (item_id) VALUES (224799);
-INSERT INTO item_paid_only (item_id) VALUES (224800);
-INSERT INTO item_paid_only (item_id) VALUES (224801);
-INSERT INTO item_paid_only (item_id) VALUES (224802);
-INSERT INTO item_paid_only (item_id) VALUES (224803);
-INSERT INTO item_paid_only (item_id) VALUES (224804);
-INSERT INTO item_paid_only (item_id) VALUES (224805);
-INSERT INTO item_paid_only (item_id) VALUES (224806);
-INSERT INTO item_paid_only (item_id) VALUES (224807);
-INSERT INTO item_paid_only (item_id) VALUES (224808);
-INSERT INTO item_paid_only (item_id) VALUES (224809);
-INSERT INTO item_paid_only (item_id) VALUES (224810);
-INSERT INTO item_paid_only (item_id) VALUES (224811);
-INSERT INTO item_paid_only (item_id) VALUES (224812);
-INSERT INTO item_paid_only (item_id) VALUES (224813);
-INSERT INTO item_paid_only (item_id) VALUES (224814);
-INSERT INTO item_paid_only (item_id) VALUES (224815);
-INSERT INTO item_paid_only (item_id) VALUES (224816);
-INSERT INTO item_paid_only (item_id) VALUES (224817);
-INSERT INTO item_paid_only (item_id) VALUES (224818);
-INSERT INTO item_paid_only (item_id) VALUES (224819);
-INSERT INTO item_paid_only (item_id) VALUES (224820);
-INSERT INTO item_paid_only (item_id) VALUES (224821);
-INSERT INTO item_paid_only (item_id) VALUES (224822);
-INSERT INTO item_paid_only (item_id) VALUES (224823);
-INSERT INTO item_paid_only (item_id) VALUES (224824);
-INSERT INTO item_paid_only (item_id) VALUES (224825);
-INSERT INTO item_paid_only (item_id) VALUES (224826);
-INSERT INTO item_paid_only (item_id) VALUES (224827);
-INSERT INTO item_paid_only (item_id) VALUES (224828);
-INSERT INTO item_paid_only (item_id) VALUES (224829);
-INSERT INTO item_paid_only (item_id) VALUES (224830);
-INSERT INTO item_paid_only (item_id) VALUES (224831);
-INSERT INTO item_paid_only (item_id) VALUES (224832);
-INSERT INTO item_paid_only (item_id) VALUES (224833);
-INSERT INTO item_paid_only (item_id) VALUES (224834);
-INSERT INTO item_paid_only (item_id) VALUES (224835);
-INSERT INTO item_paid_only (item_id) VALUES (224836);
-INSERT INTO item_paid_only (item_id) VALUES (224837);
-INSERT INTO item_paid_only (item_id) VALUES (224838);
-INSERT INTO item_paid_only (item_id) VALUES (224839);
-INSERT INTO item_paid_only (item_id) VALUES (224840);
-INSERT INTO item_paid_only (item_id) VALUES (224841);
-INSERT INTO item_paid_only (item_id) VALUES (224842);
-INSERT INTO item_paid_only (item_id) VALUES (224843);
-INSERT INTO item_paid_only (item_id) VALUES (224844);
-INSERT INTO item_paid_only (item_id) VALUES (224845);
-INSERT INTO item_paid_only (item_id) VALUES (224847);
-INSERT INTO item_paid_only (item_id) VALUES (224848);
-INSERT INTO item_paid_only (item_id) VALUES (224849);
-INSERT INTO item_paid_only (item_id) VALUES (224850);
-INSERT INTO item_paid_only (item_id) VALUES (224851);
-INSERT INTO item_paid_only (item_id) VALUES (224852);
-INSERT INTO item_paid_only (item_id) VALUES (224853);
-INSERT INTO item_paid_only (item_id) VALUES (224854);
-INSERT INTO item_paid_only (item_id) VALUES (224855);
-INSERT INTO item_paid_only (item_id) VALUES (224856);
-INSERT INTO item_paid_only (item_id) VALUES (224857);
-INSERT INTO item_paid_only (item_id) VALUES (224858);
-INSERT INTO item_paid_only (item_id) VALUES (224859);
-INSERT INTO item_paid_only (item_id) VALUES (224860);
-INSERT INTO item_paid_only (item_id) VALUES (224861);
-INSERT INTO item_paid_only (item_id) VALUES (224862);
-INSERT INTO item_paid_only (item_id) VALUES (224863);
-INSERT INTO item_paid_only (item_id) VALUES (224864);
-INSERT INTO item_paid_only (item_id) VALUES (224865);
-INSERT INTO item_paid_only (item_id) VALUES (224866);
-INSERT INTO item_paid_only (item_id) VALUES (224867);
-INSERT INTO item_paid_only (item_id) VALUES (224868);
-INSERT INTO item_paid_only (item_id) VALUES (224869);
-INSERT INTO item_paid_only (item_id) VALUES (224870);
-INSERT INTO item_paid_only (item_id) VALUES (224871);
-INSERT INTO item_paid_only (item_id) VALUES (224872);
-INSERT INTO item_paid_only (item_id) VALUES (224873);
-INSERT INTO item_paid_only (item_id) VALUES (224874);
-INSERT INTO item_paid_only (item_id) VALUES (224875);
-INSERT INTO item_paid_only (item_id) VALUES (224876);
-INSERT INTO item_paid_only (item_id) VALUES (224877);
-INSERT INTO item_paid_only (item_id) VALUES (224878);
-INSERT INTO item_paid_only (item_id) VALUES (224879);
-INSERT INTO item_paid_only (item_id) VALUES (224880);
-INSERT INTO item_paid_only (item_id) VALUES (224881);
-INSERT INTO item_paid_only (item_id) VALUES (224882);
-INSERT INTO item_paid_only (item_id) VALUES (224883);
-INSERT INTO item_paid_only (item_id) VALUES (224884);
-INSERT INTO item_paid_only (item_id) VALUES (224885);
-INSERT INTO item_paid_only (item_id) VALUES (224886);
-INSERT INTO item_paid_only (item_id) VALUES (224887);
-INSERT INTO item_paid_only (item_id) VALUES (224888);
-INSERT INTO item_paid_only (item_id) VALUES (224889);
-INSERT INTO item_paid_only (item_id) VALUES (224890);
-INSERT INTO item_paid_only (item_id) VALUES (224891);
-INSERT INTO item_paid_only (item_id) VALUES (224892);
-INSERT INTO item_paid_only (item_id) VALUES (224893);
-INSERT INTO item_paid_only (item_id) VALUES (224894);
-INSERT INTO item_paid_only (item_id) VALUES (224895);
-INSERT INTO item_paid_only (item_id) VALUES (224896);
-INSERT INTO item_paid_only (item_id) VALUES (224897);
-INSERT INTO item_paid_only (item_id) VALUES (224898);
-INSERT INTO item_paid_only (item_id) VALUES (224899);
-INSERT INTO item_paid_only (item_id) VALUES (224900);
-INSERT INTO item_paid_only (item_id) VALUES (224901);
-INSERT INTO item_paid_only (item_id) VALUES (224902);
-INSERT INTO item_paid_only (item_id) VALUES (224903);
-INSERT INTO item_paid_only (item_id) VALUES (224904);
-INSERT INTO item_paid_only (item_id) VALUES (224905);
-INSERT INTO item_paid_only (item_id) VALUES (224906);
-INSERT INTO item_paid_only (item_id) VALUES (224907);
-INSERT INTO item_paid_only (item_id) VALUES (224908);
-INSERT INTO item_paid_only (item_id) VALUES (224909);
-INSERT INTO item_paid_only (item_id) VALUES (224910);
-INSERT INTO item_paid_only (item_id) VALUES (224911);
-INSERT INTO item_paid_only (item_id) VALUES (224912);
-INSERT INTO item_paid_only (item_id) VALUES (224913);
-INSERT INTO item_paid_only (item_id) VALUES (224914);
-INSERT INTO item_paid_only (item_id) VALUES (224915);
-INSERT INTO item_paid_only (item_id) VALUES (224916);
-INSERT INTO item_paid_only (item_id) VALUES (224917);
-INSERT INTO item_paid_only (item_id) VALUES (224918);
-INSERT INTO item_paid_only (item_id) VALUES (224919);
-INSERT INTO item_paid_only (item_id) VALUES (224920);
-INSERT INTO item_paid_only (item_id) VALUES (224921);
-INSERT INTO item_paid_only (item_id) VALUES (224922);
-INSERT INTO item_paid_only (item_id) VALUES (224923);
-INSERT INTO item_paid_only (item_id) VALUES (224924);
-INSERT INTO item_paid_only (item_id) VALUES (224925);
-INSERT INTO item_paid_only (item_id) VALUES (224926);
-INSERT INTO item_paid_only (item_id) VALUES (224927);
-INSERT INTO item_paid_only (item_id) VALUES (224928);
-INSERT INTO item_paid_only (item_id) VALUES (224929);
-INSERT INTO item_paid_only (item_id) VALUES (224930);
-INSERT INTO item_paid_only (item_id) VALUES (224931);
-INSERT INTO item_paid_only (item_id) VALUES (224932);
-INSERT INTO item_paid_only (item_id) VALUES (224933);
-INSERT INTO item_paid_only (item_id) VALUES (224934);
-INSERT INTO item_paid_only (item_id) VALUES (224935);
-INSERT INTO item_paid_only (item_id) VALUES (224936);
-INSERT INTO item_paid_only (item_id) VALUES (224937);
-INSERT INTO item_paid_only (item_id) VALUES (224938);
-INSERT INTO item_paid_only (item_id) VALUES (224939);
-INSERT INTO item_paid_only (item_id) VALUES (224940);
-INSERT INTO item_paid_only (item_id) VALUES (224941);
-INSERT INTO item_paid_only (item_id) VALUES (224942);
-INSERT INTO item_paid_only (item_id) VALUES (224943);
-INSERT INTO item_paid_only (item_id) VALUES (224944);
-INSERT INTO item_paid_only (item_id) VALUES (224945);
-INSERT INTO item_paid_only (item_id) VALUES (224946);
-INSERT INTO item_paid_only (item_id) VALUES (224947);
-INSERT INTO item_paid_only (item_id) VALUES (224948);
-INSERT INTO item_paid_only (item_id) VALUES (224949);
-INSERT INTO item_paid_only (item_id) VALUES (224950);
-INSERT INTO item_paid_only (item_id) VALUES (224951);
-INSERT INTO item_paid_only (item_id) VALUES (224952);
-INSERT INTO item_paid_only (item_id) VALUES (224953);
-INSERT INTO item_paid_only (item_id) VALUES (224954);
-INSERT INTO item_paid_only (item_id) VALUES (224955);
-INSERT INTO item_paid_only (item_id) VALUES (224956);
-INSERT INTO item_paid_only (item_id) VALUES (224957);
-INSERT INTO item_paid_only (item_id) VALUES (224958);
-INSERT INTO item_paid_only (item_id) VALUES (224959);
-INSERT INTO item_paid_only (item_id) VALUES (224960);
-INSERT INTO item_paid_only (item_id) VALUES (224961);
-INSERT INTO item_paid_only (item_id) VALUES (224962);
-INSERT INTO item_paid_only (item_id) VALUES (224963);
-INSERT INTO item_paid_only (item_id) VALUES (224964);
-INSERT INTO item_paid_only (item_id) VALUES (224965);
-INSERT INTO item_paid_only (item_id) VALUES (224966);
-INSERT INTO item_paid_only (item_id) VALUES (224967);
-INSERT INTO item_paid_only (item_id) VALUES (224968);
-INSERT INTO item_paid_only (item_id) VALUES (224969);
-INSERT INTO item_paid_only (item_id) VALUES (224970);
-INSERT INTO item_paid_only (item_id) VALUES (224971);
-INSERT INTO item_paid_only (item_id) VALUES (224972);
-INSERT INTO item_paid_only (item_id) VALUES (224973);
-INSERT INTO item_paid_only (item_id) VALUES (224974);
-INSERT INTO item_paid_only (item_id) VALUES (224975);
-INSERT INTO item_paid_only (item_id) VALUES (224976);
-INSERT INTO item_paid_only (item_id) VALUES (224977);
-INSERT INTO item_paid_only (item_id) VALUES (224978);
-INSERT INTO item_paid_only (item_id) VALUES (224979);
-INSERT INTO item_paid_only (item_id) VALUES (224980);
-INSERT INTO item_paid_only (item_id) VALUES (224981);
-INSERT INTO item_paid_only (item_id) VALUES (224982);
-INSERT INTO item_paid_only (item_id) VALUES (224983);
-INSERT INTO item_paid_only (item_id) VALUES (224984);
-INSERT INTO item_paid_only (item_id) VALUES (224985);
-INSERT INTO item_paid_only (item_id) VALUES (224986);
-INSERT INTO item_paid_only (item_id) VALUES (224987);
-INSERT INTO item_paid_only (item_id) VALUES (224988);
-INSERT INTO item_paid_only (item_id) VALUES (224989);
-INSERT INTO item_paid_only (item_id) VALUES (224990);
-INSERT INTO item_paid_only (item_id) VALUES (224991);
-INSERT INTO item_paid_only (item_id) VALUES (224992);
-INSERT INTO item_paid_only (item_id) VALUES (224993);
-INSERT INTO item_paid_only (item_id) VALUES (224994);
-INSERT INTO item_paid_only (item_id) VALUES (224995);
-INSERT INTO item_paid_only (item_id) VALUES (224996);
-INSERT INTO item_paid_only (item_id) VALUES (224997);
-INSERT INTO item_paid_only (item_id) VALUES (224998);
-INSERT INTO item_paid_only (item_id) VALUES (224999);
-INSERT INTO item_paid_only (item_id) VALUES (225000);
-INSERT INTO item_paid_only (item_id) VALUES (225001);
-INSERT INTO item_paid_only (item_id) VALUES (225002);
-INSERT INTO item_paid_only (item_id) VALUES (225003);
-INSERT INTO item_paid_only (item_id) VALUES (225004);
-INSERT INTO item_paid_only (item_id) VALUES (225005);
-INSERT INTO item_paid_only (item_id) VALUES (225006);
-INSERT INTO item_paid_only (item_id) VALUES (225007);
-INSERT INTO item_paid_only (item_id) VALUES (225008);
-INSERT INTO item_paid_only (item_id) VALUES (225009);
-INSERT INTO item_paid_only (item_id) VALUES (225010);
-INSERT INTO item_paid_only (item_id) VALUES (225011);
-INSERT INTO item_paid_only (item_id) VALUES (225012);
-INSERT INTO item_paid_only (item_id) VALUES (225013);
-INSERT INTO item_paid_only (item_id) VALUES (225014);
-INSERT INTO item_paid_only (item_id) VALUES (225015);
-INSERT INTO item_paid_only (item_id) VALUES (225016);
-INSERT INTO item_paid_only (item_id) VALUES (225017);
-INSERT INTO item_paid_only (item_id) VALUES (225018);
-INSERT INTO item_paid_only (item_id) VALUES (225019);
-INSERT INTO item_paid_only (item_id) VALUES (225020);
-INSERT INTO item_paid_only (item_id) VALUES (225021);
-INSERT INTO item_paid_only (item_id) VALUES (225022);
-INSERT INTO item_paid_only (item_id) VALUES (225023);
-INSERT INTO item_paid_only (item_id) VALUES (225024);
-INSERT INTO item_paid_only (item_id) VALUES (225025);
-INSERT INTO item_paid_only (item_id) VALUES (225026);
-INSERT INTO item_paid_only (item_id) VALUES (225027);
-INSERT INTO item_paid_only (item_id) VALUES (225028);
-INSERT INTO item_paid_only (item_id) VALUES (225029);
-INSERT INTO item_paid_only (item_id) VALUES (225030);
-INSERT INTO item_paid_only (item_id) VALUES (225031);
-INSERT INTO item_paid_only (item_id) VALUES (225032);
-INSERT INTO item_paid_only (item_id) VALUES (225033);
-INSERT INTO item_paid_only (item_id) VALUES (225034);
-INSERT INTO item_paid_only (item_id) VALUES (225035);
-INSERT INTO item_paid_only (item_id) VALUES (225036);
-INSERT INTO item_paid_only (item_id) VALUES (225037);
-INSERT INTO item_paid_only (item_id) VALUES (225038);
-INSERT INTO item_paid_only (item_id) VALUES (225039);
-INSERT INTO item_paid_only (item_id) VALUES (225040);
-INSERT INTO item_paid_only (item_id) VALUES (225041);
-INSERT INTO item_paid_only (item_id) VALUES (225042);
-INSERT INTO item_paid_only (item_id) VALUES (225043);
-INSERT INTO item_paid_only (item_id) VALUES (225044);
-INSERT INTO item_paid_only (item_id) VALUES (225045);
-INSERT INTO item_paid_only (item_id) VALUES (225046);
-INSERT INTO item_paid_only (item_id) VALUES (225047);
-INSERT INTO item_paid_only (item_id) VALUES (225048);
-INSERT INTO item_paid_only (item_id) VALUES (225049);
-INSERT INTO item_paid_only (item_id) VALUES (225050);
-INSERT INTO item_paid_only (item_id) VALUES (225051);
-INSERT INTO item_paid_only (item_id) VALUES (225052);
-INSERT INTO item_paid_only (item_id) VALUES (225053);
-INSERT INTO item_paid_only (item_id) VALUES (225054);
-INSERT INTO item_paid_only (item_id) VALUES (225055);
-INSERT INTO item_paid_only (item_id) VALUES (225056);
-INSERT INTO item_paid_only (item_id) VALUES (225057);
-INSERT INTO item_paid_only (item_id) VALUES (225058);
-INSERT INTO item_paid_only (item_id) VALUES (225059);
-INSERT INTO item_paid_only (item_id) VALUES (225060);
-INSERT INTO item_paid_only (item_id) VALUES (225061);
-INSERT INTO item_paid_only (item_id) VALUES (225062);
-INSERT INTO item_paid_only (item_id) VALUES (225063);
-INSERT INTO item_paid_only (item_id) VALUES (225064);
-INSERT INTO item_paid_only (item_id) VALUES (225065);
-INSERT INTO item_paid_only (item_id) VALUES (225066);
-INSERT INTO item_paid_only (item_id) VALUES (225067);
-INSERT INTO item_paid_only (item_id) VALUES (225068);
-INSERT INTO item_paid_only (item_id) VALUES (225069);
-INSERT INTO item_paid_only (item_id) VALUES (225070);
-INSERT INTO item_paid_only (item_id) VALUES (225071);
-INSERT INTO item_paid_only (item_id) VALUES (225072);
-INSERT INTO item_paid_only (item_id) VALUES (225073);
-INSERT INTO item_paid_only (item_id) VALUES (225074);
-INSERT INTO item_paid_only (item_id) VALUES (225075);
-INSERT INTO item_paid_only (item_id) VALUES (225076);
-INSERT INTO item_paid_only (item_id) VALUES (225077);
-INSERT INTO item_paid_only (item_id) VALUES (225078);
-INSERT INTO item_paid_only (item_id) VALUES (225079);
-INSERT INTO item_paid_only (item_id) VALUES (225080);
-INSERT INTO item_paid_only (item_id) VALUES (225081);
-INSERT INTO item_paid_only (item_id) VALUES (225082);
-INSERT INTO item_paid_only (item_id) VALUES (225083);
-INSERT INTO item_paid_only (item_id) VALUES (225084);
-INSERT INTO item_paid_only (item_id) VALUES (225085);
-INSERT INTO item_paid_only (item_id) VALUES (225086);
-INSERT INTO item_paid_only (item_id) VALUES (225087);
-INSERT INTO item_paid_only (item_id) VALUES (225088);
-INSERT INTO item_paid_only (item_id) VALUES (225089);
-INSERT INTO item_paid_only (item_id) VALUES (225090);
-INSERT INTO item_paid_only (item_id) VALUES (225091);
-INSERT INTO item_paid_only (item_id) VALUES (225092);
-INSERT INTO item_paid_only (item_id) VALUES (225093);
-INSERT INTO item_paid_only (item_id) VALUES (225094);
-INSERT INTO item_paid_only (item_id) VALUES (225095);
-INSERT INTO item_paid_only (item_id) VALUES (225096);
-INSERT INTO item_paid_only (item_id) VALUES (225097);
-INSERT INTO item_paid_only (item_id) VALUES (225098);
-INSERT INTO item_paid_only (item_id) VALUES (225099);
-INSERT INTO item_paid_only (item_id) VALUES (225100);
-INSERT INTO item_paid_only (item_id) VALUES (225101);
-INSERT INTO item_paid_only (item_id) VALUES (225102);
-INSERT INTO item_paid_only (item_id) VALUES (225103);
-INSERT INTO item_paid_only (item_id) VALUES (225104);
-INSERT INTO item_paid_only (item_id) VALUES (225105);
-INSERT INTO item_paid_only (item_id) VALUES (225106);
-INSERT INTO item_paid_only (item_id) VALUES (225107);
-INSERT INTO item_paid_only (item_id) VALUES (225108);
-INSERT INTO item_paid_only (item_id) VALUES (225109);
-INSERT INTO item_paid_only (item_id) VALUES (225110);
-INSERT INTO item_paid_only (item_id) VALUES (225111);
-INSERT INTO item_paid_only (item_id) VALUES (225112);
-INSERT INTO item_paid_only (item_id) VALUES (225113);
-INSERT INTO item_paid_only (item_id) VALUES (225114);
-INSERT INTO item_paid_only (item_id) VALUES (225115);
-INSERT INTO item_paid_only (item_id) VALUES (225116);
-INSERT INTO item_paid_only (item_id) VALUES (225117);
-INSERT INTO item_paid_only (item_id) VALUES (225118);
-INSERT INTO item_paid_only (item_id) VALUES (225119);
-INSERT INTO item_paid_only (item_id) VALUES (225120);
-INSERT INTO item_paid_only (item_id) VALUES (225121);
-INSERT INTO item_paid_only (item_id) VALUES (225122);
-INSERT INTO item_paid_only (item_id) VALUES (225123);
-INSERT INTO item_paid_only (item_id) VALUES (225124);
-INSERT INTO item_paid_only (item_id) VALUES (225125);
-INSERT INTO item_paid_only (item_id) VALUES (225126);
-INSERT INTO item_paid_only (item_id) VALUES (225127);
-INSERT INTO item_paid_only (item_id) VALUES (225128);
-INSERT INTO item_paid_only (item_id) VALUES (225129);
-INSERT INTO item_paid_only (item_id) VALUES (225130);
-INSERT INTO item_paid_only (item_id) VALUES (225131);
-INSERT INTO item_paid_only (item_id) VALUES (225132);
-INSERT INTO item_paid_only (item_id) VALUES (225133);
-INSERT INTO item_paid_only (item_id) VALUES (225134);
-INSERT INTO item_paid_only (item_id) VALUES (225135);
-INSERT INTO item_paid_only (item_id) VALUES (225136);
-INSERT INTO item_paid_only (item_id) VALUES (225137);
-INSERT INTO item_paid_only (item_id) VALUES (225138);
-INSERT INTO item_paid_only (item_id) VALUES (225139);
-INSERT INTO item_paid_only (item_id) VALUES (225140);
-INSERT INTO item_paid_only (item_id) VALUES (225141);
-INSERT INTO item_paid_only (item_id) VALUES (225142);
-INSERT INTO item_paid_only (item_id) VALUES (225143);
-INSERT INTO item_paid_only (item_id) VALUES (225144);
-INSERT INTO item_paid_only (item_id) VALUES (225145);
-INSERT INTO item_paid_only (item_id) VALUES (225146);
-INSERT INTO item_paid_only (item_id) VALUES (225147);
-INSERT INTO item_paid_only (item_id) VALUES (225148);
-INSERT INTO item_paid_only (item_id) VALUES (225149);
-INSERT INTO item_paid_only (item_id) VALUES (225150);
-INSERT INTO item_paid_only (item_id) VALUES (225151);
-INSERT INTO item_paid_only (item_id) VALUES (225152);
-INSERT INTO item_paid_only (item_id) VALUES (225153);
-INSERT INTO item_paid_only (item_id) VALUES (225154);
-INSERT INTO item_paid_only (item_id) VALUES (225155);
-INSERT INTO item_paid_only (item_id) VALUES (225156);
-INSERT INTO item_paid_only (item_id) VALUES (225157);
-INSERT INTO item_paid_only (item_id) VALUES (225158);
-INSERT INTO item_paid_only (item_id) VALUES (225159);
-INSERT INTO item_paid_only (item_id) VALUES (225160);
-INSERT INTO item_paid_only (item_id) VALUES (225161);
-INSERT INTO item_paid_only (item_id) VALUES (225162);
-INSERT INTO item_paid_only (item_id) VALUES (225163);
-INSERT INTO item_paid_only (item_id) VALUES (225164);
-INSERT INTO item_paid_only (item_id) VALUES (225165);
-INSERT INTO item_paid_only (item_id) VALUES (225166);
-INSERT INTO item_paid_only (item_id) VALUES (225167);
-INSERT INTO item_paid_only (item_id) VALUES (225168);
-INSERT INTO item_paid_only (item_id) VALUES (225169);
-INSERT INTO item_paid_only (item_id) VALUES (225170);
-INSERT INTO item_paid_only (item_id) VALUES (225171);
-INSERT INTO item_paid_only (item_id) VALUES (225172);
-INSERT INTO item_paid_only (item_id) VALUES (225173);
-INSERT INTO item_paid_only (item_id) VALUES (225174);
-INSERT INTO item_paid_only (item_id) VALUES (225175);
-INSERT INTO item_paid_only (item_id) VALUES (225176);
-INSERT INTO item_paid_only (item_id) VALUES (225177);
-INSERT INTO item_paid_only (item_id) VALUES (225178);
-INSERT INTO item_paid_only (item_id) VALUES (225179);
-INSERT INTO item_paid_only (item_id) VALUES (225180);
-INSERT INTO item_paid_only (item_id) VALUES (225181);
-INSERT INTO item_paid_only (item_id) VALUES (225182);
-INSERT INTO item_paid_only (item_id) VALUES (225183);
-INSERT INTO item_paid_only (item_id) VALUES (225184);
-INSERT INTO item_paid_only (item_id) VALUES (225185);
-INSERT INTO item_paid_only (item_id) VALUES (225186);
-INSERT INTO item_paid_only (item_id) VALUES (225187);
-INSERT INTO item_paid_only (item_id) VALUES (225188);
-INSERT INTO item_paid_only (item_id) VALUES (225189);
-INSERT INTO item_paid_only (item_id) VALUES (225190);
-INSERT INTO item_paid_only (item_id) VALUES (225191);
-INSERT INTO item_paid_only (item_id) VALUES (225192);
-INSERT INTO item_paid_only (item_id) VALUES (225193);
-INSERT INTO item_paid_only (item_id) VALUES (225194);
-INSERT INTO item_paid_only (item_id) VALUES (225195);
-INSERT INTO item_paid_only (item_id) VALUES (225196);
-INSERT INTO item_paid_only (item_id) VALUES (225197);
-INSERT INTO item_paid_only (item_id) VALUES (225198);
-INSERT INTO item_paid_only (item_id) VALUES (225199);
-INSERT INTO item_paid_only (item_id) VALUES (225200);
-INSERT INTO item_paid_only (item_id) VALUES (225201);
-INSERT INTO item_paid_only (item_id) VALUES (225202);
-INSERT INTO item_paid_only (item_id) VALUES (225203);
-INSERT INTO item_paid_only (item_id) VALUES (225204);
-INSERT INTO item_paid_only (item_id) VALUES (225205);
-INSERT INTO item_paid_only (item_id) VALUES (225206);
-INSERT INTO item_paid_only (item_id) VALUES (225207);
-INSERT INTO item_paid_only (item_id) VALUES (225208);
-INSERT INTO item_paid_only (item_id) VALUES (225209);
-INSERT INTO item_paid_only (item_id) VALUES (225210);
-INSERT INTO item_paid_only (item_id) VALUES (225211);
-INSERT INTO item_paid_only (item_id) VALUES (225212);
-INSERT INTO item_paid_only (item_id) VALUES (225213);
-INSERT INTO item_paid_only (item_id) VALUES (225214);
-INSERT INTO item_paid_only (item_id) VALUES (225215);
-INSERT INTO item_paid_only (item_id) VALUES (225216);
-INSERT INTO item_paid_only (item_id) VALUES (225217);
-INSERT INTO item_paid_only (item_id) VALUES (225218);
-INSERT INTO item_paid_only (item_id) VALUES (225219);
-INSERT INTO item_paid_only (item_id) VALUES (225220);
-INSERT INTO item_paid_only (item_id) VALUES (225221);
-INSERT INTO item_paid_only (item_id) VALUES (225222);
-INSERT INTO item_paid_only (item_id) VALUES (225223);
-INSERT INTO item_paid_only (item_id) VALUES (225224);
-INSERT INTO item_paid_only (item_id) VALUES (225225);
-INSERT INTO item_paid_only (item_id) VALUES (225226);
-INSERT INTO item_paid_only (item_id) VALUES (225227);
-INSERT INTO item_paid_only (item_id) VALUES (225228);
-INSERT INTO item_paid_only (item_id) VALUES (225229);
-INSERT INTO item_paid_only (item_id) VALUES (225230);
-INSERT INTO item_paid_only (item_id) VALUES (225231);
-INSERT INTO item_paid_only (item_id) VALUES (225232);
-INSERT INTO item_paid_only (item_id) VALUES (225233);
-INSERT INTO item_paid_only (item_id) VALUES (225234);
-INSERT INTO item_paid_only (item_id) VALUES (225235);
-INSERT INTO item_paid_only (item_id) VALUES (225236);
-INSERT INTO item_paid_only (item_id) VALUES (225237);
-INSERT INTO item_paid_only (item_id) VALUES (225238);
-INSERT INTO item_paid_only (item_id) VALUES (225239);
-INSERT INTO item_paid_only (item_id) VALUES (225240);
-INSERT INTO item_paid_only (item_id) VALUES (225241);
-INSERT INTO item_paid_only (item_id) VALUES (225242);
-INSERT INTO item_paid_only (item_id) VALUES (225243);
-INSERT INTO item_paid_only (item_id) VALUES (225244);
-INSERT INTO item_paid_only (item_id) VALUES (225245);
-INSERT INTO item_paid_only (item_id) VALUES (225246);
-INSERT INTO item_paid_only (item_id) VALUES (225247);
-INSERT INTO item_paid_only (item_id) VALUES (225248);
-INSERT INTO item_paid_only (item_id) VALUES (225249);
-INSERT INTO item_paid_only (item_id) VALUES (225250);
-INSERT INTO item_paid_only (item_id) VALUES (225251);
-INSERT INTO item_paid_only (item_id) VALUES (225252);
-INSERT INTO item_paid_only (item_id) VALUES (225253);
-INSERT INTO item_paid_only (item_id) VALUES (225254);
-INSERT INTO item_paid_only (item_id) VALUES (225255);
-INSERT INTO item_paid_only (item_id) VALUES (225256);
-INSERT INTO item_paid_only (item_id) VALUES (225257);
-INSERT INTO item_paid_only (item_id) VALUES (225258);
-INSERT INTO item_paid_only (item_id) VALUES (225259);
-INSERT INTO item_paid_only (item_id) VALUES (225260);
-INSERT INTO item_paid_only (item_id) VALUES (225261);
-INSERT INTO item_paid_only (item_id) VALUES (225262);
-INSERT INTO item_paid_only (item_id) VALUES (225263);
-INSERT INTO item_paid_only (item_id) VALUES (225264);
-INSERT INTO item_paid_only (item_id) VALUES (225281);
-INSERT INTO item_paid_only (item_id) VALUES (225379);
-INSERT INTO item_paid_only (item_id) VALUES (225380);
-INSERT INTO item_paid_only (item_id) VALUES (225381);
-INSERT INTO item_paid_only (item_id) VALUES (225382);
-INSERT INTO item_paid_only (item_id) VALUES (225385);
-INSERT INTO item_paid_only (item_id) VALUES (225388);
-INSERT INTO item_paid_only (item_id) VALUES (225389);
-INSERT INTO item_paid_only (item_id) VALUES (225390);
-INSERT INTO item_paid_only (item_id) VALUES (225391);
-INSERT INTO item_paid_only (item_id) VALUES (225392);
-INSERT INTO item_paid_only (item_id) VALUES (225415);
-INSERT INTO item_paid_only (item_id) VALUES (225457);
-INSERT INTO item_paid_only (item_id) VALUES (225458);
-INSERT INTO item_paid_only (item_id) VALUES (225459);
-INSERT INTO item_paid_only (item_id) VALUES (225514);
-INSERT INTO item_paid_only (item_id) VALUES (225515);
-INSERT INTO item_paid_only (item_id) VALUES (225516);
-INSERT INTO item_paid_only (item_id) VALUES (225517);
-INSERT INTO item_paid_only (item_id) VALUES (225518);
-INSERT INTO item_paid_only (item_id) VALUES (225519);
-INSERT INTO item_paid_only (item_id) VALUES (225541);
-INSERT INTO item_paid_only (item_id) VALUES (225542);
-INSERT INTO item_paid_only (item_id) VALUES (225543);
-INSERT INTO item_paid_only (item_id) VALUES (225544);
-INSERT INTO item_paid_only (item_id) VALUES (225545);
-INSERT INTO item_paid_only (item_id) VALUES (225546);
-INSERT INTO item_paid_only (item_id) VALUES (225579);
-INSERT INTO item_paid_only (item_id) VALUES (225580);
-INSERT INTO item_paid_only (item_id) VALUES (225587);
-INSERT INTO item_paid_only (item_id) VALUES (225588);
-INSERT INTO item_paid_only (item_id) VALUES (225591);
-INSERT INTO item_paid_only (item_id) VALUES (225592);
-INSERT INTO item_paid_only (item_id) VALUES (225595);
-INSERT INTO item_paid_only (item_id) VALUES (225596);
-INSERT INTO item_paid_only (item_id) VALUES (225627);
-INSERT INTO item_paid_only (item_id) VALUES (225628);
-INSERT INTO item_paid_only (item_id) VALUES (225635);
-INSERT INTO item_paid_only (item_id) VALUES (225636);
-INSERT INTO item_paid_only (item_id) VALUES (225637);
-INSERT INTO item_paid_only (item_id) VALUES (225638);
-INSERT INTO item_paid_only (item_id) VALUES (225639);
-INSERT INTO item_paid_only (item_id) VALUES (225640);
-INSERT INTO item_paid_only (item_id) VALUES (225647);
-INSERT INTO item_paid_only (item_id) VALUES (225648);
-INSERT INTO item_paid_only (item_id) VALUES (225649);
-INSERT INTO item_paid_only (item_id) VALUES (225650);
-INSERT INTO item_paid_only (item_id) VALUES (225657);
-INSERT INTO item_paid_only (item_id) VALUES (225658);
-INSERT INTO item_paid_only (item_id) VALUES (225659);
-INSERT INTO item_paid_only (item_id) VALUES (225660);
-INSERT INTO item_paid_only (item_id) VALUES (225661);
-INSERT INTO item_paid_only (item_id) VALUES (225662);
-INSERT INTO item_paid_only (item_id) VALUES (225663);
-INSERT INTO item_paid_only (item_id) VALUES (225664);
-INSERT INTO item_paid_only (item_id) VALUES (225665);
-INSERT INTO item_paid_only (item_id) VALUES (225666);
-INSERT INTO item_paid_only (item_id) VALUES (225667);
-INSERT INTO item_paid_only (item_id) VALUES (225668);
-INSERT INTO item_paid_only (item_id) VALUES (225669);
-INSERT INTO item_paid_only (item_id) VALUES (225670);
-INSERT INTO item_paid_only (item_id) VALUES (225671);
-INSERT INTO item_paid_only (item_id) VALUES (225672);
-INSERT INTO item_paid_only (item_id) VALUES (225673);
-INSERT INTO item_paid_only (item_id) VALUES (225674);
-INSERT INTO item_paid_only (item_id) VALUES (225675);
-INSERT INTO item_paid_only (item_id) VALUES (225676);
-INSERT INTO item_paid_only (item_id) VALUES (225677);
-INSERT INTO item_paid_only (item_id) VALUES (225678);
-INSERT INTO item_paid_only (item_id) VALUES (225679);
-INSERT INTO item_paid_only (item_id) VALUES (225680);
-INSERT INTO item_paid_only (item_id) VALUES (225681);
-INSERT INTO item_paid_only (item_id) VALUES (225682);
-INSERT INTO item_paid_only (item_id) VALUES (225683);
-INSERT INTO item_paid_only (item_id) VALUES (225684);
-INSERT INTO item_paid_only (item_id) VALUES (225685);
-INSERT INTO item_paid_only (item_id) VALUES (225686);
-INSERT INTO item_paid_only (item_id) VALUES (225687);
-INSERT INTO item_paid_only (item_id) VALUES (225688);
-INSERT INTO item_paid_only (item_id) VALUES (225689);
-INSERT INTO item_paid_only (item_id) VALUES (225690);
-INSERT INTO item_paid_only (item_id) VALUES (225691);
-INSERT INTO item_paid_only (item_id) VALUES (225692);
-INSERT INTO item_paid_only (item_id) VALUES (225693);
-INSERT INTO item_paid_only (item_id) VALUES (225694);
-INSERT INTO item_paid_only (item_id) VALUES (225695);
-INSERT INTO item_paid_only (item_id) VALUES (225696);
-INSERT INTO item_paid_only (item_id) VALUES (225697);
-INSERT INTO item_paid_only (item_id) VALUES (225698);
-INSERT INTO item_paid_only (item_id) VALUES (225699);
-INSERT INTO item_paid_only (item_id) VALUES (225700);
-INSERT INTO item_paid_only (item_id) VALUES (225701);
-INSERT INTO item_paid_only (item_id) VALUES (225702);
-INSERT INTO item_paid_only (item_id) VALUES (225703);
-INSERT INTO item_paid_only (item_id) VALUES (225704);
-INSERT INTO item_paid_only (item_id) VALUES (225705);
-INSERT INTO item_paid_only (item_id) VALUES (225706);
-INSERT INTO item_paid_only (item_id) VALUES (225707);
-INSERT INTO item_paid_only (item_id) VALUES (225708);
-INSERT INTO item_paid_only (item_id) VALUES (225709);
-INSERT INTO item_paid_only (item_id) VALUES (225710);
-INSERT INTO item_paid_only (item_id) VALUES (225711);
-INSERT INTO item_paid_only (item_id) VALUES (225712);
-INSERT INTO item_paid_only (item_id) VALUES (225737);
-INSERT INTO item_paid_only (item_id) VALUES (225738);
-INSERT INTO item_paid_only (item_id) VALUES (225739);
-INSERT INTO item_paid_only (item_id) VALUES (225740);
-INSERT INTO item_paid_only (item_id) VALUES (225741);
-INSERT INTO item_paid_only (item_id) VALUES (225742);
-INSERT INTO item_paid_only (item_id) VALUES (225743);
-INSERT INTO item_paid_only (item_id) VALUES (225744);
-INSERT INTO item_paid_only (item_id) VALUES (225745);
-INSERT INTO item_paid_only (item_id) VALUES (225746);
-INSERT INTO item_paid_only (item_id) VALUES (225747);
-INSERT INTO item_paid_only (item_id) VALUES (225748);
-INSERT INTO item_paid_only (item_id) VALUES (225749);
-INSERT INTO item_paid_only (item_id) VALUES (225750);
-INSERT INTO item_paid_only (item_id) VALUES (225751);
-INSERT INTO item_paid_only (item_id) VALUES (225752);
-INSERT INTO item_paid_only (item_id) VALUES (225753);
-INSERT INTO item_paid_only (item_id) VALUES (225754);
-INSERT INTO item_paid_only (item_id) VALUES (225755);
-INSERT INTO item_paid_only (item_id) VALUES (225756);
-INSERT INTO item_paid_only (item_id) VALUES (225757);
-INSERT INTO item_paid_only (item_id) VALUES (225758);
-INSERT INTO item_paid_only (item_id) VALUES (225759);
-INSERT INTO item_paid_only (item_id) VALUES (225760);
-INSERT INTO item_paid_only (item_id) VALUES (225762);
-INSERT INTO item_paid_only (item_id) VALUES (225763);
-INSERT INTO item_paid_only (item_id) VALUES (225764);
-INSERT INTO item_paid_only (item_id) VALUES (225765);
-INSERT INTO item_paid_only (item_id) VALUES (225766);
-INSERT INTO item_paid_only (item_id) VALUES (225767);
-INSERT INTO item_paid_only (item_id) VALUES (225768);
-INSERT INTO item_paid_only (item_id) VALUES (225769);
-INSERT INTO item_paid_only (item_id) VALUES (225770);
-INSERT INTO item_paid_only (item_id) VALUES (225771);
-INSERT INTO item_paid_only (item_id) VALUES (225773);
-INSERT INTO item_paid_only (item_id) VALUES (225774);
-INSERT INTO item_paid_only (item_id) VALUES (225775);
-INSERT INTO item_paid_only (item_id) VALUES (225776);
-INSERT INTO item_paid_only (item_id) VALUES (225777);
-INSERT INTO item_paid_only (item_id) VALUES (225778);
-INSERT INTO item_paid_only (item_id) VALUES (225779);
-INSERT INTO item_paid_only (item_id) VALUES (225780);
-INSERT INTO item_paid_only (item_id) VALUES (225781);
-INSERT INTO item_paid_only (item_id) VALUES (225782);
-INSERT INTO item_paid_only (item_id) VALUES (225894);
-INSERT INTO item_paid_only (item_id) VALUES (225895);
-INSERT INTO item_paid_only (item_id) VALUES (225896);
-INSERT INTO item_paid_only (item_id) VALUES (225897);
-INSERT INTO item_paid_only (item_id) VALUES (225898);
-INSERT INTO item_paid_only (item_id) VALUES (225899);
-INSERT INTO item_paid_only (item_id) VALUES (225900);
-INSERT INTO item_paid_only (item_id) VALUES (225901);
-INSERT INTO item_paid_only (item_id) VALUES (225902);
-INSERT INTO item_paid_only (item_id) VALUES (225903);
-INSERT INTO item_paid_only (item_id) VALUES (226005);
-INSERT INTO item_paid_only (item_id) VALUES (226023);
-INSERT INTO item_paid_only (item_id) VALUES (226065);
-INSERT INTO item_paid_only (item_id) VALUES (226066);
-INSERT INTO item_paid_only (item_id) VALUES (226067);
-INSERT INTO item_paid_only (item_id) VALUES (226068);
-INSERT INTO item_paid_only (item_id) VALUES (226069);
-INSERT INTO item_paid_only (item_id) VALUES (226125);
-INSERT INTO item_paid_only (item_id) VALUES (226126);
-INSERT INTO item_paid_only (item_id) VALUES (226127);
-INSERT INTO item_paid_only (item_id) VALUES (226188);
-INSERT INTO item_paid_only (item_id) VALUES (226189);
-INSERT INTO item_paid_only (item_id) VALUES (226190);
-INSERT INTO item_paid_only (item_id) VALUES (226191);
-INSERT INTO item_paid_only (item_id) VALUES (226192);
-INSERT INTO item_paid_only (item_id) VALUES (226270);
-INSERT INTO item_paid_only (item_id) VALUES (226272);
-INSERT INTO item_paid_only (item_id) VALUES (226273);
-INSERT INTO item_paid_only (item_id) VALUES (226274);
-INSERT INTO item_paid_only (item_id) VALUES (226276);
-INSERT INTO item_paid_only (item_id) VALUES (226277);
-INSERT INTO item_paid_only (item_id) VALUES (226278);
-INSERT INTO item_paid_only (item_id) VALUES (226279);
-INSERT INTO item_paid_only (item_id) VALUES (226281);
-INSERT INTO item_paid_only (item_id) VALUES (226282);
-INSERT INTO item_paid_only (item_id) VALUES (226283);
-INSERT INTO item_paid_only (item_id) VALUES (226284);
-INSERT INTO item_paid_only (item_id) VALUES (226287);
-INSERT INTO item_paid_only (item_id) VALUES (226288);
-INSERT INTO item_paid_only (item_id) VALUES (226290);
-INSERT INTO item_paid_only (item_id) VALUES (226291);
-INSERT INTO item_paid_only (item_id) VALUES (226293);
-INSERT INTO item_paid_only (item_id) VALUES (226294);
-INSERT INTO item_paid_only (item_id) VALUES (226295);
-INSERT INTO item_paid_only (item_id) VALUES (226306);
-INSERT INTO item_paid_only (item_id) VALUES (226307);
-INSERT INTO item_paid_only (item_id) VALUES (226308);
-INSERT INTO item_paid_only (item_id) VALUES (226394);
-INSERT INTO item_paid_only (item_id) VALUES (226395);
-INSERT INTO item_paid_only (item_id) VALUES (226396);
-INSERT INTO item_paid_only (item_id) VALUES (226397);
-INSERT INTO item_paid_only (item_id) VALUES (226398);
-INSERT INTO item_paid_only (item_id) VALUES (226400);
-INSERT INTO item_paid_only (item_id) VALUES (226403);
-INSERT INTO item_paid_only (item_id) VALUES (226405);
-INSERT INTO item_paid_only (item_id) VALUES (226406);
-INSERT INTO item_paid_only (item_id) VALUES (226407);
-INSERT INTO item_paid_only (item_id) VALUES (226408);
-INSERT INTO item_paid_only (item_id) VALUES (226409);
-INSERT INTO item_paid_only (item_id) VALUES (226410);
-INSERT INTO item_paid_only (item_id) VALUES (226412);
-INSERT INTO item_paid_only (item_id) VALUES (226413);
-INSERT INTO item_paid_only (item_id) VALUES (226414);
-INSERT INTO item_paid_only (item_id) VALUES (226415);
-INSERT INTO item_paid_only (item_id) VALUES (226416);
-INSERT INTO item_paid_only (item_id) VALUES (226417);
-INSERT INTO item_paid_only (item_id) VALUES (226418);
-INSERT INTO item_paid_only (item_id) VALUES (226419);
-INSERT INTO item_paid_only (item_id) VALUES (226420);
-INSERT INTO item_paid_only (item_id) VALUES (226421);
-INSERT INTO item_paid_only (item_id) VALUES (226422);
-INSERT INTO item_paid_only (item_id) VALUES (226423);
-INSERT INTO item_paid_only (item_id) VALUES (226424);
-INSERT INTO item_paid_only (item_id) VALUES (226425);
-INSERT INTO item_paid_only (item_id) VALUES (226426);
-INSERT INTO item_paid_only (item_id) VALUES (226427);
-INSERT INTO item_paid_only (item_id) VALUES (226428);
-INSERT INTO item_paid_only (item_id) VALUES (226429);
-INSERT INTO item_paid_only (item_id) VALUES (226430);
-INSERT INTO item_paid_only (item_id) VALUES (226431);
-INSERT INTO item_paid_only (item_id) VALUES (226432);
-INSERT INTO item_paid_only (item_id) VALUES (226433);
-INSERT INTO item_paid_only (item_id) VALUES (226434);
-INSERT INTO item_paid_only (item_id) VALUES (226435);
-INSERT INTO item_paid_only (item_id) VALUES (226436);
-INSERT INTO item_paid_only (item_id) VALUES (226437);
-INSERT INTO item_paid_only (item_id) VALUES (226438);
-INSERT INTO item_paid_only (item_id) VALUES (226439);
-INSERT INTO item_paid_only (item_id) VALUES (226440);
-INSERT INTO item_paid_only (item_id) VALUES (226441);
-INSERT INTO item_paid_only (item_id) VALUES (226442);
-INSERT INTO item_paid_only (item_id) VALUES (226443);
-INSERT INTO item_paid_only (item_id) VALUES (226444);
-INSERT INTO item_paid_only (item_id) VALUES (226445);
-INSERT INTO item_paid_only (item_id) VALUES (226446);
-INSERT INTO item_paid_only (item_id) VALUES (226447);
-INSERT INTO item_paid_only (item_id) VALUES (226448);
-INSERT INTO item_paid_only (item_id) VALUES (226449);
-INSERT INTO item_paid_only (item_id) VALUES (226450);
-INSERT INTO item_paid_only (item_id) VALUES (226453);
-INSERT INTO item_paid_only (item_id) VALUES (226454);
-INSERT INTO item_paid_only (item_id) VALUES (226455);
-INSERT INTO item_paid_only (item_id) VALUES (226456);
-INSERT INTO item_paid_only (item_id) VALUES (226457);
-INSERT INTO item_paid_only (item_id) VALUES (226458);
-INSERT INTO item_paid_only (item_id) VALUES (226459);
-INSERT INTO item_paid_only (item_id) VALUES (226460);
-INSERT INTO item_paid_only (item_id) VALUES (226461);
-INSERT INTO item_paid_only (item_id) VALUES (226462);
-INSERT INTO item_paid_only (item_id) VALUES (226463);
-INSERT INTO item_paid_only (item_id) VALUES (226464);
-INSERT INTO item_paid_only (item_id) VALUES (226486);
-INSERT INTO item_paid_only (item_id) VALUES (226590);
-INSERT INTO item_paid_only (item_id) VALUES (226591);
-INSERT INTO item_paid_only (item_id) VALUES (226670);
-INSERT INTO item_paid_only (item_id) VALUES (226671);
-INSERT INTO item_paid_only (item_id) VALUES (226672);
-INSERT INTO item_paid_only (item_id) VALUES (226673);
-INSERT INTO item_paid_only (item_id) VALUES (226674);
-INSERT INTO item_paid_only (item_id) VALUES (226675);
-INSERT INTO item_paid_only (item_id) VALUES (226676);
-INSERT INTO item_paid_only (item_id) VALUES (226677);
-INSERT INTO item_paid_only (item_id) VALUES (226689);
-INSERT INTO item_paid_only (item_id) VALUES (226690);
-INSERT INTO item_paid_only (item_id) VALUES (226691);
-INSERT INTO item_paid_only (item_id) VALUES (226692);
-INSERT INTO item_paid_only (item_id) VALUES (226693);
-INSERT INTO item_paid_only (item_id) VALUES (226694);
-INSERT INTO item_paid_only (item_id) VALUES (226695);
-INSERT INTO item_paid_only (item_id) VALUES (226696);
-INSERT INTO item_paid_only (item_id) VALUES (226697);
-INSERT INTO item_paid_only (item_id) VALUES (226698);
-INSERT INTO item_paid_only (item_id) VALUES (226701);
-INSERT INTO item_paid_only (item_id) VALUES (226702);
-INSERT INTO item_paid_only (item_id) VALUES (226703);
-INSERT INTO item_paid_only (item_id) VALUES (226704);
-INSERT INTO item_paid_only (item_id) VALUES (226705);
-INSERT INTO item_paid_only (item_id) VALUES (226706);
-INSERT INTO item_paid_only (item_id) VALUES (226707);
-INSERT INTO item_paid_only (item_id) VALUES (226708);
-INSERT INTO item_paid_only (item_id) VALUES (226709);
-INSERT INTO item_paid_only (item_id) VALUES (226710);
-INSERT INTO item_paid_only (item_id) VALUES (226711);
-INSERT INTO item_paid_only (item_id) VALUES (226712);
-INSERT INTO item_paid_only (item_id) VALUES (226716);
-INSERT INTO item_paid_only (item_id) VALUES (226717);
-INSERT INTO item_paid_only (item_id) VALUES (226718);
-INSERT INTO item_paid_only (item_id) VALUES (226719);
-INSERT INTO item_paid_only (item_id) VALUES (226720);
-INSERT INTO item_paid_only (item_id) VALUES (226721);
-INSERT INTO item_paid_only (item_id) VALUES (226722);
-INSERT INTO item_paid_only (item_id) VALUES (226723);
-INSERT INTO item_paid_only (item_id) VALUES (226724);
-INSERT INTO item_paid_only (item_id) VALUES (226725);
-INSERT INTO item_paid_only (item_id) VALUES (226726);
-INSERT INTO item_paid_only (item_id) VALUES (226727);
-INSERT INTO item_paid_only (item_id) VALUES (226728);
-INSERT INTO item_paid_only (item_id) VALUES (226729);
-INSERT INTO item_paid_only (item_id) VALUES (226730);
-INSERT INTO item_paid_only (item_id) VALUES (226731);
-INSERT INTO item_paid_only (item_id) VALUES (226734);
-INSERT INTO item_paid_only (item_id) VALUES (226735);
-INSERT INTO item_paid_only (item_id) VALUES (226736);
-INSERT INTO item_paid_only (item_id) VALUES (226737);
-INSERT INTO item_paid_only (item_id) VALUES (226738);
-INSERT INTO item_paid_only (item_id) VALUES (226739);
-INSERT INTO item_paid_only (item_id) VALUES (226740);
-INSERT INTO item_paid_only (item_id) VALUES (226741);
-INSERT INTO item_paid_only (item_id) VALUES (226742);
-INSERT INTO item_paid_only (item_id) VALUES (226743);
-INSERT INTO item_paid_only (item_id) VALUES (226744);
-INSERT INTO item_paid_only (item_id) VALUES (226745);
-INSERT INTO item_paid_only (item_id) VALUES (226746);
-INSERT INTO item_paid_only (item_id) VALUES (226747);
-INSERT INTO item_paid_only (item_id) VALUES (226748);
-INSERT INTO item_paid_only (item_id) VALUES (226749);
-INSERT INTO item_paid_only (item_id) VALUES (226750);
-INSERT INTO item_paid_only (item_id) VALUES (226751);
-INSERT INTO item_paid_only (item_id) VALUES (226824);
-INSERT INTO item_paid_only (item_id) VALUES (226825);
-INSERT INTO item_paid_only (item_id) VALUES (226826);
-INSERT INTO item_paid_only (item_id) VALUES (226827);
-INSERT INTO item_paid_only (item_id) VALUES (226828);
-INSERT INTO item_paid_only (item_id) VALUES (226829);
-INSERT INTO item_paid_only (item_id) VALUES (226830);
-INSERT INTO item_paid_only (item_id) VALUES (226831);
-INSERT INTO item_paid_only (item_id) VALUES (226832);
-INSERT INTO item_paid_only (item_id) VALUES (226833);
-INSERT INTO item_paid_only (item_id) VALUES (226834);
-INSERT INTO item_paid_only (item_id) VALUES (226835);
-INSERT INTO item_paid_only (item_id) VALUES (226836);
-INSERT INTO item_paid_only (item_id) VALUES (226838);
-INSERT INTO item_paid_only (item_id) VALUES (226839);
-INSERT INTO item_paid_only (item_id) VALUES (226862);
-INSERT INTO item_paid_only (item_id) VALUES (226863);
-INSERT INTO item_paid_only (item_id) VALUES (226864);
-INSERT INTO item_paid_only (item_id) VALUES (226865);
-INSERT INTO item_paid_only (item_id) VALUES (226866);
-INSERT INTO item_paid_only (item_id) VALUES (226867);
-INSERT INTO item_paid_only (item_id) VALUES (226868);
-INSERT INTO item_paid_only (item_id) VALUES (226869);
-INSERT INTO item_paid_only (item_id) VALUES (226870);
-INSERT INTO item_paid_only (item_id) VALUES (226871);
-INSERT INTO item_paid_only (item_id) VALUES (226955);
-INSERT INTO item_paid_only (item_id) VALUES (226956);
-INSERT INTO item_paid_only (item_id) VALUES (226957);
-INSERT INTO item_paid_only (item_id) VALUES (226958);
-INSERT INTO item_paid_only (item_id) VALUES (226959);
-INSERT INTO item_paid_only (item_id) VALUES (226960);
-INSERT INTO item_paid_only (item_id) VALUES (226961);
-INSERT INTO item_paid_only (item_id) VALUES (226962);
-INSERT INTO item_paid_only (item_id) VALUES (226963);
-INSERT INTO item_paid_only (item_id) VALUES (226964);
-INSERT INTO item_paid_only (item_id) VALUES (226965);
-INSERT INTO item_paid_only (item_id) VALUES (226966);
-INSERT INTO item_paid_only (item_id) VALUES (226967);
-INSERT INTO item_paid_only (item_id) VALUES (226968);
-INSERT INTO item_paid_only (item_id) VALUES (226969);
-INSERT INTO item_paid_only (item_id) VALUES (226970);
-INSERT INTO item_paid_only (item_id) VALUES (226971);
-INSERT INTO item_paid_only (item_id) VALUES (226972);
-INSERT INTO item_paid_only (item_id) VALUES (226973);
-INSERT INTO item_paid_only (item_id) VALUES (226974);
-INSERT INTO item_paid_only (item_id) VALUES (226975);
-INSERT INTO item_paid_only (item_id) VALUES (226976);
-INSERT INTO item_paid_only (item_id) VALUES (226977);
-INSERT INTO item_paid_only (item_id) VALUES (226978);
-INSERT INTO item_paid_only (item_id) VALUES (226979);
-INSERT INTO item_paid_only (item_id) VALUES (226980);
-INSERT INTO item_paid_only (item_id) VALUES (226981);
-INSERT INTO item_paid_only (item_id) VALUES (226982);
-INSERT INTO item_paid_only (item_id) VALUES (226983);
-INSERT INTO item_paid_only (item_id) VALUES (226984);
-INSERT INTO item_paid_only (item_id) VALUES (226985);
-INSERT INTO item_paid_only (item_id) VALUES (226986);
-INSERT INTO item_paid_only (item_id) VALUES (226987);
-INSERT INTO item_paid_only (item_id) VALUES (226988);
-INSERT INTO item_paid_only (item_id) VALUES (226989);
-INSERT INTO item_paid_only (item_id) VALUES (226990);
-INSERT INTO item_paid_only (item_id) VALUES (226991);
-INSERT INTO item_paid_only (item_id) VALUES (226992);
-INSERT INTO item_paid_only (item_id) VALUES (226993);
-INSERT INTO item_paid_only (item_id) VALUES (226994);
-INSERT INTO item_paid_only (item_id) VALUES (226995);
-INSERT INTO item_paid_only (item_id) VALUES (226996);
-INSERT INTO item_paid_only (item_id) VALUES (226997);
-INSERT INTO item_paid_only (item_id) VALUES (226998);
-INSERT INTO item_paid_only (item_id) VALUES (226999);
-INSERT INTO item_paid_only (item_id) VALUES (227000);
-INSERT INTO item_paid_only (item_id) VALUES (227001);
-INSERT INTO item_paid_only (item_id) VALUES (227002);
-INSERT INTO item_paid_only (item_id) VALUES (227003);
-INSERT INTO item_paid_only (item_id) VALUES (227004);
-INSERT INTO item_paid_only (item_id) VALUES (227005);
-INSERT INTO item_paid_only (item_id) VALUES (227006);
-INSERT INTO item_paid_only (item_id) VALUES (227007);
-INSERT INTO item_paid_only (item_id) VALUES (227008);
-INSERT INTO item_paid_only (item_id) VALUES (227009);
-INSERT INTO item_paid_only (item_id) VALUES (227010);
-INSERT INTO item_paid_only (item_id) VALUES (227011);
-INSERT INTO item_paid_only (item_id) VALUES (227012);
-INSERT INTO item_paid_only (item_id) VALUES (227013);
-INSERT INTO item_paid_only (item_id) VALUES (227014);
-INSERT INTO item_paid_only (item_id) VALUES (227015);
-INSERT INTO item_paid_only (item_id) VALUES (227016);
-INSERT INTO item_paid_only (item_id) VALUES (227017);
-INSERT INTO item_paid_only (item_id) VALUES (227018);
-INSERT INTO item_paid_only (item_id) VALUES (227019);
-INSERT INTO item_paid_only (item_id) VALUES (227020);
-INSERT INTO item_paid_only (item_id) VALUES (227021);
-INSERT INTO item_paid_only (item_id) VALUES (227022);
-INSERT INTO item_paid_only (item_id) VALUES (227023);
-INSERT INTO item_paid_only (item_id) VALUES (227024);
-INSERT INTO item_paid_only (item_id) VALUES (227025);
-INSERT INTO item_paid_only (item_id) VALUES (227026);
-INSERT INTO item_paid_only (item_id) VALUES (227027);
-INSERT INTO item_paid_only (item_id) VALUES (227028);
-INSERT INTO item_paid_only (item_id) VALUES (227029);
-INSERT INTO item_paid_only (item_id) VALUES (227030);
-INSERT INTO item_paid_only (item_id) VALUES (227031);
-INSERT INTO item_paid_only (item_id) VALUES (227032);
-INSERT INTO item_paid_only (item_id) VALUES (227033);
-INSERT INTO item_paid_only (item_id) VALUES (227034);
-INSERT INTO item_paid_only (item_id) VALUES (227035);
-INSERT INTO item_paid_only (item_id) VALUES (227083);
-INSERT INTO item_paid_only (item_id) VALUES (227084);
-INSERT INTO item_paid_only (item_id) VALUES (227085);
-INSERT INTO item_paid_only (item_id) VALUES (227086);
-INSERT INTO item_paid_only (item_id) VALUES (227087);
-INSERT INTO item_paid_only (item_id) VALUES (227088);
-INSERT INTO item_paid_only (item_id) VALUES (227089);
-INSERT INTO item_paid_only (item_id) VALUES (227091);
-INSERT INTO item_paid_only (item_id) VALUES (227094);
-INSERT INTO item_paid_only (item_id) VALUES (227095);
-INSERT INTO item_paid_only (item_id) VALUES (227096);
-INSERT INTO item_paid_only (item_id) VALUES (227103);
-INSERT INTO item_paid_only (item_id) VALUES (227104);
-INSERT INTO item_paid_only (item_id) VALUES (227105);
-INSERT INTO item_paid_only (item_id) VALUES (227106);
-INSERT INTO item_paid_only (item_id) VALUES (227107);
-INSERT INTO item_paid_only (item_id) VALUES (227108);
-INSERT INTO item_paid_only (item_id) VALUES (227109);
-INSERT INTO item_paid_only (item_id) VALUES (227110);
-INSERT INTO item_paid_only (item_id) VALUES (227111);
-INSERT INTO item_paid_only (item_id) VALUES (227112);
-INSERT INTO item_paid_only (item_id) VALUES (227113);
-INSERT INTO item_paid_only (item_id) VALUES (227114);
-INSERT INTO item_paid_only (item_id) VALUES (227115);
-INSERT INTO item_paid_only (item_id) VALUES (227116);
-INSERT INTO item_paid_only (item_id) VALUES (227117);
-INSERT INTO item_paid_only (item_id) VALUES (227118);
-INSERT INTO item_paid_only (item_id) VALUES (227119);
-INSERT INTO item_paid_only (item_id) VALUES (227120);
-INSERT INTO item_paid_only (item_id) VALUES (227121);
-INSERT INTO item_paid_only (item_id) VALUES (227122);
-INSERT INTO item_paid_only (item_id) VALUES (227123);
-INSERT INTO item_paid_only (item_id) VALUES (227124);
-INSERT INTO item_paid_only (item_id) VALUES (227128);
-INSERT INTO item_paid_only (item_id) VALUES (227130);
-INSERT INTO item_paid_only (item_id) VALUES (227131);
-INSERT INTO item_paid_only (item_id) VALUES (227132);
-INSERT INTO item_paid_only (item_id) VALUES (227133);
-INSERT INTO item_paid_only (item_id) VALUES (227134);
-INSERT INTO item_paid_only (item_id) VALUES (227135);
-INSERT INTO item_paid_only (item_id) VALUES (227136);
-INSERT INTO item_paid_only (item_id) VALUES (227137);
-INSERT INTO item_paid_only (item_id) VALUES (227138);
-INSERT INTO item_paid_only (item_id) VALUES (227139);
-INSERT INTO item_paid_only (item_id) VALUES (227140);
-INSERT INTO item_paid_only (item_id) VALUES (227141);
-INSERT INTO item_paid_only (item_id) VALUES (227142);
-INSERT INTO item_paid_only (item_id) VALUES (227143);
-INSERT INTO item_paid_only (item_id) VALUES (227144);
-INSERT INTO item_paid_only (item_id) VALUES (227145);
-INSERT INTO item_paid_only (item_id) VALUES (227146);
-INSERT INTO item_paid_only (item_id) VALUES (227147);
-INSERT INTO item_paid_only (item_id) VALUES (227148);
-INSERT INTO item_paid_only (item_id) VALUES (227149);
-INSERT INTO item_paid_only (item_id) VALUES (227150);
-INSERT INTO item_paid_only (item_id) VALUES (227165);
-INSERT INTO item_paid_only (item_id) VALUES (227166);
-INSERT INTO item_paid_only (item_id) VALUES (227167);
-INSERT INTO item_paid_only (item_id) VALUES (227390);
-INSERT INTO item_paid_only (item_id) VALUES (227391);
-INSERT INTO item_paid_only (item_id) VALUES (227392);
-INSERT INTO item_paid_only (item_id) VALUES (227393);
-INSERT INTO item_paid_only (item_id) VALUES (227394);
-INSERT INTO item_paid_only (item_id) VALUES (227395);
-INSERT INTO item_paid_only (item_id) VALUES (227396);
-INSERT INTO item_paid_only (item_id) VALUES (227397);
-INSERT INTO item_paid_only (item_id) VALUES (227398);
-INSERT INTO item_paid_only (item_id) VALUES (227399);
-INSERT INTO item_paid_only (item_id) VALUES (227421);
-INSERT INTO item_paid_only (item_id) VALUES (227473);
-INSERT INTO item_paid_only (item_id) VALUES (227474);
-INSERT INTO item_paid_only (item_id) VALUES (227475);
-INSERT INTO item_paid_only (item_id) VALUES (227476);
-INSERT INTO item_paid_only (item_id) VALUES (227508);
-INSERT INTO item_paid_only (item_id) VALUES (227509);
-INSERT INTO item_paid_only (item_id) VALUES (227510);
-INSERT INTO item_paid_only (item_id) VALUES (227511);
-INSERT INTO item_paid_only (item_id) VALUES (227512);
-INSERT INTO item_paid_only (item_id) VALUES (227513);
-INSERT INTO item_paid_only (item_id) VALUES (227514);
-INSERT INTO item_paid_only (item_id) VALUES (227515);
-INSERT INTO item_paid_only (item_id) VALUES (227516);
-INSERT INTO item_paid_only (item_id) VALUES (227633);
-INSERT INTO item_paid_only (item_id) VALUES (227643);
-INSERT INTO item_paid_only (item_id) VALUES (227652);
-INSERT INTO item_paid_only (item_id) VALUES (227654);
-INSERT INTO item_paid_only (item_id) VALUES (227655);
-INSERT INTO item_paid_only (item_id) VALUES (227656);
-INSERT INTO item_paid_only (item_id) VALUES (227657);
-INSERT INTO item_paid_only (item_id) VALUES (227658);
-INSERT INTO item_paid_only (item_id) VALUES (227659);
-INSERT INTO item_paid_only (item_id) VALUES (227660);
-INSERT INTO item_paid_only (item_id) VALUES (227661);
-INSERT INTO item_paid_only (item_id) VALUES (227662);
-INSERT INTO item_paid_only (item_id) VALUES (227663);
-INSERT INTO item_paid_only (item_id) VALUES (227664);
-INSERT INTO item_paid_only (item_id) VALUES (227665);
-INSERT INTO item_paid_only (item_id) VALUES (227666);
-INSERT INTO item_paid_only (item_id) VALUES (227667);
-INSERT INTO item_paid_only (item_id) VALUES (227668);
-INSERT INTO item_paid_only (item_id) VALUES (227669);
-INSERT INTO item_paid_only (item_id) VALUES (227670);
-INSERT INTO item_paid_only (item_id) VALUES (227671);
-INSERT INTO item_paid_only (item_id) VALUES (227673);
-INSERT INTO item_paid_only (item_id) VALUES (227674);
-INSERT INTO item_paid_only (item_id) VALUES (227675);
-INSERT INTO item_paid_only (item_id) VALUES (227676);
-INSERT INTO item_paid_only (item_id) VALUES (227677);
-INSERT INTO item_paid_only (item_id) VALUES (227678);
-INSERT INTO item_paid_only (item_id) VALUES (227679);
-INSERT INTO item_paid_only (item_id) VALUES (227680);
-INSERT INTO item_paid_only (item_id) VALUES (227681);
-INSERT INTO item_paid_only (item_id) VALUES (227768);
-INSERT INTO item_paid_only (item_id) VALUES (227769);
-INSERT INTO item_paid_only (item_id) VALUES (227770);
-INSERT INTO item_paid_only (item_id) VALUES (227771);
-INSERT INTO item_paid_only (item_id) VALUES (227772);
-INSERT INTO item_paid_only (item_id) VALUES (227773);
-INSERT INTO item_paid_only (item_id) VALUES (227774);
-INSERT INTO item_paid_only (item_id) VALUES (227775);
-INSERT INTO item_paid_only (item_id) VALUES (227776);
-INSERT INTO item_paid_only (item_id) VALUES (227777);
-INSERT INTO item_paid_only (item_id) VALUES (227778);
-INSERT INTO item_paid_only (item_id) VALUES (227779);
-INSERT INTO item_paid_only (item_id) VALUES (227906);
-INSERT INTO item_paid_only (item_id) VALUES (227907);
-INSERT INTO item_paid_only (item_id) VALUES (227908);
-INSERT INTO item_paid_only (item_id) VALUES (227909);
-INSERT INTO item_paid_only (item_id) VALUES (227910);
-INSERT INTO item_paid_only (item_id) VALUES (228373);
-INSERT INTO item_paid_only (item_id) VALUES (229057);
-INSERT INTO item_paid_only (item_id) VALUES (229058);
-INSERT INTO item_paid_only (item_id) VALUES (229059);
-INSERT INTO item_paid_only (item_id) VALUES (229060);
-INSERT INTO item_paid_only (item_id) VALUES (229061);
-INSERT INTO item_paid_only (item_id) VALUES (229062);
-INSERT INTO item_paid_only (item_id) VALUES (229063);
-INSERT INTO item_paid_only (item_id) VALUES (229064);
-INSERT INTO item_paid_only (item_id) VALUES (229090);
-INSERT INTO item_paid_only (item_id) VALUES (229091);
-INSERT INTO item_paid_only (item_id) VALUES (229092);
-INSERT INTO item_paid_only (item_id) VALUES (229093);
-INSERT INTO item_paid_only (item_id) VALUES (229094);
-INSERT INTO item_paid_only (item_id) VALUES (229095);
-INSERT INTO item_paid_only (item_id) VALUES (229096);
-INSERT INTO item_paid_only (item_id) VALUES (229097);
-INSERT INTO item_paid_only (item_id) VALUES (229098);
-INSERT INTO item_paid_only (item_id) VALUES (229099);
-INSERT INTO item_paid_only (item_id) VALUES (229100);
-INSERT INTO item_paid_only (item_id) VALUES (229101);
-INSERT INTO item_paid_only (item_id) VALUES (229102);
-INSERT INTO item_paid_only (item_id) VALUES (229103);
-INSERT INTO item_paid_only (item_id) VALUES (229104);
-INSERT INTO item_paid_only (item_id) VALUES (229105);
-INSERT INTO item_paid_only (item_id) VALUES (229666);
-INSERT INTO item_paid_only (item_id) VALUES (229668);
-INSERT INTO item_paid_only (item_id) VALUES (229884);
-INSERT INTO item_paid_only (item_id) VALUES (229885);
-INSERT INTO item_paid_only (item_id) VALUES (229887);
-INSERT INTO item_paid_only (item_id) VALUES (229888);
-INSERT INTO item_paid_only (item_id) VALUES (229889);
-INSERT INTO item_paid_only (item_id) VALUES (229890);
-INSERT INTO item_paid_only (item_id) VALUES (229922);
-INSERT INTO item_paid_only (item_id) VALUES (229925);
-INSERT INTO item_paid_only (item_id) VALUES (229926);
-INSERT INTO item_paid_only (item_id) VALUES (229927);
-INSERT INTO item_paid_only (item_id) VALUES (229928);
-INSERT INTO item_paid_only (item_id) VALUES (229929);
-INSERT INTO item_paid_only (item_id) VALUES (229930);
-INSERT INTO item_paid_only (item_id) VALUES (229931);
-INSERT INTO item_paid_only (item_id) VALUES (229932);
-INSERT INTO item_paid_only (item_id) VALUES (229933);
-INSERT INTO item_paid_only (item_id) VALUES (229934);
-INSERT INTO item_paid_only (item_id) VALUES (229935);
-INSERT INTO item_paid_only (item_id) VALUES (229936);
-INSERT INTO item_paid_only (item_id) VALUES (229937);
-INSERT INTO item_paid_only (item_id) VALUES (229938);
-INSERT INTO item_paid_only (item_id) VALUES (229939);
-INSERT INTO item_paid_only (item_id) VALUES (229940);
-INSERT INTO item_paid_only (item_id) VALUES (229941);
-INSERT INTO item_paid_only (item_id) VALUES (229942);
-INSERT INTO item_paid_only (item_id) VALUES (229943);
-INSERT INTO item_paid_only (item_id) VALUES (229961);
-INSERT INTO item_paid_only (item_id) VALUES (229962);
-INSERT INTO item_paid_only (item_id) VALUES (229964);
-INSERT INTO item_paid_only (item_id) VALUES (229965);
-INSERT INTO item_paid_only (item_id) VALUES (229967);
-INSERT INTO item_paid_only (item_id) VALUES (229968);
-INSERT INTO item_paid_only (item_id) VALUES (229969);
-INSERT INTO item_paid_only (item_id) VALUES (229970);
-INSERT INTO item_paid_only (item_id) VALUES (229971);
-INSERT INTO item_paid_only (item_id) VALUES (229972);
-INSERT INTO item_paid_only (item_id) VALUES (229973);
-INSERT INTO item_paid_only (item_id) VALUES (229974);
-INSERT INTO item_paid_only (item_id) VALUES (229975);
-INSERT INTO item_paid_only (item_id) VALUES (229976);
-INSERT INTO item_paid_only (item_id) VALUES (229977);
-INSERT INTO item_paid_only (item_id) VALUES (229978);
-INSERT INTO item_paid_only (item_id) VALUES (229979);
-INSERT INTO item_paid_only (item_id) VALUES (229990);
-INSERT INTO item_paid_only (item_id) VALUES (229991);
-INSERT INTO item_paid_only (item_id) VALUES (229992);
-INSERT INTO item_paid_only (item_id) VALUES (229993);
-INSERT INTO item_paid_only (item_id) VALUES (229994);
-INSERT INTO item_paid_only (item_id) VALUES (229995);
-INSERT INTO item_paid_only (item_id) VALUES (229996);
-INSERT INTO item_paid_only (item_id) VALUES (229997);
-INSERT INTO item_paid_only (item_id) VALUES (229998);
-INSERT INTO item_paid_only (item_id) VALUES (229999);
-INSERT INTO item_paid_only (item_id) VALUES (230000);
-INSERT INTO item_paid_only (item_id) VALUES (230001);
-INSERT INTO item_paid_only (item_id) VALUES (230002);
-INSERT INTO item_paid_only (item_id) VALUES (230003);
-INSERT INTO item_paid_only (item_id) VALUES (230004);
-INSERT INTO item_paid_only (item_id) VALUES (230005);
-INSERT INTO item_paid_only (item_id) VALUES (230006);
-INSERT INTO item_paid_only (item_id) VALUES (230011);
-INSERT INTO item_paid_only (item_id) VALUES (230012);
-INSERT INTO item_paid_only (item_id) VALUES (230013);
-INSERT INTO item_paid_only (item_id) VALUES (230014);
-INSERT INTO item_paid_only (item_id) VALUES (230015);
-INSERT INTO item_paid_only (item_id) VALUES (230016);
-INSERT INTO item_paid_only (item_id) VALUES (230017);
-INSERT INTO item_paid_only (item_id) VALUES (230018);
-INSERT INTO item_paid_only (item_id) VALUES (230019);
-INSERT INTO item_paid_only (item_id) VALUES (230020);
-INSERT INTO item_paid_only (item_id) VALUES (230021);
-INSERT INTO item_paid_only (item_id) VALUES (230022);
-INSERT INTO item_paid_only (item_id) VALUES (230023);
-INSERT INTO item_paid_only (item_id) VALUES (230024);
-INSERT INTO item_paid_only (item_id) VALUES (230025);
-INSERT INTO item_paid_only (item_id) VALUES (230026);
-INSERT INTO item_paid_only (item_id) VALUES (230027);
-INSERT INTO item_paid_only (item_id) VALUES (230028);
-INSERT INTO item_paid_only (item_id) VALUES (230029);
-INSERT INTO item_paid_only (item_id) VALUES (230030);
-INSERT INTO item_paid_only (item_id) VALUES (230031);
-INSERT INTO item_paid_only (item_id) VALUES (230032);
-INSERT INTO item_paid_only (item_id) VALUES (230033);
-INSERT INTO item_paid_only (item_id) VALUES (230034);
-INSERT INTO item_paid_only (item_id) VALUES (230035);
-INSERT INTO item_paid_only (item_id) VALUES (230036);
-INSERT INTO item_paid_only (item_id) VALUES (230037);
-INSERT INTO item_paid_only (item_id) VALUES (230038);
-INSERT INTO item_paid_only (item_id) VALUES (230039);
-INSERT INTO item_paid_only (item_id) VALUES (230040);
-INSERT INTO item_paid_only (item_id) VALUES (230057);
-INSERT INTO item_paid_only (item_id) VALUES (230058);
-INSERT INTO item_paid_only (item_id) VALUES (230059);
-INSERT INTO item_paid_only (item_id) VALUES (230060);
-INSERT INTO item_paid_only (item_id) VALUES (230061);
-INSERT INTO item_paid_only (item_id) VALUES (230062);
-INSERT INTO item_paid_only (item_id) VALUES (230063);
-INSERT INTO item_paid_only (item_id) VALUES (230064);
-INSERT INTO item_paid_only (item_id) VALUES (230065);
-INSERT INTO item_paid_only (item_id) VALUES (230066);
-INSERT INTO item_paid_only (item_id) VALUES (230067);
-INSERT INTO item_paid_only (item_id) VALUES (230068);
-INSERT INTO item_paid_only (item_id) VALUES (230069);
-INSERT INTO item_paid_only (item_id) VALUES (230070);
-INSERT INTO item_paid_only (item_id) VALUES (230071);
-INSERT INTO item_paid_only (item_id) VALUES (230072);
-INSERT INTO item_paid_only (item_id) VALUES (230073);
-INSERT INTO item_paid_only (item_id) VALUES (230074);
-INSERT INTO item_paid_only (item_id) VALUES (230075);
-INSERT INTO item_paid_only (item_id) VALUES (230076);
-INSERT INTO item_paid_only (item_id) VALUES (230077);
-INSERT INTO item_paid_only (item_id) VALUES (230078);
-INSERT INTO item_paid_only (item_id) VALUES (230079);
-INSERT INTO item_paid_only (item_id) VALUES (230080);
-INSERT INTO item_paid_only (item_id) VALUES (230081);
-INSERT INTO item_paid_only (item_id) VALUES (230082);
-INSERT INTO item_paid_only (item_id) VALUES (230083);
-INSERT INTO item_paid_only (item_id) VALUES (230084);
-INSERT INTO item_paid_only (item_id) VALUES (230085);
-INSERT INTO item_paid_only (item_id) VALUES (230086);
-INSERT INTO item_paid_only (item_id) VALUES (230099);
-INSERT INTO item_paid_only (item_id) VALUES (230100);
-INSERT INTO item_paid_only (item_id) VALUES (230101);
-INSERT INTO item_paid_only (item_id) VALUES (230102);
-INSERT INTO item_paid_only (item_id) VALUES (230103);
-INSERT INTO item_paid_only (item_id) VALUES (230104);
-INSERT INTO item_paid_only (item_id) VALUES (230105);
-INSERT INTO item_paid_only (item_id) VALUES (230106);
-INSERT INTO item_paid_only (item_id) VALUES (230107);
-INSERT INTO item_paid_only (item_id) VALUES (230108);
-INSERT INTO item_paid_only (item_id) VALUES (230109);
-INSERT INTO item_paid_only (item_id) VALUES (230110);
-INSERT INTO item_paid_only (item_id) VALUES (230111);
-INSERT INTO item_paid_only (item_id) VALUES (230112);
-INSERT INTO item_paid_only (item_id) VALUES (230113);
-INSERT INTO item_paid_only (item_id) VALUES (230114);
-INSERT INTO item_paid_only (item_id) VALUES (230115);
-INSERT INTO item_paid_only (item_id) VALUES (230116);
-INSERT INTO item_paid_only (item_id) VALUES (230117);
-INSERT INTO item_paid_only (item_id) VALUES (230118);
-INSERT INTO item_paid_only (item_id) VALUES (230119);
-INSERT INTO item_paid_only (item_id) VALUES (230120);
-INSERT INTO item_paid_only (item_id) VALUES (230121);
-INSERT INTO item_paid_only (item_id) VALUES (230122);
-INSERT INTO item_paid_only (item_id) VALUES (230123);
-INSERT INTO item_paid_only (item_id) VALUES (230124);
-INSERT INTO item_paid_only (item_id) VALUES (230125);
-INSERT INTO item_paid_only (item_id) VALUES (230126);
-INSERT INTO item_paid_only (item_id) VALUES (230127);
-INSERT INTO item_paid_only (item_id) VALUES (230128);
-INSERT INTO item_paid_only (item_id) VALUES (230142);
-INSERT INTO item_paid_only (item_id) VALUES (230143);
-INSERT INTO item_paid_only (item_id) VALUES (230144);
-INSERT INTO item_paid_only (item_id) VALUES (230145);
-INSERT INTO item_paid_only (item_id) VALUES (230146);
-INSERT INTO item_paid_only (item_id) VALUES (230147);
-INSERT INTO item_paid_only (item_id) VALUES (230148);
-INSERT INTO item_paid_only (item_id) VALUES (230149);
-INSERT INTO item_paid_only (item_id) VALUES (230150);
-INSERT INTO item_paid_only (item_id) VALUES (230151);
-INSERT INTO item_paid_only (item_id) VALUES (230152);
-INSERT INTO item_paid_only (item_id) VALUES (230153);
-INSERT INTO item_paid_only (item_id) VALUES (230154);
-INSERT INTO item_paid_only (item_id) VALUES (230155);
-INSERT INTO item_paid_only (item_id) VALUES (230156);
-INSERT INTO item_paid_only (item_id) VALUES (230157);
-INSERT INTO item_paid_only (item_id) VALUES (230158);
-INSERT INTO item_paid_only (item_id) VALUES (230159);
-INSERT INTO item_paid_only (item_id) VALUES (230160);
-INSERT INTO item_paid_only (item_id) VALUES (230161);
-INSERT INTO item_paid_only (item_id) VALUES (230162);
-INSERT INTO item_paid_only (item_id) VALUES (230163);
-INSERT INTO item_paid_only (item_id) VALUES (230164);
-INSERT INTO item_paid_only (item_id) VALUES (230165);
-INSERT INTO item_paid_only (item_id) VALUES (230166);
-INSERT INTO item_paid_only (item_id) VALUES (230167);
-INSERT INTO item_paid_only (item_id) VALUES (230168);
-INSERT INTO item_paid_only (item_id) VALUES (230169);
-INSERT INTO item_paid_only (item_id) VALUES (230170);
-INSERT INTO item_paid_only (item_id) VALUES (230171);
-INSERT INTO item_paid_only (item_id) VALUES (230182);
-INSERT INTO item_paid_only (item_id) VALUES (230183);
-INSERT INTO item_paid_only (item_id) VALUES (230184);
-INSERT INTO item_paid_only (item_id) VALUES (230185);
-INSERT INTO item_paid_only (item_id) VALUES (230186);
-INSERT INTO item_paid_only (item_id) VALUES (230187);
-INSERT INTO item_paid_only (item_id) VALUES (230188);
-INSERT INTO item_paid_only (item_id) VALUES (230189);
-INSERT INTO item_paid_only (item_id) VALUES (230190);
-INSERT INTO item_paid_only (item_id) VALUES (230191);
-INSERT INTO item_paid_only (item_id) VALUES (230192);
-INSERT INTO item_paid_only (item_id) VALUES (230193);
-INSERT INTO item_paid_only (item_id) VALUES (230194);
-INSERT INTO item_paid_only (item_id) VALUES (230195);
-INSERT INTO item_paid_only (item_id) VALUES (230196);
-INSERT INTO item_paid_only (item_id) VALUES (230197);
-INSERT INTO item_paid_only (item_id) VALUES (230198);
-INSERT INTO item_paid_only (item_id) VALUES (230199);
-INSERT INTO item_paid_only (item_id) VALUES (230200);
-INSERT INTO item_paid_only (item_id) VALUES (230201);
-INSERT INTO item_paid_only (item_id) VALUES (230202);
-INSERT INTO item_paid_only (item_id) VALUES (230203);
-INSERT INTO item_paid_only (item_id) VALUES (230204);
-INSERT INTO item_paid_only (item_id) VALUES (230205);
-INSERT INTO item_paid_only (item_id) VALUES (230206);
-INSERT INTO item_paid_only (item_id) VALUES (230207);
-INSERT INTO item_paid_only (item_id) VALUES (230208);
-INSERT INTO item_paid_only (item_id) VALUES (230209);
-INSERT INTO item_paid_only (item_id) VALUES (230210);
-INSERT INTO item_paid_only (item_id) VALUES (230211);
-INSERT INTO item_paid_only (item_id) VALUES (230222);
-INSERT INTO item_paid_only (item_id) VALUES (230223);
-INSERT INTO item_paid_only (item_id) VALUES (230224);
-INSERT INTO item_paid_only (item_id) VALUES (230225);
-INSERT INTO item_paid_only (item_id) VALUES (230226);
-INSERT INTO item_paid_only (item_id) VALUES (230227);
-INSERT INTO item_paid_only (item_id) VALUES (230228);
-INSERT INTO item_paid_only (item_id) VALUES (230229);
-INSERT INTO item_paid_only (item_id) VALUES (230230);
-INSERT INTO item_paid_only (item_id) VALUES (230231);
-INSERT INTO item_paid_only (item_id) VALUES (230232);
-INSERT INTO item_paid_only (item_id) VALUES (230233);
-INSERT INTO item_paid_only (item_id) VALUES (230234);
-INSERT INTO item_paid_only (item_id) VALUES (230235);
-INSERT INTO item_paid_only (item_id) VALUES (230236);
-INSERT INTO item_paid_only (item_id) VALUES (230237);
-INSERT INTO item_paid_only (item_id) VALUES (230238);
-INSERT INTO item_paid_only (item_id) VALUES (230239);
-INSERT INTO item_paid_only (item_id) VALUES (230240);
-INSERT INTO item_paid_only (item_id) VALUES (230241);
-INSERT INTO item_paid_only (item_id) VALUES (230242);
-INSERT INTO item_paid_only (item_id) VALUES (230243);
-INSERT INTO item_paid_only (item_id) VALUES (230244);
-INSERT INTO item_paid_only (item_id) VALUES (230245);
-INSERT INTO item_paid_only (item_id) VALUES (230246);
-INSERT INTO item_paid_only (item_id) VALUES (230247);
-INSERT INTO item_paid_only (item_id) VALUES (230248);
-INSERT INTO item_paid_only (item_id) VALUES (230249);
-INSERT INTO item_paid_only (item_id) VALUES (230250);
-INSERT INTO item_paid_only (item_id) VALUES (230251);
-INSERT INTO item_paid_only (item_id) VALUES (230262);
-INSERT INTO item_paid_only (item_id) VALUES (230263);
-INSERT INTO item_paid_only (item_id) VALUES (230264);
-INSERT INTO item_paid_only (item_id) VALUES (230265);
-INSERT INTO item_paid_only (item_id) VALUES (230266);
-INSERT INTO item_paid_only (item_id) VALUES (230267);
-INSERT INTO item_paid_only (item_id) VALUES (230268);
-INSERT INTO item_paid_only (item_id) VALUES (230269);
-INSERT INTO item_paid_only (item_id) VALUES (230270);
-INSERT INTO item_paid_only (item_id) VALUES (230271);
-INSERT INTO item_paid_only (item_id) VALUES (230272);
-INSERT INTO item_paid_only (item_id) VALUES (230273);
-INSERT INTO item_paid_only (item_id) VALUES (230274);
-INSERT INTO item_paid_only (item_id) VALUES (230275);
-INSERT INTO item_paid_only (item_id) VALUES (230276);
-INSERT INTO item_paid_only (item_id) VALUES (230277);
-INSERT INTO item_paid_only (item_id) VALUES (230278);
-INSERT INTO item_paid_only (item_id) VALUES (230279);
-INSERT INTO item_paid_only (item_id) VALUES (230280);
-INSERT INTO item_paid_only (item_id) VALUES (230281);
-INSERT INTO item_paid_only (item_id) VALUES (230282);
-INSERT INTO item_paid_only (item_id) VALUES (230283);
-INSERT INTO item_paid_only (item_id) VALUES (230284);
-INSERT INTO item_paid_only (item_id) VALUES (230285);
-INSERT INTO item_paid_only (item_id) VALUES (230286);
-INSERT INTO item_paid_only (item_id) VALUES (230287);
-INSERT INTO item_paid_only (item_id) VALUES (230288);
-INSERT INTO item_paid_only (item_id) VALUES (230289);
-INSERT INTO item_paid_only (item_id) VALUES (230290);
-INSERT INTO item_paid_only (item_id) VALUES (230291);
-INSERT INTO item_paid_only (item_id) VALUES (230302);
-INSERT INTO item_paid_only (item_id) VALUES (230303);
-INSERT INTO item_paid_only (item_id) VALUES (230304);
-INSERT INTO item_paid_only (item_id) VALUES (230305);
-INSERT INTO item_paid_only (item_id) VALUES (230306);
-INSERT INTO item_paid_only (item_id) VALUES (230307);
-INSERT INTO item_paid_only (item_id) VALUES (230308);
-INSERT INTO item_paid_only (item_id) VALUES (230309);
-INSERT INTO item_paid_only (item_id) VALUES (230310);
-INSERT INTO item_paid_only (item_id) VALUES (230311);
-INSERT INTO item_paid_only (item_id) VALUES (230312);
-INSERT INTO item_paid_only (item_id) VALUES (230313);
-INSERT INTO item_paid_only (item_id) VALUES (230314);
-INSERT INTO item_paid_only (item_id) VALUES (230315);
-INSERT INTO item_paid_only (item_id) VALUES (230316);
-INSERT INTO item_paid_only (item_id) VALUES (230317);
-INSERT INTO item_paid_only (item_id) VALUES (230318);
-INSERT INTO item_paid_only (item_id) VALUES (230319);
-INSERT INTO item_paid_only (item_id) VALUES (230320);
-INSERT INTO item_paid_only (item_id) VALUES (230321);
-INSERT INTO item_paid_only (item_id) VALUES (230322);
-INSERT INTO item_paid_only (item_id) VALUES (230323);
-INSERT INTO item_paid_only (item_id) VALUES (230324);
-INSERT INTO item_paid_only (item_id) VALUES (230325);
-INSERT INTO item_paid_only (item_id) VALUES (230326);
-INSERT INTO item_paid_only (item_id) VALUES (230327);
-INSERT INTO item_paid_only (item_id) VALUES (230328);
-INSERT INTO item_paid_only (item_id) VALUES (230329);
-INSERT INTO item_paid_only (item_id) VALUES (230330);
-INSERT INTO item_paid_only (item_id) VALUES (230331);
-INSERT INTO item_paid_only (item_id) VALUES (230342);
-INSERT INTO item_paid_only (item_id) VALUES (230343);
-INSERT INTO item_paid_only (item_id) VALUES (230344);
-INSERT INTO item_paid_only (item_id) VALUES (230345);
-INSERT INTO item_paid_only (item_id) VALUES (230346);
-INSERT INTO item_paid_only (item_id) VALUES (230347);
-INSERT INTO item_paid_only (item_id) VALUES (230348);
-INSERT INTO item_paid_only (item_id) VALUES (230349);
-INSERT INTO item_paid_only (item_id) VALUES (230350);
-INSERT INTO item_paid_only (item_id) VALUES (230351);
-INSERT INTO item_paid_only (item_id) VALUES (230352);
-INSERT INTO item_paid_only (item_id) VALUES (230353);
-INSERT INTO item_paid_only (item_id) VALUES (230354);
-INSERT INTO item_paid_only (item_id) VALUES (230355);
-INSERT INTO item_paid_only (item_id) VALUES (230356);
-INSERT INTO item_paid_only (item_id) VALUES (230357);
-INSERT INTO item_paid_only (item_id) VALUES (230358);
-INSERT INTO item_paid_only (item_id) VALUES (230359);
-INSERT INTO item_paid_only (item_id) VALUES (230360);
-INSERT INTO item_paid_only (item_id) VALUES (230361);
-INSERT INTO item_paid_only (item_id) VALUES (230362);
-INSERT INTO item_paid_only (item_id) VALUES (230363);
-INSERT INTO item_paid_only (item_id) VALUES (230364);
-INSERT INTO item_paid_only (item_id) VALUES (230365);
-INSERT INTO item_paid_only (item_id) VALUES (230366);
-INSERT INTO item_paid_only (item_id) VALUES (230367);
-INSERT INTO item_paid_only (item_id) VALUES (230368);
-INSERT INTO item_paid_only (item_id) VALUES (230369);
-INSERT INTO item_paid_only (item_id) VALUES (230370);
-INSERT INTO item_paid_only (item_id) VALUES (230371);
-INSERT INTO item_paid_only (item_id) VALUES (230372);
-INSERT INTO item_paid_only (item_id) VALUES (230373);
-INSERT INTO item_paid_only (item_id) VALUES (230374);
-INSERT INTO item_paid_only (item_id) VALUES (230375);
-INSERT INTO item_paid_only (item_id) VALUES (230376);
-INSERT INTO item_paid_only (item_id) VALUES (230377);
-INSERT INTO item_paid_only (item_id) VALUES (230378);
-INSERT INTO item_paid_only (item_id) VALUES (230379);
-INSERT INTO item_paid_only (item_id) VALUES (230380);
-INSERT INTO item_paid_only (item_id) VALUES (230381);
-INSERT INTO item_paid_only (item_id) VALUES (230382);
-INSERT INTO item_paid_only (item_id) VALUES (230383);
-INSERT INTO item_paid_only (item_id) VALUES (230384);
-INSERT INTO item_paid_only (item_id) VALUES (230385);
-INSERT INTO item_paid_only (item_id) VALUES (230386);
-INSERT INTO item_paid_only (item_id) VALUES (230387);
-INSERT INTO item_paid_only (item_id) VALUES (230388);
-INSERT INTO item_paid_only (item_id) VALUES (230389);
-INSERT INTO item_paid_only (item_id) VALUES (230391);
-INSERT INTO item_paid_only (item_id) VALUES (230392);
-INSERT INTO item_paid_only (item_id) VALUES (230393);
-INSERT INTO item_paid_only (item_id) VALUES (230394);
-INSERT INTO item_paid_only (item_id) VALUES (230395);
-INSERT INTO item_paid_only (item_id) VALUES (230396);
-INSERT INTO item_paid_only (item_id) VALUES (230397);
-INSERT INTO item_paid_only (item_id) VALUES (230398);
-INSERT INTO item_paid_only (item_id) VALUES (230900);
-INSERT INTO item_paid_only (item_id) VALUES (230901);
-INSERT INTO item_paid_only (item_id) VALUES (230902);
-INSERT INTO item_paid_only (item_id) VALUES (230903);
-INSERT INTO item_paid_only (item_id) VALUES (230904);
-INSERT INTO item_paid_only (item_id) VALUES (230905);
-INSERT INTO item_paid_only (item_id) VALUES (230906);
-INSERT INTO item_paid_only (item_id) VALUES (230907);
-INSERT INTO item_paid_only (item_id) VALUES (230908);
-INSERT INTO item_paid_only (item_id) VALUES (230909);
-INSERT INTO item_paid_only (item_id) VALUES (230910);
-INSERT INTO item_paid_only (item_id) VALUES (230911);
-INSERT INTO item_paid_only (item_id) VALUES (231008);
-INSERT INTO item_paid_only (item_id) VALUES (231009);
-INSERT INTO item_paid_only (item_id) VALUES (231010);
-INSERT INTO item_paid_only (item_id) VALUES (231011);
-INSERT INTO item_paid_only (item_id) VALUES (231012);
-INSERT INTO item_paid_only (item_id) VALUES (231013);
-INSERT INTO item_paid_only (item_id) VALUES (231014);
-INSERT INTO item_paid_only (item_id) VALUES (231015);
-INSERT INTO item_paid_only (item_id) VALUES (231016);
-INSERT INTO item_paid_only (item_id) VALUES (231017);
-INSERT INTO item_paid_only (item_id) VALUES (231018);
-INSERT INTO item_paid_only (item_id) VALUES (231019);
-INSERT INTO item_paid_only (item_id) VALUES (231020);
-INSERT INTO item_paid_only (item_id) VALUES (231021);
-INSERT INTO item_paid_only (item_id) VALUES (231022);
-INSERT INTO item_paid_only (item_id) VALUES (231023);
-INSERT INTO item_paid_only (item_id) VALUES (231024);
-INSERT INTO item_paid_only (item_id) VALUES (231025);
-INSERT INTO item_paid_only (item_id) VALUES (231026);
-INSERT INTO item_paid_only (item_id) VALUES (231027);
-INSERT INTO item_paid_only (item_id) VALUES (231085);
-INSERT INTO item_paid_only (item_id) VALUES (231086);
-INSERT INTO item_paid_only (item_id) VALUES (231087);
-INSERT INTO item_paid_only (item_id) VALUES (231088);
-INSERT INTO item_paid_only (item_id) VALUES (231089);
-INSERT INTO item_paid_only (item_id) VALUES (231090);
-INSERT INTO item_paid_only (item_id) VALUES (231091);
-INSERT INTO item_paid_only (item_id) VALUES (231092);
-INSERT INTO item_paid_only (item_id) VALUES (231093);
-INSERT INTO item_paid_only (item_id) VALUES (231094);
-INSERT INTO item_paid_only (item_id) VALUES (231095);
-INSERT INTO item_paid_only (item_id) VALUES (231096);
-INSERT INTO item_paid_only (item_id) VALUES (231097);
-INSERT INTO item_paid_only (item_id) VALUES (231098);
-INSERT INTO item_paid_only (item_id) VALUES (231099);
-INSERT INTO item_paid_only (item_id) VALUES (231100);
-INSERT INTO item_paid_only (item_id) VALUES (231101);
-INSERT INTO item_paid_only (item_id) VALUES (231102);
-INSERT INTO item_paid_only (item_id) VALUES (231103);
-INSERT INTO item_paid_only (item_id) VALUES (231123);
-INSERT INTO item_paid_only (item_id) VALUES (231124);
-INSERT INTO item_paid_only (item_id) VALUES (231125);
-INSERT INTO item_paid_only (item_id) VALUES (231126);
-INSERT INTO item_paid_only (item_id) VALUES (231127);
-INSERT INTO item_paid_only (item_id) VALUES (231128);
-INSERT INTO item_paid_only (item_id) VALUES (231129);
-INSERT INTO item_paid_only (item_id) VALUES (231130);
-INSERT INTO item_paid_only (item_id) VALUES (231131);
-INSERT INTO item_paid_only (item_id) VALUES (231132);
-INSERT INTO item_paid_only (item_id) VALUES (231133);
-INSERT INTO item_paid_only (item_id) VALUES (231134);
-INSERT INTO item_paid_only (item_id) VALUES (231135);
-INSERT INTO item_paid_only (item_id) VALUES (231136);
-INSERT INTO item_paid_only (item_id) VALUES (231137);
-INSERT INTO item_paid_only (item_id) VALUES (231138);
-INSERT INTO item_paid_only (item_id) VALUES (231139);
-INSERT INTO item_paid_only (item_id) VALUES (231234);
-INSERT INTO item_paid_only (item_id) VALUES (231235);
-INSERT INTO item_paid_only (item_id) VALUES (231236);
-INSERT INTO item_paid_only (item_id) VALUES (231278);
-INSERT INTO item_paid_only (item_id) VALUES (231339);
-INSERT INTO item_paid_only (item_id) VALUES (231340);
-INSERT INTO item_paid_only (item_id) VALUES (231343); -- The Event Staff Suit
-INSERT INTO item_paid_only (item_id) VALUES (231353); -- ARK Staffing Suit
-INSERT INTO item_paid_only (item_id) VALUES (233012);
-INSERT INTO item_paid_only (item_id) VALUES (233013);
-INSERT INTO item_paid_only (item_id) VALUES (233014);
-INSERT INTO item_paid_only (item_id) VALUES (233015);
-INSERT INTO item_paid_only (item_id) VALUES (233016);
-INSERT INTO item_paid_only (item_id) VALUES (233017);
-INSERT INTO item_paid_only (item_id) VALUES (233018);
-INSERT INTO item_paid_only (item_id) VALUES (233019);
-INSERT INTO item_paid_only (item_id) VALUES (233020);
-INSERT INTO item_paid_only (item_id) VALUES (233021);
-INSERT INTO item_paid_only (item_id) VALUES (233022);
-INSERT INTO item_paid_only (item_id) VALUES (233024);
-INSERT INTO item_paid_only (item_id) VALUES (233025);
-INSERT INTO item_paid_only (item_id) VALUES (233027);
-INSERT INTO item_paid_only (item_id) VALUES (233029);
-INSERT INTO item_paid_only (item_id) VALUES (233031);
-INSERT INTO item_paid_only (item_id) VALUES (233033);
-INSERT INTO item_paid_only (item_id) VALUES (233034);
-INSERT INTO item_paid_only (item_id) VALUES (233035);
-INSERT INTO item_paid_only (item_id) VALUES (233036);
-INSERT INTO item_paid_only (item_id) VALUES (233037);
-INSERT INTO item_paid_only (item_id) VALUES (233038);
-INSERT INTO item_paid_only (item_id) VALUES (233039);
-INSERT INTO item_paid_only (item_id) VALUES (233040);
-INSERT INTO item_paid_only (item_id) VALUES (233041);
-INSERT INTO item_paid_only (item_id) VALUES (233042);
-INSERT INTO item_paid_only (item_id) VALUES (233043);
-INSERT INTO item_paid_only (item_id) VALUES (233044);
-INSERT INTO item_paid_only (item_id) VALUES (233045);
-INSERT INTO item_paid_only (item_id) VALUES (233046);
-INSERT INTO item_paid_only (item_id) VALUES (233047);
-INSERT INTO item_paid_only (item_id) VALUES (233048);
-INSERT INTO item_paid_only (item_id) VALUES (233049);
-INSERT INTO item_paid_only (item_id) VALUES (233050);
-INSERT INTO item_paid_only (item_id) VALUES (233051);
-INSERT INTO item_paid_only (item_id) VALUES (233052);
-INSERT INTO item_paid_only (item_id) VALUES (233081);
-INSERT INTO item_paid_only (item_id) VALUES (233089);
-INSERT INTO item_paid_only (item_id) VALUES (233090);
-INSERT INTO item_paid_only (item_id) VALUES (233091);
-INSERT INTO item_paid_only (item_id) VALUES (233092);
-INSERT INTO item_paid_only (item_id) VALUES (233093);
-INSERT INTO item_paid_only (item_id) VALUES (233094);
-INSERT INTO item_paid_only (item_id) VALUES (233095);
-INSERT INTO item_paid_only (item_id) VALUES (233096);
-INSERT INTO item_paid_only (item_id) VALUES (233097);
-INSERT INTO item_paid_only (item_id) VALUES (233098);
-INSERT INTO item_paid_only (item_id) VALUES (233099);
-INSERT INTO item_paid_only (item_id) VALUES (233101);
-INSERT INTO item_paid_only (item_id) VALUES (233244);
-INSERT INTO item_paid_only (item_id) VALUES (233245);
-INSERT INTO item_paid_only (item_id) VALUES (233246);
-INSERT INTO item_paid_only (item_id) VALUES (233247);
-INSERT INTO item_paid_only (item_id) VALUES (233248);
-INSERT INTO item_paid_only (item_id) VALUES (233255);
-INSERT INTO item_paid_only (item_id) VALUES (233256);
-INSERT INTO item_paid_only (item_id) VALUES (233257);
-INSERT INTO item_paid_only (item_id) VALUES (233258);
-INSERT INTO item_paid_only (item_id) VALUES (233259);
-INSERT INTO item_paid_only (item_id) VALUES (233260);
-INSERT INTO item_paid_only (item_id) VALUES (233261);
-INSERT INTO item_paid_only (item_id) VALUES (233262);
-INSERT INTO item_paid_only (item_id) VALUES (233263);
-INSERT INTO item_paid_only (item_id) VALUES (233264);
-INSERT INTO item_paid_only (item_id) VALUES (233265);
-INSERT INTO item_paid_only (item_id) VALUES (233266);
-INSERT INTO item_paid_only (item_id) VALUES (233267);
-INSERT INTO item_paid_only (item_id) VALUES (233268);
-INSERT INTO item_paid_only (item_id) VALUES (233269);
-INSERT INTO item_paid_only (item_id) VALUES (233270);
-INSERT INTO item_paid_only (item_id) VALUES (233271);
-INSERT INTO item_paid_only (item_id) VALUES (233272);
-INSERT INTO item_paid_only (item_id) VALUES (233273);
-INSERT INTO item_paid_only (item_id) VALUES (233274);
-INSERT INTO item_paid_only (item_id) VALUES (233275);
-INSERT INTO item_paid_only (item_id) VALUES (233276);
-INSERT INTO item_paid_only (item_id) VALUES (233277);
-INSERT INTO item_paid_only (item_id) VALUES (233278);
-INSERT INTO item_paid_only (item_id) VALUES (233279);
-INSERT INTO item_paid_only (item_id) VALUES (233280);
-INSERT INTO item_paid_only (item_id) VALUES (233281);
-INSERT INTO item_paid_only (item_id) VALUES (233282);
-INSERT INTO item_paid_only (item_id) VALUES (233283);
-INSERT INTO item_paid_only (item_id) VALUES (233284);
-INSERT INTO item_paid_only (item_id) VALUES (233285);
-INSERT INTO item_paid_only (item_id) VALUES (233286);
-INSERT INTO item_paid_only (item_id) VALUES (233287);
-INSERT INTO item_paid_only (item_id) VALUES (233288);
-INSERT INTO item_paid_only (item_id) VALUES (233289);
-INSERT INTO item_paid_only (item_id) VALUES (233290);
-INSERT INTO item_paid_only (item_id) VALUES (233291);
-INSERT INTO item_paid_only (item_id) VALUES (233292);
-INSERT INTO item_paid_only (item_id) VALUES (233293);
-INSERT INTO item_paid_only (item_id) VALUES (233294);
-INSERT INTO item_paid_only (item_id) VALUES (233295);
-INSERT INTO item_paid_only (item_id) VALUES (233296);
-INSERT INTO item_paid_only (item_id) VALUES (233297);
-INSERT INTO item_paid_only (item_id) VALUES (233298);
-INSERT INTO item_paid_only (item_id) VALUES (233299);
-INSERT INTO item_paid_only (item_id) VALUES (233300);
-INSERT INTO item_paid_only (item_id) VALUES (233301);
-INSERT INTO item_paid_only (item_id) VALUES (233302);
-INSERT INTO item_paid_only (item_id) VALUES (233303);
-INSERT INTO item_paid_only (item_id) VALUES (233304);
-INSERT INTO item_paid_only (item_id) VALUES (233305);
-INSERT INTO item_paid_only (item_id) VALUES (233306);
-INSERT INTO item_paid_only (item_id) VALUES (233307);
-INSERT INTO item_paid_only (item_id) VALUES (233308);
-INSERT INTO item_paid_only (item_id) VALUES (233309);
-INSERT INTO item_paid_only (item_id) VALUES (233310);
-INSERT INTO item_paid_only (item_id) VALUES (233311);
-INSERT INTO item_paid_only (item_id) VALUES (233312);
-INSERT INTO item_paid_only (item_id) VALUES (233313);
-INSERT INTO item_paid_only (item_id) VALUES (233314);
-INSERT INTO item_paid_only (item_id) VALUES (233315);
-INSERT INTO item_paid_only (item_id) VALUES (233318);
-INSERT INTO item_paid_only (item_id) VALUES (233405);
-INSERT INTO item_paid_only (item_id) VALUES (233406);
-INSERT INTO item_paid_only (item_id) VALUES (233407);
-INSERT INTO item_paid_only (item_id) VALUES (233418);
-INSERT INTO item_paid_only (item_id) VALUES (233420);
-INSERT INTO item_paid_only (item_id) VALUES (233421);
-INSERT INTO item_paid_only (item_id) VALUES (233422);
-INSERT INTO item_paid_only (item_id) VALUES (233423);
-INSERT INTO item_paid_only (item_id) VALUES (233424);
-INSERT INTO item_paid_only (item_id) VALUES (233425);
-INSERT INTO item_paid_only (item_id) VALUES (233426);
-INSERT INTO item_paid_only (item_id) VALUES (233427);
-INSERT INTO item_paid_only (item_id) VALUES (233428);
-INSERT INTO item_paid_only (item_id) VALUES (233429);
-INSERT INTO item_paid_only (item_id) VALUES (233430);
-INSERT INTO item_paid_only (item_id) VALUES (233431);
-INSERT INTO item_paid_only (item_id) VALUES (233432);
-INSERT INTO item_paid_only (item_id) VALUES (233433);
-INSERT INTO item_paid_only (item_id) VALUES (233434);
-INSERT INTO item_paid_only (item_id) VALUES (233435);
-INSERT INTO item_paid_only (item_id) VALUES (233436);
-INSERT INTO item_paid_only (item_id) VALUES (233437);
-INSERT INTO item_paid_only (item_id) VALUES (233438);
-INSERT INTO item_paid_only (item_id) VALUES (233439);
-INSERT INTO item_paid_only (item_id) VALUES (233440);
-INSERT INTO item_paid_only (item_id) VALUES (233441);
-INSERT INTO item_paid_only (item_id) VALUES (233442);
-INSERT INTO item_paid_only (item_id) VALUES (233443);
-INSERT INTO item_paid_only (item_id) VALUES (233444);
-INSERT INTO item_paid_only (item_id) VALUES (233445);
-INSERT INTO item_paid_only (item_id) VALUES (233446);
-INSERT INTO item_paid_only (item_id) VALUES (233447);
-INSERT INTO item_paid_only (item_id) VALUES (233448);
-INSERT INTO item_paid_only (item_id) VALUES (233449);
-INSERT INTO item_paid_only (item_id) VALUES (233450);
-INSERT INTO item_paid_only (item_id) VALUES (233451);
-INSERT INTO item_paid_only (item_id) VALUES (233452);
-INSERT INTO item_paid_only (item_id) VALUES (233453);
-INSERT INTO item_paid_only (item_id) VALUES (233454);
-INSERT INTO item_paid_only (item_id) VALUES (233455);
-INSERT INTO item_paid_only (item_id) VALUES (233456);
-INSERT INTO item_paid_only (item_id) VALUES (233457);
-INSERT INTO item_paid_only (item_id) VALUES (233458);
-INSERT INTO item_paid_only (item_id) VALUES (233459);
-INSERT INTO item_paid_only (item_id) VALUES (233460);
-INSERT INTO item_paid_only (item_id) VALUES (233461);
-INSERT INTO item_paid_only (item_id) VALUES (233462);
-INSERT INTO item_paid_only (item_id) VALUES (233463);
-INSERT INTO item_paid_only (item_id) VALUES (233464);
-INSERT INTO item_paid_only (item_id) VALUES (233465);
-INSERT INTO item_paid_only (item_id) VALUES (233466);
-INSERT INTO item_paid_only (item_id) VALUES (233467);
-INSERT INTO item_paid_only (item_id) VALUES (233468);
-INSERT INTO item_paid_only (item_id) VALUES (233469);
-INSERT INTO item_paid_only (item_id) VALUES (233470);
-INSERT INTO item_paid_only (item_id) VALUES (233804);
-INSERT INTO item_paid_only (item_id) VALUES (233839);
-INSERT INTO item_paid_only (item_id) VALUES (233840);
-INSERT INTO item_paid_only (item_id) VALUES (233841);
-INSERT INTO item_paid_only (item_id) VALUES (233842);
-INSERT INTO item_paid_only (item_id) VALUES (233843);
-INSERT INTO item_paid_only (item_id) VALUES (233844);
-INSERT INTO item_paid_only (item_id) VALUES (233845);
-INSERT INTO item_paid_only (item_id) VALUES (233846);
-INSERT INTO item_paid_only (item_id) VALUES (233847);
-INSERT INTO item_paid_only (item_id) VALUES (233848);
-INSERT INTO item_paid_only (item_id) VALUES (233849);
-INSERT INTO item_paid_only (item_id) VALUES (233850);
-INSERT INTO item_paid_only (item_id) VALUES (234040);
-INSERT INTO item_paid_only (item_id) VALUES (234041);
-INSERT INTO item_paid_only (item_id) VALUES (234042);
-INSERT INTO item_paid_only (item_id) VALUES (234043);
-INSERT INTO item_paid_only (item_id) VALUES (234044);
-INSERT INTO item_paid_only (item_id) VALUES (234045);
-INSERT INTO item_paid_only (item_id) VALUES (234046);
-INSERT INTO item_paid_only (item_id) VALUES (234050);
-INSERT INTO item_paid_only (item_id) VALUES (234051);
-INSERT INTO item_paid_only (item_id) VALUES (234057);
-INSERT INTO item_paid_only (item_id) VALUES (234058);
-INSERT INTO item_paid_only (item_id) VALUES (234059);
-INSERT INTO item_paid_only (item_id) VALUES (234060);
-INSERT INTO item_paid_only (item_id) VALUES (234061);
-INSERT INTO item_paid_only (item_id) VALUES (234062);
-INSERT INTO item_paid_only (item_id) VALUES (234063);
-INSERT INTO item_paid_only (item_id) VALUES (234064);
-INSERT INTO item_paid_only (item_id) VALUES (234065);
-INSERT INTO item_paid_only (item_id) VALUES (234066);
-INSERT INTO item_paid_only (item_id) VALUES (234068);
-INSERT INTO item_paid_only (item_id) VALUES (234069);
-INSERT INTO item_paid_only (item_id) VALUES (234070);
-INSERT INTO item_paid_only (item_id) VALUES (234073);
-INSERT INTO item_paid_only (item_id) VALUES (234075);
-INSERT INTO item_paid_only (item_id) VALUES (234076);
-INSERT INTO item_paid_only (item_id) VALUES (234077);
-INSERT INTO item_paid_only (item_id) VALUES (234078);
-INSERT INTO item_paid_only (item_id) VALUES (234079);
-INSERT INTO item_paid_only (item_id) VALUES (234080);
-INSERT INTO item_paid_only (item_id) VALUES (234081);
-INSERT INTO item_paid_only (item_id) VALUES (234082);
-INSERT INTO item_paid_only (item_id) VALUES (234083);
-INSERT INTO item_paid_only (item_id) VALUES (234084);
-INSERT INTO item_paid_only (item_id) VALUES (234085);
-INSERT INTO item_paid_only (item_id) VALUES (234610);
-INSERT INTO item_paid_only (item_id) VALUES (234655);
-INSERT INTO item_paid_only (item_id) VALUES (234656);
-INSERT INTO item_paid_only (item_id) VALUES (234657);
-INSERT INTO item_paid_only (item_id) VALUES (234658);
-INSERT INTO item_paid_only (item_id) VALUES (234659);
-INSERT INTO item_paid_only (item_id) VALUES (234660);
-INSERT INTO item_paid_only (item_id) VALUES (234661);
-INSERT INTO item_paid_only (item_id) VALUES (234993);
-INSERT INTO item_paid_only (item_id) VALUES (234994);
-INSERT INTO item_paid_only (item_id) VALUES (234995);
-INSERT INTO item_paid_only (item_id) VALUES (234996);
-INSERT INTO item_paid_only (item_id) VALUES (234997);
-INSERT INTO item_paid_only (item_id) VALUES (234998);
-INSERT INTO item_paid_only (item_id) VALUES (235064);
-INSERT INTO item_paid_only (item_id) VALUES (235263);
-INSERT INTO item_paid_only (item_id) VALUES (235264);
-INSERT INTO item_paid_only (item_id) VALUES (235265);
-INSERT INTO item_paid_only (item_id) VALUES (235271);
-INSERT INTO item_paid_only (item_id) VALUES (235272);
-INSERT INTO item_paid_only (item_id) VALUES (235273);
-INSERT INTO item_paid_only (item_id) VALUES (235274);
-INSERT INTO item_paid_only (item_id) VALUES (235275);
-INSERT INTO item_paid_only (item_id) VALUES (235276);
-INSERT INTO item_paid_only (item_id) VALUES (235277);
-INSERT INTO item_paid_only (item_id) VALUES (235278);
-INSERT INTO item_paid_only (item_id) VALUES (235279);
-INSERT INTO item_paid_only (item_id) VALUES (235280);
-INSERT INTO item_paid_only (item_id) VALUES (235281);
-INSERT INTO item_paid_only (item_id) VALUES (235282);
-INSERT INTO item_paid_only (item_id) VALUES (235283);
-INSERT INTO item_paid_only (item_id) VALUES (235284);
-INSERT INTO item_paid_only (item_id) VALUES (235285);
-INSERT INTO item_paid_only (item_id) VALUES (235286);
-INSERT INTO item_paid_only (item_id) VALUES (235287);
-INSERT INTO item_paid_only (item_id) VALUES (235288);
-INSERT INTO item_paid_only (item_id) VALUES (235289);
-INSERT INTO item_paid_only (item_id) VALUES (235290);
-INSERT INTO item_paid_only (item_id) VALUES (235291);
-INSERT INTO item_paid_only (item_id) VALUES (235292);
-INSERT INTO item_paid_only (item_id) VALUES (235299);
-INSERT INTO item_paid_only (item_id) VALUES (235386);
-INSERT INTO item_paid_only (item_id) VALUES (235387);
-INSERT INTO item_paid_only (item_id) VALUES (235405);
-INSERT INTO item_paid_only (item_id) VALUES (235406);
-INSERT INTO item_paid_only (item_id) VALUES (235407);
-INSERT INTO item_paid_only (item_id) VALUES (235408);
-INSERT INTO item_paid_only (item_id) VALUES (235409);
-INSERT INTO item_paid_only (item_id) VALUES (235410);
-INSERT INTO item_paid_only (item_id) VALUES (235411);
-INSERT INTO item_paid_only (item_id) VALUES (235412);
-INSERT INTO item_paid_only (item_id) VALUES (235413);
-INSERT INTO item_paid_only (item_id) VALUES (235414);
-INSERT INTO item_paid_only (item_id) VALUES (235415);
-INSERT INTO item_paid_only (item_id) VALUES (235416);
-INSERT INTO item_paid_only (item_id) VALUES (235417);
-INSERT INTO item_paid_only (item_id) VALUES (235418);
-INSERT INTO item_paid_only (item_id) VALUES (235419);
-INSERT INTO item_paid_only (item_id) VALUES (235420);
-INSERT INTO item_paid_only (item_id) VALUES (235421);
-INSERT INTO item_paid_only (item_id) VALUES (235422);
-INSERT INTO item_paid_only (item_id) VALUES (235423);
-INSERT INTO item_paid_only (item_id) VALUES (235424);
-INSERT INTO item_paid_only (item_id) VALUES (235425);
-INSERT INTO item_paid_only (item_id) VALUES (235426);
-INSERT INTO item_paid_only (item_id) VALUES (235427);
-INSERT INTO item_paid_only (item_id) VALUES (235428);
-INSERT INTO item_paid_only (item_id) VALUES (235429);
-INSERT INTO item_paid_only (item_id) VALUES (235430);
-INSERT INTO item_paid_only (item_id) VALUES (235431);
-INSERT INTO item_paid_only (item_id) VALUES (235432);
-INSERT INTO item_paid_only (item_id) VALUES (235433);
-INSERT INTO item_paid_only (item_id) VALUES (235434);
-INSERT INTO item_paid_only (item_id) VALUES (235435);
-INSERT INTO item_paid_only (item_id) VALUES (235436);
-INSERT INTO item_paid_only (item_id) VALUES (235437);
-INSERT INTO item_paid_only (item_id) VALUES (235438);
-INSERT INTO item_paid_only (item_id) VALUES (235439);
-INSERT INTO item_paid_only (item_id) VALUES (235440);
-INSERT INTO item_paid_only (item_id) VALUES (235441);
-INSERT INTO item_paid_only (item_id) VALUES (235442);
-INSERT INTO item_paid_only (item_id) VALUES (235443);
-INSERT INTO item_paid_only (item_id) VALUES (235444);
-INSERT INTO item_paid_only (item_id) VALUES (235445);
-INSERT INTO item_paid_only (item_id) VALUES (235446);
-INSERT INTO item_paid_only (item_id) VALUES (235447);
-INSERT INTO item_paid_only (item_id) VALUES (235448);
-INSERT INTO item_paid_only (item_id) VALUES (235449);
-INSERT INTO item_paid_only (item_id) VALUES (235450);
-INSERT INTO item_paid_only (item_id) VALUES (235451);
-INSERT INTO item_paid_only (item_id) VALUES (235452);
-INSERT INTO item_paid_only (item_id) VALUES (235453);
-INSERT INTO item_paid_only (item_id) VALUES (235454);
-INSERT INTO item_paid_only (item_id) VALUES (235455);
-INSERT INTO item_paid_only (item_id) VALUES (235456);
-INSERT INTO item_paid_only (item_id) VALUES (235457);
-INSERT INTO item_paid_only (item_id) VALUES (235458);
-INSERT INTO item_paid_only (item_id) VALUES (235459);
-INSERT INTO item_paid_only (item_id) VALUES (235460);
-INSERT INTO item_paid_only (item_id) VALUES (235461);
-INSERT INTO item_paid_only (item_id) VALUES (235462);
-INSERT INTO item_paid_only (item_id) VALUES (235463);
-INSERT INTO item_paid_only (item_id) VALUES (235464);
-INSERT INTO item_paid_only (item_id) VALUES (235465);
-INSERT INTO item_paid_only (item_id) VALUES (235466);
-INSERT INTO item_paid_only (item_id) VALUES (235467);
-INSERT INTO item_paid_only (item_id) VALUES (235468);
-INSERT INTO item_paid_only (item_id) VALUES (235469);
-INSERT INTO item_paid_only (item_id) VALUES (235470);
-INSERT INTO item_paid_only (item_id) VALUES (235471);
-INSERT INTO item_paid_only (item_id) VALUES (235472);
-INSERT INTO item_paid_only (item_id) VALUES (235473);
-INSERT INTO item_paid_only (item_id) VALUES (235474);
-INSERT INTO item_paid_only (item_id) VALUES (235475);
-INSERT INTO item_paid_only (item_id) VALUES (235476);
-INSERT INTO item_paid_only (item_id) VALUES (235477);
-INSERT INTO item_paid_only (item_id) VALUES (235478);
-INSERT INTO item_paid_only (item_id) VALUES (235479);
-INSERT INTO item_paid_only (item_id) VALUES (235480);
-INSERT INTO item_paid_only (item_id) VALUES (235481);
-INSERT INTO item_paid_only (item_id) VALUES (235482);
-INSERT INTO item_paid_only (item_id) VALUES (235483);
-INSERT INTO item_paid_only (item_id) VALUES (235484);
-INSERT INTO item_paid_only (item_id) VALUES (235485);
-INSERT INTO item_paid_only (item_id) VALUES (235486);
-INSERT INTO item_paid_only (item_id) VALUES (235487);
-INSERT INTO item_paid_only (item_id) VALUES (235488);
-INSERT INTO item_paid_only (item_id) VALUES (235489);
-INSERT INTO item_paid_only (item_id) VALUES (235490);
-INSERT INTO item_paid_only (item_id) VALUES (235491);
-INSERT INTO item_paid_only (item_id) VALUES (235492);
-INSERT INTO item_paid_only (item_id) VALUES (235493);
-INSERT INTO item_paid_only (item_id) VALUES (235494);
-INSERT INTO item_paid_only (item_id) VALUES (235495);
-INSERT INTO item_paid_only (item_id) VALUES (235496);
-INSERT INTO item_paid_only (item_id) VALUES (235497);
-INSERT INTO item_paid_only (item_id) VALUES (235498);
-INSERT INTO item_paid_only (item_id) VALUES (235499);
-INSERT INTO item_paid_only (item_id) VALUES (235500);
-INSERT INTO item_paid_only (item_id) VALUES (235501);
-INSERT INTO item_paid_only (item_id) VALUES (235502);
-INSERT INTO item_paid_only (item_id) VALUES (235503);
-INSERT INTO item_paid_only (item_id) VALUES (235504);
-INSERT INTO item_paid_only (item_id) VALUES (235505);
-INSERT INTO item_paid_only (item_id) VALUES (235506);
-INSERT INTO item_paid_only (item_id) VALUES (235507);
-INSERT INTO item_paid_only (item_id) VALUES (235508);
-INSERT INTO item_paid_only (item_id) VALUES (235509);
-INSERT INTO item_paid_only (item_id) VALUES (235510);
-INSERT INTO item_paid_only (item_id) VALUES (235511);
-INSERT INTO item_paid_only (item_id) VALUES (235512);
-INSERT INTO item_paid_only (item_id) VALUES (235513);
-INSERT INTO item_paid_only (item_id) VALUES (235514);
-INSERT INTO item_paid_only (item_id) VALUES (235515);
-INSERT INTO item_paid_only (item_id) VALUES (235516);
-INSERT INTO item_paid_only (item_id) VALUES (235517);
-INSERT INTO item_paid_only (item_id) VALUES (235518);
-INSERT INTO item_paid_only (item_id) VALUES (235519);
-INSERT INTO item_paid_only (item_id) VALUES (235520);
-INSERT INTO item_paid_only (item_id) VALUES (235521);
-INSERT INTO item_paid_only (item_id) VALUES (235522);
-INSERT INTO item_paid_only (item_id) VALUES (235523);
-INSERT INTO item_paid_only (item_id) VALUES (235524);
-INSERT INTO item_paid_only (item_id) VALUES (235525);
-INSERT INTO item_paid_only (item_id) VALUES (235526);
-INSERT INTO item_paid_only (item_id) VALUES (235527);
-INSERT INTO item_paid_only (item_id) VALUES (235528);
-INSERT INTO item_paid_only (item_id) VALUES (235529);
-INSERT INTO item_paid_only (item_id) VALUES (235530);
-INSERT INTO item_paid_only (item_id) VALUES (235531);
-INSERT INTO item_paid_only (item_id) VALUES (235532);
-INSERT INTO item_paid_only (item_id) VALUES (235533);
-INSERT INTO item_paid_only (item_id) VALUES (235534);
-INSERT INTO item_paid_only (item_id) VALUES (235535);
-INSERT INTO item_paid_only (item_id) VALUES (235536);
-INSERT INTO item_paid_only (item_id) VALUES (235537);
-INSERT INTO item_paid_only (item_id) VALUES (235538);
-INSERT INTO item_paid_only (item_id) VALUES (235539);
-INSERT INTO item_paid_only (item_id) VALUES (235540);
-INSERT INTO item_paid_only (item_id) VALUES (235541);
-INSERT INTO item_paid_only (item_id) VALUES (235542);
-INSERT INTO item_paid_only (item_id) VALUES (235543);
-INSERT INTO item_paid_only (item_id) VALUES (235544);
-INSERT INTO item_paid_only (item_id) VALUES (235545);
-INSERT INTO item_paid_only (item_id) VALUES (235546);
-INSERT INTO item_paid_only (item_id) VALUES (235547);
-INSERT INTO item_paid_only (item_id) VALUES (235548);
-INSERT INTO item_paid_only (item_id) VALUES (235549);
-INSERT INTO item_paid_only (item_id) VALUES (235550);
-INSERT INTO item_paid_only (item_id) VALUES (235551);
-INSERT INTO item_paid_only (item_id) VALUES (235552);
-INSERT INTO item_paid_only (item_id) VALUES (235553);
-INSERT INTO item_paid_only (item_id) VALUES (235554);
-INSERT INTO item_paid_only (item_id) VALUES (235555);
-INSERT INTO item_paid_only (item_id) VALUES (235556);
-INSERT INTO item_paid_only (item_id) VALUES (235557);
-INSERT INTO item_paid_only (item_id) VALUES (235558);
-INSERT INTO item_paid_only (item_id) VALUES (235559);
-INSERT INTO item_paid_only (item_id) VALUES (235560);
-INSERT INTO item_paid_only (item_id) VALUES (235561);
-INSERT INTO item_paid_only (item_id) VALUES (235562);
-INSERT INTO item_paid_only (item_id) VALUES (235563);
-INSERT INTO item_paid_only (item_id) VALUES (235564);
-INSERT INTO item_paid_only (item_id) VALUES (235565);
-INSERT INTO item_paid_only (item_id) VALUES (235566);
-INSERT INTO item_paid_only (item_id) VALUES (235567);
-INSERT INTO item_paid_only (item_id) VALUES (235568);
-INSERT INTO item_paid_only (item_id) VALUES (235569);
-INSERT INTO item_paid_only (item_id) VALUES (235570);
-INSERT INTO item_paid_only (item_id) VALUES (235571);
-INSERT INTO item_paid_only (item_id) VALUES (235572);
-INSERT INTO item_paid_only (item_id) VALUES (235573);
-INSERT INTO item_paid_only (item_id) VALUES (235574);
-INSERT INTO item_paid_only (item_id) VALUES (235575);
-INSERT INTO item_paid_only (item_id) VALUES (235576);
-INSERT INTO item_paid_only (item_id) VALUES (235577);
-INSERT INTO item_paid_only (item_id) VALUES (235578);
-INSERT INTO item_paid_only (item_id) VALUES (235579);
-INSERT INTO item_paid_only (item_id) VALUES (235580);
-INSERT INTO item_paid_only (item_id) VALUES (235581);
-INSERT INTO item_paid_only (item_id) VALUES (235582);
-INSERT INTO item_paid_only (item_id) VALUES (235583);
-INSERT INTO item_paid_only (item_id) VALUES (235584);
-INSERT INTO item_paid_only (item_id) VALUES (235585);
-INSERT INTO item_paid_only (item_id) VALUES (235586);
-INSERT INTO item_paid_only (item_id) VALUES (235587);
-INSERT INTO item_paid_only (item_id) VALUES (235588);
-INSERT INTO item_paid_only (item_id) VALUES (235589);
-INSERT INTO item_paid_only (item_id) VALUES (235590);
-INSERT INTO item_paid_only (item_id) VALUES (235591);
-INSERT INTO item_paid_only (item_id) VALUES (235592);
-INSERT INTO item_paid_only (item_id) VALUES (235593);
-INSERT INTO item_paid_only (item_id) VALUES (235594);
-INSERT INTO item_paid_only (item_id) VALUES (235595);
-INSERT INTO item_paid_only (item_id) VALUES (235596);
-INSERT INTO item_paid_only (item_id) VALUES (235597);
-INSERT INTO item_paid_only (item_id) VALUES (235598);
-INSERT INTO item_paid_only (item_id) VALUES (235599);
-INSERT INTO item_paid_only (item_id) VALUES (235600);
-INSERT INTO item_paid_only (item_id) VALUES (235601);
-INSERT INTO item_paid_only (item_id) VALUES (235602);
-INSERT INTO item_paid_only (item_id) VALUES (235603);
-INSERT INTO item_paid_only (item_id) VALUES (235604);
-INSERT INTO item_paid_only (item_id) VALUES (235605);
-INSERT INTO item_paid_only (item_id) VALUES (235606);
-INSERT INTO item_paid_only (item_id) VALUES (235607);
-INSERT INTO item_paid_only (item_id) VALUES (235608);
-INSERT INTO item_paid_only (item_id) VALUES (235609);
-INSERT INTO item_paid_only (item_id) VALUES (235610);
-INSERT INTO item_paid_only (item_id) VALUES (235611);
-INSERT INTO item_paid_only (item_id) VALUES (235612);
-INSERT INTO item_paid_only (item_id) VALUES (235613);
-INSERT INTO item_paid_only (item_id) VALUES (235614);
-INSERT INTO item_paid_only (item_id) VALUES (235615);
-INSERT INTO item_paid_only (item_id) VALUES (235616);
-INSERT INTO item_paid_only (item_id) VALUES (235617);
-INSERT INTO item_paid_only (item_id) VALUES (235618);
-INSERT INTO item_paid_only (item_id) VALUES (235619);
-INSERT INTO item_paid_only (item_id) VALUES (235620);
-INSERT INTO item_paid_only (item_id) VALUES (235621);
-INSERT INTO item_paid_only (item_id) VALUES (235622);
-INSERT INTO item_paid_only (item_id) VALUES (235623);
-INSERT INTO item_paid_only (item_id) VALUES (235624);
-INSERT INTO item_paid_only (item_id) VALUES (235625);
-INSERT INTO item_paid_only (item_id) VALUES (235626);
-INSERT INTO item_paid_only (item_id) VALUES (235627);
-INSERT INTO item_paid_only (item_id) VALUES (235628);
-INSERT INTO item_paid_only (item_id) VALUES (235629);
-INSERT INTO item_paid_only (item_id) VALUES (235630);
-INSERT INTO item_paid_only (item_id) VALUES (235631);
-INSERT INTO item_paid_only (item_id) VALUES (235632);
-INSERT INTO item_paid_only (item_id) VALUES (235633);
-INSERT INTO item_paid_only (item_id) VALUES (235634);
-INSERT INTO item_paid_only (item_id) VALUES (235635);
-INSERT INTO item_paid_only (item_id) VALUES (235636);
-INSERT INTO item_paid_only (item_id) VALUES (235637);
-INSERT INTO item_paid_only (item_id) VALUES (235638);
-INSERT INTO item_paid_only (item_id) VALUES (235639);
-INSERT INTO item_paid_only (item_id) VALUES (235640);
-INSERT INTO item_paid_only (item_id) VALUES (235641);
-INSERT INTO item_paid_only (item_id) VALUES (235642);
-INSERT INTO item_paid_only (item_id) VALUES (235643);
-INSERT INTO item_paid_only (item_id) VALUES (235644);
-INSERT INTO item_paid_only (item_id) VALUES (235645);
-INSERT INTO item_paid_only (item_id) VALUES (235646);
-INSERT INTO item_paid_only (item_id) VALUES (235647);
-INSERT INTO item_paid_only (item_id) VALUES (235648);
-INSERT INTO item_paid_only (item_id) VALUES (235649);
-INSERT INTO item_paid_only (item_id) VALUES (235650);
-INSERT INTO item_paid_only (item_id) VALUES (235651);
-INSERT INTO item_paid_only (item_id) VALUES (235652);
-INSERT INTO item_paid_only (item_id) VALUES (235653);
-INSERT INTO item_paid_only (item_id) VALUES (235654);
-INSERT INTO item_paid_only (item_id) VALUES (235655);
-INSERT INTO item_paid_only (item_id) VALUES (235656);
-INSERT INTO item_paid_only (item_id) VALUES (235657);
-INSERT INTO item_paid_only (item_id) VALUES (235658);
-INSERT INTO item_paid_only (item_id) VALUES (235659);
-INSERT INTO item_paid_only (item_id) VALUES (235660);
-INSERT INTO item_paid_only (item_id) VALUES (235661);
-INSERT INTO item_paid_only (item_id) VALUES (235662);
-INSERT INTO item_paid_only (item_id) VALUES (235663);
-INSERT INTO item_paid_only (item_id) VALUES (235664);
-INSERT INTO item_paid_only (item_id) VALUES (235665);
-INSERT INTO item_paid_only (item_id) VALUES (235666);
-INSERT INTO item_paid_only (item_id) VALUES (235667);
-INSERT INTO item_paid_only (item_id) VALUES (235668);
-INSERT INTO item_paid_only (item_id) VALUES (235669);
-INSERT INTO item_paid_only (item_id) VALUES (235670);
-INSERT INTO item_paid_only (item_id) VALUES (235671);
-INSERT INTO item_paid_only (item_id) VALUES (235672);
-INSERT INTO item_paid_only (item_id) VALUES (235673);
-INSERT INTO item_paid_only (item_id) VALUES (235674);
-INSERT INTO item_paid_only (item_id) VALUES (235675);
-INSERT INTO item_paid_only (item_id) VALUES (235676);
-INSERT INTO item_paid_only (item_id) VALUES (235677);
-INSERT INTO item_paid_only (item_id) VALUES (235678);
-INSERT INTO item_paid_only (item_id) VALUES (235679);
-INSERT INTO item_paid_only (item_id) VALUES (235680);
-INSERT INTO item_paid_only (item_id) VALUES (235681);
-INSERT INTO item_paid_only (item_id) VALUES (235682);
-INSERT INTO item_paid_only (item_id) VALUES (235683);
-INSERT INTO item_paid_only (item_id) VALUES (235684);
-INSERT INTO item_paid_only (item_id) VALUES (235685);
-INSERT INTO item_paid_only (item_id) VALUES (235686);
-INSERT INTO item_paid_only (item_id) VALUES (235687);
-INSERT INTO item_paid_only (item_id) VALUES (235688);
-INSERT INTO item_paid_only (item_id) VALUES (235689);
-INSERT INTO item_paid_only (item_id) VALUES (235690);
-INSERT INTO item_paid_only (item_id) VALUES (235691);
-INSERT INTO item_paid_only (item_id) VALUES (235692);
-INSERT INTO item_paid_only (item_id) VALUES (235693);
-INSERT INTO item_paid_only (item_id) VALUES (235694);
-INSERT INTO item_paid_only (item_id) VALUES (235695);
-INSERT INTO item_paid_only (item_id) VALUES (235696);
-INSERT INTO item_paid_only (item_id) VALUES (235697);
-INSERT INTO item_paid_only (item_id) VALUES (235698);
-INSERT INTO item_paid_only (item_id) VALUES (235699);
-INSERT INTO item_paid_only (item_id) VALUES (235700);
-INSERT INTO item_paid_only (item_id) VALUES (235701);
-INSERT INTO item_paid_only (item_id) VALUES (235702);
-INSERT INTO item_paid_only (item_id) VALUES (235703);
-INSERT INTO item_paid_only (item_id) VALUES (235704);
-INSERT INTO item_paid_only (item_id) VALUES (235705);
-INSERT INTO item_paid_only (item_id) VALUES (235706);
-INSERT INTO item_paid_only (item_id) VALUES (235707);
-INSERT INTO item_paid_only (item_id) VALUES (235708);
-INSERT INTO item_paid_only (item_id) VALUES (235709);
-INSERT INTO item_paid_only (item_id) VALUES (235710);
-INSERT INTO item_paid_only (item_id) VALUES (235711);
-INSERT INTO item_paid_only (item_id) VALUES (235712);
-INSERT INTO item_paid_only (item_id) VALUES (235713);
-INSERT INTO item_paid_only (item_id) VALUES (235714);
-INSERT INTO item_paid_only (item_id) VALUES (235715);
-INSERT INTO item_paid_only (item_id) VALUES (235716);
-INSERT INTO item_paid_only (item_id) VALUES (235717);
-INSERT INTO item_paid_only (item_id) VALUES (235718);
-INSERT INTO item_paid_only (item_id) VALUES (235719);
-INSERT INTO item_paid_only (item_id) VALUES (235720);
-INSERT INTO item_paid_only (item_id) VALUES (235721);
-INSERT INTO item_paid_only (item_id) VALUES (235722);
-INSERT INTO item_paid_only (item_id) VALUES (235723);
-INSERT INTO item_paid_only (item_id) VALUES (235724);
-INSERT INTO item_paid_only (item_id) VALUES (235725);
-INSERT INTO item_paid_only (item_id) VALUES (235726);
-INSERT INTO item_paid_only (item_id) VALUES (235727);
-INSERT INTO item_paid_only (item_id) VALUES (235728);
-INSERT INTO item_paid_only (item_id) VALUES (235729);
-INSERT INTO item_paid_only (item_id) VALUES (235730);
-INSERT INTO item_paid_only (item_id) VALUES (235731);
-INSERT INTO item_paid_only (item_id) VALUES (235732);
-INSERT INTO item_paid_only (item_id) VALUES (235733);
-INSERT INTO item_paid_only (item_id) VALUES (235734);
-INSERT INTO item_paid_only (item_id) VALUES (235735);
-INSERT INTO item_paid_only (item_id) VALUES (235736);
-INSERT INTO item_paid_only (item_id) VALUES (235737);
-INSERT INTO item_paid_only (item_id) VALUES (235738);
-INSERT INTO item_paid_only (item_id) VALUES (235739);
-INSERT INTO item_paid_only (item_id) VALUES (235740);
-INSERT INTO item_paid_only (item_id) VALUES (235741);
-INSERT INTO item_paid_only (item_id) VALUES (235742);
-INSERT INTO item_paid_only (item_id) VALUES (235743);
-INSERT INTO item_paid_only (item_id) VALUES (235744);
-INSERT INTO item_paid_only (item_id) VALUES (235745);
-INSERT INTO item_paid_only (item_id) VALUES (235746);
-INSERT INTO item_paid_only (item_id) VALUES (235747);
-INSERT INTO item_paid_only (item_id) VALUES (235748);
-INSERT INTO item_paid_only (item_id) VALUES (235749);
-INSERT INTO item_paid_only (item_id) VALUES (235750);
-INSERT INTO item_paid_only (item_id) VALUES (235751);
-INSERT INTO item_paid_only (item_id) VALUES (235752);
-INSERT INTO item_paid_only (item_id) VALUES (235753);
-INSERT INTO item_paid_only (item_id) VALUES (235755);
-INSERT INTO item_paid_only (item_id) VALUES (235756);
-INSERT INTO item_paid_only (item_id) VALUES (235757);
-INSERT INTO item_paid_only (item_id) VALUES (235758);
-INSERT INTO item_paid_only (item_id) VALUES (235759);
-INSERT INTO item_paid_only (item_id) VALUES (235760);
-INSERT INTO item_paid_only (item_id) VALUES (235761);
-INSERT INTO item_paid_only (item_id) VALUES (235762);
-INSERT INTO item_paid_only (item_id) VALUES (235763);
-INSERT INTO item_paid_only (item_id) VALUES (235764);
-INSERT INTO item_paid_only (item_id) VALUES (235765);
-INSERT INTO item_paid_only (item_id) VALUES (235766);
-INSERT INTO item_paid_only (item_id) VALUES (235767);
-INSERT INTO item_paid_only (item_id) VALUES (235768);
-INSERT INTO item_paid_only (item_id) VALUES (235769);
-INSERT INTO item_paid_only (item_id) VALUES (235770);
-INSERT INTO item_paid_only (item_id) VALUES (235771);
-INSERT INTO item_paid_only (item_id) VALUES (235772);
-INSERT INTO item_paid_only (item_id) VALUES (235773);
-INSERT INTO item_paid_only (item_id) VALUES (235774);
-INSERT INTO item_paid_only (item_id) VALUES (235775);
-INSERT INTO item_paid_only (item_id) VALUES (235776);
-INSERT INTO item_paid_only (item_id) VALUES (235777);
-INSERT INTO item_paid_only (item_id) VALUES (235778);
-INSERT INTO item_paid_only (item_id) VALUES (235779);
-INSERT INTO item_paid_only (item_id) VALUES (235780);
-INSERT INTO item_paid_only (item_id) VALUES (235781);
-INSERT INTO item_paid_only (item_id) VALUES (235782);
-INSERT INTO item_paid_only (item_id) VALUES (235783);
-INSERT INTO item_paid_only (item_id) VALUES (235784);
-INSERT INTO item_paid_only (item_id) VALUES (235785);
-INSERT INTO item_paid_only (item_id) VALUES (235786);
-INSERT INTO item_paid_only (item_id) VALUES (235787);
-INSERT INTO item_paid_only (item_id) VALUES (235788);
-INSERT INTO item_paid_only (item_id) VALUES (235789);
-INSERT INTO item_paid_only (item_id) VALUES (235790);
-INSERT INTO item_paid_only (item_id) VALUES (235791);
-INSERT INTO item_paid_only (item_id) VALUES (235792);
-INSERT INTO item_paid_only (item_id) VALUES (235793);
-INSERT INTO item_paid_only (item_id) VALUES (235794);
-INSERT INTO item_paid_only (item_id) VALUES (235795);
-INSERT INTO item_paid_only (item_id) VALUES (235796);
-INSERT INTO item_paid_only (item_id) VALUES (235797);
-INSERT INTO item_paid_only (item_id) VALUES (235798);
-INSERT INTO item_paid_only (item_id) VALUES (235799);
-INSERT INTO item_paid_only (item_id) VALUES (235800);
-INSERT INTO item_paid_only (item_id) VALUES (235801);
-INSERT INTO item_paid_only (item_id) VALUES (235802);
-INSERT INTO item_paid_only (item_id) VALUES (235803);
-INSERT INTO item_paid_only (item_id) VALUES (235804);
-INSERT INTO item_paid_only (item_id) VALUES (235805);
-INSERT INTO item_paid_only (item_id) VALUES (235806);
-INSERT INTO item_paid_only (item_id) VALUES (235807);
-INSERT INTO item_paid_only (item_id) VALUES (235808);
-INSERT INTO item_paid_only (item_id) VALUES (235809);
-INSERT INTO item_paid_only (item_id) VALUES (235810);
-INSERT INTO item_paid_only (item_id) VALUES (235811);
-INSERT INTO item_paid_only (item_id) VALUES (235812);
-INSERT INTO item_paid_only (item_id) VALUES (235813);
-INSERT INTO item_paid_only (item_id) VALUES (235814);
-INSERT INTO item_paid_only (item_id) VALUES (235815);
-INSERT INTO item_paid_only (item_id) VALUES (235816);
-INSERT INTO item_paid_only (item_id) VALUES (235817);
-INSERT INTO item_paid_only (item_id) VALUES (235818);
-INSERT INTO item_paid_only (item_id) VALUES (235819);
-INSERT INTO item_paid_only (item_id) VALUES (235820);
-INSERT INTO item_paid_only (item_id) VALUES (235821);
-INSERT INTO item_paid_only (item_id) VALUES (235822);
-INSERT INTO item_paid_only (item_id) VALUES (235823);
-INSERT INTO item_paid_only (item_id) VALUES (235824);
-INSERT INTO item_paid_only (item_id) VALUES (235825);
-INSERT INTO item_paid_only (item_id) VALUES (235826);
-INSERT INTO item_paid_only (item_id) VALUES (235827);
-INSERT INTO item_paid_only (item_id) VALUES (235828);
-INSERT INTO item_paid_only (item_id) VALUES (235829);
-INSERT INTO item_paid_only (item_id) VALUES (235830);
-INSERT INTO item_paid_only (item_id) VALUES (235831);
-INSERT INTO item_paid_only (item_id) VALUES (235832);
-INSERT INTO item_paid_only (item_id) VALUES (235833);
-INSERT INTO item_paid_only (item_id) VALUES (235834);
-INSERT INTO item_paid_only (item_id) VALUES (235835);
-INSERT INTO item_paid_only (item_id) VALUES (235836);
-INSERT INTO item_paid_only (item_id) VALUES (235837);
-INSERT INTO item_paid_only (item_id) VALUES (235838);
-INSERT INTO item_paid_only (item_id) VALUES (235839);
-INSERT INTO item_paid_only (item_id) VALUES (235840);
-INSERT INTO item_paid_only (item_id) VALUES (235841);
-INSERT INTO item_paid_only (item_id) VALUES (235842);
-INSERT INTO item_paid_only (item_id) VALUES (235843);
-INSERT INTO item_paid_only (item_id) VALUES (235844);
-INSERT INTO item_paid_only (item_id) VALUES (235845);
-INSERT INTO item_paid_only (item_id) VALUES (235846);
-INSERT INTO item_paid_only (item_id) VALUES (235847);
-INSERT INTO item_paid_only (item_id) VALUES (235848);
-INSERT INTO item_paid_only (item_id) VALUES (235849);
-INSERT INTO item_paid_only (item_id) VALUES (235850);
-INSERT INTO item_paid_only (item_id) VALUES (235851);
-INSERT INTO item_paid_only (item_id) VALUES (235852);
-INSERT INTO item_paid_only (item_id) VALUES (235853);
-INSERT INTO item_paid_only (item_id) VALUES (235854);
-INSERT INTO item_paid_only (item_id) VALUES (235855);
-INSERT INTO item_paid_only (item_id) VALUES (235856);
-INSERT INTO item_paid_only (item_id) VALUES (235857);
-INSERT INTO item_paid_only (item_id) VALUES (235858);
-INSERT INTO item_paid_only (item_id) VALUES (235859);
-INSERT INTO item_paid_only (item_id) VALUES (235860);
-INSERT INTO item_paid_only (item_id) VALUES (235861);
-INSERT INTO item_paid_only (item_id) VALUES (235862);
-INSERT INTO item_paid_only (item_id) VALUES (235863);
-INSERT INTO item_paid_only (item_id) VALUES (235864);
-INSERT INTO item_paid_only (item_id) VALUES (235865);
-INSERT INTO item_paid_only (item_id) VALUES (235866);
-INSERT INTO item_paid_only (item_id) VALUES (235867);
-INSERT INTO item_paid_only (item_id) VALUES (235868);
-INSERT INTO item_paid_only (item_id) VALUES (235869);
-INSERT INTO item_paid_only (item_id) VALUES (235870);
-INSERT INTO item_paid_only (item_id) VALUES (235871);
-INSERT INTO item_paid_only (item_id) VALUES (235872);
-INSERT INTO item_paid_only (item_id) VALUES (235873);
-INSERT INTO item_paid_only (item_id) VALUES (235874);
-INSERT INTO item_paid_only (item_id) VALUES (235875);
-INSERT INTO item_paid_only (item_id) VALUES (235876);
-INSERT INTO item_paid_only (item_id) VALUES (235877);
-INSERT INTO item_paid_only (item_id) VALUES (235878);
-INSERT INTO item_paid_only (item_id) VALUES (235879);
-INSERT INTO item_paid_only (item_id) VALUES (235880);
-INSERT INTO item_paid_only (item_id) VALUES (235881);
-INSERT INTO item_paid_only (item_id) VALUES (235882);
-INSERT INTO item_paid_only (item_id) VALUES (235883);
-INSERT INTO item_paid_only (item_id) VALUES (235884);
-INSERT INTO item_paid_only (item_id) VALUES (235885);
-INSERT INTO item_paid_only (item_id) VALUES (235886);
-INSERT INTO item_paid_only (item_id) VALUES (235887);
-INSERT INTO item_paid_only (item_id) VALUES (235888);
-INSERT INTO item_paid_only (item_id) VALUES (235889);
-INSERT INTO item_paid_only (item_id) VALUES (235890);
-INSERT INTO item_paid_only (item_id) VALUES (235891);
-INSERT INTO item_paid_only (item_id) VALUES (235892);
-INSERT INTO item_paid_only (item_id) VALUES (235893);
-INSERT INTO item_paid_only (item_id) VALUES (235894);
-INSERT INTO item_paid_only (item_id) VALUES (235895);
-INSERT INTO item_paid_only (item_id) VALUES (235896);
-INSERT INTO item_paid_only (item_id) VALUES (235897);
-INSERT INTO item_paid_only (item_id) VALUES (235898);
-INSERT INTO item_paid_only (item_id) VALUES (235899);
-INSERT INTO item_paid_only (item_id) VALUES (235900);
-INSERT INTO item_paid_only (item_id) VALUES (235901);
-INSERT INTO item_paid_only (item_id) VALUES (235902);
-INSERT INTO item_paid_only (item_id) VALUES (235903);
-INSERT INTO item_paid_only (item_id) VALUES (235904);
-INSERT INTO item_paid_only (item_id) VALUES (235905);
-INSERT INTO item_paid_only (item_id) VALUES (235906);
-INSERT INTO item_paid_only (item_id) VALUES (235907);
-INSERT INTO item_paid_only (item_id) VALUES (235908);
-INSERT INTO item_paid_only (item_id) VALUES (235909);
-INSERT INTO item_paid_only (item_id) VALUES (235910);
-INSERT INTO item_paid_only (item_id) VALUES (235911);
-INSERT INTO item_paid_only (item_id) VALUES (235912);
-INSERT INTO item_paid_only (item_id) VALUES (235913);
-INSERT INTO item_paid_only (item_id) VALUES (235914);
-INSERT INTO item_paid_only (item_id) VALUES (235915);
-INSERT INTO item_paid_only (item_id) VALUES (235916);
-INSERT INTO item_paid_only (item_id) VALUES (235917);
-INSERT INTO item_paid_only (item_id) VALUES (235918);
-INSERT INTO item_paid_only (item_id) VALUES (235919);
-INSERT INTO item_paid_only (item_id) VALUES (235920);
-INSERT INTO item_paid_only (item_id) VALUES (235921);
-INSERT INTO item_paid_only (item_id) VALUES (235922);
-INSERT INTO item_paid_only (item_id) VALUES (235923);
-INSERT INTO item_paid_only (item_id) VALUES (235924);
-INSERT INTO item_paid_only (item_id) VALUES (235925);
-INSERT INTO item_paid_only (item_id) VALUES (235926);
-INSERT INTO item_paid_only (item_id) VALUES (235927);
-INSERT INTO item_paid_only (item_id) VALUES (235928);
-INSERT INTO item_paid_only (item_id) VALUES (235929);
-INSERT INTO item_paid_only (item_id) VALUES (235930);
-INSERT INTO item_paid_only (item_id) VALUES (235931);
-INSERT INTO item_paid_only (item_id) VALUES (235932);
-INSERT INTO item_paid_only (item_id) VALUES (235933);
-INSERT INTO item_paid_only (item_id) VALUES (235934);
-INSERT INTO item_paid_only (item_id) VALUES (235935);
-INSERT INTO item_paid_only (item_id) VALUES (235936);
-INSERT INTO item_paid_only (item_id) VALUES (235937);
-INSERT INTO item_paid_only (item_id) VALUES (235938);
-INSERT INTO item_paid_only (item_id) VALUES (235939);
-INSERT INTO item_paid_only (item_id) VALUES (235940);
-INSERT INTO item_paid_only (item_id) VALUES (235941);
-INSERT INTO item_paid_only (item_id) VALUES (235942);
-INSERT INTO item_paid_only (item_id) VALUES (235943);
-INSERT INTO item_paid_only (item_id) VALUES (235944);
-INSERT INTO item_paid_only (item_id) VALUES (235945);
-INSERT INTO item_paid_only (item_id) VALUES (235946);
-INSERT INTO item_paid_only (item_id) VALUES (235947);
-INSERT INTO item_paid_only (item_id) VALUES (235948);
-INSERT INTO item_paid_only (item_id) VALUES (235949);
-INSERT INTO item_paid_only (item_id) VALUES (235950);
-INSERT INTO item_paid_only (item_id) VALUES (235951);
-INSERT INTO item_paid_only (item_id) VALUES (235952);
-INSERT INTO item_paid_only (item_id) VALUES (235953);
-INSERT INTO item_paid_only (item_id) VALUES (235954);
-INSERT INTO item_paid_only (item_id) VALUES (235955);
-INSERT INTO item_paid_only (item_id) VALUES (235956);
-INSERT INTO item_paid_only (item_id) VALUES (235957);
-INSERT INTO item_paid_only (item_id) VALUES (235958);
-INSERT INTO item_paid_only (item_id) VALUES (235959);
-INSERT INTO item_paid_only (item_id) VALUES (235960);
-INSERT INTO item_paid_only (item_id) VALUES (235961);
-INSERT INTO item_paid_only (item_id) VALUES (235962);
-INSERT INTO item_paid_only (item_id) VALUES (235963);
-INSERT INTO item_paid_only (item_id) VALUES (235964);
-INSERT INTO item_paid_only (item_id) VALUES (235965);
-INSERT INTO item_paid_only (item_id) VALUES (235966);
-INSERT INTO item_paid_only (item_id) VALUES (235967);
-INSERT INTO item_paid_only (item_id) VALUES (235968);
-INSERT INTO item_paid_only (item_id) VALUES (235969);
-INSERT INTO item_paid_only (item_id) VALUES (235970);
-INSERT INTO item_paid_only (item_id) VALUES (235971);
-INSERT INTO item_paid_only (item_id) VALUES (235972);
-INSERT INTO item_paid_only (item_id) VALUES (235973);
-INSERT INTO item_paid_only (item_id) VALUES (235974);
-INSERT INTO item_paid_only (item_id) VALUES (235975);
-INSERT INTO item_paid_only (item_id) VALUES (235976);
-INSERT INTO item_paid_only (item_id) VALUES (235977);
-INSERT INTO item_paid_only (item_id) VALUES (235978);
-INSERT INTO item_paid_only (item_id) VALUES (235979);
-INSERT INTO item_paid_only (item_id) VALUES (235980);
-INSERT INTO item_paid_only (item_id) VALUES (235981);
-INSERT INTO item_paid_only (item_id) VALUES (235982);
-INSERT INTO item_paid_only (item_id) VALUES (235983);
-INSERT INTO item_paid_only (item_id) VALUES (235984);
-INSERT INTO item_paid_only (item_id) VALUES (235985);
-INSERT INTO item_paid_only (item_id) VALUES (235986);
-INSERT INTO item_paid_only (item_id) VALUES (235987);
-INSERT INTO item_paid_only (item_id) VALUES (235988);
-INSERT INTO item_paid_only (item_id) VALUES (235989);
-INSERT INTO item_paid_only (item_id) VALUES (235990);
-INSERT INTO item_paid_only (item_id) VALUES (235991);
-INSERT INTO item_paid_only (item_id) VALUES (235992);
-INSERT INTO item_paid_only (item_id) VALUES (235993);
-INSERT INTO item_paid_only (item_id) VALUES (235994);
-INSERT INTO item_paid_only (item_id) VALUES (235995);
-INSERT INTO item_paid_only (item_id) VALUES (235996);
-INSERT INTO item_paid_only (item_id) VALUES (235997);
-INSERT INTO item_paid_only (item_id) VALUES (235998);
-INSERT INTO item_paid_only (item_id) VALUES (235999);
-INSERT INTO item_paid_only (item_id) VALUES (236000);
-INSERT INTO item_paid_only (item_id) VALUES (236001);
-INSERT INTO item_paid_only (item_id) VALUES (236002);
-INSERT INTO item_paid_only (item_id) VALUES (236003);
-INSERT INTO item_paid_only (item_id) VALUES (236004);
-INSERT INTO item_paid_only (item_id) VALUES (236005);
-INSERT INTO item_paid_only (item_id) VALUES (236006);
-INSERT INTO item_paid_only (item_id) VALUES (236007);
-INSERT INTO item_paid_only (item_id) VALUES (236008);
-INSERT INTO item_paid_only (item_id) VALUES (236009);
-INSERT INTO item_paid_only (item_id) VALUES (236010);
-INSERT INTO item_paid_only (item_id) VALUES (236011);
-INSERT INTO item_paid_only (item_id) VALUES (236012);
-INSERT INTO item_paid_only (item_id) VALUES (236013);
-INSERT INTO item_paid_only (item_id) VALUES (236014);
-INSERT INTO item_paid_only (item_id) VALUES (236015);
-INSERT INTO item_paid_only (item_id) VALUES (236016);
-INSERT INTO item_paid_only (item_id) VALUES (236017);
-INSERT INTO item_paid_only (item_id) VALUES (236018);
-INSERT INTO item_paid_only (item_id) VALUES (236019);
-INSERT INTO item_paid_only (item_id) VALUES (236020);
-INSERT INTO item_paid_only (item_id) VALUES (236021);
-INSERT INTO item_paid_only (item_id) VALUES (236022);
-INSERT INTO item_paid_only (item_id) VALUES (236023);
-INSERT INTO item_paid_only (item_id) VALUES (236024);
-INSERT INTO item_paid_only (item_id) VALUES (236025);
-INSERT INTO item_paid_only (item_id) VALUES (236026);
-INSERT INTO item_paid_only (item_id) VALUES (236027);
-INSERT INTO item_paid_only (item_id) VALUES (236028);
-INSERT INTO item_paid_only (item_id) VALUES (236029);
-INSERT INTO item_paid_only (item_id) VALUES (236030);
-INSERT INTO item_paid_only (item_id) VALUES (236031);
-INSERT INTO item_paid_only (item_id) VALUES (236032);
-INSERT INTO item_paid_only (item_id) VALUES (236033);
-INSERT INTO item_paid_only (item_id) VALUES (236034);
-INSERT INTO item_paid_only (item_id) VALUES (236035);
-INSERT INTO item_paid_only (item_id) VALUES (236036);
-INSERT INTO item_paid_only (item_id) VALUES (236037);
-INSERT INTO item_paid_only (item_id) VALUES (236038);
-INSERT INTO item_paid_only (item_id) VALUES (236039);
-INSERT INTO item_paid_only (item_id) VALUES (236040);
-INSERT INTO item_paid_only (item_id) VALUES (236041);
-INSERT INTO item_paid_only (item_id) VALUES (236042);
-INSERT INTO item_paid_only (item_id) VALUES (236043);
-INSERT INTO item_paid_only (item_id) VALUES (236044);
-INSERT INTO item_paid_only (item_id) VALUES (236045);
-INSERT INTO item_paid_only (item_id) VALUES (236046);
-INSERT INTO item_paid_only (item_id) VALUES (236047);
-INSERT INTO item_paid_only (item_id) VALUES (236048);
-INSERT INTO item_paid_only (item_id) VALUES (236049);
-INSERT INTO item_paid_only (item_id) VALUES (236050);
-INSERT INTO item_paid_only (item_id) VALUES (236051);
-INSERT INTO item_paid_only (item_id) VALUES (236052);
-INSERT INTO item_paid_only (item_id) VALUES (236053);
-INSERT INTO item_paid_only (item_id) VALUES (236054);
-INSERT INTO item_paid_only (item_id) VALUES (236055);
-INSERT INTO item_paid_only (item_id) VALUES (236056);
-INSERT INTO item_paid_only (item_id) VALUES (236057);
-INSERT INTO item_paid_only (item_id) VALUES (236058);
-INSERT INTO item_paid_only (item_id) VALUES (236059);
-INSERT INTO item_paid_only (item_id) VALUES (236060);
-INSERT INTO item_paid_only (item_id) VALUES (236061);
-INSERT INTO item_paid_only (item_id) VALUES (236062);
-INSERT INTO item_paid_only (item_id) VALUES (236063);
-INSERT INTO item_paid_only (item_id) VALUES (236064);
-INSERT INTO item_paid_only (item_id) VALUES (236065);
-INSERT INTO item_paid_only (item_id) VALUES (236066);
-INSERT INTO item_paid_only (item_id) VALUES (236067);
-INSERT INTO item_paid_only (item_id) VALUES (236068);
-INSERT INTO item_paid_only (item_id) VALUES (236069);
-INSERT INTO item_paid_only (item_id) VALUES (236070);
-INSERT INTO item_paid_only (item_id) VALUES (236071);
-INSERT INTO item_paid_only (item_id) VALUES (236072);
-INSERT INTO item_paid_only (item_id) VALUES (236073);
-INSERT INTO item_paid_only (item_id) VALUES (236074);
-INSERT INTO item_paid_only (item_id) VALUES (236075);
-INSERT INTO item_paid_only (item_id) VALUES (236076);
-INSERT INTO item_paid_only (item_id) VALUES (236077);
-INSERT INTO item_paid_only (item_id) VALUES (236078);
-INSERT INTO item_paid_only (item_id) VALUES (236079);
-INSERT INTO item_paid_only (item_id) VALUES (236080);
-INSERT INTO item_paid_only (item_id) VALUES (236082);
-INSERT INTO item_paid_only (item_id) VALUES (236083);
-INSERT INTO item_paid_only (item_id) VALUES (236084);
-INSERT INTO item_paid_only (item_id) VALUES (236085);
-INSERT INTO item_paid_only (item_id) VALUES (236086);
-INSERT INTO item_paid_only (item_id) VALUES (236087);
-INSERT INTO item_paid_only (item_id) VALUES (236088);
-INSERT INTO item_paid_only (item_id) VALUES (236089);
-INSERT INTO item_paid_only (item_id) VALUES (236090);
-INSERT INTO item_paid_only (item_id) VALUES (236091);
-INSERT INTO item_paid_only (item_id) VALUES (236092);
-INSERT INTO item_paid_only (item_id) VALUES (236093);
-INSERT INTO item_paid_only (item_id) VALUES (236094);
-INSERT INTO item_paid_only (item_id) VALUES (236095);
-INSERT INTO item_paid_only (item_id) VALUES (236096);
-INSERT INTO item_paid_only (item_id) VALUES (236097);
-INSERT INTO item_paid_only (item_id) VALUES (236098);
-INSERT INTO item_paid_only (item_id) VALUES (236099);
-INSERT INTO item_paid_only (item_id) VALUES (236100);
-INSERT INTO item_paid_only (item_id) VALUES (236101);
-INSERT INTO item_paid_only (item_id) VALUES (236102);
-INSERT INTO item_paid_only (item_id) VALUES (236103);
-INSERT INTO item_paid_only (item_id) VALUES (236104);
-INSERT INTO item_paid_only (item_id) VALUES (236105);
-INSERT INTO item_paid_only (item_id) VALUES (236106);
-INSERT INTO item_paid_only (item_id) VALUES (236107);
-INSERT INTO item_paid_only (item_id) VALUES (236108);
-INSERT INTO item_paid_only (item_id) VALUES (236109);
-INSERT INTO item_paid_only (item_id) VALUES (236110);
-INSERT INTO item_paid_only (item_id) VALUES (236111);
-INSERT INTO item_paid_only (item_id) VALUES (236112);
-INSERT INTO item_paid_only (item_id) VALUES (236113);
-INSERT INTO item_paid_only (item_id) VALUES (236114);
-INSERT INTO item_paid_only (item_id) VALUES (236115);
-INSERT INTO item_paid_only (item_id) VALUES (236116);
-INSERT INTO item_paid_only (item_id) VALUES (236117);
-INSERT INTO item_paid_only (item_id) VALUES (236118);
-INSERT INTO item_paid_only (item_id) VALUES (236119);
-INSERT INTO item_paid_only (item_id) VALUES (236120);
-INSERT INTO item_paid_only (item_id) VALUES (236121);
-INSERT INTO item_paid_only (item_id) VALUES (236122);
-INSERT INTO item_paid_only (item_id) VALUES (236123);
-INSERT INTO item_paid_only (item_id) VALUES (236124);
-INSERT INTO item_paid_only (item_id) VALUES (236125);
-INSERT INTO item_paid_only (item_id) VALUES (236126);
-INSERT INTO item_paid_only (item_id) VALUES (236127);
-INSERT INTO item_paid_only (item_id) VALUES (236128);
-INSERT INTO item_paid_only (item_id) VALUES (236129);
-INSERT INTO item_paid_only (item_id) VALUES (236130);
-INSERT INTO item_paid_only (item_id) VALUES (236131);
-INSERT INTO item_paid_only (item_id) VALUES (236132);
-INSERT INTO item_paid_only (item_id) VALUES (236133);
-INSERT INTO item_paid_only (item_id) VALUES (236134);
-INSERT INTO item_paid_only (item_id) VALUES (236135);
-INSERT INTO item_paid_only (item_id) VALUES (236136);
-INSERT INTO item_paid_only (item_id) VALUES (236137);
-INSERT INTO item_paid_only (item_id) VALUES (236139);
-INSERT INTO item_paid_only (item_id) VALUES (236140);
-INSERT INTO item_paid_only (item_id) VALUES (236141);
-INSERT INTO item_paid_only (item_id) VALUES (236142);
-INSERT INTO item_paid_only (item_id) VALUES (236143);
-INSERT INTO item_paid_only (item_id) VALUES (236144);
-INSERT INTO item_paid_only (item_id) VALUES (236145);
-INSERT INTO item_paid_only (item_id) VALUES (236147);
-INSERT INTO item_paid_only (item_id) VALUES (236148);
-INSERT INTO item_paid_only (item_id) VALUES (236149);
-INSERT INTO item_paid_only (item_id) VALUES (236150);
-INSERT INTO item_paid_only (item_id) VALUES (236151);
-INSERT INTO item_paid_only (item_id) VALUES (236153);
-INSERT INTO item_paid_only (item_id) VALUES (236154);
-INSERT INTO item_paid_only (item_id) VALUES (236155);
-INSERT INTO item_paid_only (item_id) VALUES (236156);
-INSERT INTO item_paid_only (item_id) VALUES (236157);
-INSERT INTO item_paid_only (item_id) VALUES (236158);
-INSERT INTO item_paid_only (item_id) VALUES (236159);
-INSERT INTO item_paid_only (item_id) VALUES (236161);
-INSERT INTO item_paid_only (item_id) VALUES (236162);
-INSERT INTO item_paid_only (item_id) VALUES (236163);
-INSERT INTO item_paid_only (item_id) VALUES (236164);
-INSERT INTO item_paid_only (item_id) VALUES (236165);
-INSERT INTO item_paid_only (item_id) VALUES (236166);
-INSERT INTO item_paid_only (item_id) VALUES (236168);
-INSERT INTO item_paid_only (item_id) VALUES (236169);
-INSERT INTO item_paid_only (item_id) VALUES (236170);
-INSERT INTO item_paid_only (item_id) VALUES (236171);
-INSERT INTO item_paid_only (item_id) VALUES (236172);
-INSERT INTO item_paid_only (item_id) VALUES (236173);
-INSERT INTO item_paid_only (item_id) VALUES (236175);
-INSERT INTO item_paid_only (item_id) VALUES (236176);
-INSERT INTO item_paid_only (item_id) VALUES (236177);
-INSERT INTO item_paid_only (item_id) VALUES (236178);
-INSERT INTO item_paid_only (item_id) VALUES (236179);
-INSERT INTO item_paid_only (item_id) VALUES (236180);
-INSERT INTO item_paid_only (item_id) VALUES (236181);
-INSERT INTO item_paid_only (item_id) VALUES (236182);
-INSERT INTO item_paid_only (item_id) VALUES (236183);
-INSERT INTO item_paid_only (item_id) VALUES (236184);
-INSERT INTO item_paid_only (item_id) VALUES (236185);
-INSERT INTO item_paid_only (item_id) VALUES (236186);
-INSERT INTO item_paid_only (item_id) VALUES (236187);
-INSERT INTO item_paid_only (item_id) VALUES (236188);
-INSERT INTO item_paid_only (item_id) VALUES (236189);
-INSERT INTO item_paid_only (item_id) VALUES (236190);
-INSERT INTO item_paid_only (item_id) VALUES (236191);
-INSERT INTO item_paid_only (item_id) VALUES (236192);
-INSERT INTO item_paid_only (item_id) VALUES (236193);
-INSERT INTO item_paid_only (item_id) VALUES (236194);
-INSERT INTO item_paid_only (item_id) VALUES (236195);
-INSERT INTO item_paid_only (item_id) VALUES (236196);
-INSERT INTO item_paid_only (item_id) VALUES (236197);
-INSERT INTO item_paid_only (item_id) VALUES (236198);
-INSERT INTO item_paid_only (item_id) VALUES (236199);
-INSERT INTO item_paid_only (item_id) VALUES (236200);
-INSERT INTO item_paid_only (item_id) VALUES (236201);
-INSERT INTO item_paid_only (item_id) VALUES (236202);
-INSERT INTO item_paid_only (item_id) VALUES (236203);
-INSERT INTO item_paid_only (item_id) VALUES (236204);
-INSERT INTO item_paid_only (item_id) VALUES (236205);
-INSERT INTO item_paid_only (item_id) VALUES (236206);
-INSERT INTO item_paid_only (item_id) VALUES (236207);
-INSERT INTO item_paid_only (item_id) VALUES (236208);
-INSERT INTO item_paid_only (item_id) VALUES (236209);
-INSERT INTO item_paid_only (item_id) VALUES (236210);
-INSERT INTO item_paid_only (item_id) VALUES (236211);
-INSERT INTO item_paid_only (item_id) VALUES (236212);
-INSERT INTO item_paid_only (item_id) VALUES (236213);
-INSERT INTO item_paid_only (item_id) VALUES (236214);
-INSERT INTO item_paid_only (item_id) VALUES (236215);
-INSERT INTO item_paid_only (item_id) VALUES (236216);
-INSERT INTO item_paid_only (item_id) VALUES (236217);
-INSERT INTO item_paid_only (item_id) VALUES (236218);
-INSERT INTO item_paid_only (item_id) VALUES (236219);
-INSERT INTO item_paid_only (item_id) VALUES (236220);
-INSERT INTO item_paid_only (item_id) VALUES (236221);
-INSERT INTO item_paid_only (item_id) VALUES (236222);
-INSERT INTO item_paid_only (item_id) VALUES (236223);
-INSERT INTO item_paid_only (item_id) VALUES (236224);
-INSERT INTO item_paid_only (item_id) VALUES (236225);
-INSERT INTO item_paid_only (item_id) VALUES (236226);
-INSERT INTO item_paid_only (item_id) VALUES (236227);
-INSERT INTO item_paid_only (item_id) VALUES (236228);
-INSERT INTO item_paid_only (item_id) VALUES (236229);
-INSERT INTO item_paid_only (item_id) VALUES (236230);
-INSERT INTO item_paid_only (item_id) VALUES (236231);
-INSERT INTO item_paid_only (item_id) VALUES (236232);
-INSERT INTO item_paid_only (item_id) VALUES (236233);
-INSERT INTO item_paid_only (item_id) VALUES (236234);
-INSERT INTO item_paid_only (item_id) VALUES (236235);
-INSERT INTO item_paid_only (item_id) VALUES (236236);
-INSERT INTO item_paid_only (item_id) VALUES (236237);
-INSERT INTO item_paid_only (item_id) VALUES (236238);
-INSERT INTO item_paid_only (item_id) VALUES (236239);
-INSERT INTO item_paid_only (item_id) VALUES (236240);
-INSERT INTO item_paid_only (item_id) VALUES (236241);
-INSERT INTO item_paid_only (item_id) VALUES (236242);
-INSERT INTO item_paid_only (item_id) VALUES (236243);
-INSERT INTO item_paid_only (item_id) VALUES (236244);
-INSERT INTO item_paid_only (item_id) VALUES (236245);
-INSERT INTO item_paid_only (item_id) VALUES (236246);
-INSERT INTO item_paid_only (item_id) VALUES (236247);
-INSERT INTO item_paid_only (item_id) VALUES (236248);
-INSERT INTO item_paid_only (item_id) VALUES (236249);
-INSERT INTO item_paid_only (item_id) VALUES (236250);
-INSERT INTO item_paid_only (item_id) VALUES (236251);
-INSERT INTO item_paid_only (item_id) VALUES (236252);
-INSERT INTO item_paid_only (item_id) VALUES (236253);
-INSERT INTO item_paid_only (item_id) VALUES (236254);
-INSERT INTO item_paid_only (item_id) VALUES (236255);
-INSERT INTO item_paid_only (item_id) VALUES (236256);
-INSERT INTO item_paid_only (item_id) VALUES (236257);
-INSERT INTO item_paid_only (item_id) VALUES (236258);
-INSERT INTO item_paid_only (item_id) VALUES (236259);
-INSERT INTO item_paid_only (item_id) VALUES (236260);
-INSERT INTO item_paid_only (item_id) VALUES (236261);
-INSERT INTO item_paid_only (item_id) VALUES (236262);
-INSERT INTO item_paid_only (item_id) VALUES (236263);
-INSERT INTO item_paid_only (item_id) VALUES (236264);
-INSERT INTO item_paid_only (item_id) VALUES (236265);
-INSERT INTO item_paid_only (item_id) VALUES (236266);
-INSERT INTO item_paid_only (item_id) VALUES (236267);
-INSERT INTO item_paid_only (item_id) VALUES (236268);
-INSERT INTO item_paid_only (item_id) VALUES (236269);
-INSERT INTO item_paid_only (item_id) VALUES (236270);
-INSERT INTO item_paid_only (item_id) VALUES (236271);
-INSERT INTO item_paid_only (item_id) VALUES (236272);
-INSERT INTO item_paid_only (item_id) VALUES (236273);
-INSERT INTO item_paid_only (item_id) VALUES (236274);
-INSERT INTO item_paid_only (item_id) VALUES (236275);
-INSERT INTO item_paid_only (item_id) VALUES (236276);
-INSERT INTO item_paid_only (item_id) VALUES (236277);
-INSERT INTO item_paid_only (item_id) VALUES (236278);
-INSERT INTO item_paid_only (item_id) VALUES (236279);
-INSERT INTO item_paid_only (item_id) VALUES (236280);
-INSERT INTO item_paid_only (item_id) VALUES (236281);
-INSERT INTO item_paid_only (item_id) VALUES (236282);
-INSERT INTO item_paid_only (item_id) VALUES (236283);
-INSERT INTO item_paid_only (item_id) VALUES (236284);
-INSERT INTO item_paid_only (item_id) VALUES (236285);
-INSERT INTO item_paid_only (item_id) VALUES (236286);
-INSERT INTO item_paid_only (item_id) VALUES (236287);
-INSERT INTO item_paid_only (item_id) VALUES (236288);
-INSERT INTO item_paid_only (item_id) VALUES (236289);
-INSERT INTO item_paid_only (item_id) VALUES (236290);
-INSERT INTO item_paid_only (item_id) VALUES (236291);
-INSERT INTO item_paid_only (item_id) VALUES (236292);
-INSERT INTO item_paid_only (item_id) VALUES (236293);
-INSERT INTO item_paid_only (item_id) VALUES (236294);
-INSERT INTO item_paid_only (item_id) VALUES (236295);
-INSERT INTO item_paid_only (item_id) VALUES (236296);
-INSERT INTO item_paid_only (item_id) VALUES (236297);
-INSERT INTO item_paid_only (item_id) VALUES (236298);
-INSERT INTO item_paid_only (item_id) VALUES (236299);
-INSERT INTO item_paid_only (item_id) VALUES (236300);
-INSERT INTO item_paid_only (item_id) VALUES (236301);
-INSERT INTO item_paid_only (item_id) VALUES (236302);
-INSERT INTO item_paid_only (item_id) VALUES (236303);
-INSERT INTO item_paid_only (item_id) VALUES (236304);
-INSERT INTO item_paid_only (item_id) VALUES (236305);
-INSERT INTO item_paid_only (item_id) VALUES (236306);
-INSERT INTO item_paid_only (item_id) VALUES (236307);
-INSERT INTO item_paid_only (item_id) VALUES (236308);
-INSERT INTO item_paid_only (item_id) VALUES (236309);
-INSERT INTO item_paid_only (item_id) VALUES (236310);
-INSERT INTO item_paid_only (item_id) VALUES (236312);
-INSERT INTO item_paid_only (item_id) VALUES (236313);
-INSERT INTO item_paid_only (item_id) VALUES (236314);
-INSERT INTO item_paid_only (item_id) VALUES (236315);
-INSERT INTO item_paid_only (item_id) VALUES (236316);
-INSERT INTO item_paid_only (item_id) VALUES (236317);
-INSERT INTO item_paid_only (item_id) VALUES (236318);
-INSERT INTO item_paid_only (item_id) VALUES (236319);
-INSERT INTO item_paid_only (item_id) VALUES (236320);
-INSERT INTO item_paid_only (item_id) VALUES (236321);
-INSERT INTO item_paid_only (item_id) VALUES (236322);
-INSERT INTO item_paid_only (item_id) VALUES (236323);
-INSERT INTO item_paid_only (item_id) VALUES (236324);
-INSERT INTO item_paid_only (item_id) VALUES (236325);
-INSERT INTO item_paid_only (item_id) VALUES (236326);
-INSERT INTO item_paid_only (item_id) VALUES (236327);
-INSERT INTO item_paid_only (item_id) VALUES (236328);
-INSERT INTO item_paid_only (item_id) VALUES (236329);
-INSERT INTO item_paid_only (item_id) VALUES (236330);
-INSERT INTO item_paid_only (item_id) VALUES (236331);
-INSERT INTO item_paid_only (item_id) VALUES (236332);
-INSERT INTO item_paid_only (item_id) VALUES (236333);
-INSERT INTO item_paid_only (item_id) VALUES (236334);
-INSERT INTO item_paid_only (item_id) VALUES (236335);
-INSERT INTO item_paid_only (item_id) VALUES (236336);
-INSERT INTO item_paid_only (item_id) VALUES (236337);
-INSERT INTO item_paid_only (item_id) VALUES (236338);
-INSERT INTO item_paid_only (item_id) VALUES (236339);
-INSERT INTO item_paid_only (item_id) VALUES (236340);
-INSERT INTO item_paid_only (item_id) VALUES (236341);
-INSERT INTO item_paid_only (item_id) VALUES (236342);
-INSERT INTO item_paid_only (item_id) VALUES (236343);
-INSERT INTO item_paid_only (item_id) VALUES (236344);
-INSERT INTO item_paid_only (item_id) VALUES (236345);
-INSERT INTO item_paid_only (item_id) VALUES (236346);
-INSERT INTO item_paid_only (item_id) VALUES (236347);
-INSERT INTO item_paid_only (item_id) VALUES (236348);
-INSERT INTO item_paid_only (item_id) VALUES (236349);
-INSERT INTO item_paid_only (item_id) VALUES (236350);
-INSERT INTO item_paid_only (item_id) VALUES (236351);
-INSERT INTO item_paid_only (item_id) VALUES (236352);
-INSERT INTO item_paid_only (item_id) VALUES (236353);
-INSERT INTO item_paid_only (item_id) VALUES (236354);
-INSERT INTO item_paid_only (item_id) VALUES (236355);
-INSERT INTO item_paid_only (item_id) VALUES (236356);
-INSERT INTO item_paid_only (item_id) VALUES (236357);
-INSERT INTO item_paid_only (item_id) VALUES (236358);
-INSERT INTO item_paid_only (item_id) VALUES (236359);
-INSERT INTO item_paid_only (item_id) VALUES (236360);
-INSERT INTO item_paid_only (item_id) VALUES (236361);
-INSERT INTO item_paid_only (item_id) VALUES (236362);
-INSERT INTO item_paid_only (item_id) VALUES (236363);
-INSERT INTO item_paid_only (item_id) VALUES (236364);
-INSERT INTO item_paid_only (item_id) VALUES (236365);
-INSERT INTO item_paid_only (item_id) VALUES (236366);
-INSERT INTO item_paid_only (item_id) VALUES (236367);
-INSERT INTO item_paid_only (item_id) VALUES (236368);
-INSERT INTO item_paid_only (item_id) VALUES (236369);
-INSERT INTO item_paid_only (item_id) VALUES (236370);
-INSERT INTO item_paid_only (item_id) VALUES (236371);
-INSERT INTO item_paid_only (item_id) VALUES (236372);
-INSERT INTO item_paid_only (item_id) VALUES (236373);
-INSERT INTO item_paid_only (item_id) VALUES (236374);
-INSERT INTO item_paid_only (item_id) VALUES (236375);
-INSERT INTO item_paid_only (item_id) VALUES (236376);
-INSERT INTO item_paid_only (item_id) VALUES (236377);
-INSERT INTO item_paid_only (item_id) VALUES (236378);
-INSERT INTO item_paid_only (item_id) VALUES (236379);
-INSERT INTO item_paid_only (item_id) VALUES (236380);
-INSERT INTO item_paid_only (item_id) VALUES (236381);
-INSERT INTO item_paid_only (item_id) VALUES (236382);
-INSERT INTO item_paid_only (item_id) VALUES (236383);
-INSERT INTO item_paid_only (item_id) VALUES (236384);
-INSERT INTO item_paid_only (item_id) VALUES (236385);
-INSERT INTO item_paid_only (item_id) VALUES (236386);
-INSERT INTO item_paid_only (item_id) VALUES (236387);
-INSERT INTO item_paid_only (item_id) VALUES (236388);
-INSERT INTO item_paid_only (item_id) VALUES (236389);
-INSERT INTO item_paid_only (item_id) VALUES (236390);
-INSERT INTO item_paid_only (item_id) VALUES (236391);
-INSERT INTO item_paid_only (item_id) VALUES (236392);
-INSERT INTO item_paid_only (item_id) VALUES (236393);
-INSERT INTO item_paid_only (item_id) VALUES (236394);
-INSERT INTO item_paid_only (item_id) VALUES (236395);
-INSERT INTO item_paid_only (item_id) VALUES (236396);
-INSERT INTO item_paid_only (item_id) VALUES (236397);
-INSERT INTO item_paid_only (item_id) VALUES (236398);
-INSERT INTO item_paid_only (item_id) VALUES (236399);
-INSERT INTO item_paid_only (item_id) VALUES (236400);
-INSERT INTO item_paid_only (item_id) VALUES (236401);
-INSERT INTO item_paid_only (item_id) VALUES (236402);
-INSERT INTO item_paid_only (item_id) VALUES (236403);
-INSERT INTO item_paid_only (item_id) VALUES (236404);
-INSERT INTO item_paid_only (item_id) VALUES (236405);
-INSERT INTO item_paid_only (item_id) VALUES (236406);
-INSERT INTO item_paid_only (item_id) VALUES (236407);
-INSERT INTO item_paid_only (item_id) VALUES (236408);
-INSERT INTO item_paid_only (item_id) VALUES (236409);
-INSERT INTO item_paid_only (item_id) VALUES (236410);
-INSERT INTO item_paid_only (item_id) VALUES (236411);
-INSERT INTO item_paid_only (item_id) VALUES (236412);
-INSERT INTO item_paid_only (item_id) VALUES (236413);
-INSERT INTO item_paid_only (item_id) VALUES (236414);
-INSERT INTO item_paid_only (item_id) VALUES (236415);
-INSERT INTO item_paid_only (item_id) VALUES (236416);
-INSERT INTO item_paid_only (item_id) VALUES (236417);
-INSERT INTO item_paid_only (item_id) VALUES (236418);
-INSERT INTO item_paid_only (item_id) VALUES (236419);
-INSERT INTO item_paid_only (item_id) VALUES (236420);
-INSERT INTO item_paid_only (item_id) VALUES (236421);
-INSERT INTO item_paid_only (item_id) VALUES (236422);
-INSERT INTO item_paid_only (item_id) VALUES (236423);
-INSERT INTO item_paid_only (item_id) VALUES (236424);
-INSERT INTO item_paid_only (item_id) VALUES (236425);
-INSERT INTO item_paid_only (item_id) VALUES (236426);
-INSERT INTO item_paid_only (item_id) VALUES (236427);
-INSERT INTO item_paid_only (item_id) VALUES (236428);
-INSERT INTO item_paid_only (item_id) VALUES (236429);
-INSERT INTO item_paid_only (item_id) VALUES (236430);
-INSERT INTO item_paid_only (item_id) VALUES (236431);
-INSERT INTO item_paid_only (item_id) VALUES (236432);
-INSERT INTO item_paid_only (item_id) VALUES (236433);
-INSERT INTO item_paid_only (item_id) VALUES (236434);
-INSERT INTO item_paid_only (item_id) VALUES (236435);
-INSERT INTO item_paid_only (item_id) VALUES (236436);
-INSERT INTO item_paid_only (item_id) VALUES (236437);
-INSERT INTO item_paid_only (item_id) VALUES (236438);
-INSERT INTO item_paid_only (item_id) VALUES (236439);
-INSERT INTO item_paid_only (item_id) VALUES (236440);
-INSERT INTO item_paid_only (item_id) VALUES (236441);
-INSERT INTO item_paid_only (item_id) VALUES (236442);
-INSERT INTO item_paid_only (item_id) VALUES (236443);
-INSERT INTO item_paid_only (item_id) VALUES (236444);
-INSERT INTO item_paid_only (item_id) VALUES (236445);
-INSERT INTO item_paid_only (item_id) VALUES (236446);
-INSERT INTO item_paid_only (item_id) VALUES (236447);
-INSERT INTO item_paid_only (item_id) VALUES (236448);
-INSERT INTO item_paid_only (item_id) VALUES (236449);
-INSERT INTO item_paid_only (item_id) VALUES (236450);
-INSERT INTO item_paid_only (item_id) VALUES (236451);
-INSERT INTO item_paid_only (item_id) VALUES (236452);
-INSERT INTO item_paid_only (item_id) VALUES (236453);
-INSERT INTO item_paid_only (item_id) VALUES (236454);
-INSERT INTO item_paid_only (item_id) VALUES (236455);
-INSERT INTO item_paid_only (item_id) VALUES (236456);
-INSERT INTO item_paid_only (item_id) VALUES (236457);
-INSERT INTO item_paid_only (item_id) VALUES (236458);
-INSERT INTO item_paid_only (item_id) VALUES (236459);
-INSERT INTO item_paid_only (item_id) VALUES (236460);
-INSERT INTO item_paid_only (item_id) VALUES (236461);
-INSERT INTO item_paid_only (item_id) VALUES (236462);
-INSERT INTO item_paid_only (item_id) VALUES (236463);
-INSERT INTO item_paid_only (item_id) VALUES (236464);
-INSERT INTO item_paid_only (item_id) VALUES (236465);
-INSERT INTO item_paid_only (item_id) VALUES (236466);
-INSERT INTO item_paid_only (item_id) VALUES (236467);
-INSERT INTO item_paid_only (item_id) VALUES (236468);
-INSERT INTO item_paid_only (item_id) VALUES (236469);
-INSERT INTO item_paid_only (item_id) VALUES (236470);
-INSERT INTO item_paid_only (item_id) VALUES (236471);
-INSERT INTO item_paid_only (item_id) VALUES (236472);
-INSERT INTO item_paid_only (item_id) VALUES (236473);
-INSERT INTO item_paid_only (item_id) VALUES (236474);
-INSERT INTO item_paid_only (item_id) VALUES (236475);
-INSERT INTO item_paid_only (item_id) VALUES (236476);
-INSERT INTO item_paid_only (item_id) VALUES (236477);
-INSERT INTO item_paid_only (item_id) VALUES (236478);
-INSERT INTO item_paid_only (item_id) VALUES (236479);
-INSERT INTO item_paid_only (item_id) VALUES (236480);
-INSERT INTO item_paid_only (item_id) VALUES (236481);
-INSERT INTO item_paid_only (item_id) VALUES (236482);
-INSERT INTO item_paid_only (item_id) VALUES (236483);
-INSERT INTO item_paid_only (item_id) VALUES (236484);
-INSERT INTO item_paid_only (item_id) VALUES (236485);
-INSERT INTO item_paid_only (item_id) VALUES (236486);
-INSERT INTO item_paid_only (item_id) VALUES (236487);
-INSERT INTO item_paid_only (item_id) VALUES (236488);
-INSERT INTO item_paid_only (item_id) VALUES (236489);
-INSERT INTO item_paid_only (item_id) VALUES (236490);
-INSERT INTO item_paid_only (item_id) VALUES (236491);
-INSERT INTO item_paid_only (item_id) VALUES (236492);
-INSERT INTO item_paid_only (item_id) VALUES (236493);
-INSERT INTO item_paid_only (item_id) VALUES (236494);
-INSERT INTO item_paid_only (item_id) VALUES (236495);
-INSERT INTO item_paid_only (item_id) VALUES (236496);
-INSERT INTO item_paid_only (item_id) VALUES (236497);
-INSERT INTO item_paid_only (item_id) VALUES (236498);
-INSERT INTO item_paid_only (item_id) VALUES (236499);
-INSERT INTO item_paid_only (item_id) VALUES (236500);
-INSERT INTO item_paid_only (item_id) VALUES (236501);
-INSERT INTO item_paid_only (item_id) VALUES (236502);
-INSERT INTO item_paid_only (item_id) VALUES (236503);
-INSERT INTO item_paid_only (item_id) VALUES (236504);
-INSERT INTO item_paid_only (item_id) VALUES (236505);
-INSERT INTO item_paid_only (item_id) VALUES (236506);
-INSERT INTO item_paid_only (item_id) VALUES (236507);
-INSERT INTO item_paid_only (item_id) VALUES (236508);
-INSERT INTO item_paid_only (item_id) VALUES (236509);
-INSERT INTO item_paid_only (item_id) VALUES (236514);
-INSERT INTO item_paid_only (item_id) VALUES (236515);
-INSERT INTO item_paid_only (item_id) VALUES (236635);
-INSERT INTO item_paid_only (item_id) VALUES (237273);
-INSERT INTO item_paid_only (item_id) VALUES (237275);
-INSERT INTO item_paid_only (item_id) VALUES (238908);
-INSERT INTO item_paid_only (item_id) VALUES (238909);
-INSERT INTO item_paid_only (item_id) VALUES (238910);
-INSERT INTO item_paid_only (item_id) VALUES (238911);
-INSERT INTO item_paid_only (item_id) VALUES (238912);
-INSERT INTO item_paid_only (item_id) VALUES (238913);
-INSERT INTO item_paid_only (item_id) VALUES (238914);
-INSERT INTO item_paid_only (item_id) VALUES (238915);
-INSERT INTO item_paid_only (item_id) VALUES (238916);
-INSERT INTO item_paid_only (item_id) VALUES (238917);
-INSERT INTO item_paid_only (item_id) VALUES (238918);
-INSERT INTO item_paid_only (item_id) VALUES (238919);
-INSERT INTO item_paid_only (item_id) VALUES (238920);
-INSERT INTO item_paid_only (item_id) VALUES (238921);
-INSERT INTO item_paid_only (item_id) VALUES (238932);
-INSERT INTO item_paid_only (item_id) VALUES (238944);
-INSERT INTO item_paid_only (item_id) VALUES (238946);
-INSERT INTO item_paid_only (item_id) VALUES (238956);
-INSERT INTO item_paid_only (item_id) VALUES (238957);
-INSERT INTO item_paid_only (item_id) VALUES (238958);
-INSERT INTO item_paid_only (item_id) VALUES (238959);
-INSERT INTO item_paid_only (item_id) VALUES (238960);
-INSERT INTO item_paid_only (item_id) VALUES (238961);
-INSERT INTO item_paid_only (item_id) VALUES (238962);
-INSERT INTO item_paid_only (item_id) VALUES (239358);
-INSERT INTO item_paid_only (item_id) VALUES (239739);
-INSERT INTO item_paid_only (item_id) VALUES (239740);
-INSERT INTO item_paid_only (item_id) VALUES (239741);
-INSERT INTO item_paid_only (item_id) VALUES (239742);
-INSERT INTO item_paid_only (item_id) VALUES (239743);
-INSERT INTO item_paid_only (item_id) VALUES (239744);
-INSERT INTO item_paid_only (item_id) VALUES (239745);
-INSERT INTO item_paid_only (item_id) VALUES (239746);
-INSERT INTO item_paid_only (item_id) VALUES (239747);
-INSERT INTO item_paid_only (item_id) VALUES (239748);
-INSERT INTO item_paid_only (item_id) VALUES (239749);
-INSERT INTO item_paid_only (item_id) VALUES (239750);
-INSERT INTO item_paid_only (item_id) VALUES (239751);
-INSERT INTO item_paid_only (item_id) VALUES (239752);
-INSERT INTO item_paid_only (item_id) VALUES (239753);
-INSERT INTO item_paid_only (item_id) VALUES (239754);
-INSERT INTO item_paid_only (item_id) VALUES (239755);
-INSERT INTO item_paid_only (item_id) VALUES (239756);
-INSERT INTO item_paid_only (item_id) VALUES (239757);
-INSERT INTO item_paid_only (item_id) VALUES (239758);
-INSERT INTO item_paid_only (item_id) VALUES (240841);
-INSERT INTO item_paid_only (item_id) VALUES (242954);
-INSERT INTO item_paid_only (item_id) VALUES (242955);
-INSERT INTO item_paid_only (item_id) VALUES (243739);
-INSERT INTO item_paid_only (item_id) VALUES (243740);
-INSERT INTO item_paid_only (item_id) VALUES (243741);
-INSERT INTO item_paid_only (item_id) VALUES (243742);
-INSERT INTO item_paid_only (item_id) VALUES (243743);
-INSERT INTO item_paid_only (item_id) VALUES (243744);
-INSERT INTO item_paid_only (item_id) VALUES (243745);
-INSERT INTO item_paid_only (item_id) VALUES (243746);
-INSERT INTO item_paid_only (item_id) VALUES (243747);
-INSERT INTO item_paid_only (item_id) VALUES (243767);
-INSERT INTO item_paid_only (item_id) VALUES (243768);
-INSERT INTO item_paid_only (item_id) VALUES (243769);
-INSERT INTO item_paid_only (item_id) VALUES (243770);
-INSERT INTO item_paid_only (item_id) VALUES (243771);
-INSERT INTO item_paid_only (item_id) VALUES (243772);
-INSERT INTO item_paid_only (item_id) VALUES (243773);
-INSERT INTO item_paid_only (item_id) VALUES (243774);
-INSERT INTO item_paid_only (item_id) VALUES (243775);
-INSERT INTO item_paid_only (item_id) VALUES (244208);
-INSERT INTO item_paid_only (item_id) VALUES (244209);
-INSERT INTO item_paid_only (item_id) VALUES (244211);
-INSERT INTO item_paid_only (item_id) VALUES (244214);
-INSERT INTO item_paid_only (item_id) VALUES (244215);
-INSERT INTO item_paid_only (item_id) VALUES (244216);
-INSERT INTO item_paid_only (item_id) VALUES (244223);
-INSERT INTO item_paid_only (item_id) VALUES (244357);
-INSERT INTO item_paid_only (item_id) VALUES (244358);
-INSERT INTO item_paid_only (item_id) VALUES (244376);
-INSERT INTO item_paid_only (item_id) VALUES (244405);
-INSERT INTO item_paid_only (item_id) VALUES (244469);
-INSERT INTO item_paid_only (item_id) VALUES (244540);
-INSERT INTO item_paid_only (item_id) VALUES (244541);
-INSERT INTO item_paid_only (item_id) VALUES (244542);
-INSERT INTO item_paid_only (item_id) VALUES (244543);
-INSERT INTO item_paid_only (item_id) VALUES (244558);
-INSERT INTO item_paid_only (item_id) VALUES (244559);
-INSERT INTO item_paid_only (item_id) VALUES (244560);
-INSERT INTO item_paid_only (item_id) VALUES (244561);
-INSERT INTO item_paid_only (item_id) VALUES (244562);
-INSERT INTO item_paid_only (item_id) VALUES (244563);
-INSERT INTO item_paid_only (item_id) VALUES (244564);
-INSERT INTO item_paid_only (item_id) VALUES (244565);
-INSERT INTO item_paid_only (item_id) VALUES (244566);
-INSERT INTO item_paid_only (item_id) VALUES (244567);
-INSERT INTO item_paid_only (item_id) VALUES (244572);
-INSERT INTO item_paid_only (item_id) VALUES (244573);
-INSERT INTO item_paid_only (item_id) VALUES (244574);
-INSERT INTO item_paid_only (item_id) VALUES (244575);
-INSERT INTO item_paid_only (item_id) VALUES (244578);
-INSERT INTO item_paid_only (item_id) VALUES (244579);
-INSERT INTO item_paid_only (item_id) VALUES (244581);
-INSERT INTO item_paid_only (item_id) VALUES (244635);
-INSERT INTO item_paid_only (item_id) VALUES (244637);
-INSERT INTO item_paid_only (item_id) VALUES (244638);
-INSERT INTO item_paid_only (item_id) VALUES (244639);
-INSERT INTO item_paid_only (item_id) VALUES (244640);
-INSERT INTO item_paid_only (item_id) VALUES (244641);
-INSERT INTO item_paid_only (item_id) VALUES (244643);
-INSERT INTO item_paid_only (item_id) VALUES (244644);
-INSERT INTO item_paid_only (item_id) VALUES (244645);
-INSERT INTO item_paid_only (item_id) VALUES (244647);
-INSERT INTO item_paid_only (item_id) VALUES (244648);
-INSERT INTO item_paid_only (item_id) VALUES (244650);
-INSERT INTO item_paid_only (item_id) VALUES (244654);
-INSERT INTO item_paid_only (item_id) VALUES (244655);
-INSERT INTO item_paid_only (item_id) VALUES (244658);
-INSERT INTO item_paid_only (item_id) VALUES (244659);
-INSERT INTO item_paid_only (item_id) VALUES (244660);
-INSERT INTO item_paid_only (item_id) VALUES (244661);
-INSERT INTO item_paid_only (item_id) VALUES (244662);
-INSERT INTO item_paid_only (item_id) VALUES (244663);
-INSERT INTO item_paid_only (item_id) VALUES (244664);
-INSERT INTO item_paid_only (item_id) VALUES (244665);
-INSERT INTO item_paid_only (item_id) VALUES (244690);
-INSERT INTO item_paid_only (item_id) VALUES (244691);
-INSERT INTO item_paid_only (item_id) VALUES (244692);
-INSERT INTO item_paid_only (item_id) VALUES (244693);
-INSERT INTO item_paid_only (item_id) VALUES (244694);
-INSERT INTO item_paid_only (item_id) VALUES (244695);
-INSERT INTO item_paid_only (item_id) VALUES (244696);
-INSERT INTO item_paid_only (item_id) VALUES (244697);
-INSERT INTO item_paid_only (item_id) VALUES (244698);
-INSERT INTO item_paid_only (item_id) VALUES (244699);
-INSERT INTO item_paid_only (item_id) VALUES (244700);
-INSERT INTO item_paid_only (item_id) VALUES (244701);
-INSERT INTO item_paid_only (item_id) VALUES (244702);
-INSERT INTO item_paid_only (item_id) VALUES (244703);
-INSERT INTO item_paid_only (item_id) VALUES (244704);
-INSERT INTO item_paid_only (item_id) VALUES (244705);
-INSERT INTO item_paid_only (item_id) VALUES (244712);
-INSERT INTO item_paid_only (item_id) VALUES (244713);
-INSERT INTO item_paid_only (item_id) VALUES (244714);
-INSERT INTO item_paid_only (item_id) VALUES (244715);
-INSERT INTO item_paid_only (item_id) VALUES (244716);
-INSERT INTO item_paid_only (item_id) VALUES (244717);
-INSERT INTO item_paid_only (item_id) VALUES (244718);
-INSERT INTO item_paid_only (item_id) VALUES (244742);
-INSERT INTO item_paid_only (item_id) VALUES (244743);
-INSERT INTO item_paid_only (item_id) VALUES (244750);
-INSERT INTO item_paid_only (item_id) VALUES (244761);
-INSERT INTO item_paid_only (item_id) VALUES (244762);
-INSERT INTO item_paid_only (item_id) VALUES (244778);
-INSERT INTO item_paid_only (item_id) VALUES (244779);
-INSERT INTO item_paid_only (item_id) VALUES (244782);
-INSERT INTO item_paid_only (item_id) VALUES (244783);
-INSERT INTO item_paid_only (item_id) VALUES (244784);
-INSERT INTO item_paid_only (item_id) VALUES (244785);
-INSERT INTO item_paid_only (item_id) VALUES (244801);
-INSERT INTO item_paid_only (item_id) VALUES (244802);
-INSERT INTO item_paid_only (item_id) VALUES (244820);
-INSERT INTO item_paid_only (item_id) VALUES (244821);
-INSERT INTO item_paid_only (item_id) VALUES (244842);
-INSERT INTO item_paid_only (item_id) VALUES (244843);
-INSERT INTO item_paid_only (item_id) VALUES (244859);
-INSERT INTO item_paid_only (item_id) VALUES (244862);
-INSERT INTO item_paid_only (item_id) VALUES (244909);
-INSERT INTO item_paid_only (item_id) VALUES (244910);
-INSERT INTO item_paid_only (item_id) VALUES (244911);
-INSERT INTO item_paid_only (item_id) VALUES (244912);
-INSERT INTO item_paid_only (item_id) VALUES (244913);
-INSERT INTO item_paid_only (item_id) VALUES (244914);
-INSERT INTO item_paid_only (item_id) VALUES (244988);
-INSERT INTO item_paid_only (item_id) VALUES (244989);
-INSERT INTO item_paid_only (item_id) VALUES (244990);
-INSERT INTO item_paid_only (item_id) VALUES (244992);
-INSERT INTO item_paid_only (item_id) VALUES (244993);
-INSERT INTO item_paid_only (item_id) VALUES (245025);
-INSERT INTO item_paid_only (item_id) VALUES (245302);
-INSERT INTO item_paid_only (item_id) VALUES (245303);
-INSERT INTO item_paid_only (item_id) VALUES (245306);
-INSERT INTO item_paid_only (item_id) VALUES (245319);
-INSERT INTO item_paid_only (item_id) VALUES (245320);
-INSERT INTO item_paid_only (item_id) VALUES (245321);
-INSERT INTO item_paid_only (item_id) VALUES (245322);
-INSERT INTO item_paid_only (item_id) VALUES (245324);
-INSERT INTO item_paid_only (item_id) VALUES (245339);
-INSERT INTO item_paid_only (item_id) VALUES (245355);
-INSERT INTO item_paid_only (item_id) VALUES (245357);
-INSERT INTO item_paid_only (item_id) VALUES (245372);
-INSERT INTO item_paid_only (item_id) VALUES (245409);
-INSERT INTO item_paid_only (item_id) VALUES (245424);
-INSERT INTO item_paid_only (item_id) VALUES (245425);
-INSERT INTO item_paid_only (item_id) VALUES (245426);
-INSERT INTO item_paid_only (item_id) VALUES (245427);
-INSERT INTO item_paid_only (item_id) VALUES (245428);
-INSERT INTO item_paid_only (item_id) VALUES (245430);
-INSERT INTO item_paid_only (item_id) VALUES (245433);
-INSERT INTO item_paid_only (item_id) VALUES (245450);
-INSERT INTO item_paid_only (item_id) VALUES (245456);
-INSERT INTO item_paid_only (item_id) VALUES (245481);
-INSERT INTO item_paid_only (item_id) VALUES (245482);
-INSERT INTO item_paid_only (item_id) VALUES (245484);
-INSERT INTO item_paid_only (item_id) VALUES (245571);
-INSERT INTO item_paid_only (item_id) VALUES (245572);
-INSERT INTO item_paid_only (item_id) VALUES (245573);
-INSERT INTO item_paid_only (item_id) VALUES (245574);
-INSERT INTO item_paid_only (item_id) VALUES (245575);
-INSERT INTO item_paid_only (item_id) VALUES (245576);
-INSERT INTO item_paid_only (item_id) VALUES (245577);
-INSERT INTO item_paid_only (item_id) VALUES (245578);
-INSERT INTO item_paid_only (item_id) VALUES (245579);
-INSERT INTO item_paid_only (item_id) VALUES (245580);
-INSERT INTO item_paid_only (item_id) VALUES (245582);
-INSERT INTO item_paid_only (item_id) VALUES (245583);
-INSERT INTO item_paid_only (item_id) VALUES (245584);
-INSERT INTO item_paid_only (item_id) VALUES (245593);
-INSERT INTO item_paid_only (item_id) VALUES (245594);
-INSERT INTO item_paid_only (item_id) VALUES (245595);
-INSERT INTO item_paid_only (item_id) VALUES (245596);
-INSERT INTO item_paid_only (item_id) VALUES (245597);
-INSERT INTO item_paid_only (item_id) VALUES (245605);
-INSERT INTO item_paid_only (item_id) VALUES (245606);
-INSERT INTO item_paid_only (item_id) VALUES (245607);
-INSERT INTO item_paid_only (item_id) VALUES (245656);
-INSERT INTO item_paid_only (item_id) VALUES (245657);
-INSERT INTO item_paid_only (item_id) VALUES (245658);
-INSERT INTO item_paid_only (item_id) VALUES (245659);
-INSERT INTO item_paid_only (item_id) VALUES (245660);
-INSERT INTO item_paid_only (item_id) VALUES (245664);
-INSERT INTO item_paid_only (item_id) VALUES (245665);
-INSERT INTO item_paid_only (item_id) VALUES (245669);
-INSERT INTO item_paid_only (item_id) VALUES (245671);
-INSERT INTO item_paid_only (item_id) VALUES (245672);
-INSERT INTO item_paid_only (item_id) VALUES (245674);
-INSERT INTO item_paid_only (item_id) VALUES (245675);
-INSERT INTO item_paid_only (item_id) VALUES (245676);
-INSERT INTO item_paid_only (item_id) VALUES (245677);
-INSERT INTO item_paid_only (item_id) VALUES (245678);
-INSERT INTO item_paid_only (item_id) VALUES (245679);
-INSERT INTO item_paid_only (item_id) VALUES (245680);
-INSERT INTO item_paid_only (item_id) VALUES (245682);
-INSERT INTO item_paid_only (item_id) VALUES (245694);
-INSERT INTO item_paid_only (item_id) VALUES (245718);
-INSERT INTO item_paid_only (item_id) VALUES (245719);
-INSERT INTO item_paid_only (item_id) VALUES (245720);
-INSERT INTO item_paid_only (item_id) VALUES (245721);
-INSERT INTO item_paid_only (item_id) VALUES (245722);
-INSERT INTO item_paid_only (item_id) VALUES (245723);
-INSERT INTO item_paid_only (item_id) VALUES (245728);
-INSERT INTO item_paid_only (item_id) VALUES (245729);
-INSERT INTO item_paid_only (item_id) VALUES (245730);
-INSERT INTO item_paid_only (item_id) VALUES (245731);
-INSERT INTO item_paid_only (item_id) VALUES (245732);
-INSERT INTO item_paid_only (item_id) VALUES (245733);
-INSERT INTO item_paid_only (item_id) VALUES (245736);
-INSERT INTO item_paid_only (item_id) VALUES (245737);
-INSERT INTO item_paid_only (item_id) VALUES (245738);
-INSERT INTO item_paid_only (item_id) VALUES (245740);
-INSERT INTO item_paid_only (item_id) VALUES (245766);
-INSERT INTO item_paid_only (item_id) VALUES (245767);
-INSERT INTO item_paid_only (item_id) VALUES (245768);
-INSERT INTO item_paid_only (item_id) VALUES (245770);
-INSERT INTO item_paid_only (item_id) VALUES (245771);
-INSERT INTO item_paid_only (item_id) VALUES (245773);
-INSERT INTO item_paid_only (item_id) VALUES (245774);
-INSERT INTO item_paid_only (item_id) VALUES (245780);
-INSERT INTO item_paid_only (item_id) VALUES (245784);
-INSERT INTO item_paid_only (item_id) VALUES (245785);
-INSERT INTO item_paid_only (item_id) VALUES (245786);
-INSERT INTO item_paid_only (item_id) VALUES (245797);
-INSERT INTO item_paid_only (item_id) VALUES (245798);
-INSERT INTO item_paid_only (item_id) VALUES (245799);
-INSERT INTO item_paid_only (item_id) VALUES (245854);
-INSERT INTO item_paid_only (item_id) VALUES (245855);
-INSERT INTO item_paid_only (item_id) VALUES (245856);
-INSERT INTO item_paid_only (item_id) VALUES (245857);
-INSERT INTO item_paid_only (item_id) VALUES (245858);
-INSERT INTO item_paid_only (item_id) VALUES (245859);
-INSERT INTO item_paid_only (item_id) VALUES (245860);
-INSERT INTO item_paid_only (item_id) VALUES (245863);
-INSERT INTO item_paid_only (item_id) VALUES (245865);
-INSERT INTO item_paid_only (item_id) VALUES (245866);
-INSERT INTO item_paid_only (item_id) VALUES (245880);
-INSERT INTO item_paid_only (item_id) VALUES (245881);
-INSERT INTO item_paid_only (item_id) VALUES (245882);
-INSERT INTO item_paid_only (item_id) VALUES (245883);
-INSERT INTO item_paid_only (item_id) VALUES (245884);
-INSERT INTO item_paid_only (item_id) VALUES (245886);
-INSERT INTO item_paid_only (item_id) VALUES (245887);
-INSERT INTO item_paid_only (item_id) VALUES (245888);
-INSERT INTO item_paid_only (item_id) VALUES (245889);
-INSERT INTO item_paid_only (item_id) VALUES (245890);
-INSERT INTO item_paid_only (item_id) VALUES (245891);
-INSERT INTO item_paid_only (item_id) VALUES (245892);
-INSERT INTO item_paid_only (item_id) VALUES (245893);
-INSERT INTO item_paid_only (item_id) VALUES (245894);
-INSERT INTO item_paid_only (item_id) VALUES (245895);
-INSERT INTO item_paid_only (item_id) VALUES (245903);
-INSERT INTO item_paid_only (item_id) VALUES (245905);
-INSERT INTO item_paid_only (item_id) VALUES (245990);
-INSERT INTO item_paid_only (item_id) VALUES (245997);
-INSERT INTO item_paid_only (item_id) VALUES (245998);
-INSERT INTO item_paid_only (item_id) VALUES (245999);
-INSERT INTO item_paid_only (item_id) VALUES (246000);
-INSERT INTO item_paid_only (item_id) VALUES (246001);
-INSERT INTO item_paid_only (item_id) VALUES (246002);
-INSERT INTO item_paid_only (item_id) VALUES (246003);
-INSERT INTO item_paid_only (item_id) VALUES (246004);
-INSERT INTO item_paid_only (item_id) VALUES (246005);
-INSERT INTO item_paid_only (item_id) VALUES (246006);
-INSERT INTO item_paid_only (item_id) VALUES (246007);
-INSERT INTO item_paid_only (item_id) VALUES (246008);
-INSERT INTO item_paid_only (item_id) VALUES (246009);
-INSERT INTO item_paid_only (item_id) VALUES (246010);
-INSERT INTO item_paid_only (item_id) VALUES (246011);
-INSERT INTO item_paid_only (item_id) VALUES (246012);
-INSERT INTO item_paid_only (item_id) VALUES (246013);
-INSERT INTO item_paid_only (item_id) VALUES (246014);
-INSERT INTO item_paid_only (item_id) VALUES (246015);
-INSERT INTO item_paid_only (item_id) VALUES (246016);
-INSERT INTO item_paid_only (item_id) VALUES (246017);
-INSERT INTO item_paid_only (item_id) VALUES (246018);
-INSERT INTO item_paid_only (item_id) VALUES (246021);
-INSERT INTO item_paid_only (item_id) VALUES (246022);
-INSERT INTO item_paid_only (item_id) VALUES (246023);
-INSERT INTO item_paid_only (item_id) VALUES (246044);
-INSERT INTO item_paid_only (item_id) VALUES (246045);
-INSERT INTO item_paid_only (item_id) VALUES (246046);
-INSERT INTO item_paid_only (item_id) VALUES (246047);
-INSERT INTO item_paid_only (item_id) VALUES (246048);
-INSERT INTO item_paid_only (item_id) VALUES (246049);
-INSERT INTO item_paid_only (item_id) VALUES (246050);
-INSERT INTO item_paid_only (item_id) VALUES (246051);
-INSERT INTO item_paid_only (item_id) VALUES (246052);
-INSERT INTO item_paid_only (item_id) VALUES (246053);
-INSERT INTO item_paid_only (item_id) VALUES (246054);
-INSERT INTO item_paid_only (item_id) VALUES (246055);
-INSERT INTO item_paid_only (item_id) VALUES (246056);
-INSERT INTO item_paid_only (item_id) VALUES (246059);
-INSERT INTO item_paid_only (item_id) VALUES (246060);
-INSERT INTO item_paid_only (item_id) VALUES (246061);
-INSERT INTO item_paid_only (item_id) VALUES (246062);
-INSERT INTO item_paid_only (item_id) VALUES (246063);
-INSERT INTO item_paid_only (item_id) VALUES (246080);
-INSERT INTO item_paid_only (item_id) VALUES (246083);
-INSERT INTO item_paid_only (item_id) VALUES (246084);
-INSERT INTO item_paid_only (item_id) VALUES (246085);
-INSERT INTO item_paid_only (item_id) VALUES (246087);
-INSERT INTO item_paid_only (item_id) VALUES (246088);
-INSERT INTO item_paid_only (item_id) VALUES (246089);
-INSERT INTO item_paid_only (item_id) VALUES (246090);
-INSERT INTO item_paid_only (item_id) VALUES (246091);
-INSERT INTO item_paid_only (item_id) VALUES (246092);
-INSERT INTO item_paid_only (item_id) VALUES (246094);
-INSERT INTO item_paid_only (item_id) VALUES (246095);
-INSERT INTO item_paid_only (item_id) VALUES (246097);
-INSERT INTO item_paid_only (item_id) VALUES (246098);
-INSERT INTO item_paid_only (item_id) VALUES (246099);
-INSERT INTO item_paid_only (item_id) VALUES (246100);
-INSERT INTO item_paid_only (item_id) VALUES (246101);
-INSERT INTO item_paid_only (item_id) VALUES (246102);
-INSERT INTO item_paid_only (item_id) VALUES (246103);
-INSERT INTO item_paid_only (item_id) VALUES (246104);
-INSERT INTO item_paid_only (item_id) VALUES (246105);
-INSERT INTO item_paid_only (item_id) VALUES (246109);
-INSERT INTO item_paid_only (item_id) VALUES (246110);
-INSERT INTO item_paid_only (item_id) VALUES (246220);
-INSERT INTO item_paid_only (item_id) VALUES (246221);
-INSERT INTO item_paid_only (item_id) VALUES (246233);
-INSERT INTO item_paid_only (item_id) VALUES (246234);
-INSERT INTO item_paid_only (item_id) VALUES (246235);
-INSERT INTO item_paid_only (item_id) VALUES (246236);
-INSERT INTO item_paid_only (item_id) VALUES (246242);
-INSERT INTO item_paid_only (item_id) VALUES (246243);
-INSERT INTO item_paid_only (item_id) VALUES (246244);
-INSERT INTO item_paid_only (item_id) VALUES (246254);
-INSERT INTO item_paid_only (item_id) VALUES (246255);
-INSERT INTO item_paid_only (item_id) VALUES (246256);
-INSERT INTO item_paid_only (item_id) VALUES (246274);
-INSERT INTO item_paid_only (item_id) VALUES (246276);
-INSERT INTO item_paid_only (item_id) VALUES (246277);
-INSERT INTO item_paid_only (item_id) VALUES (246278);
-INSERT INTO item_paid_only (item_id) VALUES (246279);
-INSERT INTO item_paid_only (item_id) VALUES (246280);
-INSERT INTO item_paid_only (item_id) VALUES (246281);
-INSERT INTO item_paid_only (item_id) VALUES (246287);
-INSERT INTO item_paid_only (item_id) VALUES (246288);
-INSERT INTO item_paid_only (item_id) VALUES (246289);
-INSERT INTO item_paid_only (item_id) VALUES (246309);
-INSERT INTO item_paid_only (item_id) VALUES (246310);
-INSERT INTO item_paid_only (item_id) VALUES (246311);
-INSERT INTO item_paid_only (item_id) VALUES (246312);
-INSERT INTO item_paid_only (item_id) VALUES (246313);
-INSERT INTO item_paid_only (item_id) VALUES (246314);
-INSERT INTO item_paid_only (item_id) VALUES (246316);
-INSERT INTO item_paid_only (item_id) VALUES (246317);
-INSERT INTO item_paid_only (item_id) VALUES (246318);
-INSERT INTO item_paid_only (item_id) VALUES (246319);
-INSERT INTO item_paid_only (item_id) VALUES (246323);
-INSERT INTO item_paid_only (item_id) VALUES (246324);
-INSERT INTO item_paid_only (item_id) VALUES (246325);
-INSERT INTO item_paid_only (item_id) VALUES (246326);
-INSERT INTO item_paid_only (item_id) VALUES (246327);
-INSERT INTO item_paid_only (item_id) VALUES (246328);
-INSERT INTO item_paid_only (item_id) VALUES (246329);
-INSERT INTO item_paid_only (item_id) VALUES (246330);
-INSERT INTO item_paid_only (item_id) VALUES (246331);
-INSERT INTO item_paid_only (item_id) VALUES (246332);
-INSERT INTO item_paid_only (item_id) VALUES (246333);
-INSERT INTO item_paid_only (item_id) VALUES (246334);
-INSERT INTO item_paid_only (item_id) VALUES (246335);
-INSERT INTO item_paid_only (item_id) VALUES (246336);
-INSERT INTO item_paid_only (item_id) VALUES (246337);
-INSERT INTO item_paid_only (item_id) VALUES (246338);
-INSERT INTO item_paid_only (item_id) VALUES (246339);
-INSERT INTO item_paid_only (item_id) VALUES (246340);
-INSERT INTO item_paid_only (item_id) VALUES (246341);
-INSERT INTO item_paid_only (item_id) VALUES (246342);
-INSERT INTO item_paid_only (item_id) VALUES (246343);
-INSERT INTO item_paid_only (item_id) VALUES (246344);
-INSERT INTO item_paid_only (item_id) VALUES (246345);
-INSERT INTO item_paid_only (item_id) VALUES (246346);
-INSERT INTO item_paid_only (item_id) VALUES (246347);
-INSERT INTO item_paid_only (item_id) VALUES (246348);
-INSERT INTO item_paid_only (item_id) VALUES (246349);
-INSERT INTO item_paid_only (item_id) VALUES (246350);
-INSERT INTO item_paid_only (item_id) VALUES (246351);
-INSERT INTO item_paid_only (item_id) VALUES (246352);
-INSERT INTO item_paid_only (item_id) VALUES (246353);
-INSERT INTO item_paid_only (item_id) VALUES (246354);
-INSERT INTO item_paid_only (item_id) VALUES (246355);
-INSERT INTO item_paid_only (item_id) VALUES (246408);
-INSERT INTO item_paid_only (item_id) VALUES (246409);
-INSERT INTO item_paid_only (item_id) VALUES (246410);
-INSERT INTO item_paid_only (item_id) VALUES (246411);
-INSERT INTO item_paid_only (item_id) VALUES (246412);
-INSERT INTO item_paid_only (item_id) VALUES (246413);
-INSERT INTO item_paid_only (item_id) VALUES (246414);
-INSERT INTO item_paid_only (item_id) VALUES (246415);
-INSERT INTO item_paid_only (item_id) VALUES (246416);
-INSERT INTO item_paid_only (item_id) VALUES (246417);
-INSERT INTO item_paid_only (item_id) VALUES (246418);
-INSERT INTO item_paid_only (item_id) VALUES (246419);
-INSERT INTO item_paid_only (item_id) VALUES (246420);
-INSERT INTO item_paid_only (item_id) VALUES (246421);
-INSERT INTO item_paid_only (item_id) VALUES (246422);
-INSERT INTO item_paid_only (item_id) VALUES (246423);
-INSERT INTO item_paid_only (item_id) VALUES (246424);
-INSERT INTO item_paid_only (item_id) VALUES (246425);
-INSERT INTO item_paid_only (item_id) VALUES (246426);
-INSERT INTO item_paid_only (item_id) VALUES (246427);
-INSERT INTO item_paid_only (item_id) VALUES (246428);
-INSERT INTO item_paid_only (item_id) VALUES (246559);
-INSERT INTO item_paid_only (item_id) VALUES (246560);
-INSERT INTO item_paid_only (item_id) VALUES (246561);
-INSERT INTO item_paid_only (item_id) VALUES (246562);
-INSERT INTO item_paid_only (item_id) VALUES (246563);
-INSERT INTO item_paid_only (item_id) VALUES (246564);
-INSERT INTO item_paid_only (item_id) VALUES (246565);
-INSERT INTO item_paid_only (item_id) VALUES (246566);
-INSERT INTO item_paid_only (item_id) VALUES (246567);
-INSERT INTO item_paid_only (item_id) VALUES (246568);
-INSERT INTO item_paid_only (item_id) VALUES (246569);
-INSERT INTO item_paid_only (item_id) VALUES (246570);
-INSERT INTO item_paid_only (item_id) VALUES (246571);
-INSERT INTO item_paid_only (item_id) VALUES (246572);
-INSERT INTO item_paid_only (item_id) VALUES (246573);
-INSERT INTO item_paid_only (item_id) VALUES (246574);
-INSERT INTO item_paid_only (item_id) VALUES (246575);
-INSERT INTO item_paid_only (item_id) VALUES (246576);
-INSERT INTO item_paid_only (item_id) VALUES (246577);
-INSERT INTO item_paid_only (item_id) VALUES (246578);
-INSERT INTO item_paid_only (item_id) VALUES (246579);
-INSERT INTO item_paid_only (item_id) VALUES (246580);
-INSERT INTO item_paid_only (item_id) VALUES (246581);
-INSERT INTO item_paid_only (item_id) VALUES (246582);
-INSERT INTO item_paid_only (item_id) VALUES (246583);
-INSERT INTO item_paid_only (item_id) VALUES (246584);
-INSERT INTO item_paid_only (item_id) VALUES (246585);
-INSERT INTO item_paid_only (item_id) VALUES (246586);
-INSERT INTO item_paid_only (item_id) VALUES (246587);
-INSERT INTO item_paid_only (item_id) VALUES (246588);
-INSERT INTO item_paid_only (item_id) VALUES (246589);
-INSERT INTO item_paid_only (item_id) VALUES (246590);
-INSERT INTO item_paid_only (item_id) VALUES (246591);
-INSERT INTO item_paid_only (item_id) VALUES (246592);
-INSERT INTO item_paid_only (item_id) VALUES (246593);
-INSERT INTO item_paid_only (item_id) VALUES (246594);
-INSERT INTO item_paid_only (item_id) VALUES (246595);
-INSERT INTO item_paid_only (item_id) VALUES (246596);
-INSERT INTO item_paid_only (item_id) VALUES (246597);
-INSERT INTO item_paid_only (item_id) VALUES (246598);
-INSERT INTO item_paid_only (item_id) VALUES (246599);
-INSERT INTO item_paid_only (item_id) VALUES (246600);
-INSERT INTO item_paid_only (item_id) VALUES (246601);
-INSERT INTO item_paid_only (item_id) VALUES (246602);
-INSERT INTO item_paid_only (item_id) VALUES (246603);
-INSERT INTO item_paid_only (item_id) VALUES (246604);
-INSERT INTO item_paid_only (item_id) VALUES (246605);
-INSERT INTO item_paid_only (item_id) VALUES (246606);
-INSERT INTO item_paid_only (item_id) VALUES (246607);
-INSERT INTO item_paid_only (item_id) VALUES (246608);
-INSERT INTO item_paid_only (item_id) VALUES (246609);
-INSERT INTO item_paid_only (item_id) VALUES (246610);
-INSERT INTO item_paid_only (item_id) VALUES (246611);
-INSERT INTO item_paid_only (item_id) VALUES (246612);
-INSERT INTO item_paid_only (item_id) VALUES (246613);
-INSERT INTO item_paid_only (item_id) VALUES (246614);
-INSERT INTO item_paid_only (item_id) VALUES (246615);
-INSERT INTO item_paid_only (item_id) VALUES (246616);
-INSERT INTO item_paid_only (item_id) VALUES (246617);
-INSERT INTO item_paid_only (item_id) VALUES (246618);
-INSERT INTO item_paid_only (item_id) VALUES (246619);
-INSERT INTO item_paid_only (item_id) VALUES (246620);
-INSERT INTO item_paid_only (item_id) VALUES (246621);
-INSERT INTO item_paid_only (item_id) VALUES (246622);
-INSERT INTO item_paid_only (item_id) VALUES (246623);
-INSERT INTO item_paid_only (item_id) VALUES (246624);
-INSERT INTO item_paid_only (item_id) VALUES (246625);
-INSERT INTO item_paid_only (item_id) VALUES (246626);
-INSERT INTO item_paid_only (item_id) VALUES (246627);
-INSERT INTO item_paid_only (item_id) VALUES (246628);
-INSERT INTO item_paid_only (item_id) VALUES (246629);
-INSERT INTO item_paid_only (item_id) VALUES (246630);
-INSERT INTO item_paid_only (item_id) VALUES (246631);
-INSERT INTO item_paid_only (item_id) VALUES (246632);
-INSERT INTO item_paid_only (item_id) VALUES (246635);
-INSERT INTO item_paid_only (item_id) VALUES (246636);
-INSERT INTO item_paid_only (item_id) VALUES (246637);
-INSERT INTO item_paid_only (item_id) VALUES (246638);
-INSERT INTO item_paid_only (item_id) VALUES (246639);
-INSERT INTO item_paid_only (item_id) VALUES (246640);
-INSERT INTO item_paid_only (item_id) VALUES (246641);
-INSERT INTO item_paid_only (item_id) VALUES (246642);
-INSERT INTO item_paid_only (item_id) VALUES (246643);
-INSERT INTO item_paid_only (item_id) VALUES (246644);
-INSERT INTO item_paid_only (item_id) VALUES (246645);
-INSERT INTO item_paid_only (item_id) VALUES (246646);
-INSERT INTO item_paid_only (item_id) VALUES (246647);
-INSERT INTO item_paid_only (item_id) VALUES (246648);
-INSERT INTO item_paid_only (item_id) VALUES (246649);
-INSERT INTO item_paid_only (item_id) VALUES (246650);
-INSERT INTO item_paid_only (item_id) VALUES (246651);
-INSERT INTO item_paid_only (item_id) VALUES (246652);
-INSERT INTO item_paid_only (item_id) VALUES (246653);
-INSERT INTO item_paid_only (item_id) VALUES (246654);
-INSERT INTO item_paid_only (item_id) VALUES (246655);
-INSERT INTO item_paid_only (item_id) VALUES (246656);
-INSERT INTO item_paid_only (item_id) VALUES (246657);
-INSERT INTO item_paid_only (item_id) VALUES (246658);
-INSERT INTO item_paid_only (item_id) VALUES (246659);
-INSERT INTO item_paid_only (item_id) VALUES (246660);
-INSERT INTO item_paid_only (item_id) VALUES (246661);
-INSERT INTO item_paid_only (item_id) VALUES (246662);
-INSERT INTO item_paid_only (item_id) VALUES (246663);
-INSERT INTO item_paid_only (item_id) VALUES (246664);
-INSERT INTO item_paid_only (item_id) VALUES (246665);
-INSERT INTO item_paid_only (item_id) VALUES (246666);
-INSERT INTO item_paid_only (item_id) VALUES (246667);
-INSERT INTO item_paid_only (item_id) VALUES (246668);
-INSERT INTO item_paid_only (item_id) VALUES (246669);
-INSERT INTO item_paid_only (item_id) VALUES (246670);
-INSERT INTO item_paid_only (item_id) VALUES (246671);
-INSERT INTO item_paid_only (item_id) VALUES (246672);
-INSERT INTO item_paid_only (item_id) VALUES (246673);
-INSERT INTO item_paid_only (item_id) VALUES (246674);
-INSERT INTO item_paid_only (item_id) VALUES (246675);
-INSERT INTO item_paid_only (item_id) VALUES (246676);
-INSERT INTO item_paid_only (item_id) VALUES (246677);
-INSERT INTO item_paid_only (item_id) VALUES (246678);
-INSERT INTO item_paid_only (item_id) VALUES (246679);
-INSERT INTO item_paid_only (item_id) VALUES (246680);
-INSERT INTO item_paid_only (item_id) VALUES (246681);
-INSERT INTO item_paid_only (item_id) VALUES (246682);
-INSERT INTO item_paid_only (item_id) VALUES (246683);
-INSERT INTO item_paid_only (item_id) VALUES (246684);
-INSERT INTO item_paid_only (item_id) VALUES (246685);
-INSERT INTO item_paid_only (item_id) VALUES (246686);
-INSERT INTO item_paid_only (item_id) VALUES (246687);
-INSERT INTO item_paid_only (item_id) VALUES (246688);
-INSERT INTO item_paid_only (item_id) VALUES (246689);
-INSERT INTO item_paid_only (item_id) VALUES (246690);
-INSERT INTO item_paid_only (item_id) VALUES (246691);
-INSERT INTO item_paid_only (item_id) VALUES (246692);
-INSERT INTO item_paid_only (item_id) VALUES (246693);
-INSERT INTO item_paid_only (item_id) VALUES (246694);
-INSERT INTO item_paid_only (item_id) VALUES (246695);
-INSERT INTO item_paid_only (item_id) VALUES (246696);
-INSERT INTO item_paid_only (item_id) VALUES (246697);
-INSERT INTO item_paid_only (item_id) VALUES (246698);
-INSERT INTO item_paid_only (item_id) VALUES (246699);
-INSERT INTO item_paid_only (item_id) VALUES (246700);
-INSERT INTO item_paid_only (item_id) VALUES (246701);
-INSERT INTO item_paid_only (item_id) VALUES (246702);
-INSERT INTO item_paid_only (item_id) VALUES (246703);
-INSERT INTO item_paid_only (item_id) VALUES (246704);
-INSERT INTO item_paid_only (item_id) VALUES (246871);
-INSERT INTO item_paid_only (item_id) VALUES (246872);
-INSERT INTO item_paid_only (item_id) VALUES (246873);
-INSERT INTO item_paid_only (item_id) VALUES (246887);
-INSERT INTO item_paid_only (item_id) VALUES (246889);
-INSERT INTO item_paid_only (item_id) VALUES (246890);
-INSERT INTO item_paid_only (item_id) VALUES (246891);
-INSERT INTO item_paid_only (item_id) VALUES (246892);
-INSERT INTO item_paid_only (item_id) VALUES (247057);
-INSERT INTO item_paid_only (item_id) VALUES (247058);
-INSERT INTO item_paid_only (item_id) VALUES (247059);
-INSERT INTO item_paid_only (item_id) VALUES (247060);
-INSERT INTO item_paid_only (item_id) VALUES (247061);
-INSERT INTO item_paid_only (item_id) VALUES (247062);
-INSERT INTO item_paid_only (item_id) VALUES (247063);
-INSERT INTO item_paid_only (item_id) VALUES (247064);
-INSERT INTO item_paid_only (item_id) VALUES (247065);
-INSERT INTO item_paid_only (item_id) VALUES (247066);
-INSERT INTO item_paid_only (item_id) VALUES (247067);
-INSERT INTO item_paid_only (item_id) VALUES (247068);
-INSERT INTO item_paid_only (item_id) VALUES (247069);
-INSERT INTO item_paid_only (item_id) VALUES (247157);
-INSERT INTO item_paid_only (item_id) VALUES (247163);
-INSERT INTO item_paid_only (item_id) VALUES (247164);
-INSERT INTO item_paid_only (item_id) VALUES (247165);
-INSERT INTO item_paid_only (item_id) VALUES (247166);
-INSERT INTO item_paid_only (item_id) VALUES (247167);
-INSERT INTO item_paid_only (item_id) VALUES (247169);
-INSERT INTO item_paid_only (item_id) VALUES (247170);
-INSERT INTO item_paid_only (item_id) VALUES (247171);
-INSERT INTO item_paid_only (item_id) VALUES (247172);
-INSERT INTO item_paid_only (item_id) VALUES (247173);
-INSERT INTO item_paid_only (item_id) VALUES (247174);
-INSERT INTO item_paid_only (item_id) VALUES (247175);
-INSERT INTO item_paid_only (item_id) VALUES (247176);
-INSERT INTO item_paid_only (item_id) VALUES (247177);
-INSERT INTO item_paid_only (item_id) VALUES (247178);
-INSERT INTO item_paid_only (item_id) VALUES (247179);
-INSERT INTO item_paid_only (item_id) VALUES (247180);
-INSERT INTO item_paid_only (item_id) VALUES (247181);
-INSERT INTO item_paid_only (item_id) VALUES (248197);
-INSERT INTO item_paid_only (item_id) VALUES (248240);
-INSERT INTO item_paid_only (item_id) VALUES (248241);
-INSERT INTO item_paid_only (item_id) VALUES (248378);
-INSERT INTO item_paid_only (item_id) VALUES (248379);
-INSERT INTO item_paid_only (item_id) VALUES (248380);
-INSERT INTO item_paid_only (item_id) VALUES (248381);
-INSERT INTO item_paid_only (item_id) VALUES (248382);
-INSERT INTO item_paid_only (item_id) VALUES (248383);
-INSERT INTO item_paid_only (item_id) VALUES (248384);
-INSERT INTO item_paid_only (item_id) VALUES (248385);
-INSERT INTO item_paid_only (item_id) VALUES (248386);
-INSERT INTO item_paid_only (item_id) VALUES (248387);
-INSERT INTO item_paid_only (item_id) VALUES (248421);
-INSERT INTO item_paid_only (item_id) VALUES (248422);
-INSERT INTO item_paid_only (item_id) VALUES (248423);
-INSERT INTO item_paid_only (item_id) VALUES (248424);
-INSERT INTO item_paid_only (item_id) VALUES (248425);
-INSERT INTO item_paid_only (item_id) VALUES (248426);
-INSERT INTO item_paid_only (item_id) VALUES (248427);
-INSERT INTO item_paid_only (item_id) VALUES (248520);
-INSERT INTO item_paid_only (item_id) VALUES (248521);
-INSERT INTO item_paid_only (item_id) VALUES (248522);
-INSERT INTO item_paid_only (item_id) VALUES (248523);
-INSERT INTO item_paid_only (item_id) VALUES (248524);
-INSERT INTO item_paid_only (item_id) VALUES (248525);
-INSERT INTO item_paid_only (item_id) VALUES (248526);
-INSERT INTO item_paid_only (item_id) VALUES (248527);
-INSERT INTO item_paid_only (item_id) VALUES (248528);
-INSERT INTO item_paid_only (item_id) VALUES (248529);
-INSERT INTO item_paid_only (item_id) VALUES (248530);
-INSERT INTO item_paid_only (item_id) VALUES (248531);
-INSERT INTO item_paid_only (item_id) VALUES (248532);
-INSERT INTO item_paid_only (item_id) VALUES (248533);
-INSERT INTO item_paid_only (item_id) VALUES (248534);
-INSERT INTO item_paid_only (item_id) VALUES (248535);
-INSERT INTO item_paid_only (item_id) VALUES (248536);
-INSERT INTO item_paid_only (item_id) VALUES (248537);
-INSERT INTO item_paid_only (item_id) VALUES (248538);
-INSERT INTO item_paid_only (item_id) VALUES (248539);
-INSERT INTO item_paid_only (item_id) VALUES (248558);
-INSERT INTO item_paid_only (item_id) VALUES (248559);
-INSERT INTO item_paid_only (item_id) VALUES (248560);
-INSERT INTO item_paid_only (item_id) VALUES (248561);
-INSERT INTO item_paid_only (item_id) VALUES (248562);
-INSERT INTO item_paid_only (item_id) VALUES (248564);
-INSERT INTO item_paid_only (item_id) VALUES (248565);
-INSERT INTO item_paid_only (item_id) VALUES (248566);
-INSERT INTO item_paid_only (item_id) VALUES (248567);
-INSERT INTO item_paid_only (item_id) VALUES (248568);
-INSERT INTO item_paid_only (item_id) VALUES (248569);
-INSERT INTO item_paid_only (item_id) VALUES (248570);
-INSERT INTO item_paid_only (item_id) VALUES (248571);
-INSERT INTO item_paid_only (item_id) VALUES (248572);
-INSERT INTO item_paid_only (item_id) VALUES (248573);
-INSERT INTO item_paid_only (item_id) VALUES (248574);
-INSERT INTO item_paid_only (item_id) VALUES (248575);
-INSERT INTO item_paid_only (item_id) VALUES (248576);
-INSERT INTO item_paid_only (item_id) VALUES (248577);
-INSERT INTO item_paid_only (item_id) VALUES (248578);
-INSERT INTO item_paid_only (item_id) VALUES (248579);
-INSERT INTO item_paid_only (item_id) VALUES (248580);
-INSERT INTO item_paid_only (item_id) VALUES (248581);
-INSERT INTO item_paid_only (item_id) VALUES (248582);
-INSERT INTO item_paid_only (item_id) VALUES (248583);
-INSERT INTO item_paid_only (item_id) VALUES (248584);
-INSERT INTO item_paid_only (item_id) VALUES (248585);
-INSERT INTO item_paid_only (item_id) VALUES (248586);
-INSERT INTO item_paid_only (item_id) VALUES (248587);
-INSERT INTO item_paid_only (item_id) VALUES (248588);
-INSERT INTO item_paid_only (item_id) VALUES (248589);
-INSERT INTO item_paid_only (item_id) VALUES (248590);
-INSERT INTO item_paid_only (item_id) VALUES (248591);
-INSERT INTO item_paid_only (item_id) VALUES (248592);
-INSERT INTO item_paid_only (item_id) VALUES (248593);
-INSERT INTO item_paid_only (item_id) VALUES (248594);
-INSERT INTO item_paid_only (item_id) VALUES (248595);
-INSERT INTO item_paid_only (item_id) VALUES (248596);
-INSERT INTO item_paid_only (item_id) VALUES (248597);
-INSERT INTO item_paid_only (item_id) VALUES (248598);
-INSERT INTO item_paid_only (item_id) VALUES (248599);
-INSERT INTO item_paid_only (item_id) VALUES (248600);
-INSERT INTO item_paid_only (item_id) VALUES (248601);
-INSERT INTO item_paid_only (item_id) VALUES (248602);
-INSERT INTO item_paid_only (item_id) VALUES (248603);
-INSERT INTO item_paid_only (item_id) VALUES (248604);
-INSERT INTO item_paid_only (item_id) VALUES (248605);
-INSERT INTO item_paid_only (item_id) VALUES (248606);
-INSERT INTO item_paid_only (item_id) VALUES (248607);
-INSERT INTO item_paid_only (item_id) VALUES (248608);
-INSERT INTO item_paid_only (item_id) VALUES (248609);
-INSERT INTO item_paid_only (item_id) VALUES (248610);
-INSERT INTO item_paid_only (item_id) VALUES (248611);
-INSERT INTO item_paid_only (item_id) VALUES (248612);
-INSERT INTO item_paid_only (item_id) VALUES (248613);
-INSERT INTO item_paid_only (item_id) VALUES (248614);
-INSERT INTO item_paid_only (item_id) VALUES (248615);
-INSERT INTO item_paid_only (item_id) VALUES (248616);
-INSERT INTO item_paid_only (item_id) VALUES (248617);
-INSERT INTO item_paid_only (item_id) VALUES (248618);
-INSERT INTO item_paid_only (item_id) VALUES (248619);
-INSERT INTO item_paid_only (item_id) VALUES (248620);
-INSERT INTO item_paid_only (item_id) VALUES (248621);
-INSERT INTO item_paid_only (item_id) VALUES (248622);
-INSERT INTO item_paid_only (item_id) VALUES (248623);
-INSERT INTO item_paid_only (item_id) VALUES (248624);
-INSERT INTO item_paid_only (item_id) VALUES (248625);
-INSERT INTO item_paid_only (item_id) VALUES (248626);
-INSERT INTO item_paid_only (item_id) VALUES (248627);
-INSERT INTO item_paid_only (item_id) VALUES (248628);
-INSERT INTO item_paid_only (item_id) VALUES (248720);
-INSERT INTO item_paid_only (item_id) VALUES (248721);
-INSERT INTO item_paid_only (item_id) VALUES (248722);
-INSERT INTO item_paid_only (item_id) VALUES (248723);
-INSERT INTO item_paid_only (item_id) VALUES (248724);
-INSERT INTO item_paid_only (item_id) VALUES (248730);
-INSERT INTO item_paid_only (item_id) VALUES (248741);
-INSERT INTO item_paid_only (item_id) VALUES (248742);
-INSERT INTO item_paid_only (item_id) VALUES (248743);
-INSERT INTO item_paid_only (item_id) VALUES (248744);
-INSERT INTO item_paid_only (item_id) VALUES (248757);
-INSERT INTO item_paid_only (item_id) VALUES (248758);
-INSERT INTO item_paid_only (item_id) VALUES (248763);
-INSERT INTO item_paid_only (item_id) VALUES (248764);
-INSERT INTO item_paid_only (item_id) VALUES (248798);
-INSERT INTO item_paid_only (item_id) VALUES (248799);
-INSERT INTO item_paid_only (item_id) VALUES (248807);
-INSERT INTO item_paid_only (item_id) VALUES (248808);
-INSERT INTO item_paid_only (item_id) VALUES (248811);
-INSERT INTO item_paid_only (item_id) VALUES (248812);
-INSERT INTO item_paid_only (item_id) VALUES (248813);
-INSERT INTO item_paid_only (item_id) VALUES (248814);
-INSERT INTO item_paid_only (item_id) VALUES (248866);
-INSERT INTO item_paid_only (item_id) VALUES (248869);
-INSERT INTO item_paid_only (item_id) VALUES (248917);
-INSERT INTO item_paid_only (item_id) VALUES (248918);
-INSERT INTO item_paid_only (item_id) VALUES (249002);
-INSERT INTO item_paid_only (item_id) VALUES (249003);
-INSERT INTO item_paid_only (item_id) VALUES (249004);
-INSERT INTO item_paid_only (item_id) VALUES (249005);
-INSERT INTO item_paid_only (item_id) VALUES (249006);
-INSERT INTO item_paid_only (item_id) VALUES (249007);
-INSERT INTO item_paid_only (item_id) VALUES (249009);
-INSERT INTO item_paid_only (item_id) VALUES (249012);
-INSERT INTO item_paid_only (item_id) VALUES (249013);
-INSERT INTO item_paid_only (item_id) VALUES (249014);
-INSERT INTO item_paid_only (item_id) VALUES (249015);
-INSERT INTO item_paid_only (item_id) VALUES (249016);
-INSERT INTO item_paid_only (item_id) VALUES (249017);
-INSERT INTO item_paid_only (item_id) VALUES (249018);
-INSERT INTO item_paid_only (item_id) VALUES (249019);
-INSERT INTO item_paid_only (item_id) VALUES (249020);
-INSERT INTO item_paid_only (item_id) VALUES (249021);
-INSERT INTO item_paid_only (item_id) VALUES (249022);
-INSERT INTO item_paid_only (item_id) VALUES (249023);
-INSERT INTO item_paid_only (item_id) VALUES (249024);
-INSERT INTO item_paid_only (item_id) VALUES (249025);
-INSERT INTO item_paid_only (item_id) VALUES (249026);
-INSERT INTO item_paid_only (item_id) VALUES (249027);
-INSERT INTO item_paid_only (item_id) VALUES (249028);
-INSERT INTO item_paid_only (item_id) VALUES (249029);
-INSERT INTO item_paid_only (item_id) VALUES (249030);
-INSERT INTO item_paid_only (item_id) VALUES (249031);
-INSERT INTO item_paid_only (item_id) VALUES (249032);
-INSERT INTO item_paid_only (item_id) VALUES (249033);
-INSERT INTO item_paid_only (item_id) VALUES (249034);
-INSERT INTO item_paid_only (item_id) VALUES (249035);
-INSERT INTO item_paid_only (item_id) VALUES (249036);
-INSERT INTO item_paid_only (item_id) VALUES (249037);
-INSERT INTO item_paid_only (item_id) VALUES (249038);
-INSERT INTO item_paid_only (item_id) VALUES (249039);
-INSERT INTO item_paid_only (item_id) VALUES (249040);
-INSERT INTO item_paid_only (item_id) VALUES (249041);
-INSERT INTO item_paid_only (item_id) VALUES (249042);
-INSERT INTO item_paid_only (item_id) VALUES (249043);
-INSERT INTO item_paid_only (item_id) VALUES (249044);
-INSERT INTO item_paid_only (item_id) VALUES (249046);
-INSERT INTO item_paid_only (item_id) VALUES (249047);
-INSERT INTO item_paid_only (item_id) VALUES (249048);
-INSERT INTO item_paid_only (item_id) VALUES (249049);
-INSERT INTO item_paid_only (item_id) VALUES (249050);
-INSERT INTO item_paid_only (item_id) VALUES (249051);
-INSERT INTO item_paid_only (item_id) VALUES (249052);
-INSERT INTO item_paid_only (item_id) VALUES (249053);
-INSERT INTO item_paid_only (item_id) VALUES (249054);
-INSERT INTO item_paid_only (item_id) VALUES (249055);
-INSERT INTO item_paid_only (item_id) VALUES (249060);
-INSERT INTO item_paid_only (item_id) VALUES (249061);
-INSERT INTO item_paid_only (item_id) VALUES (249062);
-INSERT INTO item_paid_only (item_id) VALUES (249063);
-INSERT INTO item_paid_only (item_id) VALUES (249065);
-INSERT INTO item_paid_only (item_id) VALUES (249066);
-INSERT INTO item_paid_only (item_id) VALUES (249067);
-INSERT INTO item_paid_only (item_id) VALUES (249068);
-INSERT INTO item_paid_only (item_id) VALUES (249069);
-INSERT INTO item_paid_only (item_id) VALUES (249070);
-INSERT INTO item_paid_only (item_id) VALUES (249071);
-INSERT INTO item_paid_only (item_id) VALUES (249072);
-INSERT INTO item_paid_only (item_id) VALUES (249073);
-INSERT INTO item_paid_only (item_id) VALUES (249074);
-INSERT INTO item_paid_only (item_id) VALUES (249075);
-INSERT INTO item_paid_only (item_id) VALUES (249076);
-INSERT INTO item_paid_only (item_id) VALUES (249077);
-INSERT INTO item_paid_only (item_id) VALUES (249078);
-INSERT INTO item_paid_only (item_id) VALUES (249079);
-INSERT INTO item_paid_only (item_id) VALUES (249107);
-INSERT INTO item_paid_only (item_id) VALUES (249109);
-INSERT INTO item_paid_only (item_id) VALUES (249110);
-INSERT INTO item_paid_only (item_id) VALUES (249815);
-INSERT INTO item_paid_only (item_id) VALUES (249816);
-INSERT INTO item_paid_only (item_id) VALUES (249817);
-INSERT INTO item_paid_only (item_id) VALUES (249818);
-INSERT INTO item_paid_only (item_id) VALUES (249819);
-INSERT INTO item_paid_only (item_id) VALUES (249820);
-INSERT INTO item_paid_only (item_id) VALUES (249821);
-INSERT INTO item_paid_only (item_id) VALUES (249822);
-INSERT INTO item_paid_only (item_id) VALUES (249823);
-INSERT INTO item_paid_only (item_id) VALUES (249825);
-INSERT INTO item_paid_only (item_id) VALUES (249826);
-INSERT INTO item_paid_only (item_id) VALUES (249827);
-INSERT INTO item_paid_only (item_id) VALUES (249828);
-INSERT INTO item_paid_only (item_id) VALUES (249829);
-INSERT INTO item_paid_only (item_id) VALUES (249836);
-INSERT INTO item_paid_only (item_id) VALUES (249837);
-INSERT INTO item_paid_only (item_id) VALUES (249838);
-INSERT INTO item_paid_only (item_id) VALUES (249839);
-INSERT INTO item_paid_only (item_id) VALUES (249840);
-INSERT INTO item_paid_only (item_id) VALUES (249842);
-INSERT INTO item_paid_only (item_id) VALUES (249843);
-INSERT INTO item_paid_only (item_id) VALUES (249844);
-INSERT INTO item_paid_only (item_id) VALUES (249845);
-INSERT INTO item_paid_only (item_id) VALUES (249846);
-INSERT INTO item_paid_only (item_id) VALUES (249848);
-INSERT INTO item_paid_only (item_id) VALUES (249849);
-INSERT INTO item_paid_only (item_id) VALUES (249850);
-INSERT INTO item_paid_only (item_id) VALUES (249851);
-INSERT INTO item_paid_only (item_id) VALUES (249852);
-INSERT INTO item_paid_only (item_id) VALUES (249853);
-INSERT INTO item_paid_only (item_id) VALUES (249854);
-INSERT INTO item_paid_only (item_id) VALUES (249855);
-INSERT INTO item_paid_only (item_id) VALUES (249856);
-INSERT INTO item_paid_only (item_id) VALUES (249857);
-INSERT INTO item_paid_only (item_id) VALUES (249858);
-INSERT INTO item_paid_only (item_id) VALUES (249859);
-INSERT INTO item_paid_only (item_id) VALUES (249860);
-INSERT INTO item_paid_only (item_id) VALUES (249861);
-INSERT INTO item_paid_only (item_id) VALUES (249862);
-INSERT INTO item_paid_only (item_id) VALUES (249863);
-INSERT INTO item_paid_only (item_id) VALUES (249864);
-INSERT INTO item_paid_only (item_id) VALUES (249865);
-INSERT INTO item_paid_only (item_id) VALUES (249866);
-INSERT INTO item_paid_only (item_id) VALUES (249867);
-INSERT INTO item_paid_only (item_id) VALUES (250144);
-INSERT INTO item_paid_only (item_id) VALUES (250145);
-INSERT INTO item_paid_only (item_id) VALUES (250146);
-INSERT INTO item_paid_only (item_id) VALUES (250147);
-INSERT INTO item_paid_only (item_id) VALUES (250148);
-INSERT INTO item_paid_only (item_id) VALUES (250149);
-INSERT INTO item_paid_only (item_id) VALUES (250150);
-INSERT INTO item_paid_only (item_id) VALUES (250151);
-INSERT INTO item_paid_only (item_id) VALUES (250152);
-INSERT INTO item_paid_only (item_id) VALUES (250153);
-INSERT INTO item_paid_only (item_id) VALUES (250154);
-INSERT INTO item_paid_only (item_id) VALUES (250155);
-INSERT INTO item_paid_only (item_id) VALUES (250156);
-INSERT INTO item_paid_only (item_id) VALUES (250157);
-INSERT INTO item_paid_only (item_id) VALUES (250158);
-INSERT INTO item_paid_only (item_id) VALUES (250159);
-INSERT INTO item_paid_only (item_id) VALUES (250161);
-INSERT INTO item_paid_only (item_id) VALUES (250162);
-INSERT INTO item_paid_only (item_id) VALUES (250163);
-INSERT INTO item_paid_only (item_id) VALUES (250385);
-INSERT INTO item_paid_only (item_id) VALUES (251222);
-INSERT INTO item_paid_only (item_id) VALUES (251223);
-INSERT INTO item_paid_only (item_id) VALUES (251231);
-INSERT INTO item_paid_only (item_id) VALUES (251232);
-INSERT INTO item_paid_only (item_id) VALUES (251238);
-INSERT INTO item_paid_only (item_id) VALUES (251239);
-INSERT INTO item_paid_only (item_id) VALUES (251240);
-INSERT INTO item_paid_only (item_id) VALUES (251241);
-INSERT INTO item_paid_only (item_id) VALUES (251242);
-INSERT INTO item_paid_only (item_id) VALUES (251243);
-INSERT INTO item_paid_only (item_id) VALUES (251254);
-INSERT INTO item_paid_only (item_id) VALUES (251262);
-INSERT INTO item_paid_only (item_id) VALUES (251263);
-INSERT INTO item_paid_only (item_id) VALUES (251264);
-INSERT INTO item_paid_only (item_id) VALUES (251265);
-INSERT INTO item_paid_only (item_id) VALUES (251298);
-INSERT INTO item_paid_only (item_id) VALUES (251299);
-INSERT INTO item_paid_only (item_id) VALUES (251755);
-INSERT INTO item_paid_only (item_id) VALUES (251756);
-INSERT INTO item_paid_only (item_id) VALUES (251757);
-INSERT INTO item_paid_only (item_id) VALUES (251758);
-INSERT INTO item_paid_only (item_id) VALUES (251759);
-INSERT INTO item_paid_only (item_id) VALUES (251760);
-INSERT INTO item_paid_only (item_id) VALUES (251761);
-INSERT INTO item_paid_only (item_id) VALUES (251762);
-INSERT INTO item_paid_only (item_id) VALUES (251763);
-INSERT INTO item_paid_only (item_id) VALUES (251764);
-INSERT INTO item_paid_only (item_id) VALUES (251767);
-INSERT INTO item_paid_only (item_id) VALUES (251768);
-INSERT INTO item_paid_only (item_id) VALUES (251769);
-INSERT INTO item_paid_only (item_id) VALUES (251770);
-INSERT INTO item_paid_only (item_id) VALUES (251800);
-INSERT INTO item_paid_only (item_id) VALUES (251801);
-INSERT INTO item_paid_only (item_id) VALUES (251807);
-INSERT INTO item_paid_only (item_id) VALUES (251808);
-INSERT INTO item_paid_only (item_id) VALUES (252006);
-INSERT INTO item_paid_only (item_id) VALUES (252007);
-INSERT INTO item_paid_only (item_id) VALUES (252008);
-INSERT INTO item_paid_only (item_id) VALUES (252009);
-INSERT INTO item_paid_only (item_id) VALUES (252046);
-INSERT INTO item_paid_only (item_id) VALUES (252047);
-INSERT INTO item_paid_only (item_id) VALUES (252048);
-INSERT INTO item_paid_only (item_id) VALUES (252049);
-INSERT INTO item_paid_only (item_id) VALUES (252050);
-INSERT INTO item_paid_only (item_id) VALUES (252051);
-INSERT INTO item_paid_only (item_id) VALUES (252052);
-INSERT INTO item_paid_only (item_id) VALUES (252053);
-INSERT INTO item_paid_only (item_id) VALUES (252054);
-INSERT INTO item_paid_only (item_id) VALUES (252055);
-INSERT INTO item_paid_only (item_id) VALUES (252057);
-INSERT INTO item_paid_only (item_id) VALUES (252058);
-INSERT INTO item_paid_only (item_id) VALUES (252155);
-INSERT INTO item_paid_only (item_id) VALUES (252156);
-INSERT INTO item_paid_only (item_id) VALUES (252555);
-INSERT INTO item_paid_only (item_id) VALUES (252556);
-INSERT INTO item_paid_only (item_id) VALUES (252984);
-INSERT INTO item_paid_only (item_id) VALUES (252985);
-INSERT INTO item_paid_only (item_id) VALUES (252986);
-INSERT INTO item_paid_only (item_id) VALUES (252987);
-INSERT INTO item_paid_only (item_id) VALUES (252988);
-INSERT INTO item_paid_only (item_id) VALUES (252989);
-INSERT INTO item_paid_only (item_id) VALUES (252990);
-INSERT INTO item_paid_only (item_id) VALUES (252991);
-INSERT INTO item_paid_only (item_id) VALUES (252992);
-INSERT INTO item_paid_only (item_id) VALUES (252993);
-INSERT INTO item_paid_only (item_id) VALUES (253160);
-INSERT INTO item_paid_only (item_id) VALUES (253161);
-INSERT INTO item_paid_only (item_id) VALUES (253182);
-INSERT INTO item_paid_only (item_id) VALUES (253183);
-INSERT INTO item_paid_only (item_id) VALUES (253184);
-INSERT INTO item_paid_only (item_id) VALUES (253185);
-INSERT INTO item_paid_only (item_id) VALUES (253186);
-INSERT INTO item_paid_only (item_id) VALUES (253187);
-INSERT INTO item_paid_only (item_id) VALUES (253188);
-INSERT INTO item_paid_only (item_id) VALUES (253189);
-INSERT INTO item_paid_only (item_id) VALUES (253190);
-INSERT INTO item_paid_only (item_id) VALUES (253191);
-INSERT INTO item_paid_only (item_id) VALUES (253192);
-INSERT INTO item_paid_only (item_id) VALUES (253193);
-INSERT INTO item_paid_only (item_id) VALUES (253194);
-INSERT INTO item_paid_only (item_id) VALUES (253195);
-INSERT INTO item_paid_only (item_id) VALUES (253196);
-INSERT INTO item_paid_only (item_id) VALUES (253197);
-INSERT INTO item_paid_only (item_id) VALUES (253198);
-INSERT INTO item_paid_only (item_id) VALUES (253199);
-INSERT INTO item_paid_only (item_id) VALUES (253200);
-INSERT INTO item_paid_only (item_id) VALUES (253201);
-INSERT INTO item_paid_only (item_id) VALUES (253202);
-INSERT INTO item_paid_only (item_id) VALUES (253203);
-INSERT INTO item_paid_only (item_id) VALUES (253204);
-INSERT INTO item_paid_only (item_id) VALUES (253205);
-INSERT INTO item_paid_only (item_id) VALUES (253206);
-INSERT INTO item_paid_only (item_id) VALUES (253207);
-INSERT INTO item_paid_only (item_id) VALUES (253208);
-INSERT INTO item_paid_only (item_id) VALUES (253209);
-INSERT INTO item_paid_only (item_id) VALUES (253210);
-INSERT INTO item_paid_only (item_id) VALUES (253211);
-INSERT INTO item_paid_only (item_id) VALUES (253212);
-INSERT INTO item_paid_only (item_id) VALUES (253213);
-INSERT INTO item_paid_only (item_id) VALUES (253214);
-INSERT INTO item_paid_only (item_id) VALUES (253215);
-INSERT INTO item_paid_only (item_id) VALUES (253216);
-INSERT INTO item_paid_only (item_id) VALUES (253217);
-INSERT INTO item_paid_only (item_id) VALUES (253218);
-INSERT INTO item_paid_only (item_id) VALUES (253219);
-INSERT INTO item_paid_only (item_id) VALUES (253220);
-INSERT INTO item_paid_only (item_id) VALUES (253221);
-INSERT INTO item_paid_only (item_id) VALUES (253222);
-INSERT INTO item_paid_only (item_id) VALUES (253223);
-INSERT INTO item_paid_only (item_id) VALUES (253224);
-INSERT INTO item_paid_only (item_id) VALUES (253225);
-INSERT INTO item_paid_only (item_id) VALUES (253226);
-INSERT INTO item_paid_only (item_id) VALUES (253227);
-INSERT INTO item_paid_only (item_id) VALUES (253228);
-INSERT INTO item_paid_only (item_id) VALUES (253229);
-INSERT INTO item_paid_only (item_id) VALUES (253230);
-INSERT INTO item_paid_only (item_id) VALUES (253231);
-INSERT INTO item_paid_only (item_id) VALUES (253232);
-INSERT INTO item_paid_only (item_id) VALUES (253233);
-INSERT INTO item_paid_only (item_id) VALUES (253234);
-INSERT INTO item_paid_only (item_id) VALUES (253235);
-INSERT INTO item_paid_only (item_id) VALUES (253236);
-INSERT INTO item_paid_only (item_id) VALUES (253237);
-INSERT INTO item_paid_only (item_id) VALUES (253238);
-INSERT INTO item_paid_only (item_id) VALUES (253239);
-INSERT INTO item_paid_only (item_id) VALUES (253240);
-INSERT INTO item_paid_only (item_id) VALUES (253241);
-INSERT INTO item_paid_only (item_id) VALUES (253242);
-INSERT INTO item_paid_only (item_id) VALUES (253243);
-INSERT INTO item_paid_only (item_id) VALUES (253244);
-INSERT INTO item_paid_only (item_id) VALUES (253245);
-INSERT INTO item_paid_only (item_id) VALUES (253246);
-INSERT INTO item_paid_only (item_id) VALUES (253247);
-INSERT INTO item_paid_only (item_id) VALUES (253248);
-INSERT INTO item_paid_only (item_id) VALUES (253249);
-INSERT INTO item_paid_only (item_id) VALUES (253250);
-INSERT INTO item_paid_only (item_id) VALUES (253251);
-INSERT INTO item_paid_only (item_id) VALUES (253252);
-INSERT INTO item_paid_only (item_id) VALUES (253253);
-INSERT INTO item_paid_only (item_id) VALUES (253254);
-INSERT INTO item_paid_only (item_id) VALUES (253255);
-INSERT INTO item_paid_only (item_id) VALUES (253256);
-INSERT INTO item_paid_only (item_id) VALUES (253257);
-INSERT INTO item_paid_only (item_id) VALUES (253380);
-INSERT INTO item_paid_only (item_id) VALUES (253381);
-INSERT INTO item_paid_only (item_id) VALUES (253382);
-INSERT INTO item_paid_only (item_id) VALUES (253383);
-INSERT INTO item_paid_only (item_id) VALUES (253384);
-INSERT INTO item_paid_only (item_id) VALUES (253385);
-INSERT INTO item_paid_only (item_id) VALUES (254372);
-INSERT INTO item_paid_only (item_id) VALUES (254423);
-INSERT INTO item_paid_only (item_id) VALUES (254425);
-INSERT INTO item_paid_only (item_id) VALUES (254429);
-INSERT INTO item_paid_only (item_id) VALUES (254430);
-INSERT INTO item_paid_only (item_id) VALUES (254431);
-INSERT INTO item_paid_only (item_id) VALUES (254465);
-INSERT INTO item_paid_only (item_id) VALUES (254466);
-INSERT INTO item_paid_only (item_id) VALUES (254467);
-INSERT INTO item_paid_only (item_id) VALUES (254468);
-INSERT INTO item_paid_only (item_id) VALUES (254469);
-INSERT INTO item_paid_only (item_id) VALUES (254470);
-INSERT INTO item_paid_only (item_id) VALUES (254471);
-INSERT INTO item_paid_only (item_id) VALUES (254472);
-INSERT INTO item_paid_only (item_id) VALUES (254473);
-INSERT INTO item_paid_only (item_id) VALUES (254474);
-INSERT INTO item_paid_only (item_id) VALUES (254475);
-INSERT INTO item_paid_only (item_id) VALUES (254476);
-INSERT INTO item_paid_only (item_id) VALUES (254477);
-INSERT INTO item_paid_only (item_id) VALUES (254478);
-INSERT INTO item_paid_only (item_id) VALUES (254479);
-INSERT INTO item_paid_only (item_id) VALUES (254480);
-INSERT INTO item_paid_only (item_id) VALUES (254481);
-INSERT INTO item_paid_only (item_id) VALUES (254482);
-INSERT INTO item_paid_only (item_id) VALUES (254483);
-INSERT INTO item_paid_only (item_id) VALUES (254484);
-INSERT INTO item_paid_only (item_id) VALUES (254485);
-INSERT INTO item_paid_only (item_id) VALUES (254486);
-INSERT INTO item_paid_only (item_id) VALUES (254487);
-INSERT INTO item_paid_only (item_id) VALUES (254488);
-INSERT INTO item_paid_only (item_id) VALUES (254489);
-INSERT INTO item_paid_only (item_id) VALUES (254490);
-INSERT INTO item_paid_only (item_id) VALUES (254491);
-INSERT INTO item_paid_only (item_id) VALUES (254492);
-INSERT INTO item_paid_only (item_id) VALUES (254493);
-INSERT INTO item_paid_only (item_id) VALUES (254494);
-INSERT INTO item_paid_only (item_id) VALUES (254495);
-INSERT INTO item_paid_only (item_id) VALUES (254496);
-INSERT INTO item_paid_only (item_id) VALUES (254497);
-INSERT INTO item_paid_only (item_id) VALUES (254498);
-INSERT INTO item_paid_only (item_id) VALUES (254499);
-INSERT INTO item_paid_only (item_id) VALUES (254500);
-INSERT INTO item_paid_only (item_id) VALUES (254501);
-INSERT INTO item_paid_only (item_id) VALUES (254502);
-INSERT INTO item_paid_only (item_id) VALUES (254503);
-INSERT INTO item_paid_only (item_id) VALUES (254504);
-INSERT INTO item_paid_only (item_id) VALUES (254505);
-INSERT INTO item_paid_only (item_id) VALUES (254506);
-INSERT INTO item_paid_only (item_id) VALUES (254507);
-INSERT INTO item_paid_only (item_id) VALUES (254508);
-INSERT INTO item_paid_only (item_id) VALUES (254509);
-INSERT INTO item_paid_only (item_id) VALUES (254510);
-INSERT INTO item_paid_only (item_id) VALUES (254511);
-INSERT INTO item_paid_only (item_id) VALUES (254512);
-INSERT INTO item_paid_only (item_id) VALUES (254513);
-INSERT INTO item_paid_only (item_id) VALUES (254514);
-INSERT INTO item_paid_only (item_id) VALUES (254515);
-INSERT INTO item_paid_only (item_id) VALUES (254516);
-INSERT INTO item_paid_only (item_id) VALUES (254517);
-INSERT INTO item_paid_only (item_id) VALUES (254518);
-INSERT INTO item_paid_only (item_id) VALUES (254519);
-INSERT INTO item_paid_only (item_id) VALUES (254520);
-INSERT INTO item_paid_only (item_id) VALUES (254521);
-INSERT INTO item_paid_only (item_id) VALUES (254522);
-INSERT INTO item_paid_only (item_id) VALUES (254523);
-INSERT INTO item_paid_only (item_id) VALUES (254524);
-INSERT INTO item_paid_only (item_id) VALUES (254525);
-INSERT INTO item_paid_only (item_id) VALUES (254526);
-INSERT INTO item_paid_only (item_id) VALUES (254527);
-INSERT INTO item_paid_only (item_id) VALUES (254528);
-INSERT INTO item_paid_only (item_id) VALUES (254529);
-INSERT INTO item_paid_only (item_id) VALUES (254530);
-INSERT INTO item_paid_only (item_id) VALUES (254531);
-INSERT INTO item_paid_only (item_id) VALUES (254532);
-INSERT INTO item_paid_only (item_id) VALUES (254533);
-INSERT INTO item_paid_only (item_id) VALUES (254534);
-INSERT INTO item_paid_only (item_id) VALUES (254535);
-INSERT INTO item_paid_only (item_id) VALUES (254536);
-INSERT INTO item_paid_only (item_id) VALUES (254537);
-INSERT INTO item_paid_only (item_id) VALUES (254538);
-INSERT INTO item_paid_only (item_id) VALUES (254539);
-INSERT INTO item_paid_only (item_id) VALUES (254540);
-INSERT INTO item_paid_only (item_id) VALUES (254541);
-INSERT INTO item_paid_only (item_id) VALUES (254542);
-INSERT INTO item_paid_only (item_id) VALUES (254543);
-INSERT INTO item_paid_only (item_id) VALUES (254544);
-INSERT INTO item_paid_only (item_id) VALUES (254545);
-INSERT INTO item_paid_only (item_id) VALUES (254546);
-INSERT INTO item_paid_only (item_id) VALUES (254547);
-INSERT INTO item_paid_only (item_id) VALUES (254548);
-INSERT INTO item_paid_only (item_id) VALUES (254549);
-INSERT INTO item_paid_only (item_id) VALUES (254550);
-INSERT INTO item_paid_only (item_id) VALUES (254551);
-INSERT INTO item_paid_only (item_id) VALUES (254552);
-INSERT INTO item_paid_only (item_id) VALUES (254553);
-INSERT INTO item_paid_only (item_id) VALUES (254554);
-INSERT INTO item_paid_only (item_id) VALUES (254555);
-INSERT INTO item_paid_only (item_id) VALUES (254556);
-INSERT INTO item_paid_only (item_id) VALUES (254557);
-INSERT INTO item_paid_only (item_id) VALUES (254558);
-INSERT INTO item_paid_only (item_id) VALUES (254559);
-INSERT INTO item_paid_only (item_id) VALUES (254560);
-INSERT INTO item_paid_only (item_id) VALUES (254561);
-INSERT INTO item_paid_only (item_id) VALUES (254562);
-INSERT INTO item_paid_only (item_id) VALUES (254563);
-INSERT INTO item_paid_only (item_id) VALUES (254564);
-INSERT INTO item_paid_only (item_id) VALUES (254565);
-INSERT INTO item_paid_only (item_id) VALUES (254566);
-INSERT INTO item_paid_only (item_id) VALUES (254567);
-INSERT INTO item_paid_only (item_id) VALUES (254568);
-INSERT INTO item_paid_only (item_id) VALUES (254569);
-INSERT INTO item_paid_only (item_id) VALUES (254570);
-INSERT INTO item_paid_only (item_id) VALUES (254571);
-INSERT INTO item_paid_only (item_id) VALUES (254572);
-INSERT INTO item_paid_only (item_id) VALUES (254573);
-INSERT INTO item_paid_only (item_id) VALUES (254574);
-INSERT INTO item_paid_only (item_id) VALUES (254575);
-INSERT INTO item_paid_only (item_id) VALUES (254576);
-INSERT INTO item_paid_only (item_id) VALUES (254577);
-INSERT INTO item_paid_only (item_id) VALUES (254578);
-INSERT INTO item_paid_only (item_id) VALUES (254579);
-INSERT INTO item_paid_only (item_id) VALUES (254580);
-INSERT INTO item_paid_only (item_id) VALUES (254581);
-INSERT INTO item_paid_only (item_id) VALUES (254582);
-INSERT INTO item_paid_only (item_id) VALUES (254583);
-INSERT INTO item_paid_only (item_id) VALUES (254584);
-INSERT INTO item_paid_only (item_id) VALUES (254585);
-INSERT INTO item_paid_only (item_id) VALUES (254586);
-INSERT INTO item_paid_only (item_id) VALUES (254587);
-INSERT INTO item_paid_only (item_id) VALUES (254588);
-INSERT INTO item_paid_only (item_id) VALUES (254589);
-INSERT INTO item_paid_only (item_id) VALUES (254590);
-INSERT INTO item_paid_only (item_id) VALUES (254591);
-INSERT INTO item_paid_only (item_id) VALUES (254592);
-INSERT INTO item_paid_only (item_id) VALUES (254593);
-INSERT INTO item_paid_only (item_id) VALUES (254594);
-INSERT INTO item_paid_only (item_id) VALUES (254595);
-INSERT INTO item_paid_only (item_id) VALUES (254596);
-INSERT INTO item_paid_only (item_id) VALUES (254597);
-INSERT INTO item_paid_only (item_id) VALUES (254598);
-INSERT INTO item_paid_only (item_id) VALUES (254599);
-INSERT INTO item_paid_only (item_id) VALUES (254600);
-INSERT INTO item_paid_only (item_id) VALUES (254601);
-INSERT INTO item_paid_only (item_id) VALUES (254602);
-INSERT INTO item_paid_only (item_id) VALUES (254603);
-INSERT INTO item_paid_only (item_id) VALUES (254604);
-INSERT INTO item_paid_only (item_id) VALUES (254605);
-INSERT INTO item_paid_only (item_id) VALUES (254606);
-INSERT INTO item_paid_only (item_id) VALUES (254607);
-INSERT INTO item_paid_only (item_id) VALUES (254608);
-INSERT INTO item_paid_only (item_id) VALUES (254609);
-INSERT INTO item_paid_only (item_id) VALUES (254610);
-INSERT INTO item_paid_only (item_id) VALUES (254611);
-INSERT INTO item_paid_only (item_id) VALUES (254612);
-INSERT INTO item_paid_only (item_id) VALUES (254613);
-INSERT INTO item_paid_only (item_id) VALUES (254614);
-INSERT INTO item_paid_only (item_id) VALUES (254615);
-INSERT INTO item_paid_only (item_id) VALUES (254616);
-INSERT INTO item_paid_only (item_id) VALUES (254617);
-INSERT INTO item_paid_only (item_id) VALUES (254618);
-INSERT INTO item_paid_only (item_id) VALUES (254619);
-INSERT INTO item_paid_only (item_id) VALUES (254620);
-INSERT INTO item_paid_only (item_id) VALUES (254621);
-INSERT INTO item_paid_only (item_id) VALUES (254622);
-INSERT INTO item_paid_only (item_id) VALUES (254623);
-INSERT INTO item_paid_only (item_id) VALUES (254624);
-INSERT INTO item_paid_only (item_id) VALUES (254625);
-INSERT INTO item_paid_only (item_id) VALUES (254626);
-INSERT INTO item_paid_only (item_id) VALUES (254627);
-INSERT INTO item_paid_only (item_id) VALUES (254628);
-INSERT INTO item_paid_only (item_id) VALUES (254629);
-INSERT INTO item_paid_only (item_id) VALUES (254630);
-INSERT INTO item_paid_only (item_id) VALUES (254631);
-INSERT INTO item_paid_only (item_id) VALUES (254632);
-INSERT INTO item_paid_only (item_id) VALUES (254633);
-INSERT INTO item_paid_only (item_id) VALUES (254634);
-INSERT INTO item_paid_only (item_id) VALUES (254635);
-INSERT INTO item_paid_only (item_id) VALUES (254636);
-INSERT INTO item_paid_only (item_id) VALUES (254637);
-INSERT INTO item_paid_only (item_id) VALUES (254638);
-INSERT INTO item_paid_only (item_id) VALUES (254639);
-INSERT INTO item_paid_only (item_id) VALUES (254640);
-INSERT INTO item_paid_only (item_id) VALUES (254641);
-INSERT INTO item_paid_only (item_id) VALUES (254642);
-INSERT INTO item_paid_only (item_id) VALUES (254643);
-INSERT INTO item_paid_only (item_id) VALUES (254644);
-INSERT INTO item_paid_only (item_id) VALUES (254645);
-INSERT INTO item_paid_only (item_id) VALUES (254646);
-INSERT INTO item_paid_only (item_id) VALUES (254647);
-INSERT INTO item_paid_only (item_id) VALUES (254648);
-INSERT INTO item_paid_only (item_id) VALUES (254649);
-INSERT INTO item_paid_only (item_id) VALUES (254650);
-INSERT INTO item_paid_only (item_id) VALUES (254651);
-INSERT INTO item_paid_only (item_id) VALUES (254652);
-INSERT INTO item_paid_only (item_id) VALUES (254653);
-INSERT INTO item_paid_only (item_id) VALUES (254654);
-INSERT INTO item_paid_only (item_id) VALUES (254655);
-INSERT INTO item_paid_only (item_id) VALUES (254656);
-INSERT INTO item_paid_only (item_id) VALUES (254657);
-INSERT INTO item_paid_only (item_id) VALUES (254658);
-INSERT INTO item_paid_only (item_id) VALUES (254659);
-INSERT INTO item_paid_only (item_id) VALUES (254660);
-INSERT INTO item_paid_only (item_id) VALUES (254661);
-INSERT INTO item_paid_only (item_id) VALUES (254662);
-INSERT INTO item_paid_only (item_id) VALUES (254663);
-INSERT INTO item_paid_only (item_id) VALUES (254664);
-INSERT INTO item_paid_only (item_id) VALUES (254665);
-INSERT INTO item_paid_only (item_id) VALUES (254666);
-INSERT INTO item_paid_only (item_id) VALUES (254667);
-INSERT INTO item_paid_only (item_id) VALUES (254668);
-INSERT INTO item_paid_only (item_id) VALUES (254669);
-INSERT INTO item_paid_only (item_id) VALUES (254670);
-INSERT INTO item_paid_only (item_id) VALUES (254671);
-INSERT INTO item_paid_only (item_id) VALUES (254672);
-INSERT INTO item_paid_only (item_id) VALUES (254673);
-INSERT INTO item_paid_only (item_id) VALUES (254674);
-INSERT INTO item_paid_only (item_id) VALUES (254675);
-INSERT INTO item_paid_only (item_id) VALUES (254676);
-INSERT INTO item_paid_only (item_id) VALUES (254677);
-INSERT INTO item_paid_only (item_id) VALUES (254678);
-INSERT INTO item_paid_only (item_id) VALUES (254679);
-INSERT INTO item_paid_only (item_id) VALUES (254680);
-INSERT INTO item_paid_only (item_id) VALUES (254681);
-INSERT INTO item_paid_only (item_id) VALUES (254682);
-INSERT INTO item_paid_only (item_id) VALUES (254683);
-INSERT INTO item_paid_only (item_id) VALUES (254684);
-INSERT INTO item_paid_only (item_id) VALUES (254685);
-INSERT INTO item_paid_only (item_id) VALUES (254686);
-INSERT INTO item_paid_only (item_id) VALUES (254687);
-INSERT INTO item_paid_only (item_id) VALUES (254688);
-INSERT INTO item_paid_only (item_id) VALUES (254689);
-INSERT INTO item_paid_only (item_id) VALUES (254690);
-INSERT INTO item_paid_only (item_id) VALUES (254691);
-INSERT INTO item_paid_only (item_id) VALUES (254692);
-INSERT INTO item_paid_only (item_id) VALUES (254693);
-INSERT INTO item_paid_only (item_id) VALUES (254694);
-INSERT INTO item_paid_only (item_id) VALUES (254695);
-INSERT INTO item_paid_only (item_id) VALUES (254696);
-INSERT INTO item_paid_only (item_id) VALUES (254697);
-INSERT INTO item_paid_only (item_id) VALUES (254698);
-INSERT INTO item_paid_only (item_id) VALUES (254699);
-INSERT INTO item_paid_only (item_id) VALUES (254700);
-INSERT INTO item_paid_only (item_id) VALUES (254701);
-INSERT INTO item_paid_only (item_id) VALUES (254702);
-INSERT INTO item_paid_only (item_id) VALUES (254703);
-INSERT INTO item_paid_only (item_id) VALUES (254704);
-INSERT INTO item_paid_only (item_id) VALUES (254705);
-INSERT INTO item_paid_only (item_id) VALUES (254706);
-INSERT INTO item_paid_only (item_id) VALUES (254707);
-INSERT INTO item_paid_only (item_id) VALUES (254708);
-INSERT INTO item_paid_only (item_id) VALUES (254709);
-INSERT INTO item_paid_only (item_id) VALUES (254710);
-INSERT INTO item_paid_only (item_id) VALUES (254711);
-INSERT INTO item_paid_only (item_id) VALUES (254712);
-INSERT INTO item_paid_only (item_id) VALUES (254713);
-INSERT INTO item_paid_only (item_id) VALUES (254714);
-INSERT INTO item_paid_only (item_id) VALUES (254715);
-INSERT INTO item_paid_only (item_id) VALUES (254716);
-INSERT INTO item_paid_only (item_id) VALUES (254717);
-INSERT INTO item_paid_only (item_id) VALUES (254718);
-INSERT INTO item_paid_only (item_id) VALUES (254719);
-INSERT INTO item_paid_only (item_id) VALUES (254720);
-INSERT INTO item_paid_only (item_id) VALUES (254721);
-INSERT INTO item_paid_only (item_id) VALUES (254722);
-INSERT INTO item_paid_only (item_id) VALUES (254723);
-INSERT INTO item_paid_only (item_id) VALUES (254724);
-INSERT INTO item_paid_only (item_id) VALUES (254725);
-INSERT INTO item_paid_only (item_id) VALUES (254726);
-INSERT INTO item_paid_only (item_id) VALUES (254727);
-INSERT INTO item_paid_only (item_id) VALUES (254728);
-INSERT INTO item_paid_only (item_id) VALUES (254729);
-INSERT INTO item_paid_only (item_id) VALUES (254730);
-INSERT INTO item_paid_only (item_id) VALUES (254731);
-INSERT INTO item_paid_only (item_id) VALUES (254732);
-INSERT INTO item_paid_only (item_id) VALUES (254733);
-INSERT INTO item_paid_only (item_id) VALUES (254734);
-INSERT INTO item_paid_only (item_id) VALUES (254735);
-INSERT INTO item_paid_only (item_id) VALUES (254736);
-INSERT INTO item_paid_only (item_id) VALUES (254737);
-INSERT INTO item_paid_only (item_id) VALUES (254738);
-INSERT INTO item_paid_only (item_id) VALUES (254739);
-INSERT INTO item_paid_only (item_id) VALUES (254740);
-INSERT INTO item_paid_only (item_id) VALUES (254741);
-INSERT INTO item_paid_only (item_id) VALUES (254742);
-INSERT INTO item_paid_only (item_id) VALUES (254743);
-INSERT INTO item_paid_only (item_id) VALUES (254744);
-INSERT INTO item_paid_only (item_id) VALUES (254745);
-INSERT INTO item_paid_only (item_id) VALUES (254746);
-INSERT INTO item_paid_only (item_id) VALUES (254747);
-INSERT INTO item_paid_only (item_id) VALUES (254748);
-INSERT INTO item_paid_only (item_id) VALUES (254749);
-INSERT INTO item_paid_only (item_id) VALUES (254750);
-INSERT INTO item_paid_only (item_id) VALUES (254751);
-INSERT INTO item_paid_only (item_id) VALUES (254752);
-INSERT INTO item_paid_only (item_id) VALUES (254753);
-INSERT INTO item_paid_only (item_id) VALUES (254754);
-INSERT INTO item_paid_only (item_id) VALUES (254755);
-INSERT INTO item_paid_only (item_id) VALUES (254756);
-INSERT INTO item_paid_only (item_id) VALUES (254757);
-INSERT INTO item_paid_only (item_id) VALUES (254758);
-INSERT INTO item_paid_only (item_id) VALUES (254759);
-INSERT INTO item_paid_only (item_id) VALUES (254760);
-INSERT INTO item_paid_only (item_id) VALUES (254761);
-INSERT INTO item_paid_only (item_id) VALUES (254762);
-INSERT INTO item_paid_only (item_id) VALUES (254763);
-INSERT INTO item_paid_only (item_id) VALUES (254764);
-INSERT INTO item_paid_only (item_id) VALUES (254765);
-INSERT INTO item_paid_only (item_id) VALUES (254766);
-INSERT INTO item_paid_only (item_id) VALUES (254767);
-INSERT INTO item_paid_only (item_id) VALUES (254768);
-INSERT INTO item_paid_only (item_id) VALUES (254769);
-INSERT INTO item_paid_only (item_id) VALUES (254770);
-INSERT INTO item_paid_only (item_id) VALUES (254771);
-INSERT INTO item_paid_only (item_id) VALUES (254772);
-INSERT INTO item_paid_only (item_id) VALUES (254773);
-INSERT INTO item_paid_only (item_id) VALUES (254774);
-INSERT INTO item_paid_only (item_id) VALUES (254775);
-INSERT INTO item_paid_only (item_id) VALUES (254776);
-INSERT INTO item_paid_only (item_id) VALUES (254777);
-INSERT INTO item_paid_only (item_id) VALUES (254778);
-INSERT INTO item_paid_only (item_id) VALUES (254779);
-INSERT INTO item_paid_only (item_id) VALUES (254780);
-INSERT INTO item_paid_only (item_id) VALUES (254781);
-INSERT INTO item_paid_only (item_id) VALUES (254782);
-INSERT INTO item_paid_only (item_id) VALUES (254783);
-INSERT INTO item_paid_only (item_id) VALUES (254784);
-INSERT INTO item_paid_only (item_id) VALUES (254785);
-INSERT INTO item_paid_only (item_id) VALUES (254786);
-INSERT INTO item_paid_only (item_id) VALUES (254859);
-INSERT INTO item_paid_only (item_id) VALUES (254860);
-INSERT INTO item_paid_only (item_id) VALUES (254876);
-INSERT INTO item_paid_only (item_id) VALUES (254877);
-INSERT INTO item_paid_only (item_id) VALUES (254878);
-INSERT INTO item_paid_only (item_id) VALUES (254879);
-INSERT INTO item_paid_only (item_id) VALUES (254880);
-INSERT INTO item_paid_only (item_id) VALUES (254881);
-INSERT INTO item_paid_only (item_id) VALUES (254882);
-INSERT INTO item_paid_only (item_id) VALUES (254883);
-INSERT INTO item_paid_only (item_id) VALUES (254884);
-INSERT INTO item_paid_only (item_id) VALUES (254885);
-INSERT INTO item_paid_only (item_id) VALUES (256454);
-INSERT INTO item_paid_only (item_id) VALUES (257109);
-INSERT INTO item_paid_only (item_id) VALUES (257111);
-INSERT INTO item_paid_only (item_id) VALUES (257112);
-INSERT INTO item_paid_only (item_id) VALUES (257113);
-INSERT INTO item_paid_only (item_id) VALUES (257114);
-INSERT INTO item_paid_only (item_id) VALUES (257115);
-INSERT INTO item_paid_only (item_id) VALUES (257116);
-INSERT INTO item_paid_only (item_id) VALUES (257117);
-INSERT INTO item_paid_only (item_id) VALUES (257118);
-INSERT INTO item_paid_only (item_id) VALUES (257119);
-INSERT INTO item_paid_only (item_id) VALUES (257123);
-INSERT INTO item_paid_only (item_id) VALUES (257124);
-INSERT INTO item_paid_only (item_id) VALUES (257126);
-INSERT INTO item_paid_only (item_id) VALUES (257128);
-INSERT INTO item_paid_only (item_id) VALUES (257131);
-INSERT INTO item_paid_only (item_id) VALUES (257141);
-INSERT INTO item_paid_only (item_id) VALUES (257142);
-INSERT INTO item_paid_only (item_id) VALUES (257143);
-INSERT INTO item_paid_only (item_id) VALUES (257144);
-INSERT INTO item_paid_only (item_id) VALUES (257147);
-INSERT INTO item_paid_only (item_id) VALUES (257377);
-INSERT INTO item_paid_only (item_id) VALUES (257378);
-INSERT INTO item_paid_only (item_id) VALUES (257379);
-INSERT INTO item_paid_only (item_id) VALUES (257380);
-INSERT INTO item_paid_only (item_id) VALUES (257381);
-INSERT INTO item_paid_only (item_id) VALUES (257382);
-INSERT INTO item_paid_only (item_id) VALUES (257383);
-INSERT INTO item_paid_only (item_id) VALUES (257384);
-INSERT INTO item_paid_only (item_id) VALUES (257967);
-INSERT INTO item_paid_only (item_id) VALUES (258222);
-INSERT INTO item_paid_only (item_id) VALUES (258289); -- Exploits Team Protective Suit
-INSERT INTO item_paid_only (item_id) VALUES (258290); -- Personnel Team Protective Suit
-INSERT INTO item_paid_only (item_id) VALUES (258563);
-INSERT INTO item_paid_only (item_id) VALUES (258580);
-INSERT INTO item_paid_only (item_id) VALUES (258581);
-INSERT INTO item_paid_only (item_id) VALUES (258658);
-INSERT INTO item_paid_only (item_id) VALUES (258659);
-INSERT INTO item_paid_only (item_id) VALUES (259103);
-INSERT INTO item_paid_only (item_id) VALUES (259335);
-INSERT INTO item_paid_only (item_id) VALUES (259336);
-INSERT INTO item_paid_only (item_id) VALUES (259337);
-INSERT INTO item_paid_only (item_id) VALUES (259338);
-INSERT INTO item_paid_only (item_id) VALUES (259339);
-INSERT INTO item_paid_only (item_id) VALUES (259343);
-INSERT INTO item_paid_only (item_id) VALUES (259347);
-INSERT INTO item_paid_only (item_id) VALUES (259348);
-INSERT INTO item_paid_only (item_id) VALUES (259349);
-INSERT INTO item_paid_only (item_id) VALUES (259353);
-INSERT INTO item_paid_only (item_id) VALUES (259354);
-INSERT INTO item_paid_only (item_id) VALUES (259358);
-INSERT INTO item_paid_only (item_id) VALUES (259362);
-INSERT INTO item_paid_only (item_id) VALUES (259363);
-INSERT INTO item_paid_only (item_id) VALUES (259364);
-INSERT INTO item_paid_only (item_id) VALUES (259365);
-INSERT INTO item_paid_only (item_id) VALUES (259366);
-INSERT INTO item_paid_only (item_id) VALUES (259367);
-INSERT INTO item_paid_only (item_id) VALUES (259368);
-INSERT INTO item_paid_only (item_id) VALUES (259369);
-INSERT INTO item_paid_only (item_id) VALUES (259370);
-INSERT INTO item_paid_only (item_id) VALUES (259371);
-INSERT INTO item_paid_only (item_id) VALUES (259372);
-INSERT INTO item_paid_only (item_id) VALUES (259373);
-INSERT INTO item_paid_only (item_id) VALUES (259374);
-INSERT INTO item_paid_only (item_id) VALUES (259375);
-INSERT INTO item_paid_only (item_id) VALUES (259376);
-INSERT INTO item_paid_only (item_id) VALUES (259377);
-INSERT INTO item_paid_only (item_id) VALUES (259378);
-INSERT INTO item_paid_only (item_id) VALUES (259379);
-INSERT INTO item_paid_only (item_id) VALUES (259380);
-INSERT INTO item_paid_only (item_id) VALUES (259381);
-INSERT INTO item_paid_only (item_id) VALUES (260678);
-INSERT INTO item_paid_only (item_id) VALUES (260679);
-INSERT INTO item_paid_only (item_id) VALUES (260680);
-INSERT INTO item_paid_only (item_id) VALUES (260681);
-INSERT INTO item_paid_only (item_id) VALUES (260682);
-INSERT INTO item_paid_only (item_id) VALUES (260683);
-INSERT INTO item_paid_only (item_id) VALUES (260684);
-INSERT INTO item_paid_only (item_id) VALUES (260685);
-INSERT INTO item_paid_only (item_id) VALUES (260686);
-INSERT INTO item_paid_only (item_id) VALUES (260687);
-INSERT INTO item_paid_only (item_id) VALUES (260688);
-INSERT INTO item_paid_only (item_id) VALUES (260690);
-INSERT INTO item_paid_only (item_id) VALUES (260691);
-INSERT INTO item_paid_only (item_id) VALUES (260692);
-INSERT INTO item_paid_only (item_id) VALUES (260693);
-INSERT INTO item_paid_only (item_id) VALUES (260694);
-INSERT INTO item_paid_only (item_id) VALUES (260695);
-INSERT INTO item_paid_only (item_id) VALUES (260696);
-INSERT INTO item_paid_only (item_id) VALUES (260697);
-INSERT INTO item_paid_only (item_id) VALUES (260698);
-INSERT INTO item_paid_only (item_id) VALUES (260699);
-INSERT INTO item_paid_only (item_id) VALUES (260700);
-INSERT INTO item_paid_only (item_id) VALUES (260701);
-INSERT INTO item_paid_only (item_id) VALUES (260702);
-INSERT INTO item_paid_only (item_id) VALUES (260703);
-INSERT INTO item_paid_only (item_id) VALUES (260704);
-INSERT INTO item_paid_only (item_id) VALUES (260705);
-INSERT INTO item_paid_only (item_id) VALUES (260706);
-INSERT INTO item_paid_only (item_id) VALUES (260707);
-INSERT INTO item_paid_only (item_id) VALUES (260708);
-INSERT INTO item_paid_only (item_id) VALUES (260709);
-INSERT INTO item_paid_only (item_id) VALUES (260710);
-INSERT INTO item_paid_only (item_id) VALUES (260711);
-INSERT INTO item_paid_only (item_id) VALUES (260712);
-INSERT INTO item_paid_only (item_id) VALUES (260713);
-INSERT INTO item_paid_only (item_id) VALUES (260714);
-INSERT INTO item_paid_only (item_id) VALUES (260715);
-INSERT INTO item_paid_only (item_id) VALUES (260716);
-INSERT INTO item_paid_only (item_id) VALUES (260717);
-INSERT INTO item_paid_only (item_id) VALUES (260718);
-INSERT INTO item_paid_only (item_id) VALUES (260719);
-INSERT INTO item_paid_only (item_id) VALUES (260720);
-INSERT INTO item_paid_only (item_id) VALUES (260730);
-INSERT INTO item_paid_only (item_id) VALUES (260731);
-INSERT INTO item_paid_only (item_id) VALUES (260758);
-INSERT INTO item_paid_only (item_id) VALUES (260759);
-INSERT INTO item_paid_only (item_id) VALUES (260761);
-INSERT INTO item_paid_only (item_id) VALUES (260762);
-INSERT INTO item_paid_only (item_id) VALUES (260763);
-INSERT INTO item_paid_only (item_id) VALUES (260764);
-INSERT INTO item_paid_only (item_id) VALUES (260765);
-INSERT INTO item_paid_only (item_id) VALUES (260766);
-INSERT INTO item_paid_only (item_id) VALUES (260771);
-INSERT INTO item_paid_only (item_id) VALUES (260772);
-INSERT INTO item_paid_only (item_id) VALUES (262523);
-INSERT INTO item_paid_only (item_id) VALUES (262524);
-INSERT INTO item_paid_only (item_id) VALUES (262525);
-INSERT INTO item_paid_only (item_id) VALUES (262526);
-INSERT INTO item_paid_only (item_id) VALUES (262527);
-INSERT INTO item_paid_only (item_id) VALUES (262528);
-INSERT INTO item_paid_only (item_id) VALUES (262529);
-INSERT INTO item_paid_only (item_id) VALUES (262532);
-INSERT INTO item_paid_only (item_id) VALUES (262533);
-INSERT INTO item_paid_only (item_id) VALUES (262534);
-INSERT INTO item_paid_only (item_id) VALUES (262535);
-INSERT INTO item_paid_only (item_id) VALUES (262536);
-INSERT INTO item_paid_only (item_id) VALUES (262537);
-INSERT INTO item_paid_only (item_id) VALUES (262538);
-INSERT INTO item_paid_only (item_id) VALUES (262543);
-INSERT INTO item_paid_only (item_id) VALUES (262544);
-INSERT INTO item_paid_only (item_id) VALUES (262545);
-INSERT INTO item_paid_only (item_id) VALUES (262546);
-INSERT INTO item_paid_only (item_id) VALUES (262547);
-INSERT INTO item_paid_only (item_id) VALUES (262548);
-INSERT INTO item_paid_only (item_id) VALUES (262549);
-INSERT INTO item_paid_only (item_id) VALUES (262558);
-INSERT INTO item_paid_only (item_id) VALUES (262559);
-INSERT INTO item_paid_only (item_id) VALUES (262560);
-INSERT INTO item_paid_only (item_id) VALUES (262561);
-INSERT INTO item_paid_only (item_id) VALUES (262562);
-INSERT INTO item_paid_only (item_id) VALUES (262563);
-INSERT INTO item_paid_only (item_id) VALUES (262564);
-INSERT INTO item_paid_only (item_id) VALUES (262566);
-INSERT INTO item_paid_only (item_id) VALUES (262567);
-INSERT INTO item_paid_only (item_id) VALUES (262568);
-INSERT INTO item_paid_only (item_id) VALUES (262569);
-INSERT INTO item_paid_only (item_id) VALUES (262570);
-INSERT INTO item_paid_only (item_id) VALUES (262571);
-INSERT INTO item_paid_only (item_id) VALUES (262572);
-INSERT INTO item_paid_only (item_id) VALUES (263240);
-INSERT INTO item_paid_only (item_id) VALUES (263242);
-INSERT INTO item_paid_only (item_id) VALUES (263243);
-INSERT INTO item_paid_only (item_id) VALUES (263245);
-INSERT INTO item_paid_only (item_id) VALUES (263246);
-INSERT INTO item_paid_only (item_id) VALUES (263247);
-INSERT INTO item_paid_only (item_id) VALUES (263248);
-INSERT INTO item_paid_only (item_id) VALUES (263249);
-INSERT INTO item_paid_only (item_id) VALUES (263250);
-INSERT INTO item_paid_only (item_id) VALUES (263251);
-INSERT INTO item_paid_only (item_id) VALUES (263252);
-INSERT INTO item_paid_only (item_id) VALUES (263253);
-INSERT INTO item_paid_only (item_id) VALUES (263254);
-INSERT INTO item_paid_only (item_id) VALUES (263255);
-INSERT INTO item_paid_only (item_id) VALUES (263256);
-INSERT INTO item_paid_only (item_id) VALUES (263257);
-INSERT INTO item_paid_only (item_id) VALUES (263259);
-INSERT INTO item_paid_only (item_id) VALUES (263260);
-INSERT INTO item_paid_only (item_id) VALUES (263261);
-INSERT INTO item_paid_only (item_id) VALUES (263262);
-INSERT INTO item_paid_only (item_id) VALUES (263265);
-INSERT INTO item_paid_only (item_id) VALUES (263266);
-INSERT INTO item_paid_only (item_id) VALUES (263267);
-INSERT INTO item_paid_only (item_id) VALUES (263268);
-INSERT INTO item_paid_only (item_id) VALUES (263277);
-INSERT INTO item_paid_only (item_id) VALUES (263278);
-INSERT INTO item_paid_only (item_id) VALUES (263279);
-INSERT INTO item_paid_only (item_id) VALUES (263280);
-INSERT INTO item_paid_only (item_id) VALUES (263281);
-INSERT INTO item_paid_only (item_id) VALUES (263282);
-INSERT INTO item_paid_only (item_id) VALUES (263283);
-INSERT INTO item_paid_only (item_id) VALUES (263284);
-INSERT INTO item_paid_only (item_id) VALUES (263285);
-INSERT INTO item_paid_only (item_id) VALUES (263286);
-INSERT INTO item_paid_only (item_id) VALUES (263289);
-INSERT INTO item_paid_only (item_id) VALUES (263290);
-INSERT INTO item_paid_only (item_id) VALUES (263291);
-INSERT INTO item_paid_only (item_id) VALUES (263293);
-INSERT INTO item_paid_only (item_id) VALUES (263294);
-INSERT INTO item_paid_only (item_id) VALUES (263298);
-INSERT INTO item_paid_only (item_id) VALUES (263299);
-INSERT INTO item_paid_only (item_id) VALUES (263300);
-INSERT INTO item_paid_only (item_id) VALUES (263301);
-INSERT INTO item_paid_only (item_id) VALUES (263302);
-INSERT INTO item_paid_only (item_id) VALUES (263303);
-INSERT INTO item_paid_only (item_id) VALUES (263304);
-INSERT INTO item_paid_only (item_id) VALUES (263306);
-INSERT INTO item_paid_only (item_id) VALUES (263307);
-INSERT INTO item_paid_only (item_id) VALUES (264084);
-INSERT INTO item_paid_only (item_id) VALUES (264174);
-INSERT INTO item_paid_only (item_id) VALUES (264175);
-INSERT INTO item_paid_only (item_id) VALUES (264176);
-INSERT INTO item_paid_only (item_id) VALUES (264177);
-INSERT INTO item_paid_only (item_id) VALUES (264178);
-INSERT INTO item_paid_only (item_id) VALUES (264179);
-INSERT INTO item_paid_only (item_id) VALUES (264180);
-INSERT INTO item_paid_only (item_id) VALUES (264181);
-INSERT INTO item_paid_only (item_id) VALUES (264182);
-INSERT INTO item_paid_only (item_id) VALUES (264183);
-INSERT INTO item_paid_only (item_id) VALUES (264184);
-INSERT INTO item_paid_only (item_id) VALUES (264185);
-INSERT INTO item_paid_only (item_id) VALUES (264186);
-INSERT INTO item_paid_only (item_id) VALUES (264187);
-INSERT INTO item_paid_only (item_id) VALUES (264188);
-INSERT INTO item_paid_only (item_id) VALUES (264189);
-INSERT INTO item_paid_only (item_id) VALUES (264190);
-INSERT INTO item_paid_only (item_id) VALUES (264191);
-INSERT INTO item_paid_only (item_id) VALUES (264192);
-INSERT INTO item_paid_only (item_id) VALUES (264193);
-INSERT INTO item_paid_only (item_id) VALUES (264194);
-INSERT INTO item_paid_only (item_id) VALUES (264195);
-INSERT INTO item_paid_only (item_id) VALUES (264196);
-INSERT INTO item_paid_only (item_id) VALUES (264197);
-INSERT INTO item_paid_only (item_id) VALUES (264198);
-INSERT INTO item_paid_only (item_id) VALUES (264199);
-INSERT INTO item_paid_only (item_id) VALUES (264200);
-INSERT INTO item_paid_only (item_id) VALUES (264201);
-INSERT INTO item_paid_only (item_id) VALUES (264202);
-INSERT INTO item_paid_only (item_id) VALUES (264203);
-INSERT INTO item_paid_only (item_id) VALUES (264204);
-INSERT INTO item_paid_only (item_id) VALUES (264205);
-INSERT INTO item_paid_only (item_id) VALUES (264206);
-INSERT INTO item_paid_only (item_id) VALUES (264207);
-INSERT INTO item_paid_only (item_id) VALUES (264208);
-INSERT INTO item_paid_only (item_id) VALUES (264209);
-INSERT INTO item_paid_only (item_id) VALUES (264211);
-INSERT INTO item_paid_only (item_id) VALUES (264212);
-INSERT INTO item_paid_only (item_id) VALUES (264213);
-INSERT INTO item_paid_only (item_id) VALUES (264214);
-INSERT INTO item_paid_only (item_id) VALUES (264215);
-INSERT INTO item_paid_only (item_id) VALUES (264216);
-INSERT INTO item_paid_only (item_id) VALUES (264217);
-INSERT INTO item_paid_only (item_id) VALUES (264218);
-INSERT INTO item_paid_only (item_id) VALUES (264219);
-INSERT INTO item_paid_only (item_id) VALUES (264220);
-INSERT INTO item_paid_only (item_id) VALUES (264221);
-INSERT INTO item_paid_only (item_id) VALUES (264222);
-INSERT INTO item_paid_only (item_id) VALUES (264223);
-INSERT INTO item_paid_only (item_id) VALUES (264224);
-INSERT INTO item_paid_only (item_id) VALUES (264225);
-INSERT INTO item_paid_only (item_id) VALUES (264226);
-INSERT INTO item_paid_only (item_id) VALUES (264227);
-INSERT INTO item_paid_only (item_id) VALUES (264228);
-INSERT INTO item_paid_only (item_id) VALUES (264229);
-INSERT INTO item_paid_only (item_id) VALUES (264230);
-INSERT INTO item_paid_only (item_id) VALUES (264231);
-INSERT INTO item_paid_only (item_id) VALUES (264232);
-INSERT INTO item_paid_only (item_id) VALUES (264233);
-INSERT INTO item_paid_only (item_id) VALUES (264234);
-INSERT INTO item_paid_only (item_id) VALUES (264235);
-INSERT INTO item_paid_only (item_id) VALUES (264236);
-INSERT INTO item_paid_only (item_id) VALUES (264237);
-INSERT INTO item_paid_only (item_id) VALUES (264238);
-INSERT INTO item_paid_only (item_id) VALUES (264239);
-INSERT INTO item_paid_only (item_id) VALUES (264240);
-INSERT INTO item_paid_only (item_id) VALUES (264241);
-INSERT INTO item_paid_only (item_id) VALUES (264242);
-INSERT INTO item_paid_only (item_id) VALUES (264243);
-INSERT INTO item_paid_only (item_id) VALUES (264244);
-INSERT INTO item_paid_only (item_id) VALUES (264245);
-INSERT INTO item_paid_only (item_id) VALUES (264246);
-INSERT INTO item_paid_only (item_id) VALUES (264247);
-INSERT INTO item_paid_only (item_id) VALUES (264248);
-INSERT INTO item_paid_only (item_id) VALUES (264249);
-INSERT INTO item_paid_only (item_id) VALUES (264250);
-INSERT INTO item_paid_only (item_id) VALUES (264251);
-INSERT INTO item_paid_only (item_id) VALUES (264252);
-INSERT INTO item_paid_only (item_id) VALUES (264253);
-INSERT INTO item_paid_only (item_id) VALUES (264254);
-INSERT INTO item_paid_only (item_id) VALUES (264255);
-INSERT INTO item_paid_only (item_id) VALUES (264256);
-INSERT INTO item_paid_only (item_id) VALUES (264257);
-INSERT INTO item_paid_only (item_id) VALUES (264258);
-INSERT INTO item_paid_only (item_id) VALUES (264259);
-INSERT INTO item_paid_only (item_id) VALUES (264260);
-INSERT INTO item_paid_only (item_id) VALUES (264261);
-INSERT INTO item_paid_only (item_id) VALUES (264262);
-INSERT INTO item_paid_only (item_id) VALUES (264263);
-INSERT INTO item_paid_only (item_id) VALUES (264264);
-INSERT INTO item_paid_only (item_id) VALUES (264265);
-INSERT INTO item_paid_only (item_id) VALUES (264266);
-INSERT INTO item_paid_only (item_id) VALUES (264267);
-INSERT INTO item_paid_only (item_id) VALUES (264268);
-INSERT INTO item_paid_only (item_id) VALUES (264269);
-INSERT INTO item_paid_only (item_id) VALUES (264270);
-INSERT INTO item_paid_only (item_id) VALUES (264271);
-INSERT INTO item_paid_only (item_id) VALUES (264272);
-INSERT INTO item_paid_only (item_id) VALUES (264273);
-INSERT INTO item_paid_only (item_id) VALUES (264274);
-INSERT INTO item_paid_only (item_id) VALUES (264275);
-INSERT INTO item_paid_only (item_id) VALUES (264276);
-INSERT INTO item_paid_only (item_id) VALUES (264277);
-INSERT INTO item_paid_only (item_id) VALUES (264278);
-INSERT INTO item_paid_only (item_id) VALUES (264279);
-INSERT INTO item_paid_only (item_id) VALUES (264280);
-INSERT INTO item_paid_only (item_id) VALUES (264281);
-INSERT INTO item_paid_only (item_id) VALUES (264282);
-INSERT INTO item_paid_only (item_id) VALUES (264283);
-INSERT INTO item_paid_only (item_id) VALUES (264284);
-INSERT INTO item_paid_only (item_id) VALUES (264285);
-INSERT INTO item_paid_only (item_id) VALUES (264286);
-INSERT INTO item_paid_only (item_id) VALUES (264287);
-INSERT INTO item_paid_only (item_id) VALUES (264288);
-INSERT INTO item_paid_only (item_id) VALUES (264289);
-INSERT INTO item_paid_only (item_id) VALUES (264290);
-INSERT INTO item_paid_only (item_id) VALUES (264291);
-INSERT INTO item_paid_only (item_id) VALUES (264292);
-INSERT INTO item_paid_only (item_id) VALUES (264293);
-INSERT INTO item_paid_only (item_id) VALUES (264294);
-INSERT INTO item_paid_only (item_id) VALUES (264295);
-INSERT INTO item_paid_only (item_id) VALUES (264296);
-INSERT INTO item_paid_only (item_id) VALUES (264297);
-INSERT INTO item_paid_only (item_id) VALUES (264298);
-INSERT INTO item_paid_only (item_id) VALUES (264299);
-INSERT INTO item_paid_only (item_id) VALUES (264300);
-INSERT INTO item_paid_only (item_id) VALUES (264301);
-INSERT INTO item_paid_only (item_id) VALUES (264302);
-INSERT INTO item_paid_only (item_id) VALUES (264303);
-INSERT INTO item_paid_only (item_id) VALUES (264304);
-INSERT INTO item_paid_only (item_id) VALUES (264305);
-INSERT INTO item_paid_only (item_id) VALUES (264306);
-INSERT INTO item_paid_only (item_id) VALUES (264307);
-INSERT INTO item_paid_only (item_id) VALUES (264308);
-INSERT INTO item_paid_only (item_id) VALUES (264309);
-INSERT INTO item_paid_only (item_id) VALUES (264310);
-INSERT INTO item_paid_only (item_id) VALUES (264311);
-INSERT INTO item_paid_only (item_id) VALUES (264312);
-INSERT INTO item_paid_only (item_id) VALUES (264313);
-INSERT INTO item_paid_only (item_id) VALUES (264314);
-INSERT INTO item_paid_only (item_id) VALUES (264315);
-INSERT INTO item_paid_only (item_id) VALUES (264316);
-INSERT INTO item_paid_only (item_id) VALUES (264317);
-INSERT INTO item_paid_only (item_id) VALUES (264318);
-INSERT INTO item_paid_only (item_id) VALUES (264319);
-INSERT INTO item_paid_only (item_id) VALUES (264320);
-INSERT INTO item_paid_only (item_id) VALUES (264321);
-INSERT INTO item_paid_only (item_id) VALUES (264322);
-INSERT INTO item_paid_only (item_id) VALUES (264323);
-INSERT INTO item_paid_only (item_id) VALUES (264324);
-INSERT INTO item_paid_only (item_id) VALUES (264325);
-INSERT INTO item_paid_only (item_id) VALUES (264326);
-INSERT INTO item_paid_only (item_id) VALUES (264327);
-INSERT INTO item_paid_only (item_id) VALUES (264328);
-INSERT INTO item_paid_only (item_id) VALUES (264329);
-INSERT INTO item_paid_only (item_id) VALUES (264330);
-INSERT INTO item_paid_only (item_id) VALUES (264331);
-INSERT INTO item_paid_only (item_id) VALUES (264332);
-INSERT INTO item_paid_only (item_id) VALUES (264333);
-INSERT INTO item_paid_only (item_id) VALUES (264334);
-INSERT INTO item_paid_only (item_id) VALUES (264335);
-INSERT INTO item_paid_only (item_id) VALUES (264336);
-INSERT INTO item_paid_only (item_id) VALUES (264337);
-INSERT INTO item_paid_only (item_id) VALUES (264338);
-INSERT INTO item_paid_only (item_id) VALUES (264339);
-INSERT INTO item_paid_only (item_id) VALUES (264340);
-INSERT INTO item_paid_only (item_id) VALUES (264341);
-INSERT INTO item_paid_only (item_id) VALUES (264342);
-INSERT INTO item_paid_only (item_id) VALUES (264343);
-INSERT INTO item_paid_only (item_id) VALUES (264344);
-INSERT INTO item_paid_only (item_id) VALUES (264345);
-INSERT INTO item_paid_only (item_id) VALUES (264346);
-INSERT INTO item_paid_only (item_id) VALUES (264347);
-INSERT INTO item_paid_only (item_id) VALUES (264348);
-INSERT INTO item_paid_only (item_id) VALUES (264349);
-INSERT INTO item_paid_only (item_id) VALUES (264350);
-INSERT INTO item_paid_only (item_id) VALUES (264351);
-INSERT INTO item_paid_only (item_id) VALUES (264352);
-INSERT INTO item_paid_only (item_id) VALUES (264353);
-INSERT INTO item_paid_only (item_id) VALUES (264354);
-INSERT INTO item_paid_only (item_id) VALUES (264355);
-INSERT INTO item_paid_only (item_id) VALUES (264356);
-INSERT INTO item_paid_only (item_id) VALUES (264357);
-INSERT INTO item_paid_only (item_id) VALUES (264358);
-INSERT INTO item_paid_only (item_id) VALUES (264359);
-INSERT INTO item_paid_only (item_id) VALUES (264360);
-INSERT INTO item_paid_only (item_id) VALUES (264361);
-INSERT INTO item_paid_only (item_id) VALUES (264362);
-INSERT INTO item_paid_only (item_id) VALUES (264363);
-INSERT INTO item_paid_only (item_id) VALUES (264364);
-INSERT INTO item_paid_only (item_id) VALUES (264365);
-INSERT INTO item_paid_only (item_id) VALUES (264366);
-INSERT INTO item_paid_only (item_id) VALUES (264367);
-INSERT INTO item_paid_only (item_id) VALUES (264368);
-INSERT INTO item_paid_only (item_id) VALUES (264369);
-INSERT INTO item_paid_only (item_id) VALUES (264370);
-INSERT INTO item_paid_only (item_id) VALUES (264371);
-INSERT INTO item_paid_only (item_id) VALUES (264372);
-INSERT INTO item_paid_only (item_id) VALUES (264373);
-INSERT INTO item_paid_only (item_id) VALUES (264374);
-INSERT INTO item_paid_only (item_id) VALUES (264375);
-INSERT INTO item_paid_only (item_id) VALUES (264376);
-INSERT INTO item_paid_only (item_id) VALUES (264377);
-INSERT INTO item_paid_only (item_id) VALUES (264378);
-INSERT INTO item_paid_only (item_id) VALUES (264379);
-INSERT INTO item_paid_only (item_id) VALUES (264380);
-INSERT INTO item_paid_only (item_id) VALUES (264381);
-INSERT INTO item_paid_only (item_id) VALUES (264382);
-INSERT INTO item_paid_only (item_id) VALUES (264383);
-INSERT INTO item_paid_only (item_id) VALUES (264384);
-INSERT INTO item_paid_only (item_id) VALUES (264385);
-INSERT INTO item_paid_only (item_id) VALUES (264386);
-INSERT INTO item_paid_only (item_id) VALUES (264387);
-INSERT INTO item_paid_only (item_id) VALUES (264388);
-INSERT INTO item_paid_only (item_id) VALUES (264389);
-INSERT INTO item_paid_only (item_id) VALUES (264390);
-INSERT INTO item_paid_only (item_id) VALUES (264391);
-INSERT INTO item_paid_only (item_id) VALUES (264392);
-INSERT INTO item_paid_only (item_id) VALUES (264393);
-INSERT INTO item_paid_only (item_id) VALUES (264394);
-INSERT INTO item_paid_only (item_id) VALUES (264395);
-INSERT INTO item_paid_only (item_id) VALUES (264396);
-INSERT INTO item_paid_only (item_id) VALUES (264397);
-INSERT INTO item_paid_only (item_id) VALUES (264398);
-INSERT INTO item_paid_only (item_id) VALUES (264399);
-INSERT INTO item_paid_only (item_id) VALUES (264400);
-INSERT INTO item_paid_only (item_id) VALUES (264401);
-INSERT INTO item_paid_only (item_id) VALUES (264402);
-INSERT INTO item_paid_only (item_id) VALUES (264403);
-INSERT INTO item_paid_only (item_id) VALUES (264404);
-INSERT INTO item_paid_only (item_id) VALUES (264405);
-INSERT INTO item_paid_only (item_id) VALUES (264406);
-INSERT INTO item_paid_only (item_id) VALUES (264407);
-INSERT INTO item_paid_only (item_id) VALUES (264408);
-INSERT INTO item_paid_only (item_id) VALUES (264409);
-INSERT INTO item_paid_only (item_id) VALUES (264410);
-INSERT INTO item_paid_only (item_id) VALUES (264411);
-INSERT INTO item_paid_only (item_id) VALUES (264412);
-INSERT INTO item_paid_only (item_id) VALUES (264413);
-INSERT INTO item_paid_only (item_id) VALUES (264414);
-INSERT INTO item_paid_only (item_id) VALUES (264415);
-INSERT INTO item_paid_only (item_id) VALUES (264416);
-INSERT INTO item_paid_only (item_id) VALUES (264417);
-INSERT INTO item_paid_only (item_id) VALUES (264418);
-INSERT INTO item_paid_only (item_id) VALUES (264419);
-INSERT INTO item_paid_only (item_id) VALUES (264420);
-INSERT INTO item_paid_only (item_id) VALUES (264421);
-INSERT INTO item_paid_only (item_id) VALUES (264422);
-INSERT INTO item_paid_only (item_id) VALUES (264423);
-INSERT INTO item_paid_only (item_id) VALUES (264424);
-INSERT INTO item_paid_only (item_id) VALUES (264425);
-INSERT INTO item_paid_only (item_id) VALUES (264426);
-INSERT INTO item_paid_only (item_id) VALUES (264427);
-INSERT INTO item_paid_only (item_id) VALUES (264428);
-INSERT INTO item_paid_only (item_id) VALUES (264429);
-INSERT INTO item_paid_only (item_id) VALUES (264430);
-INSERT INTO item_paid_only (item_id) VALUES (264431);
-INSERT INTO item_paid_only (item_id) VALUES (264432);
-INSERT INTO item_paid_only (item_id) VALUES (264433);
-INSERT INTO item_paid_only (item_id) VALUES (264434);
-INSERT INTO item_paid_only (item_id) VALUES (264435);
-INSERT INTO item_paid_only (item_id) VALUES (264436);
-INSERT INTO item_paid_only (item_id) VALUES (264437);
-INSERT INTO item_paid_only (item_id) VALUES (264438);
-INSERT INTO item_paid_only (item_id) VALUES (264439);
-INSERT INTO item_paid_only (item_id) VALUES (264440);
-INSERT INTO item_paid_only (item_id) VALUES (264441);
-INSERT INTO item_paid_only (item_id) VALUES (264442);
-INSERT INTO item_paid_only (item_id) VALUES (264443);
-INSERT INTO item_paid_only (item_id) VALUES (264444);
-INSERT INTO item_paid_only (item_id) VALUES (264445);
-INSERT INTO item_paid_only (item_id) VALUES (264446);
-INSERT INTO item_paid_only (item_id) VALUES (264447);
-INSERT INTO item_paid_only (item_id) VALUES (264448);
-INSERT INTO item_paid_only (item_id) VALUES (264449);
-INSERT INTO item_paid_only (item_id) VALUES (264450);
-INSERT INTO item_paid_only (item_id) VALUES (264451);
-INSERT INTO item_paid_only (item_id) VALUES (264452);
-INSERT INTO item_paid_only (item_id) VALUES (264453);
-INSERT INTO item_paid_only (item_id) VALUES (264454);
-INSERT INTO item_paid_only (item_id) VALUES (264455);
-INSERT INTO item_paid_only (item_id) VALUES (264456);
-INSERT INTO item_paid_only (item_id) VALUES (264457);
-INSERT INTO item_paid_only (item_id) VALUES (264458);
-INSERT INTO item_paid_only (item_id) VALUES (264459);
-INSERT INTO item_paid_only (item_id) VALUES (264460);
-INSERT INTO item_paid_only (item_id) VALUES (264461);
-INSERT INTO item_paid_only (item_id) VALUES (264462);
-INSERT INTO item_paid_only (item_id) VALUES (264463);
-INSERT INTO item_paid_only (item_id) VALUES (264464);
-INSERT INTO item_paid_only (item_id) VALUES (264465);
-INSERT INTO item_paid_only (item_id) VALUES (264466);
-INSERT INTO item_paid_only (item_id) VALUES (264467);
-INSERT INTO item_paid_only (item_id) VALUES (264468);
-INSERT INTO item_paid_only (item_id) VALUES (264469);
-INSERT INTO item_paid_only (item_id) VALUES (264470);
-INSERT INTO item_paid_only (item_id) VALUES (264471);
-INSERT INTO item_paid_only (item_id) VALUES (264472);
-INSERT INTO item_paid_only (item_id) VALUES (264473);
-INSERT INTO item_paid_only (item_id) VALUES (264474);
-INSERT INTO item_paid_only (item_id) VALUES (264475);
-INSERT INTO item_paid_only (item_id) VALUES (264476);
-INSERT INTO item_paid_only (item_id) VALUES (264477);
-INSERT INTO item_paid_only (item_id) VALUES (264478);
-INSERT INTO item_paid_only (item_id) VALUES (264479);
-INSERT INTO item_paid_only (item_id) VALUES (264480);
-INSERT INTO item_paid_only (item_id) VALUES (264481);
-INSERT INTO item_paid_only (item_id) VALUES (264482);
-INSERT INTO item_paid_only (item_id) VALUES (264483);
-INSERT INTO item_paid_only (item_id) VALUES (264484);
-INSERT INTO item_paid_only (item_id) VALUES (264485);
-INSERT INTO item_paid_only (item_id) VALUES (264486);
-INSERT INTO item_paid_only (item_id) VALUES (264487);
-INSERT INTO item_paid_only (item_id) VALUES (264488);
-INSERT INTO item_paid_only (item_id) VALUES (264489);
-INSERT INTO item_paid_only (item_id) VALUES (264490);
-INSERT INTO item_paid_only (item_id) VALUES (264491);
-INSERT INTO item_paid_only (item_id) VALUES (264492);
-INSERT INTO item_paid_only (item_id) VALUES (264493);
-INSERT INTO item_paid_only (item_id) VALUES (264494);
-INSERT INTO item_paid_only (item_id) VALUES (264495);
-INSERT INTO item_paid_only (item_id) VALUES (264496);
-INSERT INTO item_paid_only (item_id) VALUES (264497);
-INSERT INTO item_paid_only (item_id) VALUES (264498);
-INSERT INTO item_paid_only (item_id) VALUES (264499);
-INSERT INTO item_paid_only (item_id) VALUES (264500);
-INSERT INTO item_paid_only (item_id) VALUES (264501);
-INSERT INTO item_paid_only (item_id) VALUES (264502);
-INSERT INTO item_paid_only (item_id) VALUES (264503);
-INSERT INTO item_paid_only (item_id) VALUES (264504);
-INSERT INTO item_paid_only (item_id) VALUES (264505);
-INSERT INTO item_paid_only (item_id) VALUES (264506);
-INSERT INTO item_paid_only (item_id) VALUES (264507);
-INSERT INTO item_paid_only (item_id) VALUES (264508);
-INSERT INTO item_paid_only (item_id) VALUES (264509);
-INSERT INTO item_paid_only (item_id) VALUES (264510);
-INSERT INTO item_paid_only (item_id) VALUES (264511);
-INSERT INTO item_paid_only (item_id) VALUES (264512);
-INSERT INTO item_paid_only (item_id) VALUES (264513);
-INSERT INTO item_paid_only (item_id) VALUES (264514);
-INSERT INTO item_paid_only (item_id) VALUES (264515);
-INSERT INTO item_paid_only (item_id) VALUES (264516);
-INSERT INTO item_paid_only (item_id) VALUES (264517);
-INSERT INTO item_paid_only (item_id) VALUES (264518);
-INSERT INTO item_paid_only (item_id) VALUES (264519);
-INSERT INTO item_paid_only (item_id) VALUES (264520);
-INSERT INTO item_paid_only (item_id) VALUES (264521);
-INSERT INTO item_paid_only (item_id) VALUES (264522);
-INSERT INTO item_paid_only (item_id) VALUES (264523);
-INSERT INTO item_paid_only (item_id) VALUES (264524);
-INSERT INTO item_paid_only (item_id) VALUES (264525);
-INSERT INTO item_paid_only (item_id) VALUES (264526);
-INSERT INTO item_paid_only (item_id) VALUES (264527);
-INSERT INTO item_paid_only (item_id) VALUES (264528);
-INSERT INTO item_paid_only (item_id) VALUES (264529);
-INSERT INTO item_paid_only (item_id) VALUES (264530);
-INSERT INTO item_paid_only (item_id) VALUES (264531);
-INSERT INTO item_paid_only (item_id) VALUES (264532);
-INSERT INTO item_paid_only (item_id) VALUES (264533);
-INSERT INTO item_paid_only (item_id) VALUES (264534);
-INSERT INTO item_paid_only (item_id) VALUES (264535);
-INSERT INTO item_paid_only (item_id) VALUES (264536);
-INSERT INTO item_paid_only (item_id) VALUES (264537);
-INSERT INTO item_paid_only (item_id) VALUES (264538);
-INSERT INTO item_paid_only (item_id) VALUES (264539);
-INSERT INTO item_paid_only (item_id) VALUES (264540);
-INSERT INTO item_paid_only (item_id) VALUES (264541);
-INSERT INTO item_paid_only (item_id) VALUES (264542);
-INSERT INTO item_paid_only (item_id) VALUES (264543);
-INSERT INTO item_paid_only (item_id) VALUES (264544);
-INSERT INTO item_paid_only (item_id) VALUES (264545);
-INSERT INTO item_paid_only (item_id) VALUES (264546);
-INSERT INTO item_paid_only (item_id) VALUES (264547);
-INSERT INTO item_paid_only (item_id) VALUES (264548);
-INSERT INTO item_paid_only (item_id) VALUES (264549);
-INSERT INTO item_paid_only (item_id) VALUES (264550);
-INSERT INTO item_paid_only (item_id) VALUES (264551);
-INSERT INTO item_paid_only (item_id) VALUES (264552);
-INSERT INTO item_paid_only (item_id) VALUES (264553);
-INSERT INTO item_paid_only (item_id) VALUES (264554);
-INSERT INTO item_paid_only (item_id) VALUES (264555);
-INSERT INTO item_paid_only (item_id) VALUES (264556);
-INSERT INTO item_paid_only (item_id) VALUES (264557);
-INSERT INTO item_paid_only (item_id) VALUES (264558);
-INSERT INTO item_paid_only (item_id) VALUES (264559);
-INSERT INTO item_paid_only (item_id) VALUES (264560);
-INSERT INTO item_paid_only (item_id) VALUES (264561);
-INSERT INTO item_paid_only (item_id) VALUES (264562);
-INSERT INTO item_paid_only (item_id) VALUES (264563);
-INSERT INTO item_paid_only (item_id) VALUES (264564);
-INSERT INTO item_paid_only (item_id) VALUES (264565);
-INSERT INTO item_paid_only (item_id) VALUES (264566);
-INSERT INTO item_paid_only (item_id) VALUES (264567);
-INSERT INTO item_paid_only (item_id) VALUES (264568);
-INSERT INTO item_paid_only (item_id) VALUES (264569);
-INSERT INTO item_paid_only (item_id) VALUES (264570);
-INSERT INTO item_paid_only (item_id) VALUES (264571);
-INSERT INTO item_paid_only (item_id) VALUES (264572);
-INSERT INTO item_paid_only (item_id) VALUES (264573);
-INSERT INTO item_paid_only (item_id) VALUES (264574);
-INSERT INTO item_paid_only (item_id) VALUES (264575);
-INSERT INTO item_paid_only (item_id) VALUES (264576);
-INSERT INTO item_paid_only (item_id) VALUES (264577);
-INSERT INTO item_paid_only (item_id) VALUES (264578);
-INSERT INTO item_paid_only (item_id) VALUES (264579);
-INSERT INTO item_paid_only (item_id) VALUES (264580);
-INSERT INTO item_paid_only (item_id) VALUES (264581);
-INSERT INTO item_paid_only (item_id) VALUES (264582);
-INSERT INTO item_paid_only (item_id) VALUES (264583);
-INSERT INTO item_paid_only (item_id) VALUES (264584);
-INSERT INTO item_paid_only (item_id) VALUES (264585);
-INSERT INTO item_paid_only (item_id) VALUES (264586);
-INSERT INTO item_paid_only (item_id) VALUES (264590);
-INSERT INTO item_paid_only (item_id) VALUES (264591);
-INSERT INTO item_paid_only (item_id) VALUES (264592);
-INSERT INTO item_paid_only (item_id) VALUES (264593);
-INSERT INTO item_paid_only (item_id) VALUES (264594);
-INSERT INTO item_paid_only (item_id) VALUES (264595);
-INSERT INTO item_paid_only (item_id) VALUES (264596);
-INSERT INTO item_paid_only (item_id) VALUES (264597);
-INSERT INTO item_paid_only (item_id) VALUES (264598);
-INSERT INTO item_paid_only (item_id) VALUES (264599);
-INSERT INTO item_paid_only (item_id) VALUES (264600);
-INSERT INTO item_paid_only (item_id) VALUES (264601);
-INSERT INTO item_paid_only (item_id) VALUES (264602);
-INSERT INTO item_paid_only (item_id) VALUES (264603);
-INSERT INTO item_paid_only (item_id) VALUES (264604);
-INSERT INTO item_paid_only (item_id) VALUES (264605);
-INSERT INTO item_paid_only (item_id) VALUES (264606);
-INSERT INTO item_paid_only (item_id) VALUES (264607);
-INSERT INTO item_paid_only (item_id) VALUES (264608);
-INSERT INTO item_paid_only (item_id) VALUES (264609);
-INSERT INTO item_paid_only (item_id) VALUES (264610);
-INSERT INTO item_paid_only (item_id) VALUES (264611);
-INSERT INTO item_paid_only (item_id) VALUES (264612);
-INSERT INTO item_paid_only (item_id) VALUES (264613);
-INSERT INTO item_paid_only (item_id) VALUES (264614);
-INSERT INTO item_paid_only (item_id) VALUES (264615);
-INSERT INTO item_paid_only (item_id) VALUES (264616);
-INSERT INTO item_paid_only (item_id) VALUES (264617);
-INSERT INTO item_paid_only (item_id) VALUES (264618);
-INSERT INTO item_paid_only (item_id) VALUES (264619);
-INSERT INTO item_paid_only (item_id) VALUES (264620);
-INSERT INTO item_paid_only (item_id) VALUES (264621);
-INSERT INTO item_paid_only (item_id) VALUES (264622);
-INSERT INTO item_paid_only (item_id) VALUES (264623);
-INSERT INTO item_paid_only (item_id) VALUES (264624);
-INSERT INTO item_paid_only (item_id) VALUES (264625);
-INSERT INTO item_paid_only (item_id) VALUES (264626);
-INSERT INTO item_paid_only (item_id) VALUES (264627);
-INSERT INTO item_paid_only (item_id) VALUES (264628);
-INSERT INTO item_paid_only (item_id) VALUES (264629);
-INSERT INTO item_paid_only (item_id) VALUES (264630);
-INSERT INTO item_paid_only (item_id) VALUES (264631);
-INSERT INTO item_paid_only (item_id) VALUES (264632);
-INSERT INTO item_paid_only (item_id) VALUES (264633);
-INSERT INTO item_paid_only (item_id) VALUES (264634);
-INSERT INTO item_paid_only (item_id) VALUES (264635);
-INSERT INTO item_paid_only (item_id) VALUES (264636);
-INSERT INTO item_paid_only (item_id) VALUES (264637);
-INSERT INTO item_paid_only (item_id) VALUES (264638);
-INSERT INTO item_paid_only (item_id) VALUES (264639);
-INSERT INTO item_paid_only (item_id) VALUES (264640);
-INSERT INTO item_paid_only (item_id) VALUES (264641);
-INSERT INTO item_paid_only (item_id) VALUES (264642);
-INSERT INTO item_paid_only (item_id) VALUES (264643);
-INSERT INTO item_paid_only (item_id) VALUES (264644);
-INSERT INTO item_paid_only (item_id) VALUES (264645);
-INSERT INTO item_paid_only (item_id) VALUES (264646);
-INSERT INTO item_paid_only (item_id) VALUES (264647);
-INSERT INTO item_paid_only (item_id) VALUES (264648);
-INSERT INTO item_paid_only (item_id) VALUES (264649);
-INSERT INTO item_paid_only (item_id) VALUES (264650);
-INSERT INTO item_paid_only (item_id) VALUES (264651);
-INSERT INTO item_paid_only (item_id) VALUES (264652);
-INSERT INTO item_paid_only (item_id) VALUES (264653);
-INSERT INTO item_paid_only (item_id) VALUES (264654);
-INSERT INTO item_paid_only (item_id) VALUES (264655);
-INSERT INTO item_paid_only (item_id) VALUES (264656);
-INSERT INTO item_paid_only (item_id) VALUES (264657);
-INSERT INTO item_paid_only (item_id) VALUES (264658);
-INSERT INTO item_paid_only (item_id) VALUES (264659);
-INSERT INTO item_paid_only (item_id) VALUES (264660);
-INSERT INTO item_paid_only (item_id) VALUES (264661);
-INSERT INTO item_paid_only (item_id) VALUES (264662);
-INSERT INTO item_paid_only (item_id) VALUES (264663);
-INSERT INTO item_paid_only (item_id) VALUES (264664);
-INSERT INTO item_paid_only (item_id) VALUES (264665);
-INSERT INTO item_paid_only (item_id) VALUES (264666);
-INSERT INTO item_paid_only (item_id) VALUES (264667);
-INSERT INTO item_paid_only (item_id) VALUES (264668);
-INSERT INTO item_paid_only (item_id) VALUES (264669);
-INSERT INTO item_paid_only (item_id) VALUES (264670);
-INSERT INTO item_paid_only (item_id) VALUES (264671);
-INSERT INTO item_paid_only (item_id) VALUES (264672);
-INSERT INTO item_paid_only (item_id) VALUES (264673);
-INSERT INTO item_paid_only (item_id) VALUES (264674);
-INSERT INTO item_paid_only (item_id) VALUES (264675);
-INSERT INTO item_paid_only (item_id) VALUES (264676);
-INSERT INTO item_paid_only (item_id) VALUES (264677);
-INSERT INTO item_paid_only (item_id) VALUES (264678);
-INSERT INTO item_paid_only (item_id) VALUES (264679);
-INSERT INTO item_paid_only (item_id) VALUES (264680);
-INSERT INTO item_paid_only (item_id) VALUES (264681);
-INSERT INTO item_paid_only (item_id) VALUES (264853);
-INSERT INTO item_paid_only (item_id) VALUES (264854);
-INSERT INTO item_paid_only (item_id) VALUES (264855);
-INSERT INTO item_paid_only (item_id) VALUES (264856);
-INSERT INTO item_paid_only (item_id) VALUES (264857);
-INSERT INTO item_paid_only (item_id) VALUES (264858);
-INSERT INTO item_paid_only (item_id) VALUES (264859);
-INSERT INTO item_paid_only (item_id) VALUES (264864);
-INSERT INTO item_paid_only (item_id) VALUES (264865);
-INSERT INTO item_paid_only (item_id) VALUES (264866);
-INSERT INTO item_paid_only (item_id) VALUES (264867);
-INSERT INTO item_paid_only (item_id) VALUES (264868);
-INSERT INTO item_paid_only (item_id) VALUES (264869);
-INSERT INTO item_paid_only (item_id) VALUES (264870);
-INSERT INTO item_paid_only (item_id) VALUES (264871);
-INSERT INTO item_paid_only (item_id) VALUES (264872);
-INSERT INTO item_paid_only (item_id) VALUES (264873);
-INSERT INTO item_paid_only (item_id) VALUES (264874);
-INSERT INTO item_paid_only (item_id) VALUES (264875);
-INSERT INTO item_paid_only (item_id) VALUES (264876);
-INSERT INTO item_paid_only (item_id) VALUES (264877);
-INSERT INTO item_paid_only (item_id) VALUES (264878);
-INSERT INTO item_paid_only (item_id) VALUES (264879);
-INSERT INTO item_paid_only (item_id) VALUES (264880);
-INSERT INTO item_paid_only (item_id) VALUES (264881);
-INSERT INTO item_paid_only (item_id) VALUES (264882);
-INSERT INTO item_paid_only (item_id) VALUES (264883);
-INSERT INTO item_paid_only (item_id) VALUES (264884);
-INSERT INTO item_paid_only (item_id) VALUES (264885);
-INSERT INTO item_paid_only (item_id) VALUES (264886);
-INSERT INTO item_paid_only (item_id) VALUES (264887);
-INSERT INTO item_paid_only (item_id) VALUES (264888);
-INSERT INTO item_paid_only (item_id) VALUES (264889);
-INSERT INTO item_paid_only (item_id) VALUES (264890);
-INSERT INTO item_paid_only (item_id) VALUES (264891);
-INSERT INTO item_paid_only (item_id) VALUES (264892);
-INSERT INTO item_paid_only (item_id) VALUES (264893);
-INSERT INTO item_paid_only (item_id) VALUES (264894);
-INSERT INTO item_paid_only (item_id) VALUES (264895);
-INSERT INTO item_paid_only (item_id) VALUES (264896);
-INSERT INTO item_paid_only (item_id) VALUES (264897);
-INSERT INTO item_paid_only (item_id) VALUES (264898);
-INSERT INTO item_paid_only (item_id) VALUES (264901);
-INSERT INTO item_paid_only (item_id) VALUES (264902);
-INSERT INTO item_paid_only (item_id) VALUES (264903);
-INSERT INTO item_paid_only (item_id) VALUES (264904);
-INSERT INTO item_paid_only (item_id) VALUES (264905);
-INSERT INTO item_paid_only (item_id) VALUES (264906);
-INSERT INTO item_paid_only (item_id) VALUES (264907);
-INSERT INTO item_paid_only (item_id) VALUES (264908);
-INSERT INTO item_paid_only (item_id) VALUES (264909);
-INSERT INTO item_paid_only (item_id) VALUES (264910);
-INSERT INTO item_paid_only (item_id) VALUES (264911);
-INSERT INTO item_paid_only (item_id) VALUES (264912);
-INSERT INTO item_paid_only (item_id) VALUES (264913);
-INSERT INTO item_paid_only (item_id) VALUES (264914);
-INSERT INTO item_paid_only (item_id) VALUES (264915);
-INSERT INTO item_paid_only (item_id) VALUES (264916);
-INSERT INTO item_paid_only (item_id) VALUES (264917);
-INSERT INTO item_paid_only (item_id) VALUES (264918);
-INSERT INTO item_paid_only (item_id) VALUES (264919);
-INSERT INTO item_paid_only (item_id) VALUES (264920);
-INSERT INTO item_paid_only (item_id) VALUES (264921);
-INSERT INTO item_paid_only (item_id) VALUES (264922);
-INSERT INTO item_paid_only (item_id) VALUES (264923);
-INSERT INTO item_paid_only (item_id) VALUES (264924);
-INSERT INTO item_paid_only (item_id) VALUES (264925);
-INSERT INTO item_paid_only (item_id) VALUES (264926);
-INSERT INTO item_paid_only (item_id) VALUES (264927);
-INSERT INTO item_paid_only (item_id) VALUES (264928);
-INSERT INTO item_paid_only (item_id) VALUES (264929);
-INSERT INTO item_paid_only (item_id) VALUES (264930);
-INSERT INTO item_paid_only (item_id) VALUES (264931);
-INSERT INTO item_paid_only (item_id) VALUES (264932);
-INSERT INTO item_paid_only (item_id) VALUES (264933);
-INSERT INTO item_paid_only (item_id) VALUES (264934);
-INSERT INTO item_paid_only (item_id) VALUES (264935);
-INSERT INTO item_paid_only (item_id) VALUES (264936);
-INSERT INTO item_paid_only (item_id) VALUES (264937);
-INSERT INTO item_paid_only (item_id) VALUES (264938);
-INSERT INTO item_paid_only (item_id) VALUES (264939);
-INSERT INTO item_paid_only (item_id) VALUES (264940);
-INSERT INTO item_paid_only (item_id) VALUES (264941);
-INSERT INTO item_paid_only (item_id) VALUES (264942);
-INSERT INTO item_paid_only (item_id) VALUES (264943);
-INSERT INTO item_paid_only (item_id) VALUES (264944);
-INSERT INTO item_paid_only (item_id) VALUES (264945);
-INSERT INTO item_paid_only (item_id) VALUES (264946);
-INSERT INTO item_paid_only (item_id) VALUES (264947);
-INSERT INTO item_paid_only (item_id) VALUES (264948);
-INSERT INTO item_paid_only (item_id) VALUES (264949);
-INSERT INTO item_paid_only (item_id) VALUES (264950);
-INSERT INTO item_paid_only (item_id) VALUES (264951);
-INSERT INTO item_paid_only (item_id) VALUES (264952);
-INSERT INTO item_paid_only (item_id) VALUES (264953);
-INSERT INTO item_paid_only (item_id) VALUES (264954);
-INSERT INTO item_paid_only (item_id) VALUES (264955);
-INSERT INTO item_paid_only (item_id) VALUES (264956);
-INSERT INTO item_paid_only (item_id) VALUES (264957);
-INSERT INTO item_paid_only (item_id) VALUES (264958);
-INSERT INTO item_paid_only (item_id) VALUES (264959);
-INSERT INTO item_paid_only (item_id) VALUES (264960);
-INSERT INTO item_paid_only (item_id) VALUES (264961);
-INSERT INTO item_paid_only (item_id) VALUES (264962);
-INSERT INTO item_paid_only (item_id) VALUES (264963);
-INSERT INTO item_paid_only (item_id) VALUES (264964);
-INSERT INTO item_paid_only (item_id) VALUES (264965);
-INSERT INTO item_paid_only (item_id) VALUES (264966);
-INSERT INTO item_paid_only (item_id) VALUES (264967);
-INSERT INTO item_paid_only (item_id) VALUES (264968);
-INSERT INTO item_paid_only (item_id) VALUES (264969);
-INSERT INTO item_paid_only (item_id) VALUES (264970);
-INSERT INTO item_paid_only (item_id) VALUES (264971);
-INSERT INTO item_paid_only (item_id) VALUES (264972);
-INSERT INTO item_paid_only (item_id) VALUES (264973);
-INSERT INTO item_paid_only (item_id) VALUES (264974);
-INSERT INTO item_paid_only (item_id) VALUES (264975);
-INSERT INTO item_paid_only (item_id) VALUES (264976);
-INSERT INTO item_paid_only (item_id) VALUES (264977);
-INSERT INTO item_paid_only (item_id) VALUES (264978);
-INSERT INTO item_paid_only (item_id) VALUES (264979);
-INSERT INTO item_paid_only (item_id) VALUES (264980);
-INSERT INTO item_paid_only (item_id) VALUES (264981);
-INSERT INTO item_paid_only (item_id) VALUES (264982);
-INSERT INTO item_paid_only (item_id) VALUES (264983);
-INSERT INTO item_paid_only (item_id) VALUES (264984);
-INSERT INTO item_paid_only (item_id) VALUES (264985);
-INSERT INTO item_paid_only (item_id) VALUES (264986);
-INSERT INTO item_paid_only (item_id) VALUES (264987);
-INSERT INTO item_paid_only (item_id) VALUES (264988);
-INSERT INTO item_paid_only (item_id) VALUES (264989);
-INSERT INTO item_paid_only (item_id) VALUES (264990);
-INSERT INTO item_paid_only (item_id) VALUES (264991);
-INSERT INTO item_paid_only (item_id) VALUES (264992);
-INSERT INTO item_paid_only (item_id) VALUES (264993);
-INSERT INTO item_paid_only (item_id) VALUES (264994);
-INSERT INTO item_paid_only (item_id) VALUES (264995);
-INSERT INTO item_paid_only (item_id) VALUES (264996);
-INSERT INTO item_paid_only (item_id) VALUES (264997);
-INSERT INTO item_paid_only (item_id) VALUES (264998);
-INSERT INTO item_paid_only (item_id) VALUES (264999);
-INSERT INTO item_paid_only (item_id) VALUES (265000);
-INSERT INTO item_paid_only (item_id) VALUES (265001);
-INSERT INTO item_paid_only (item_id) VALUES (265002);
-INSERT INTO item_paid_only (item_id) VALUES (265003);
-INSERT INTO item_paid_only (item_id) VALUES (265004);
-INSERT INTO item_paid_only (item_id) VALUES (265005);
-INSERT INTO item_paid_only (item_id) VALUES (265006);
-INSERT INTO item_paid_only (item_id) VALUES (265007);
-INSERT INTO item_paid_only (item_id) VALUES (265008);
-INSERT INTO item_paid_only (item_id) VALUES (265009);
-INSERT INTO item_paid_only (item_id) VALUES (265010);
-INSERT INTO item_paid_only (item_id) VALUES (265011);
-INSERT INTO item_paid_only (item_id) VALUES (265012);
-INSERT INTO item_paid_only (item_id) VALUES (265013);
-INSERT INTO item_paid_only (item_id) VALUES (265014);
-INSERT INTO item_paid_only (item_id) VALUES (265015);
-INSERT INTO item_paid_only (item_id) VALUES (265016);
-INSERT INTO item_paid_only (item_id) VALUES (265017);
-INSERT INTO item_paid_only (item_id) VALUES (265018);
-INSERT INTO item_paid_only (item_id) VALUES (265019);
-INSERT INTO item_paid_only (item_id) VALUES (265020);
-INSERT INTO item_paid_only (item_id) VALUES (265021);
-INSERT INTO item_paid_only (item_id) VALUES (265022);
-INSERT INTO item_paid_only (item_id) VALUES (265023);
-INSERT INTO item_paid_only (item_id) VALUES (265024);
-INSERT INTO item_paid_only (item_id) VALUES (265025);
-INSERT INTO item_paid_only (item_id) VALUES (265026);
-INSERT INTO item_paid_only (item_id) VALUES (265027);
-INSERT INTO item_paid_only (item_id) VALUES (265028);
-INSERT INTO item_paid_only (item_id) VALUES (265029);
-INSERT INTO item_paid_only (item_id) VALUES (265030);
-INSERT INTO item_paid_only (item_id) VALUES (265031);
-INSERT INTO item_paid_only (item_id) VALUES (265032);
-INSERT INTO item_paid_only (item_id) VALUES (265033);
-INSERT INTO item_paid_only (item_id) VALUES (265034);
-INSERT INTO item_paid_only (item_id) VALUES (265035);
-INSERT INTO item_paid_only (item_id) VALUES (265036);
-INSERT INTO item_paid_only (item_id) VALUES (265037);
-INSERT INTO item_paid_only (item_id) VALUES (265038);
-INSERT INTO item_paid_only (item_id) VALUES (265039);
-INSERT INTO item_paid_only (item_id) VALUES (265040);
-INSERT INTO item_paid_only (item_id) VALUES (265041);
-INSERT INTO item_paid_only (item_id) VALUES (265042);
-INSERT INTO item_paid_only (item_id) VALUES (265043);
-INSERT INTO item_paid_only (item_id) VALUES (265044);
-INSERT INTO item_paid_only (item_id) VALUES (265045);
-INSERT INTO item_paid_only (item_id) VALUES (265046);
-INSERT INTO item_paid_only (item_id) VALUES (265047);
-INSERT INTO item_paid_only (item_id) VALUES (265048);
-INSERT INTO item_paid_only (item_id) VALUES (265049);
-INSERT INTO item_paid_only (item_id) VALUES (265050);
-INSERT INTO item_paid_only (item_id) VALUES (265051);
-INSERT INTO item_paid_only (item_id) VALUES (265052);
-INSERT INTO item_paid_only (item_id) VALUES (265053);
-INSERT INTO item_paid_only (item_id) VALUES (265054);
-INSERT INTO item_paid_only (item_id) VALUES (265055);
-INSERT INTO item_paid_only (item_id) VALUES (265056);
-INSERT INTO item_paid_only (item_id) VALUES (265057);
-INSERT INTO item_paid_only (item_id) VALUES (265058);
-INSERT INTO item_paid_only (item_id) VALUES (265059);
-INSERT INTO item_paid_only (item_id) VALUES (265060);
-INSERT INTO item_paid_only (item_id) VALUES (265061);
-INSERT INTO item_paid_only (item_id) VALUES (265062);
-INSERT INTO item_paid_only (item_id) VALUES (265063);
-INSERT INTO item_paid_only (item_id) VALUES (265064);
-INSERT INTO item_paid_only (item_id) VALUES (265065);
-INSERT INTO item_paid_only (item_id) VALUES (265066);
-INSERT INTO item_paid_only (item_id) VALUES (265067);
-INSERT INTO item_paid_only (item_id) VALUES (265068);
-INSERT INTO item_paid_only (item_id) VALUES (265069);
-INSERT INTO item_paid_only (item_id) VALUES (265070);
-INSERT INTO item_paid_only (item_id) VALUES (265071);
-INSERT INTO item_paid_only (item_id) VALUES (265072);
-INSERT INTO item_paid_only (item_id) VALUES (265073);
-INSERT INTO item_paid_only (item_id) VALUES (265074);
-INSERT INTO item_paid_only (item_id) VALUES (265075);
-INSERT INTO item_paid_only (item_id) VALUES (265076);
-INSERT INTO item_paid_only (item_id) VALUES (265077);
-INSERT INTO item_paid_only (item_id) VALUES (265078);
-INSERT INTO item_paid_only (item_id) VALUES (265079);
-INSERT INTO item_paid_only (item_id) VALUES (265080);
-INSERT INTO item_paid_only (item_id) VALUES (265081);
-INSERT INTO item_paid_only (item_id) VALUES (265082);
-INSERT INTO item_paid_only (item_id) VALUES (265083);
-INSERT INTO item_paid_only (item_id) VALUES (265084);
-INSERT INTO item_paid_only (item_id) VALUES (265085);
-INSERT INTO item_paid_only (item_id) VALUES (265086);
-INSERT INTO item_paid_only (item_id) VALUES (265087);
-INSERT INTO item_paid_only (item_id) VALUES (265088);
-INSERT INTO item_paid_only (item_id) VALUES (265089);
-INSERT INTO item_paid_only (item_id) VALUES (265090);
-INSERT INTO item_paid_only (item_id) VALUES (265091);
-INSERT INTO item_paid_only (item_id) VALUES (265092);
-INSERT INTO item_paid_only (item_id) VALUES (265093);
-INSERT INTO item_paid_only (item_id) VALUES (265094);
-INSERT INTO item_paid_only (item_id) VALUES (265095);
-INSERT INTO item_paid_only (item_id) VALUES (265096);
-INSERT INTO item_paid_only (item_id) VALUES (265097);
-INSERT INTO item_paid_only (item_id) VALUES (265098);
-INSERT INTO item_paid_only (item_id) VALUES (265099);
-INSERT INTO item_paid_only (item_id) VALUES (265100);
-INSERT INTO item_paid_only (item_id) VALUES (265101);
-INSERT INTO item_paid_only (item_id) VALUES (265102);
-INSERT INTO item_paid_only (item_id) VALUES (265103);
-INSERT INTO item_paid_only (item_id) VALUES (265104);
-INSERT INTO item_paid_only (item_id) VALUES (265105);
-INSERT INTO item_paid_only (item_id) VALUES (265106);
-INSERT INTO item_paid_only (item_id) VALUES (265107);
-INSERT INTO item_paid_only (item_id) VALUES (265108);
-INSERT INTO item_paid_only (item_id) VALUES (265109);
-INSERT INTO item_paid_only (item_id) VALUES (265110);
-INSERT INTO item_paid_only (item_id) VALUES (265111);
-INSERT INTO item_paid_only (item_id) VALUES (265112);
-INSERT INTO item_paid_only (item_id) VALUES (265113);
-INSERT INTO item_paid_only (item_id) VALUES (265114);
-INSERT INTO item_paid_only (item_id) VALUES (265115);
-INSERT INTO item_paid_only (item_id) VALUES (265116);
-INSERT INTO item_paid_only (item_id) VALUES (265117);
-INSERT INTO item_paid_only (item_id) VALUES (265118);
-INSERT INTO item_paid_only (item_id) VALUES (265119);
-INSERT INTO item_paid_only (item_id) VALUES (265120);
-INSERT INTO item_paid_only (item_id) VALUES (265121);
-INSERT INTO item_paid_only (item_id) VALUES (265122);
-INSERT INTO item_paid_only (item_id) VALUES (265123);
-INSERT INTO item_paid_only (item_id) VALUES (265124);
-INSERT INTO item_paid_only (item_id) VALUES (265125);
-INSERT INTO item_paid_only (item_id) VALUES (265126);
-INSERT INTO item_paid_only (item_id) VALUES (265127);
-INSERT INTO item_paid_only (item_id) VALUES (265128);
-INSERT INTO item_paid_only (item_id) VALUES (265129);
-INSERT INTO item_paid_only (item_id) VALUES (265130);
-INSERT INTO item_paid_only (item_id) VALUES (265131);
-INSERT INTO item_paid_only (item_id) VALUES (265132);
-INSERT INTO item_paid_only (item_id) VALUES (265133);
-INSERT INTO item_paid_only (item_id) VALUES (265134);
-INSERT INTO item_paid_only (item_id) VALUES (265135);
-INSERT INTO item_paid_only (item_id) VALUES (265136);
-INSERT INTO item_paid_only (item_id) VALUES (265137);
-INSERT INTO item_paid_only (item_id) VALUES (265138);
-INSERT INTO item_paid_only (item_id) VALUES (265139);
-INSERT INTO item_paid_only (item_id) VALUES (265140);
-INSERT INTO item_paid_only (item_id) VALUES (265141);
-INSERT INTO item_paid_only (item_id) VALUES (265142);
-INSERT INTO item_paid_only (item_id) VALUES (265143);
-INSERT INTO item_paid_only (item_id) VALUES (265144);
-INSERT INTO item_paid_only (item_id) VALUES (265145);
-INSERT INTO item_paid_only (item_id) VALUES (265146);
-INSERT INTO item_paid_only (item_id) VALUES (265147);
-INSERT INTO item_paid_only (item_id) VALUES (265148);
-INSERT INTO item_paid_only (item_id) VALUES (265149);
-INSERT INTO item_paid_only (item_id) VALUES (265150);
-INSERT INTO item_paid_only (item_id) VALUES (265151);
-INSERT INTO item_paid_only (item_id) VALUES (265152);
-INSERT INTO item_paid_only (item_id) VALUES (265153);
-INSERT INTO item_paid_only (item_id) VALUES (265154);
-INSERT INTO item_paid_only (item_id) VALUES (265155);
-INSERT INTO item_paid_only (item_id) VALUES (265156);
-INSERT INTO item_paid_only (item_id) VALUES (265157);
-INSERT INTO item_paid_only (item_id) VALUES (265158);
-INSERT INTO item_paid_only (item_id) VALUES (265159);
-INSERT INTO item_paid_only (item_id) VALUES (265160);
-INSERT INTO item_paid_only (item_id) VALUES (265161);
-INSERT INTO item_paid_only (item_id) VALUES (265162);
-INSERT INTO item_paid_only (item_id) VALUES (265163);
-INSERT INTO item_paid_only (item_id) VALUES (265164);
-INSERT INTO item_paid_only (item_id) VALUES (265165);
-INSERT INTO item_paid_only (item_id) VALUES (265166);
-INSERT INTO item_paid_only (item_id) VALUES (265167);
-INSERT INTO item_paid_only (item_id) VALUES (265168);
-INSERT INTO item_paid_only (item_id) VALUES (265169);
-INSERT INTO item_paid_only (item_id) VALUES (265170);
-INSERT INTO item_paid_only (item_id) VALUES (265171);
-INSERT INTO item_paid_only (item_id) VALUES (265172);
-INSERT INTO item_paid_only (item_id) VALUES (265173);
-INSERT INTO item_paid_only (item_id) VALUES (265174);
-INSERT INTO item_paid_only (item_id) VALUES (265175);
-INSERT INTO item_paid_only (item_id) VALUES (265176);
-INSERT INTO item_paid_only (item_id) VALUES (265177);
-INSERT INTO item_paid_only (item_id) VALUES (265178);
-INSERT INTO item_paid_only (item_id) VALUES (265179);
-INSERT INTO item_paid_only (item_id) VALUES (265180);
-INSERT INTO item_paid_only (item_id) VALUES (265181);
-INSERT INTO item_paid_only (item_id) VALUES (265182);
-INSERT INTO item_paid_only (item_id) VALUES (265183);
-INSERT INTO item_paid_only (item_id) VALUES (265184);
-INSERT INTO item_paid_only (item_id) VALUES (265185);
-INSERT INTO item_paid_only (item_id) VALUES (265186);
-INSERT INTO item_paid_only (item_id) VALUES (265187);
-INSERT INTO item_paid_only (item_id) VALUES (265188);
-INSERT INTO item_paid_only (item_id) VALUES (265189);
-INSERT INTO item_paid_only (item_id) VALUES (265190);
-INSERT INTO item_paid_only (item_id) VALUES (265191);
-INSERT INTO item_paid_only (item_id) VALUES (265192);
-INSERT INTO item_paid_only (item_id) VALUES (265193);
-INSERT INTO item_paid_only (item_id) VALUES (265194);
-INSERT INTO item_paid_only (item_id) VALUES (265195);
-INSERT INTO item_paid_only (item_id) VALUES (265196);
-INSERT INTO item_paid_only (item_id) VALUES (265197);
-INSERT INTO item_paid_only (item_id) VALUES (265198);
-INSERT INTO item_paid_only (item_id) VALUES (265199);
-INSERT INTO item_paid_only (item_id) VALUES (265200);
-INSERT INTO item_paid_only (item_id) VALUES (265201);
-INSERT INTO item_paid_only (item_id) VALUES (265202);
-INSERT INTO item_paid_only (item_id) VALUES (265203);
-INSERT INTO item_paid_only (item_id) VALUES (265204);
-INSERT INTO item_paid_only (item_id) VALUES (265205);
-INSERT INTO item_paid_only (item_id) VALUES (265206);
-INSERT INTO item_paid_only (item_id) VALUES (265207);
-INSERT INTO item_paid_only (item_id) VALUES (265208);
-INSERT INTO item_paid_only (item_id) VALUES (265209);
-INSERT INTO item_paid_only (item_id) VALUES (265210);
-INSERT INTO item_paid_only (item_id) VALUES (265211);
-INSERT INTO item_paid_only (item_id) VALUES (265212);
-INSERT INTO item_paid_only (item_id) VALUES (265213);
-INSERT INTO item_paid_only (item_id) VALUES (265214);
-INSERT INTO item_paid_only (item_id) VALUES (265215);
-INSERT INTO item_paid_only (item_id) VALUES (265216);
-INSERT INTO item_paid_only (item_id) VALUES (265217);
-INSERT INTO item_paid_only (item_id) VALUES (265218);
-INSERT INTO item_paid_only (item_id) VALUES (265219);
-INSERT INTO item_paid_only (item_id) VALUES (265220);
-INSERT INTO item_paid_only (item_id) VALUES (265221);
-INSERT INTO item_paid_only (item_id) VALUES (265222);
-INSERT INTO item_paid_only (item_id) VALUES (265223);
-INSERT INTO item_paid_only (item_id) VALUES (265224);
-INSERT INTO item_paid_only (item_id) VALUES (265225);
-INSERT INTO item_paid_only (item_id) VALUES (265226);
-INSERT INTO item_paid_only (item_id) VALUES (265227);
-INSERT INTO item_paid_only (item_id) VALUES (265228);
-INSERT INTO item_paid_only (item_id) VALUES (265229);
-INSERT INTO item_paid_only (item_id) VALUES (265230);
-INSERT INTO item_paid_only (item_id) VALUES (265231);
-INSERT INTO item_paid_only (item_id) VALUES (265232);
-INSERT INTO item_paid_only (item_id) VALUES (265233);
-INSERT INTO item_paid_only (item_id) VALUES (265234);
-INSERT INTO item_paid_only (item_id) VALUES (265235);
-INSERT INTO item_paid_only (item_id) VALUES (265236);
-INSERT INTO item_paid_only (item_id) VALUES (265237);
-INSERT INTO item_paid_only (item_id) VALUES (265238);
-INSERT INTO item_paid_only (item_id) VALUES (265239);
-INSERT INTO item_paid_only (item_id) VALUES (265240);
-INSERT INTO item_paid_only (item_id) VALUES (265241);
-INSERT INTO item_paid_only (item_id) VALUES (265242);
-INSERT INTO item_paid_only (item_id) VALUES (265243);
-INSERT INTO item_paid_only (item_id) VALUES (265244);
-INSERT INTO item_paid_only (item_id) VALUES (265245);
-INSERT INTO item_paid_only (item_id) VALUES (265246);
-INSERT INTO item_paid_only (item_id) VALUES (265247);
-INSERT INTO item_paid_only (item_id) VALUES (265248);
-INSERT INTO item_paid_only (item_id) VALUES (265249);
-INSERT INTO item_paid_only (item_id) VALUES (265250);
-INSERT INTO item_paid_only (item_id) VALUES (265251);
-INSERT INTO item_paid_only (item_id) VALUES (265252);
-INSERT INTO item_paid_only (item_id) VALUES (265253);
-INSERT INTO item_paid_only (item_id) VALUES (265254);
-INSERT INTO item_paid_only (item_id) VALUES (265255);
-INSERT INTO item_paid_only (item_id) VALUES (265256);
-INSERT INTO item_paid_only (item_id) VALUES (265257);
-INSERT INTO item_paid_only (item_id) VALUES (265258);
-INSERT INTO item_paid_only (item_id) VALUES (265259);
-INSERT INTO item_paid_only (item_id) VALUES (265260);
-INSERT INTO item_paid_only (item_id) VALUES (265261);
-INSERT INTO item_paid_only (item_id) VALUES (265262);
-INSERT INTO item_paid_only (item_id) VALUES (265263);
-INSERT INTO item_paid_only (item_id) VALUES (265264);
-INSERT INTO item_paid_only (item_id) VALUES (265265);
-INSERT INTO item_paid_only (item_id) VALUES (265266);
-INSERT INTO item_paid_only (item_id) VALUES (265267);
-INSERT INTO item_paid_only (item_id) VALUES (265268);
-INSERT INTO item_paid_only (item_id) VALUES (265269);
-INSERT INTO item_paid_only (item_id) VALUES (265270);
-INSERT INTO item_paid_only (item_id) VALUES (265271);
-INSERT INTO item_paid_only (item_id) VALUES (265272);
-INSERT INTO item_paid_only (item_id) VALUES (265273);
-INSERT INTO item_paid_only (item_id) VALUES (265274);
-INSERT INTO item_paid_only (item_id) VALUES (265275);
-INSERT INTO item_paid_only (item_id) VALUES (265276);
-INSERT INTO item_paid_only (item_id) VALUES (265277);
-INSERT INTO item_paid_only (item_id) VALUES (265278);
-INSERT INTO item_paid_only (item_id) VALUES (265279);
-INSERT INTO item_paid_only (item_id) VALUES (265280);
-INSERT INTO item_paid_only (item_id) VALUES (265281);
-INSERT INTO item_paid_only (item_id) VALUES (265282);
-INSERT INTO item_paid_only (item_id) VALUES (265283);
-INSERT INTO item_paid_only (item_id) VALUES (265284);
-INSERT INTO item_paid_only (item_id) VALUES (265285);
-INSERT INTO item_paid_only (item_id) VALUES (265286);
-INSERT INTO item_paid_only (item_id) VALUES (265287);
-INSERT INTO item_paid_only (item_id) VALUES (265288);
-INSERT INTO item_paid_only (item_id) VALUES (265289);
-INSERT INTO item_paid_only (item_id) VALUES (265290);
-INSERT INTO item_paid_only (item_id) VALUES (265291);
-INSERT INTO item_paid_only (item_id) VALUES (265292);
-INSERT INTO item_paid_only (item_id) VALUES (265293);
-INSERT INTO item_paid_only (item_id) VALUES (265294);
-INSERT INTO item_paid_only (item_id) VALUES (265295);
-INSERT INTO item_paid_only (item_id) VALUES (265296);
-INSERT INTO item_paid_only (item_id) VALUES (265297);
-INSERT INTO item_paid_only (item_id) VALUES (265298);
-INSERT INTO item_paid_only (item_id) VALUES (265299);
-INSERT INTO item_paid_only (item_id) VALUES (265300);
-INSERT INTO item_paid_only (item_id) VALUES (265301);
-INSERT INTO item_paid_only (item_id) VALUES (265302);
-INSERT INTO item_paid_only (item_id) VALUES (265303);
-INSERT INTO item_paid_only (item_id) VALUES (265304);
-INSERT INTO item_paid_only (item_id) VALUES (265305);
-INSERT INTO item_paid_only (item_id) VALUES (265306);
-INSERT INTO item_paid_only (item_id) VALUES (265307);
-INSERT INTO item_paid_only (item_id) VALUES (265308);
-INSERT INTO item_paid_only (item_id) VALUES (265309);
-INSERT INTO item_paid_only (item_id) VALUES (265310);
-INSERT INTO item_paid_only (item_id) VALUES (265311);
-INSERT INTO item_paid_only (item_id) VALUES (265312);
-INSERT INTO item_paid_only (item_id) VALUES (265313);
-INSERT INTO item_paid_only (item_id) VALUES (265314);
-INSERT INTO item_paid_only (item_id) VALUES (265315);
-INSERT INTO item_paid_only (item_id) VALUES (265316);
-INSERT INTO item_paid_only (item_id) VALUES (265317);
-INSERT INTO item_paid_only (item_id) VALUES (265318);
-INSERT INTO item_paid_only (item_id) VALUES (265319);
-INSERT INTO item_paid_only (item_id) VALUES (265320);
-INSERT INTO item_paid_only (item_id) VALUES (265441);
-INSERT INTO item_paid_only (item_id) VALUES (265442);
-INSERT INTO item_paid_only (item_id) VALUES (265443);
-INSERT INTO item_paid_only (item_id) VALUES (265444);
-INSERT INTO item_paid_only (item_id) VALUES (265445);
-INSERT INTO item_paid_only (item_id) VALUES (265446);
-INSERT INTO item_paid_only (item_id) VALUES (265447);
-INSERT INTO item_paid_only (item_id) VALUES (265448);
-INSERT INTO item_paid_only (item_id) VALUES (265449);
-INSERT INTO item_paid_only (item_id) VALUES (265450);
-INSERT INTO item_paid_only (item_id) VALUES (265451);
-INSERT INTO item_paid_only (item_id) VALUES (265452);
-INSERT INTO item_paid_only (item_id) VALUES (265453);
-INSERT INTO item_paid_only (item_id) VALUES (265454);
-INSERT INTO item_paid_only (item_id) VALUES (265455);
-INSERT INTO item_paid_only (item_id) VALUES (265456);
-INSERT INTO item_paid_only (item_id) VALUES (265457);
-INSERT INTO item_paid_only (item_id) VALUES (265458);
-INSERT INTO item_paid_only (item_id) VALUES (265459);
-INSERT INTO item_paid_only (item_id) VALUES (265460);
-INSERT INTO item_paid_only (item_id) VALUES (265461);
-INSERT INTO item_paid_only (item_id) VALUES (265462);
-INSERT INTO item_paid_only (item_id) VALUES (265463);
-INSERT INTO item_paid_only (item_id) VALUES (265464);
-INSERT INTO item_paid_only (item_id) VALUES (265465);
-INSERT INTO item_paid_only (item_id) VALUES (265466);
-INSERT INTO item_paid_only (item_id) VALUES (265467);
-INSERT INTO item_paid_only (item_id) VALUES (265468);
-INSERT INTO item_paid_only (item_id) VALUES (265469);
-INSERT INTO item_paid_only (item_id) VALUES (265470);
-INSERT INTO item_paid_only (item_id) VALUES (265471);
-INSERT INTO item_paid_only (item_id) VALUES (265480);
-INSERT INTO item_paid_only (item_id) VALUES (266103);
-INSERT INTO item_paid_only (item_id) VALUES (266228);
-INSERT INTO item_paid_only (item_id) VALUES (266281);
-INSERT INTO item_paid_only (item_id) VALUES (266282);
-INSERT INTO item_paid_only (item_id) VALUES (266283);
-INSERT INTO item_paid_only (item_id) VALUES (266284);
-INSERT INTO item_paid_only (item_id) VALUES (266285);
-INSERT INTO item_paid_only (item_id) VALUES (266286);
-INSERT INTO item_paid_only (item_id) VALUES (266287);
-INSERT INTO item_paid_only (item_id) VALUES (266288);
-INSERT INTO item_paid_only (item_id) VALUES (266289);
-INSERT INTO item_paid_only (item_id) VALUES (266290);
-INSERT INTO item_paid_only (item_id) VALUES (266291);
-INSERT INTO item_paid_only (item_id) VALUES (266292);
-INSERT INTO item_paid_only (item_id) VALUES (266293);
-INSERT INTO item_paid_only (item_id) VALUES (266294);
-INSERT INTO item_paid_only (item_id) VALUES (266295);
-INSERT INTO item_paid_only (item_id) VALUES (266296);
-INSERT INTO item_paid_only (item_id) VALUES (266297);
-INSERT INTO item_paid_only (item_id) VALUES (266298);
-INSERT INTO item_paid_only (item_id) VALUES (266299);
-INSERT INTO item_paid_only (item_id) VALUES (266300);
-INSERT INTO item_paid_only (item_id) VALUES (266301);
-INSERT INTO item_paid_only (item_id) VALUES (266302);
-INSERT INTO item_paid_only (item_id) VALUES (266303);
-INSERT INTO item_paid_only (item_id) VALUES (266304);
-INSERT INTO item_paid_only (item_id) VALUES (266305);
-INSERT INTO item_paid_only (item_id) VALUES (266306);
-INSERT INTO item_paid_only (item_id) VALUES (266307);
-INSERT INTO item_paid_only (item_id) VALUES (266308);
-INSERT INTO item_paid_only (item_id) VALUES (266309);
-INSERT INTO item_paid_only (item_id) VALUES (266310);
-INSERT INTO item_paid_only (item_id) VALUES (266311);
-INSERT INTO item_paid_only (item_id) VALUES (266312);
-INSERT INTO item_paid_only (item_id) VALUES (266337);
-INSERT INTO item_paid_only (item_id) VALUES (266338);
-INSERT INTO item_paid_only (item_id) VALUES (266339);
-INSERT INTO item_paid_only (item_id) VALUES (266340);
-INSERT INTO item_paid_only (item_id) VALUES (266341);
-INSERT INTO item_paid_only (item_id) VALUES (266342);
-INSERT INTO item_paid_only (item_id) VALUES (266343);
-INSERT INTO item_paid_only (item_id) VALUES (266344);
-INSERT INTO item_paid_only (item_id) VALUES (266345);
-INSERT INTO item_paid_only (item_id) VALUES (266346);
-INSERT INTO item_paid_only (item_id) VALUES (266347);
-INSERT INTO item_paid_only (item_id) VALUES (266348);
-INSERT INTO item_paid_only (item_id) VALUES (266349);
-INSERT INTO item_paid_only (item_id) VALUES (266350);
-INSERT INTO item_paid_only (item_id) VALUES (266351);
-INSERT INTO item_paid_only (item_id) VALUES (266806);
-INSERT INTO item_paid_only (item_id) VALUES (266915);
-INSERT INTO item_paid_only (item_id) VALUES (266922);
-INSERT INTO item_paid_only (item_id) VALUES (266971);
-INSERT INTO item_paid_only (item_id) VALUES (266974);
-INSERT INTO item_paid_only (item_id) VALUES (266992);
-INSERT INTO item_paid_only (item_id) VALUES (266993);
-INSERT INTO item_paid_only (item_id) VALUES (266994);
-INSERT INTO item_paid_only (item_id) VALUES (266995);
-INSERT INTO item_paid_only (item_id) VALUES (267026);
-INSERT INTO item_paid_only (item_id) VALUES (267027);
-INSERT INTO item_paid_only (item_id) VALUES (267028);
-INSERT INTO item_paid_only (item_id) VALUES (267031);
-INSERT INTO item_paid_only (item_id) VALUES (267032);
-INSERT INTO item_paid_only (item_id) VALUES (267125);
-INSERT INTO item_paid_only (item_id) VALUES (267127);
-INSERT INTO item_paid_only (item_id) VALUES (267128);
-INSERT INTO item_paid_only (item_id) VALUES (267158);
-INSERT INTO item_paid_only (item_id) VALUES (267164);
-INSERT INTO item_paid_only (item_id) VALUES (267165);
-INSERT INTO item_paid_only (item_id) VALUES (267166);
-INSERT INTO item_paid_only (item_id) VALUES (267167);
-INSERT INTO item_paid_only (item_id) VALUES (267168);
-INSERT INTO item_paid_only (item_id) VALUES (267253);
-INSERT INTO item_paid_only (item_id) VALUES (267254);
-INSERT INTO item_paid_only (item_id) VALUES (267255);
-INSERT INTO item_paid_only (item_id) VALUES (267256);
-INSERT INTO item_paid_only (item_id) VALUES (267257);
-INSERT INTO item_paid_only (item_id) VALUES (267258);
-INSERT INTO item_paid_only (item_id) VALUES (267259);
-INSERT INTO item_paid_only (item_id) VALUES (267260);
-INSERT INTO item_paid_only (item_id) VALUES (267261);
-INSERT INTO item_paid_only (item_id) VALUES (267281);
-INSERT INTO item_paid_only (item_id) VALUES (267282);
-INSERT INTO item_paid_only (item_id) VALUES (267285);
-INSERT INTO item_paid_only (item_id) VALUES (267286);
-INSERT INTO item_paid_only (item_id) VALUES (267351);
-INSERT INTO item_paid_only (item_id) VALUES (267352);
-INSERT INTO item_paid_only (item_id) VALUES (267353);
-INSERT INTO item_paid_only (item_id) VALUES (267354);
-INSERT INTO item_paid_only (item_id) VALUES (267356);
-INSERT INTO item_paid_only (item_id) VALUES (267357);
-INSERT INTO item_paid_only (item_id) VALUES (267363);
-INSERT INTO item_paid_only (item_id) VALUES (267364);
-INSERT INTO item_paid_only (item_id) VALUES (267365);
-INSERT INTO item_paid_only (item_id) VALUES (267366);
-INSERT INTO item_paid_only (item_id) VALUES (267367);
-INSERT INTO item_paid_only (item_id) VALUES (267368);
-INSERT INTO item_paid_only (item_id) VALUES (267369);
-INSERT INTO item_paid_only (item_id) VALUES (267370);
-INSERT INTO item_paid_only (item_id) VALUES (267371);
-INSERT INTO item_paid_only (item_id) VALUES (267372);
-INSERT INTO item_paid_only (item_id) VALUES (267373);
-INSERT INTO item_paid_only (item_id) VALUES (267374);
-INSERT INTO item_paid_only (item_id) VALUES (267375);
-INSERT INTO item_paid_only (item_id) VALUES (267376);
-INSERT INTO item_paid_only (item_id) VALUES (267377);
-INSERT INTO item_paid_only (item_id) VALUES (267378);
-INSERT INTO item_paid_only (item_id) VALUES (267379);
-INSERT INTO item_paid_only (item_id) VALUES (267380);
-INSERT INTO item_paid_only (item_id) VALUES (267381);
-INSERT INTO item_paid_only (item_id) VALUES (267382);
-INSERT INTO item_paid_only (item_id) VALUES (267383);
-INSERT INTO item_paid_only (item_id) VALUES (267384);
-INSERT INTO item_paid_only (item_id) VALUES (267509);
-INSERT INTO item_paid_only (item_id) VALUES (267510);
-INSERT INTO item_paid_only (item_id) VALUES (267511);
-INSERT INTO item_paid_only (item_id) VALUES (267512);
-INSERT INTO item_paid_only (item_id) VALUES (267513);
-INSERT INTO item_paid_only (item_id) VALUES (267514);
-INSERT INTO item_paid_only (item_id) VALUES (267515);
-INSERT INTO item_paid_only (item_id) VALUES (267528);
-INSERT INTO item_paid_only (item_id) VALUES (267560);
-INSERT INTO item_paid_only (item_id) VALUES (267561);
-INSERT INTO item_paid_only (item_id) VALUES (267562);
-INSERT INTO item_paid_only (item_id) VALUES (267563);
-INSERT INTO item_paid_only (item_id) VALUES (267564);
-INSERT INTO item_paid_only (item_id) VALUES (267565);
-INSERT INTO item_paid_only (item_id) VALUES (267566);
-INSERT INTO item_paid_only (item_id) VALUES (267567);
-INSERT INTO item_paid_only (item_id) VALUES (267568);
-INSERT INTO item_paid_only (item_id) VALUES (267569);
-INSERT INTO item_paid_only (item_id) VALUES (267570);
-INSERT INTO item_paid_only (item_id) VALUES (267571);
-INSERT INTO item_paid_only (item_id) VALUES (267572);
-INSERT INTO item_paid_only (item_id) VALUES (267573);
-INSERT INTO item_paid_only (item_id) VALUES (267574);
-INSERT INTO item_paid_only (item_id) VALUES (267575);
-INSERT INTO item_paid_only (item_id) VALUES (267576);
-INSERT INTO item_paid_only (item_id) VALUES (267577);
-INSERT INTO item_paid_only (item_id) VALUES (267578);
-INSERT INTO item_paid_only (item_id) VALUES (267579);
-INSERT INTO item_paid_only (item_id) VALUES (267580);
-INSERT INTO item_paid_only (item_id) VALUES (267581);
-INSERT INTO item_paid_only (item_id) VALUES (267582);
-INSERT INTO item_paid_only (item_id) VALUES (267583);
-INSERT INTO item_paid_only (item_id) VALUES (267598);
-INSERT INTO item_paid_only (item_id) VALUES (267599);
-INSERT INTO item_paid_only (item_id) VALUES (267600);
-INSERT INTO item_paid_only (item_id) VALUES (267601);
-INSERT INTO item_paid_only (item_id) VALUES (267603);
-INSERT INTO item_paid_only (item_id) VALUES (267604);
-INSERT INTO item_paid_only (item_id) VALUES (267605);
-INSERT INTO item_paid_only (item_id) VALUES (267606);
-INSERT INTO item_paid_only (item_id) VALUES (267607);
-INSERT INTO item_paid_only (item_id) VALUES (267608);
-INSERT INTO item_paid_only (item_id) VALUES (267609);
-INSERT INTO item_paid_only (item_id) VALUES (267611);
-INSERT INTO item_paid_only (item_id) VALUES (267612);
-INSERT INTO item_paid_only (item_id) VALUES (267615);
-INSERT INTO item_paid_only (item_id) VALUES (267617);
-INSERT INTO item_paid_only (item_id) VALUES (267618);
-INSERT INTO item_paid_only (item_id) VALUES (267619);
-INSERT INTO item_paid_only (item_id) VALUES (267620);
-INSERT INTO item_paid_only (item_id) VALUES (267621);
-INSERT INTO item_paid_only (item_id) VALUES (267623);
-INSERT INTO item_paid_only (item_id) VALUES (267624);
-INSERT INTO item_paid_only (item_id) VALUES (267625);
-INSERT INTO item_paid_only (item_id) VALUES (267626);
-INSERT INTO item_paid_only (item_id) VALUES (267627);
-INSERT INTO item_paid_only (item_id) VALUES (267629);
-INSERT INTO item_paid_only (item_id) VALUES (267630);
-INSERT INTO item_paid_only (item_id) VALUES (267631);
-INSERT INTO item_paid_only (item_id) VALUES (267632);
-INSERT INTO item_paid_only (item_id) VALUES (267633);
-INSERT INTO item_paid_only (item_id) VALUES (267634);
-INSERT INTO item_paid_only (item_id) VALUES (267635);
-INSERT INTO item_paid_only (item_id) VALUES (267636);
-INSERT INTO item_paid_only (item_id) VALUES (267637);
-INSERT INTO item_paid_only (item_id) VALUES (267638);
-INSERT INTO item_paid_only (item_id) VALUES (267639);
-INSERT INTO item_paid_only (item_id) VALUES (267640);
-INSERT INTO item_paid_only (item_id) VALUES (267641);
-INSERT INTO item_paid_only (item_id) VALUES (267642);
-INSERT INTO item_paid_only (item_id) VALUES (267643);
-INSERT INTO item_paid_only (item_id) VALUES (267645);
-INSERT INTO item_paid_only (item_id) VALUES (267646);
-INSERT INTO item_paid_only (item_id) VALUES (267647);
-INSERT INTO item_paid_only (item_id) VALUES (267648);
-INSERT INTO item_paid_only (item_id) VALUES (267651);
-INSERT INTO item_paid_only (item_id) VALUES (267652);
-INSERT INTO item_paid_only (item_id) VALUES (267653);
-INSERT INTO item_paid_only (item_id) VALUES (267656);
-INSERT INTO item_paid_only (item_id) VALUES (267678);
-INSERT INTO item_paid_only (item_id) VALUES (267682);
-INSERT INTO item_paid_only (item_id) VALUES (267695);
-INSERT INTO item_paid_only (item_id) VALUES (267696);
-INSERT INTO item_paid_only (item_id) VALUES (267706);
-INSERT INTO item_paid_only (item_id) VALUES (267707);
-INSERT INTO item_paid_only (item_id) VALUES (267712);
-INSERT INTO item_paid_only (item_id) VALUES (267720);
-INSERT INTO item_paid_only (item_id) VALUES (267721);
-INSERT INTO item_paid_only (item_id) VALUES (267722);
-INSERT INTO item_paid_only (item_id) VALUES (267723);
-INSERT INTO item_paid_only (item_id) VALUES (267724);
-INSERT INTO item_paid_only (item_id) VALUES (267725);
-INSERT INTO item_paid_only (item_id) VALUES (267752);
-INSERT INTO item_paid_only (item_id) VALUES (267753);
-INSERT INTO item_paid_only (item_id) VALUES (267754);
-INSERT INTO item_paid_only (item_id) VALUES (267755);
-INSERT INTO item_paid_only (item_id) VALUES (267756);
-INSERT INTO item_paid_only (item_id) VALUES (267757);
-INSERT INTO item_paid_only (item_id) VALUES (267780);
-INSERT INTO item_paid_only (item_id) VALUES (267789);
-INSERT INTO item_paid_only (item_id) VALUES (267790);
-INSERT INTO item_paid_only (item_id) VALUES (267798);
-INSERT INTO item_paid_only (item_id) VALUES (267905);
-INSERT INTO item_paid_only (item_id) VALUES (267906);
-INSERT INTO item_paid_only (item_id) VALUES (267907);
-INSERT INTO item_paid_only (item_id) VALUES (267909);
-INSERT INTO item_paid_only (item_id) VALUES (267911);
-INSERT INTO item_paid_only (item_id) VALUES (267912);
-INSERT INTO item_paid_only (item_id) VALUES (267913);
-INSERT INTO item_paid_only (item_id) VALUES (267916);
-INSERT INTO item_paid_only (item_id) VALUES (267917);
-INSERT INTO item_paid_only (item_id) VALUES (267919);
-INSERT INTO item_paid_only (item_id) VALUES (267920);
-INSERT INTO item_paid_only (item_id) VALUES (267931);
-INSERT INTO item_paid_only (item_id) VALUES (267932);
-INSERT INTO item_paid_only (item_id) VALUES (267933);
-INSERT INTO item_paid_only (item_id) VALUES (267934);
-INSERT INTO item_paid_only (item_id) VALUES (267935);
-INSERT INTO item_paid_only (item_id) VALUES (267936);
-INSERT INTO item_paid_only (item_id) VALUES (267937);
-INSERT INTO item_paid_only (item_id) VALUES (267938);
-INSERT INTO item_paid_only (item_id) VALUES (267939);
-INSERT INTO item_paid_only (item_id) VALUES (268003);
-INSERT INTO item_paid_only (item_id) VALUES (268004);
-INSERT INTO item_paid_only (item_id) VALUES (268005);
-INSERT INTO item_paid_only (item_id) VALUES (268006);
-INSERT INTO item_paid_only (item_id) VALUES (268081);
-INSERT INTO item_paid_only (item_id) VALUES (268170);
-INSERT INTO item_paid_only (item_id) VALUES (268171);
-INSERT INTO item_paid_only (item_id) VALUES (268186);
-INSERT INTO item_paid_only (item_id) VALUES (268291);
-INSERT INTO item_paid_only (item_id) VALUES (268305);
-INSERT INTO item_paid_only (item_id) VALUES (268306);
-INSERT INTO item_paid_only (item_id) VALUES (268307);
-INSERT INTO item_paid_only (item_id) VALUES (268308);
-INSERT INTO item_paid_only (item_id) VALUES (268357);
-INSERT INTO item_paid_only (item_id) VALUES (268467);
-INSERT INTO item_paid_only (item_id) VALUES (268468);
-INSERT INTO item_paid_only (item_id) VALUES (268469);
-INSERT INTO item_paid_only (item_id) VALUES (268470);
-INSERT INTO item_paid_only (item_id) VALUES (268471);
-INSERT INTO item_paid_only (item_id) VALUES (268472);
-INSERT INTO item_paid_only (item_id) VALUES (268473);
-INSERT INTO item_paid_only (item_id) VALUES (268495);
-INSERT INTO item_paid_only (item_id) VALUES (268497);
-INSERT INTO item_paid_only (item_id) VALUES (268498);
-INSERT INTO item_paid_only (item_id) VALUES (268503);
-INSERT INTO item_paid_only (item_id) VALUES (268504);
-INSERT INTO item_paid_only (item_id) VALUES (268505);
-INSERT INTO item_paid_only (item_id) VALUES (268506);
-INSERT INTO item_paid_only (item_id) VALUES (268507);
-INSERT INTO item_paid_only (item_id) VALUES (268610);
-INSERT INTO item_paid_only (item_id) VALUES (268695);
-INSERT INTO item_paid_only (item_id) VALUES (269401);
-INSERT INTO item_paid_only (item_id) VALUES (269402);
-INSERT INTO item_paid_only (item_id) VALUES (269403);
-INSERT INTO item_paid_only (item_id) VALUES (269404);
-INSERT INTO item_paid_only (item_id) VALUES (269405);
-INSERT INTO item_paid_only (item_id) VALUES (269406);
-INSERT INTO item_paid_only (item_id) VALUES (269407);
-INSERT INTO item_paid_only (item_id) VALUES (269408);
-INSERT INTO item_paid_only (item_id) VALUES (269409);
-INSERT INTO item_paid_only (item_id) VALUES (269410);
-INSERT INTO item_paid_only (item_id) VALUES (269411);
-INSERT INTO item_paid_only (item_id) VALUES (269412);
-INSERT INTO item_paid_only (item_id) VALUES (269413);
-INSERT INTO item_paid_only (item_id) VALUES (269414);
-INSERT INTO item_paid_only (item_id) VALUES (269415);
-INSERT INTO item_paid_only (item_id) VALUES (269416);
-INSERT INTO item_paid_only (item_id) VALUES (269417);
-INSERT INTO item_paid_only (item_id) VALUES (269418);
-INSERT INTO item_paid_only (item_id) VALUES (269441);
-INSERT INTO item_paid_only (item_id) VALUES (269443);
-INSERT INTO item_paid_only (item_id) VALUES (269444);
-INSERT INTO item_paid_only (item_id) VALUES (269445);
-INSERT INTO item_paid_only (item_id) VALUES (269455);
-INSERT INTO item_paid_only (item_id) VALUES (269456);
-INSERT INTO item_paid_only (item_id) VALUES (269460);
-INSERT INTO item_paid_only (item_id) VALUES (269461);
-INSERT INTO item_paid_only (item_id) VALUES (269463);
-INSERT INTO item_paid_only (item_id) VALUES (269464);
-INSERT INTO item_paid_only (item_id) VALUES (269465);
-INSERT INTO item_paid_only (item_id) VALUES (269469);
-INSERT INTO item_paid_only (item_id) VALUES (269470);
-INSERT INTO item_paid_only (item_id) VALUES (269472);
-INSERT INTO item_paid_only (item_id) VALUES (269473);
-INSERT INTO item_paid_only (item_id) VALUES (269475);
-INSERT INTO item_paid_only (item_id) VALUES (269483);
-INSERT INTO item_paid_only (item_id) VALUES (269511);
-INSERT INTO item_paid_only (item_id) VALUES (269513);
-INSERT INTO item_paid_only (item_id) VALUES (269516);
-INSERT INTO item_paid_only (item_id) VALUES (269517);
-INSERT INTO item_paid_only (item_id) VALUES (269827);
-INSERT INTO item_paid_only (item_id) VALUES (269842);
-INSERT INTO item_paid_only (item_id) VALUES (269843);
-INSERT INTO item_paid_only (item_id) VALUES (269896); -- Frozen Shoulderpads
-INSERT INTO item_paid_only (item_id) VALUES (269897); -- Shoulderpads of the Icy Wastes
-INSERT INTO item_paid_only (item_id) VALUES (269898);
-INSERT INTO item_paid_only (item_id) VALUES (269899);
-INSERT INTO item_paid_only (item_id) VALUES (269900);
-INSERT INTO item_paid_only (item_id) VALUES (269901);
-INSERT INTO item_paid_only (item_id) VALUES (269902);
-INSERT INTO item_paid_only (item_id) VALUES (269903);
-INSERT INTO item_paid_only (item_id) VALUES (269908);
-INSERT INTO item_paid_only (item_id) VALUES (269910);
-INSERT INTO item_paid_only (item_id) VALUES (269985);
-INSERT INTO item_paid_only (item_id) VALUES (269986);
-INSERT INTO item_paid_only (item_id) VALUES (269987);
-INSERT INTO item_paid_only (item_id) VALUES (269990);
-INSERT INTO item_paid_only (item_id) VALUES (269993);
-INSERT INTO item_paid_only (item_id) VALUES (269994);
-INSERT INTO item_paid_only (item_id) VALUES (269996);
-INSERT INTO item_paid_only (item_id) VALUES (269997);
-INSERT INTO item_paid_only (item_id) VALUES (269999);
-INSERT INTO item_paid_only (item_id) VALUES (270246);
-INSERT INTO item_paid_only (item_id) VALUES (270392);
-INSERT INTO item_paid_only (item_id) VALUES (270393);
-INSERT INTO item_paid_only (item_id) VALUES (270394);
-INSERT INTO item_paid_only (item_id) VALUES (270714);
-INSERT INTO item_paid_only (item_id) VALUES (270746);
-INSERT INTO item_paid_only (item_id) VALUES (270747);
-INSERT INTO item_paid_only (item_id) VALUES (270750);
-INSERT INTO item_paid_only (item_id) VALUES (270751);
-INSERT INTO item_paid_only (item_id) VALUES (270752);
-INSERT INTO item_paid_only (item_id) VALUES (270753);
-INSERT INTO item_paid_only (item_id) VALUES (270755);
-INSERT INTO item_paid_only (item_id) VALUES (270759);
-INSERT INTO item_paid_only (item_id) VALUES (270761);
-INSERT INTO item_paid_only (item_id) VALUES (270762);
-INSERT INTO item_paid_only (item_id) VALUES (270763);
-INSERT INTO item_paid_only (item_id) VALUES (270766);
-INSERT INTO item_paid_only (item_id) VALUES (270767);
-INSERT INTO item_paid_only (item_id) VALUES (270768);
-INSERT INTO item_paid_only (item_id) VALUES (270769);
-INSERT INTO item_paid_only (item_id) VALUES (270770);
-INSERT INTO item_paid_only (item_id) VALUES (270772);
-INSERT INTO item_paid_only (item_id) VALUES (270778);
-INSERT INTO item_paid_only (item_id) VALUES (270782);
-INSERT INTO item_paid_only (item_id) VALUES (270783);
-INSERT INTO item_paid_only (item_id) VALUES (270785);
-INSERT INTO item_paid_only (item_id) VALUES (270786);
-INSERT INTO item_paid_only (item_id) VALUES (270789);
-INSERT INTO item_paid_only (item_id) VALUES (270790);
-INSERT INTO item_paid_only (item_id) VALUES (270791);
-INSERT INTO item_paid_only (item_id) VALUES (270795);
-INSERT INTO item_paid_only (item_id) VALUES (270797);
-INSERT INTO item_paid_only (item_id) VALUES (270798);
-INSERT INTO item_paid_only (item_id) VALUES (270799);
-INSERT INTO item_paid_only (item_id) VALUES (270800);
-INSERT INTO item_paid_only (item_id) VALUES (270801);
-INSERT INTO item_paid_only (item_id) VALUES (270802);
-INSERT INTO item_paid_only (item_id) VALUES (270803);
-INSERT INTO item_paid_only (item_id) VALUES (270804);
-INSERT INTO item_paid_only (item_id) VALUES (270805);
-INSERT INTO item_paid_only (item_id) VALUES (270806);
-INSERT INTO item_paid_only (item_id) VALUES (270807);
-INSERT INTO item_paid_only (item_id) VALUES (270808);
-INSERT INTO item_paid_only (item_id) VALUES (270809);
-INSERT INTO item_paid_only (item_id) VALUES (272371);
-INSERT INTO item_paid_only (item_id) VALUES (272372);
-INSERT INTO item_paid_only (item_id) VALUES (272374);
-INSERT INTO item_paid_only (item_id) VALUES (272399);
-INSERT INTO item_paid_only (item_id) VALUES (272537);
-INSERT INTO item_paid_only (item_id) VALUES (272662);
-INSERT INTO item_paid_only (item_id) VALUES (272664);
-INSERT INTO item_paid_only (item_id) VALUES (272668);
-INSERT INTO item_paid_only (item_id) VALUES (272670);
-INSERT INTO item_paid_only (item_id) VALUES (272672);
-INSERT INTO item_paid_only (item_id) VALUES (272674);
-INSERT INTO item_paid_only (item_id) VALUES (272678);
-INSERT INTO item_paid_only (item_id) VALUES (272680);
-INSERT INTO item_paid_only (item_id) VALUES (272682);
-INSERT INTO item_paid_only (item_id) VALUES (272684);
-INSERT INTO item_paid_only (item_id) VALUES (272688);
-INSERT INTO item_paid_only (item_id) VALUES (273059);
-INSERT INTO item_paid_only (item_id) VALUES (273061);
-INSERT INTO item_paid_only (item_id) VALUES (273062);
-INSERT INTO item_paid_only (item_id) VALUES (273285);
-INSERT INTO item_paid_only (item_id) VALUES (273287);
-INSERT INTO item_paid_only (item_id) VALUES (273288);
-INSERT INTO item_paid_only (item_id) VALUES (273289);
-INSERT INTO item_paid_only (item_id) VALUES (273290);
-INSERT INTO item_paid_only (item_id) VALUES (273291);
-INSERT INTO item_paid_only (item_id) VALUES (273293);
-INSERT INTO item_paid_only (item_id) VALUES (273296);
-INSERT INTO item_paid_only (item_id) VALUES (273298);
-INSERT INTO item_paid_only (item_id) VALUES (273299);
-INSERT INTO item_paid_only (item_id) VALUES (273300);
-INSERT INTO item_paid_only (item_id) VALUES (273301);
-INSERT INTO item_paid_only (item_id) VALUES (273302);
-INSERT INTO item_paid_only (item_id) VALUES (273307);
-INSERT INTO item_paid_only (item_id) VALUES (273308);
-INSERT INTO item_paid_only (item_id) VALUES (273312);
-INSERT INTO item_paid_only (item_id) VALUES (273314);
-INSERT INTO item_paid_only (item_id) VALUES (273315);
-INSERT INTO item_paid_only (item_id) VALUES (273317);
-INSERT INTO item_paid_only (item_id) VALUES (273318);
-INSERT INTO item_paid_only (item_id) VALUES (273319);
-INSERT INTO item_paid_only (item_id) VALUES (273320);
-INSERT INTO item_paid_only (item_id) VALUES (273321);
-INSERT INTO item_paid_only (item_id) VALUES (273322);
-INSERT INTO item_paid_only (item_id) VALUES (273323);
-INSERT INTO item_paid_only (item_id) VALUES (273341);
-INSERT INTO item_paid_only (item_id) VALUES (273342);
-INSERT INTO item_paid_only (item_id) VALUES (273343);
-INSERT INTO item_paid_only (item_id) VALUES (273345);
-INSERT INTO item_paid_only (item_id) VALUES (273346);
-INSERT INTO item_paid_only (item_id) VALUES (273347);
-INSERT INTO item_paid_only (item_id) VALUES (273349);
-INSERT INTO item_paid_only (item_id) VALUES (273350);
-INSERT INTO item_paid_only (item_id) VALUES (273351);
-INSERT INTO item_paid_only (item_id) VALUES (273352);
-INSERT INTO item_paid_only (item_id) VALUES (273354);
-INSERT INTO item_paid_only (item_id) VALUES (273355);
-INSERT INTO item_paid_only (item_id) VALUES (273356);
-INSERT INTO item_paid_only (item_id) VALUES (273357);
-INSERT INTO item_paid_only (item_id) VALUES (273358);
-INSERT INTO item_paid_only (item_id) VALUES (273359);
-INSERT INTO item_paid_only (item_id) VALUES (273361);
-INSERT INTO item_paid_only (item_id) VALUES (273362);
-INSERT INTO item_paid_only (item_id) VALUES (273364);
-INSERT INTO item_paid_only (item_id) VALUES (273365);
-INSERT INTO item_paid_only (item_id) VALUES (273366);
-INSERT INTO item_paid_only (item_id) VALUES (273367);
-INSERT INTO item_paid_only (item_id) VALUES (273369);
-INSERT INTO item_paid_only (item_id) VALUES (273370);
-INSERT INTO item_paid_only (item_id) VALUES (273371);
-INSERT INTO item_paid_only (item_id) VALUES (273372);
-INSERT INTO item_paid_only (item_id) VALUES (273373);
-INSERT INTO item_paid_only (item_id) VALUES (273374);
-INSERT INTO item_paid_only (item_id) VALUES (273375);
-INSERT INTO item_paid_only (item_id) VALUES (273376);
-INSERT INTO item_paid_only (item_id) VALUES (273377);
-INSERT INTO item_paid_only (item_id) VALUES (273378);
-INSERT INTO item_paid_only (item_id) VALUES (273379);
-INSERT INTO item_paid_only (item_id) VALUES (273380);
-INSERT INTO item_paid_only (item_id) VALUES (273382);
-INSERT INTO item_paid_only (item_id) VALUES (273385);
-INSERT INTO item_paid_only (item_id) VALUES (273386);
-INSERT INTO item_paid_only (item_id) VALUES (273387);
-INSERT INTO item_paid_only (item_id) VALUES (273388);
-INSERT INTO item_paid_only (item_id) VALUES (273390);
-INSERT INTO item_paid_only (item_id) VALUES (273392);
-INSERT INTO item_paid_only (item_id) VALUES (273393);
-INSERT INTO item_paid_only (item_id) VALUES (273394);
-INSERT INTO item_paid_only (item_id) VALUES (273395);
-INSERT INTO item_paid_only (item_id) VALUES (273396);
-INSERT INTO item_paid_only (item_id) VALUES (273398);
-INSERT INTO item_paid_only (item_id) VALUES (273399);
-INSERT INTO item_paid_only (item_id) VALUES (273400);
-INSERT INTO item_paid_only (item_id) VALUES (273401);
-INSERT INTO item_paid_only (item_id) VALUES (273402);
-INSERT INTO item_paid_only (item_id) VALUES (273403);
-INSERT INTO item_paid_only (item_id) VALUES (273407);
-INSERT INTO item_paid_only (item_id) VALUES (273410);
-INSERT INTO item_paid_only (item_id) VALUES (273411);
-INSERT INTO item_paid_only (item_id) VALUES (273412);
-INSERT INTO item_paid_only (item_id) VALUES (273413);
-INSERT INTO item_paid_only (item_id) VALUES (273629);
-INSERT INTO item_paid_only (item_id) VALUES (273630);
-INSERT INTO item_paid_only (item_id) VALUES (273631);
-INSERT INTO item_paid_only (item_id) VALUES (273633);
-INSERT INTO item_paid_only (item_id) VALUES (273645);
-INSERT INTO item_paid_only (item_id) VALUES (273646);
-INSERT INTO item_paid_only (item_id) VALUES (273648);
-INSERT INTO item_paid_only (item_id) VALUES (273650);
-INSERT INTO item_paid_only (item_id) VALUES (273680);
-INSERT INTO item_paid_only (item_id) VALUES (273738);
-INSERT INTO item_paid_only (item_id) VALUES (273740);
-INSERT INTO item_paid_only (item_id) VALUES (273742);
-INSERT INTO item_paid_only (item_id) VALUES (273746);
-INSERT INTO item_paid_only (item_id) VALUES (274416);
-INSERT INTO item_paid_only (item_id) VALUES (274541);
-INSERT INTO item_paid_only (item_id) VALUES (274542);
-INSERT INTO item_paid_only (item_id) VALUES (274543);
-INSERT INTO item_paid_only (item_id) VALUES (274544);
-INSERT INTO item_paid_only (item_id) VALUES (274545);
-INSERT INTO item_paid_only (item_id) VALUES (274546);
-INSERT INTO item_paid_only (item_id) VALUES (274547);
-INSERT INTO item_paid_only (item_id) VALUES (274548);
-INSERT INTO item_paid_only (item_id) VALUES (274549);
-INSERT INTO item_paid_only (item_id) VALUES (274550);
-INSERT INTO item_paid_only (item_id) VALUES (274551);
-INSERT INTO item_paid_only (item_id) VALUES (274553);
-INSERT INTO item_paid_only (item_id) VALUES (274554);
-INSERT INTO item_paid_only (item_id) VALUES (274555);
-INSERT INTO item_paid_only (item_id) VALUES (274556);
-INSERT INTO item_paid_only (item_id) VALUES (274557);
-INSERT INTO item_paid_only (item_id) VALUES (274559);
-INSERT INTO item_paid_only (item_id) VALUES (274560);
-INSERT INTO item_paid_only (item_id) VALUES (274973);
-INSERT INTO item_paid_only (item_id) VALUES (274976);
-INSERT INTO item_paid_only (item_id) VALUES (275005);
-INSERT INTO item_paid_only (item_id) VALUES (275007);
-INSERT INTO item_paid_only (item_id) VALUES (275009);
-INSERT INTO item_paid_only (item_id) VALUES (275010);
-INSERT INTO item_paid_only (item_id) VALUES (275011);
-INSERT INTO item_paid_only (item_id) VALUES (275013);
-INSERT INTO item_paid_only (item_id) VALUES (275014);
-INSERT INTO item_paid_only (item_id) VALUES (275015);
-INSERT INTO item_paid_only (item_id) VALUES (275016);
-INSERT INTO item_paid_only (item_id) VALUES (275017);
-INSERT INTO item_paid_only (item_id) VALUES (275018);
-INSERT INTO item_paid_only (item_id) VALUES (275019);
-INSERT INTO item_paid_only (item_id) VALUES (275020);
-INSERT INTO item_paid_only (item_id) VALUES (275024);
-INSERT INTO item_paid_only (item_id) VALUES (275026);
-INSERT INTO item_paid_only (item_id) VALUES (275027);
-INSERT INTO item_paid_only (item_id) VALUES (275028);
-INSERT INTO item_paid_only (item_id) VALUES (275029);
-INSERT INTO item_paid_only (item_id) VALUES (275030);
-INSERT INTO item_paid_only (item_id) VALUES (275031);
-INSERT INTO item_paid_only (item_id) VALUES (275032);
-INSERT INTO item_paid_only (item_id) VALUES (275036);
-INSERT INTO item_paid_only (item_id) VALUES (275041);
-INSERT INTO item_paid_only (item_id) VALUES (275043);
-INSERT INTO item_paid_only (item_id) VALUES (275044);
-INSERT INTO item_paid_only (item_id) VALUES (275134);
-INSERT INTO item_paid_only (item_id) VALUES (275137);
-INSERT INTO item_paid_only (item_id) VALUES (275381);
-INSERT INTO item_paid_only (item_id) VALUES (275679);
-INSERT INTO item_paid_only (item_id) VALUES (275680);
-INSERT INTO item_paid_only (item_id) VALUES (275692);
-INSERT INTO item_paid_only (item_id) VALUES (275697);
-INSERT INTO item_paid_only (item_id) VALUES (275698);
-INSERT INTO item_paid_only (item_id) VALUES (275700);
-INSERT INTO item_paid_only (item_id) VALUES (275701);
-INSERT INTO item_paid_only (item_id) VALUES (275706);
-INSERT INTO item_paid_only (item_id) VALUES (275815);
-INSERT INTO item_paid_only (item_id) VALUES (275816);
-INSERT INTO item_paid_only (item_id) VALUES (275817);
-INSERT INTO item_paid_only (item_id) VALUES (275821);
-INSERT INTO item_paid_only (item_id) VALUES (275822);
-INSERT INTO item_paid_only (item_id) VALUES (275823);
-INSERT INTO item_paid_only (item_id) VALUES (275824);
-INSERT INTO item_paid_only (item_id) VALUES (275826);
-INSERT INTO item_paid_only (item_id) VALUES (275829);
-INSERT INTO item_paid_only (item_id) VALUES (275830);
-INSERT INTO item_paid_only (item_id) VALUES (275833);
-INSERT INTO item_paid_only (item_id) VALUES (275835);
-INSERT INTO item_paid_only (item_id) VALUES (275837);
-INSERT INTO item_paid_only (item_id) VALUES (275838);
-INSERT INTO item_paid_only (item_id) VALUES (275839);
-INSERT INTO item_paid_only (item_id) VALUES (275841);
-INSERT INTO item_paid_only (item_id) VALUES (275843);
-INSERT INTO item_paid_only (item_id) VALUES (275844);
-INSERT INTO item_paid_only (item_id) VALUES (275846);
-INSERT INTO item_paid_only (item_id) VALUES (275848);
-INSERT INTO item_paid_only (item_id) VALUES (275849);
-INSERT INTO item_paid_only (item_id) VALUES (275851);
-INSERT INTO item_paid_only (item_id) VALUES (275852);
-INSERT INTO item_paid_only (item_id) VALUES (275853);
-INSERT INTO item_paid_only (item_id) VALUES (275854);
-INSERT INTO item_paid_only (item_id) VALUES (275905);
-INSERT INTO item_paid_only (item_id) VALUES (276061);
-INSERT INTO item_paid_only (item_id) VALUES (276068);
-INSERT INTO item_paid_only (item_id) VALUES (276514);
-INSERT INTO item_paid_only (item_id) VALUES (276515);
-INSERT INTO item_paid_only (item_id) VALUES (276516);
-INSERT INTO item_paid_only (item_id) VALUES (276517);
-INSERT INTO item_paid_only (item_id) VALUES (276518);
-INSERT INTO item_paid_only (item_id) VALUES (276519);
-INSERT INTO item_paid_only (item_id) VALUES (276520);
-INSERT INTO item_paid_only (item_id) VALUES (276521);
-INSERT INTO item_paid_only (item_id) VALUES (276522);
-INSERT INTO item_paid_only (item_id) VALUES (276523);
-INSERT INTO item_paid_only (item_id) VALUES (276524);
-INSERT INTO item_paid_only (item_id) VALUES (276525);
-INSERT INTO item_paid_only (item_id) VALUES (276526);
-INSERT INTO item_paid_only (item_id) VALUES (276527);
-INSERT INTO item_paid_only (item_id) VALUES (276528);
-INSERT INTO item_paid_only (item_id) VALUES (276529);
-INSERT INTO item_paid_only (item_id) VALUES (276530);
-INSERT INTO item_paid_only (item_id) VALUES (276531);
-INSERT INTO item_paid_only (item_id) VALUES (276532);
-INSERT INTO item_paid_only (item_id) VALUES (276533);
-INSERT INTO item_paid_only (item_id) VALUES (276534);
-INSERT INTO item_paid_only (item_id) VALUES (276535);
-INSERT INTO item_paid_only (item_id) VALUES (276536);
-INSERT INTO item_paid_only (item_id) VALUES (276537);
-INSERT INTO item_paid_only (item_id) VALUES (276538);
-INSERT INTO item_paid_only (item_id) VALUES (276539);
-INSERT INTO item_paid_only (item_id) VALUES (276540);
-INSERT INTO item_paid_only (item_id) VALUES (276541);
-INSERT INTO item_paid_only (item_id) VALUES (276543);
-INSERT INTO item_paid_only (item_id) VALUES (276544);
-INSERT INTO item_paid_only (item_id) VALUES (276545);
-INSERT INTO item_paid_only (item_id) VALUES (276546);
-INSERT INTO item_paid_only (item_id) VALUES (276547);
-INSERT INTO item_paid_only (item_id) VALUES (276548);
-INSERT INTO item_paid_only (item_id) VALUES (276549);
-INSERT INTO item_paid_only (item_id) VALUES (276550);
-INSERT INTO item_paid_only (item_id) VALUES (276551);
-INSERT INTO item_paid_only (item_id) VALUES (276552);
-INSERT INTO item_paid_only (item_id) VALUES (276553);
-INSERT INTO item_paid_only (item_id) VALUES (276554);
-INSERT INTO item_paid_only (item_id) VALUES (276555);
-INSERT INTO item_paid_only (item_id) VALUES (276556);
-INSERT INTO item_paid_only (item_id) VALUES (276558);
-INSERT INTO item_paid_only (item_id) VALUES (276559);
-INSERT INTO item_paid_only (item_id) VALUES (276560);
-INSERT INTO item_paid_only (item_id) VALUES (276561);
-INSERT INTO item_paid_only (item_id) VALUES (276562);
-INSERT INTO item_paid_only (item_id) VALUES (276563);
-INSERT INTO item_paid_only (item_id) VALUES (276564);
-INSERT INTO item_paid_only (item_id) VALUES (276565);
-INSERT INTO item_paid_only (item_id) VALUES (276566);
-INSERT INTO item_paid_only (item_id) VALUES (276567);
-INSERT INTO item_paid_only (item_id) VALUES (276568);
-INSERT INTO item_paid_only (item_id) VALUES (276569);
-INSERT INTO item_paid_only (item_id) VALUES (276570);
-INSERT INTO item_paid_only (item_id) VALUES (276571);
-INSERT INTO item_paid_only (item_id) VALUES (276572);
-INSERT INTO item_paid_only (item_id) VALUES (276573);
-INSERT INTO item_paid_only (item_id) VALUES (276574);
-INSERT INTO item_paid_only (item_id) VALUES (276575);
-INSERT INTO item_paid_only (item_id) VALUES (276576);
-INSERT INTO item_paid_only (item_id) VALUES (276577);
-INSERT INTO item_paid_only (item_id) VALUES (276578);
-INSERT INTO item_paid_only (item_id) VALUES (276579);
-INSERT INTO item_paid_only (item_id) VALUES (276580);
-INSERT INTO item_paid_only (item_id) VALUES (276581);
-INSERT INTO item_paid_only (item_id) VALUES (276582);
-INSERT INTO item_paid_only (item_id) VALUES (276583);
-INSERT INTO item_paid_only (item_id) VALUES (276584);
-INSERT INTO item_paid_only (item_id) VALUES (276585);
-INSERT INTO item_paid_only (item_id) VALUES (276586);
-INSERT INTO item_paid_only (item_id) VALUES (276587);
-INSERT INTO item_paid_only (item_id) VALUES (276588);
-INSERT INTO item_paid_only (item_id) VALUES (276589);
-INSERT INTO item_paid_only (item_id) VALUES (276590);
-INSERT INTO item_paid_only (item_id) VALUES (276591);
-INSERT INTO item_paid_only (item_id) VALUES (276592);
-INSERT INTO item_paid_only (item_id) VALUES (276593);
-INSERT INTO item_paid_only (item_id) VALUES (276594);
-INSERT INTO item_paid_only (item_id) VALUES (276595);
-INSERT INTO item_paid_only (item_id) VALUES (276596);
-INSERT INTO item_paid_only (item_id) VALUES (276597);
-INSERT INTO item_paid_only (item_id) VALUES (276598);
-INSERT INTO item_paid_only (item_id) VALUES (276599);
-INSERT INTO item_paid_only (item_id) VALUES (276602);
-INSERT INTO item_paid_only (item_id) VALUES (276603);
-INSERT INTO item_paid_only (item_id) VALUES (276604);
-INSERT INTO item_paid_only (item_id) VALUES (276605);
-INSERT INTO item_paid_only (item_id) VALUES (276606);
-INSERT INTO item_paid_only (item_id) VALUES (276607);
-INSERT INTO item_paid_only (item_id) VALUES (276608);
-INSERT INTO item_paid_only (item_id) VALUES (276670);
-INSERT INTO item_paid_only (item_id) VALUES (276671);
-INSERT INTO item_paid_only (item_id) VALUES (276672);
-INSERT INTO item_paid_only (item_id) VALUES (276673);
-INSERT INTO item_paid_only (item_id) VALUES (276674);
-INSERT INTO item_paid_only (item_id) VALUES (276680);
-INSERT INTO item_paid_only (item_id) VALUES (276681);
-INSERT INTO item_paid_only (item_id) VALUES (276682);
-INSERT INTO item_paid_only (item_id) VALUES (276683);
-INSERT INTO item_paid_only (item_id) VALUES (276684);
-INSERT INTO item_paid_only (item_id) VALUES (276685);
-INSERT INTO item_paid_only (item_id) VALUES (276686);
-INSERT INTO item_paid_only (item_id) VALUES (276687);
-INSERT INTO item_paid_only (item_id) VALUES (276688);
-INSERT INTO item_paid_only (item_id) VALUES (276689);
-INSERT INTO item_paid_only (item_id) VALUES (276690);
-INSERT INTO item_paid_only (item_id) VALUES (276691);
-INSERT INTO item_paid_only (item_id) VALUES (276692);
-INSERT INTO item_paid_only (item_id) VALUES (276693);
-INSERT INTO item_paid_only (item_id) VALUES (276694);
-INSERT INTO item_paid_only (item_id) VALUES (276695);
-INSERT INTO item_paid_only (item_id) VALUES (276696);
-INSERT INTO item_paid_only (item_id) VALUES (276697);
-INSERT INTO item_paid_only (item_id) VALUES (276698);
-INSERT INTO item_paid_only (item_id) VALUES (276699);
-INSERT INTO item_paid_only (item_id) VALUES (276700);
-INSERT INTO item_paid_only (item_id) VALUES (276701);
-INSERT INTO item_paid_only (item_id) VALUES (276702);
-INSERT INTO item_paid_only (item_id) VALUES (276703);
-INSERT INTO item_paid_only (item_id) VALUES (276704);
-INSERT INTO item_paid_only (item_id) VALUES (276705);
-INSERT INTO item_paid_only (item_id) VALUES (276706);
-INSERT INTO item_paid_only (item_id) VALUES (276707);
-INSERT INTO item_paid_only (item_id) VALUES (276708);
-INSERT INTO item_paid_only (item_id) VALUES (276709);
-INSERT INTO item_paid_only (item_id) VALUES (276710);
-INSERT INTO item_paid_only (item_id) VALUES (276711);
-INSERT INTO item_paid_only (item_id) VALUES (276712);
-INSERT INTO item_paid_only (item_id) VALUES (276713);
-INSERT INTO item_paid_only (item_id) VALUES (276714);
-INSERT INTO item_paid_only (item_id) VALUES (276715);
-INSERT INTO item_paid_only (item_id) VALUES (276716);
-INSERT INTO item_paid_only (item_id) VALUES (276717);
-INSERT INTO item_paid_only (item_id) VALUES (276718);
-INSERT INTO item_paid_only (item_id) VALUES (276719);
-INSERT INTO item_paid_only (item_id) VALUES (276720);
-INSERT INTO item_paid_only (item_id) VALUES (276721);
-INSERT INTO item_paid_only (item_id) VALUES (276722);
-INSERT INTO item_paid_only (item_id) VALUES (276723);
-INSERT INTO item_paid_only (item_id) VALUES (276724);
-INSERT INTO item_paid_only (item_id) VALUES (276725);
-INSERT INTO item_paid_only (item_id) VALUES (276726);
-INSERT INTO item_paid_only (item_id) VALUES (276727);
-INSERT INTO item_paid_only (item_id) VALUES (276728);
-INSERT INTO item_paid_only (item_id) VALUES (276729);
-INSERT INTO item_paid_only (item_id) VALUES (276730);
-INSERT INTO item_paid_only (item_id) VALUES (276731);
-INSERT INTO item_paid_only (item_id) VALUES (276732);
-INSERT INTO item_paid_only (item_id) VALUES (276733);
-INSERT INTO item_paid_only (item_id) VALUES (276734);
-INSERT INTO item_paid_only (item_id) VALUES (276735);
-INSERT INTO item_paid_only (item_id) VALUES (276736);
-INSERT INTO item_paid_only (item_id) VALUES (276737);
-INSERT INTO item_paid_only (item_id) VALUES (276738);
-INSERT INTO item_paid_only (item_id) VALUES (276739);
-INSERT INTO item_paid_only (item_id) VALUES (276741);
-INSERT INTO item_paid_only (item_id) VALUES (276742);
-INSERT INTO item_paid_only (item_id) VALUES (276743);
-INSERT INTO item_paid_only (item_id) VALUES (276744);
-INSERT INTO item_paid_only (item_id) VALUES (276745);
-INSERT INTO item_paid_only (item_id) VALUES (276746);
-INSERT INTO item_paid_only (item_id) VALUES (276747);
-INSERT INTO item_paid_only (item_id) VALUES (276748);
-INSERT INTO item_paid_only (item_id) VALUES (276749);
-INSERT INTO item_paid_only (item_id) VALUES (276750);
-INSERT INTO item_paid_only (item_id) VALUES (276751);
-INSERT INTO item_paid_only (item_id) VALUES (276752);
-INSERT INTO item_paid_only (item_id) VALUES (276753);
-INSERT INTO item_paid_only (item_id) VALUES (276754);
-INSERT INTO item_paid_only (item_id) VALUES (276755);
-INSERT INTO item_paid_only (item_id) VALUES (276756);
-INSERT INTO item_paid_only (item_id) VALUES (276757);
-INSERT INTO item_paid_only (item_id) VALUES (276758);
-INSERT INTO item_paid_only (item_id) VALUES (276759);
-INSERT INTO item_paid_only (item_id) VALUES (276760);
-INSERT INTO item_paid_only (item_id) VALUES (276761);
-INSERT INTO item_paid_only (item_id) VALUES (276762);
-INSERT INTO item_paid_only (item_id) VALUES (276763);
-INSERT INTO item_paid_only (item_id) VALUES (276764);
-INSERT INTO item_paid_only (item_id) VALUES (276765);
-INSERT INTO item_paid_only (item_id) VALUES (276766);
-INSERT INTO item_paid_only (item_id) VALUES (276767);
-INSERT INTO item_paid_only (item_id) VALUES (276768);
-INSERT INTO item_paid_only (item_id) VALUES (276769);
-INSERT INTO item_paid_only (item_id) VALUES (276770);
-INSERT INTO item_paid_only (item_id) VALUES (276771);
-INSERT INTO item_paid_only (item_id) VALUES (276772);
-INSERT INTO item_paid_only (item_id) VALUES (276773);
-INSERT INTO item_paid_only (item_id) VALUES (276774);
-INSERT INTO item_paid_only (item_id) VALUES (276775);
-INSERT INTO item_paid_only (item_id) VALUES (276776);
-INSERT INTO item_paid_only (item_id) VALUES (276777);
-INSERT INTO item_paid_only (item_id) VALUES (276778);
-INSERT INTO item_paid_only (item_id) VALUES (276779);
-INSERT INTO item_paid_only (item_id) VALUES (276780);
-INSERT INTO item_paid_only (item_id) VALUES (276781);
-INSERT INTO item_paid_only (item_id) VALUES (276782);
-INSERT INTO item_paid_only (item_id) VALUES (276783);
-INSERT INTO item_paid_only (item_id) VALUES (276784);
-INSERT INTO item_paid_only (item_id) VALUES (276785);
-INSERT INTO item_paid_only (item_id) VALUES (276786);
-INSERT INTO item_paid_only (item_id) VALUES (276787);
-INSERT INTO item_paid_only (item_id) VALUES (276788);
-INSERT INTO item_paid_only (item_id) VALUES (276789);
-INSERT INTO item_paid_only (item_id) VALUES (276790);
-INSERT INTO item_paid_only (item_id) VALUES (276791);
-INSERT INTO item_paid_only (item_id) VALUES (276792);
-INSERT INTO item_paid_only (item_id) VALUES (276793);
-INSERT INTO item_paid_only (item_id) VALUES (276794);
-INSERT INTO item_paid_only (item_id) VALUES (276795);
-INSERT INTO item_paid_only (item_id) VALUES (276796);
-INSERT INTO item_paid_only (item_id) VALUES (276797);
-INSERT INTO item_paid_only (item_id) VALUES (276798);
-INSERT INTO item_paid_only (item_id) VALUES (276799);
-INSERT INTO item_paid_only (item_id) VALUES (276800);
-INSERT INTO item_paid_only (item_id) VALUES (276801);
-INSERT INTO item_paid_only (item_id) VALUES (276802);
-INSERT INTO item_paid_only (item_id) VALUES (276803);
-INSERT INTO item_paid_only (item_id) VALUES (276804);
-INSERT INTO item_paid_only (item_id) VALUES (276805);
-INSERT INTO item_paid_only (item_id) VALUES (276806);
-INSERT INTO item_paid_only (item_id) VALUES (276807);
-INSERT INTO item_paid_only (item_id) VALUES (276808);
-INSERT INTO item_paid_only (item_id) VALUES (276809);
-INSERT INTO item_paid_only (item_id) VALUES (276810);
-INSERT INTO item_paid_only (item_id) VALUES (276811);
-INSERT INTO item_paid_only (item_id) VALUES (276812);
-INSERT INTO item_paid_only (item_id) VALUES (276813);
-INSERT INTO item_paid_only (item_id) VALUES (276814);
-INSERT INTO item_paid_only (item_id) VALUES (276815);
-INSERT INTO item_paid_only (item_id) VALUES (276816);
-INSERT INTO item_paid_only (item_id) VALUES (276817);
-INSERT INTO item_paid_only (item_id) VALUES (276818);
-INSERT INTO item_paid_only (item_id) VALUES (277042);
-INSERT INTO item_paid_only (item_id) VALUES (277043);
-INSERT INTO item_paid_only (item_id) VALUES (277044);
-INSERT INTO item_paid_only (item_id) VALUES (277045);
-INSERT INTO item_paid_only (item_id) VALUES (277046);
-INSERT INTO item_paid_only (item_id) VALUES (277047);
-INSERT INTO item_paid_only (item_id) VALUES (277048);
-INSERT INTO item_paid_only (item_id) VALUES (277049);
-INSERT INTO item_paid_only (item_id) VALUES (277050);
-INSERT INTO item_paid_only (item_id) VALUES (277051);
-INSERT INTO item_paid_only (item_id) VALUES (277052);
-INSERT INTO item_paid_only (item_id) VALUES (277053);
-INSERT INTO item_paid_only (item_id) VALUES (277054);
-INSERT INTO item_paid_only (item_id) VALUES (277055);
-INSERT INTO item_paid_only (item_id) VALUES (277056);
-INSERT INTO item_paid_only (item_id) VALUES (277057);
-INSERT INTO item_paid_only (item_id) VALUES (277058);
-INSERT INTO item_paid_only (item_id) VALUES (277059);
-INSERT INTO item_paid_only (item_id) VALUES (277060);
-INSERT INTO item_paid_only (item_id) VALUES (277061);
-INSERT INTO item_paid_only (item_id) VALUES (277062);
-INSERT INTO item_paid_only (item_id) VALUES (277063);
-INSERT INTO item_paid_only (item_id) VALUES (277064);
-INSERT INTO item_paid_only (item_id) VALUES (277065);
-INSERT INTO item_paid_only (item_id) VALUES (277066);
-INSERT INTO item_paid_only (item_id) VALUES (277067);
-INSERT INTO item_paid_only (item_id) VALUES (277068);
-INSERT INTO item_paid_only (item_id) VALUES (277069);
-INSERT INTO item_paid_only (item_id) VALUES (277070);
-INSERT INTO item_paid_only (item_id) VALUES (277071);
-INSERT INTO item_paid_only (item_id) VALUES (277072);
-INSERT INTO item_paid_only (item_id) VALUES (277073);
-INSERT INTO item_paid_only (item_id) VALUES (277074);
-INSERT INTO item_paid_only (item_id) VALUES (277075);
-INSERT INTO item_paid_only (item_id) VALUES (277076);
-INSERT INTO item_paid_only (item_id) VALUES (277077);
-INSERT INTO item_paid_only (item_id) VALUES (277078);
-INSERT INTO item_paid_only (item_id) VALUES (277079);
-INSERT INTO item_paid_only (item_id) VALUES (277080);
-INSERT INTO item_paid_only (item_id) VALUES (277081);
-INSERT INTO item_paid_only (item_id) VALUES (277082);
-INSERT INTO item_paid_only (item_id) VALUES (277083);
-INSERT INTO item_paid_only (item_id) VALUES (277084);
-INSERT INTO item_paid_only (item_id) VALUES (277085);
-INSERT INTO item_paid_only (item_id) VALUES (277086);
-INSERT INTO item_paid_only (item_id) VALUES (277087);
-INSERT INTO item_paid_only (item_id) VALUES (277088);
-INSERT INTO item_paid_only (item_id) VALUES (277089);
-INSERT INTO item_paid_only (item_id) VALUES (277090);
-INSERT INTO item_paid_only (item_id) VALUES (277091);
-INSERT INTO item_paid_only (item_id) VALUES (277092);
-INSERT INTO item_paid_only (item_id) VALUES (277093);
-INSERT INTO item_paid_only (item_id) VALUES (277094);
-INSERT INTO item_paid_only (item_id) VALUES (277095);
-INSERT INTO item_paid_only (item_id) VALUES (277096);
-INSERT INTO item_paid_only (item_id) VALUES (277097);
-INSERT INTO item_paid_only (item_id) VALUES (277098);
-INSERT INTO item_paid_only (item_id) VALUES (277099);
-INSERT INTO item_paid_only (item_id) VALUES (277100);
-INSERT INTO item_paid_only (item_id) VALUES (277101);
-INSERT INTO item_paid_only (item_id) VALUES (277102);
-INSERT INTO item_paid_only (item_id) VALUES (277103);
-INSERT INTO item_paid_only (item_id) VALUES (277104);
-INSERT INTO item_paid_only (item_id) VALUES (277105);
-INSERT INTO item_paid_only (item_id) VALUES (277106);
-INSERT INTO item_paid_only (item_id) VALUES (277107);
-INSERT INTO item_paid_only (item_id) VALUES (277108);
-INSERT INTO item_paid_only (item_id) VALUES (277109);
-INSERT INTO item_paid_only (item_id) VALUES (277110);
-INSERT INTO item_paid_only (item_id) VALUES (277111);
-INSERT INTO item_paid_only (item_id) VALUES (277112);
-INSERT INTO item_paid_only (item_id) VALUES (277113);
-INSERT INTO item_paid_only (item_id) VALUES (277114);
-INSERT INTO item_paid_only (item_id) VALUES (277115);
-INSERT INTO item_paid_only (item_id) VALUES (277116);
-INSERT INTO item_paid_only (item_id) VALUES (277117);
-INSERT INTO item_paid_only (item_id) VALUES (277118);
-INSERT INTO item_paid_only (item_id) VALUES (277119);
-INSERT INTO item_paid_only (item_id) VALUES (277120);
-INSERT INTO item_paid_only (item_id) VALUES (277121);
-INSERT INTO item_paid_only (item_id) VALUES (277122);
-INSERT INTO item_paid_only (item_id) VALUES (277123);
-INSERT INTO item_paid_only (item_id) VALUES (277124);
-INSERT INTO item_paid_only (item_id) VALUES (277125);
-INSERT INTO item_paid_only (item_id) VALUES (277126);
-INSERT INTO item_paid_only (item_id) VALUES (277127);
-INSERT INTO item_paid_only (item_id) VALUES (277128);
-INSERT INTO item_paid_only (item_id) VALUES (277129);
-INSERT INTO item_paid_only (item_id) VALUES (277130);
-INSERT INTO item_paid_only (item_id) VALUES (277131);
-INSERT INTO item_paid_only (item_id) VALUES (277132);
-INSERT INTO item_paid_only (item_id) VALUES (277133);
-INSERT INTO item_paid_only (item_id) VALUES (277134);
-INSERT INTO item_paid_only (item_id) VALUES (277135);
-INSERT INTO item_paid_only (item_id) VALUES (277136);
-INSERT INTO item_paid_only (item_id) VALUES (277137);
-INSERT INTO item_paid_only (item_id) VALUES (277138);
-INSERT INTO item_paid_only (item_id) VALUES (277139);
-INSERT INTO item_paid_only (item_id) VALUES (277140);
-INSERT INTO item_paid_only (item_id) VALUES (277141);
-INSERT INTO item_paid_only (item_id) VALUES (277142);
-INSERT INTO item_paid_only (item_id) VALUES (277143);
-INSERT INTO item_paid_only (item_id) VALUES (277144);
-INSERT INTO item_paid_only (item_id) VALUES (277145);
-INSERT INTO item_paid_only (item_id) VALUES (277146);
-INSERT INTO item_paid_only (item_id) VALUES (277147);
-INSERT INTO item_paid_only (item_id) VALUES (277148);
-INSERT INTO item_paid_only (item_id) VALUES (277149);
-INSERT INTO item_paid_only (item_id) VALUES (277150);
-INSERT INTO item_paid_only (item_id) VALUES (277151);
-INSERT INTO item_paid_only (item_id) VALUES (277152);
-INSERT INTO item_paid_only (item_id) VALUES (277153);
-INSERT INTO item_paid_only (item_id) VALUES (277154);
-INSERT INTO item_paid_only (item_id) VALUES (277155);
-INSERT INTO item_paid_only (item_id) VALUES (277156);
-INSERT INTO item_paid_only (item_id) VALUES (277157);
-INSERT INTO item_paid_only (item_id) VALUES (277158);
-INSERT INTO item_paid_only (item_id) VALUES (277159);
-INSERT INTO item_paid_only (item_id) VALUES (277160);
-INSERT INTO item_paid_only (item_id) VALUES (277161);
-INSERT INTO item_paid_only (item_id) VALUES (277162);
-INSERT INTO item_paid_only (item_id) VALUES (277163);
-INSERT INTO item_paid_only (item_id) VALUES (277164);
-INSERT INTO item_paid_only (item_id) VALUES (277165);
-INSERT INTO item_paid_only (item_id) VALUES (277166);
-INSERT INTO item_paid_only (item_id) VALUES (277183);
-INSERT INTO item_paid_only (item_id) VALUES (277184);
-INSERT INTO item_paid_only (item_id) VALUES (277185);
-INSERT INTO item_paid_only (item_id) VALUES (277186);
-INSERT INTO item_paid_only (item_id) VALUES (277187);
-INSERT INTO item_paid_only (item_id) VALUES (277188);
-INSERT INTO item_paid_only (item_id) VALUES (277189);
-INSERT INTO item_paid_only (item_id) VALUES (277190);
-INSERT INTO item_paid_only (item_id) VALUES (277191);
-INSERT INTO item_paid_only (item_id) VALUES (277192);
-INSERT INTO item_paid_only (item_id) VALUES (277193);
-INSERT INTO item_paid_only (item_id) VALUES (277194);
-INSERT INTO item_paid_only (item_id) VALUES (277195);
-INSERT INTO item_paid_only (item_id) VALUES (277196);
-INSERT INTO item_paid_only (item_id) VALUES (277197);
-INSERT INTO item_paid_only (item_id) VALUES (277198);
-INSERT INTO item_paid_only (item_id) VALUES (277199);
-INSERT INTO item_paid_only (item_id) VALUES (277200);
-INSERT INTO item_paid_only (item_id) VALUES (277201);
-INSERT INTO item_paid_only (item_id) VALUES (277202);
-INSERT INTO item_paid_only (item_id) VALUES (277203);
-INSERT INTO item_paid_only (item_id) VALUES (277204);
-INSERT INTO item_paid_only (item_id) VALUES (277205);
-INSERT INTO item_paid_only (item_id) VALUES (277206);
-INSERT INTO item_paid_only (item_id) VALUES (277207);
-INSERT INTO item_paid_only (item_id) VALUES (277208);
-INSERT INTO item_paid_only (item_id) VALUES (277209);
-INSERT INTO item_paid_only (item_id) VALUES (277210);
-INSERT INTO item_paid_only (item_id) VALUES (277211);
-INSERT INTO item_paid_only (item_id) VALUES (277212);
-INSERT INTO item_paid_only (item_id) VALUES (277213);
-INSERT INTO item_paid_only (item_id) VALUES (277214);
-INSERT INTO item_paid_only (item_id) VALUES (277215);
-INSERT INTO item_paid_only (item_id) VALUES (277216);
-INSERT INTO item_paid_only (item_id) VALUES (277217);
-INSERT INTO item_paid_only (item_id) VALUES (277218);
-INSERT INTO item_paid_only (item_id) VALUES (277219);
-INSERT INTO item_paid_only (item_id) VALUES (277220);
-INSERT INTO item_paid_only (item_id) VALUES (277221);
-INSERT INTO item_paid_only (item_id) VALUES (277222);
-INSERT INTO item_paid_only (item_id) VALUES (277223);
-INSERT INTO item_paid_only (item_id) VALUES (277224);
-INSERT INTO item_paid_only (item_id) VALUES (277225);
-INSERT INTO item_paid_only (item_id) VALUES (277226);
-INSERT INTO item_paid_only (item_id) VALUES (277227);
-INSERT INTO item_paid_only (item_id) VALUES (277228);
-INSERT INTO item_paid_only (item_id) VALUES (277229);
-INSERT INTO item_paid_only (item_id) VALUES (277230);
-INSERT INTO item_paid_only (item_id) VALUES (277231);
-INSERT INTO item_paid_only (item_id) VALUES (277232);
-INSERT INTO item_paid_only (item_id) VALUES (277233);
-INSERT INTO item_paid_only (item_id) VALUES (277234);
-INSERT INTO item_paid_only (item_id) VALUES (277235);
-INSERT INTO item_paid_only (item_id) VALUES (277236);
-INSERT INTO item_paid_only (item_id) VALUES (277237);
-INSERT INTO item_paid_only (item_id) VALUES (277238);
-INSERT INTO item_paid_only (item_id) VALUES (277239);
-INSERT INTO item_paid_only (item_id) VALUES (277240);
-INSERT INTO item_paid_only (item_id) VALUES (277241);
-INSERT INTO item_paid_only (item_id) VALUES (277242);
-INSERT INTO item_paid_only (item_id) VALUES (277243);
-INSERT INTO item_paid_only (item_id) VALUES (277244);
-INSERT INTO item_paid_only (item_id) VALUES (277245);
-INSERT INTO item_paid_only (item_id) VALUES (277246);
-INSERT INTO item_paid_only (item_id) VALUES (277247);
-INSERT INTO item_paid_only (item_id) VALUES (277248);
-INSERT INTO item_paid_only (item_id) VALUES (277249);
-INSERT INTO item_paid_only (item_id) VALUES (277250);
-INSERT INTO item_paid_only (item_id) VALUES (277251);
-INSERT INTO item_paid_only (item_id) VALUES (277252);
-INSERT INTO item_paid_only (item_id) VALUES (277253);
-INSERT INTO item_paid_only (item_id) VALUES (277254);
-INSERT INTO item_paid_only (item_id) VALUES (277255);
-INSERT INTO item_paid_only (item_id) VALUES (277256);
-INSERT INTO item_paid_only (item_id) VALUES (277257);
-INSERT INTO item_paid_only (item_id) VALUES (277262);
-INSERT INTO item_paid_only (item_id) VALUES (277263);
-INSERT INTO item_paid_only (item_id) VALUES (277264);
-INSERT INTO item_paid_only (item_id) VALUES (277265);
-INSERT INTO item_paid_only (item_id) VALUES (277266);
-INSERT INTO item_paid_only (item_id) VALUES (277267);
-INSERT INTO item_paid_only (item_id) VALUES (277268);
-INSERT INTO item_paid_only (item_id) VALUES (277269);
-INSERT INTO item_paid_only (item_id) VALUES (277270);
-INSERT INTO item_paid_only (item_id) VALUES (277271);
-INSERT INTO item_paid_only (item_id) VALUES (277272);
-INSERT INTO item_paid_only (item_id) VALUES (277273);
-INSERT INTO item_paid_only (item_id) VALUES (277274);
-INSERT INTO item_paid_only (item_id) VALUES (277275);
-INSERT INTO item_paid_only (item_id) VALUES (277276);
-INSERT INTO item_paid_only (item_id) VALUES (277277);
-INSERT INTO item_paid_only (item_id) VALUES (277278);
-INSERT INTO item_paid_only (item_id) VALUES (277279);
-INSERT INTO item_paid_only (item_id) VALUES (277280);
-INSERT INTO item_paid_only (item_id) VALUES (277281);
-INSERT INTO item_paid_only (item_id) VALUES (277282);
-INSERT INTO item_paid_only (item_id) VALUES (277283);
-INSERT INTO item_paid_only (item_id) VALUES (277284);
-INSERT INTO item_paid_only (item_id) VALUES (277285);
-INSERT INTO item_paid_only (item_id) VALUES (277286);
-INSERT INTO item_paid_only (item_id) VALUES (277287);
-INSERT INTO item_paid_only (item_id) VALUES (277288);
-INSERT INTO item_paid_only (item_id) VALUES (277289);
-INSERT INTO item_paid_only (item_id) VALUES (277290);
-INSERT INTO item_paid_only (item_id) VALUES (277291);
-INSERT INTO item_paid_only (item_id) VALUES (277292);
-INSERT INTO item_paid_only (item_id) VALUES (277293);
-INSERT INTO item_paid_only (item_id) VALUES (277294);
-INSERT INTO item_paid_only (item_id) VALUES (277295);
-INSERT INTO item_paid_only (item_id) VALUES (277296);
-INSERT INTO item_paid_only (item_id) VALUES (277297);
-INSERT INTO item_paid_only (item_id) VALUES (277298);
-INSERT INTO item_paid_only (item_id) VALUES (277299);
-INSERT INTO item_paid_only (item_id) VALUES (277300);
-INSERT INTO item_paid_only (item_id) VALUES (277301);
-INSERT INTO item_paid_only (item_id) VALUES (277302);
-INSERT INTO item_paid_only (item_id) VALUES (277303);
-INSERT INTO item_paid_only (item_id) VALUES (277304);
-INSERT INTO item_paid_only (item_id) VALUES (277305);
-INSERT INTO item_paid_only (item_id) VALUES (277306);
-INSERT INTO item_paid_only (item_id) VALUES (277307);
-INSERT INTO item_paid_only (item_id) VALUES (277308);
-INSERT INTO item_paid_only (item_id) VALUES (277309);
-INSERT INTO item_paid_only (item_id) VALUES (277310);
-INSERT INTO item_paid_only (item_id) VALUES (277311);
-INSERT INTO item_paid_only (item_id) VALUES (277312);
-INSERT INTO item_paid_only (item_id) VALUES (277313);
-INSERT INTO item_paid_only (item_id) VALUES (277314);
-INSERT INTO item_paid_only (item_id) VALUES (277315);
-INSERT INTO item_paid_only (item_id) VALUES (277316);
-INSERT INTO item_paid_only (item_id) VALUES (277317);
-INSERT INTO item_paid_only (item_id) VALUES (277318);
-INSERT INTO item_paid_only (item_id) VALUES (277319);
-INSERT INTO item_paid_only (item_id) VALUES (277320);
-INSERT INTO item_paid_only (item_id) VALUES (277321);
-INSERT INTO item_paid_only (item_id) VALUES (277322);
-INSERT INTO item_paid_only (item_id) VALUES (277323);
-INSERT INTO item_paid_only (item_id) VALUES (277324);
-INSERT INTO item_paid_only (item_id) VALUES (277325);
-INSERT INTO item_paid_only (item_id) VALUES (277326);
-INSERT INTO item_paid_only (item_id) VALUES (277327);
-INSERT INTO item_paid_only (item_id) VALUES (277328);
-INSERT INTO item_paid_only (item_id) VALUES (277329);
-INSERT INTO item_paid_only (item_id) VALUES (277330);
-INSERT INTO item_paid_only (item_id) VALUES (277331);
-INSERT INTO item_paid_only (item_id) VALUES (277332);
-INSERT INTO item_paid_only (item_id) VALUES (277333);
-INSERT INTO item_paid_only (item_id) VALUES (277334);
-INSERT INTO item_paid_only (item_id) VALUES (277335);
-INSERT INTO item_paid_only (item_id) VALUES (277336);
-INSERT INTO item_paid_only (item_id) VALUES (277337);
-INSERT INTO item_paid_only (item_id) VALUES (277338);
-INSERT INTO item_paid_only (item_id) VALUES (277339);
-INSERT INTO item_paid_only (item_id) VALUES (277340);
-INSERT INTO item_paid_only (item_id) VALUES (277341);
-INSERT INTO item_paid_only (item_id) VALUES (277342);
-INSERT INTO item_paid_only (item_id) VALUES (277343);
-INSERT INTO item_paid_only (item_id) VALUES (277344);
-INSERT INTO item_paid_only (item_id) VALUES (277345);
-INSERT INTO item_paid_only (item_id) VALUES (277346);
-INSERT INTO item_paid_only (item_id) VALUES (277347);
-INSERT INTO item_paid_only (item_id) VALUES (277348);
-INSERT INTO item_paid_only (item_id) VALUES (277349);
-INSERT INTO item_paid_only (item_id) VALUES (277350);
-INSERT INTO item_paid_only (item_id) VALUES (277351);
-INSERT INTO item_paid_only (item_id) VALUES (277352);
-INSERT INTO item_paid_only (item_id) VALUES (277353);
-INSERT INTO item_paid_only (item_id) VALUES (277354);
-INSERT INTO item_paid_only (item_id) VALUES (277355);
-INSERT INTO item_paid_only (item_id) VALUES (277356);
-INSERT INTO item_paid_only (item_id) VALUES (277357);
-INSERT INTO item_paid_only (item_id) VALUES (277358);
-INSERT INTO item_paid_only (item_id) VALUES (277359);
-INSERT INTO item_paid_only (item_id) VALUES (277360);
-INSERT INTO item_paid_only (item_id) VALUES (277361);
-INSERT INTO item_paid_only (item_id) VALUES (277362);
-INSERT INTO item_paid_only (item_id) VALUES (277363);
-INSERT INTO item_paid_only (item_id) VALUES (277364);
-INSERT INTO item_paid_only (item_id) VALUES (277365);
-INSERT INTO item_paid_only (item_id) VALUES (277366);
-INSERT INTO item_paid_only (item_id) VALUES (277367);
-INSERT INTO item_paid_only (item_id) VALUES (277368);
-INSERT INTO item_paid_only (item_id) VALUES (277369);
-INSERT INTO item_paid_only (item_id) VALUES (277370);
-INSERT INTO item_paid_only (item_id) VALUES (277371);
-INSERT INTO item_paid_only (item_id) VALUES (277372);
-INSERT INTO item_paid_only (item_id) VALUES (277373);
-INSERT INTO item_paid_only (item_id) VALUES (277374);
-INSERT INTO item_paid_only (item_id) VALUES (277375);
-INSERT INTO item_paid_only (item_id) VALUES (277376);
-INSERT INTO item_paid_only (item_id) VALUES (277432);
-INSERT INTO item_paid_only (item_id) VALUES (277433);
-INSERT INTO item_paid_only (item_id) VALUES (277434);
-INSERT INTO item_paid_only (item_id) VALUES (277435);
-INSERT INTO item_paid_only (item_id) VALUES (277436);
-INSERT INTO item_paid_only (item_id) VALUES (277502);
-INSERT INTO item_paid_only (item_id) VALUES (277503);
-INSERT INTO item_paid_only (item_id) VALUES (277504);
-INSERT INTO item_paid_only (item_id) VALUES (277505);
-INSERT INTO item_paid_only (item_id) VALUES (277506);
-INSERT INTO item_paid_only (item_id) VALUES (277507);
-INSERT INTO item_paid_only (item_id) VALUES (277508);
-INSERT INTO item_paid_only (item_id) VALUES (277509);
-INSERT INTO item_paid_only (item_id) VALUES (277510);
-INSERT INTO item_paid_only (item_id) VALUES (277511);
-INSERT INTO item_paid_only (item_id) VALUES (277512);
-INSERT INTO item_paid_only (item_id) VALUES (277513);
-INSERT INTO item_paid_only (item_id) VALUES (277514);
-INSERT INTO item_paid_only (item_id) VALUES (277515);
-INSERT INTO item_paid_only (item_id) VALUES (277516);
-INSERT INTO item_paid_only (item_id) VALUES (277517);
-INSERT INTO item_paid_only (item_id) VALUES (277518);
-INSERT INTO item_paid_only (item_id) VALUES (277519);
-INSERT INTO item_paid_only (item_id) VALUES (277520);
-INSERT INTO item_paid_only (item_id) VALUES (277521);
-INSERT INTO item_paid_only (item_id) VALUES (277522);
-INSERT INTO item_paid_only (item_id) VALUES (277523);
-INSERT INTO item_paid_only (item_id) VALUES (277524);
-INSERT INTO item_paid_only (item_id) VALUES (277525);
-INSERT INTO item_paid_only (item_id) VALUES (277526);
-INSERT INTO item_paid_only (item_id) VALUES (277527);
-INSERT INTO item_paid_only (item_id) VALUES (277528);
-INSERT INTO item_paid_only (item_id) VALUES (277529);
-INSERT INTO item_paid_only (item_id) VALUES (277530);
-INSERT INTO item_paid_only (item_id) VALUES (277531);
-INSERT INTO item_paid_only (item_id) VALUES (277532);
-INSERT INTO item_paid_only (item_id) VALUES (277533);
-INSERT INTO item_paid_only (item_id) VALUES (277534);
-INSERT INTO item_paid_only (item_id) VALUES (277535);
-INSERT INTO item_paid_only (item_id) VALUES (277536);
-INSERT INTO item_paid_only (item_id) VALUES (277541);
-INSERT INTO item_paid_only (item_id) VALUES (277542);
-INSERT INTO item_paid_only (item_id) VALUES (277543);
-INSERT INTO item_paid_only (item_id) VALUES (277544);
-INSERT INTO item_paid_only (item_id) VALUES (277545);
-INSERT INTO item_paid_only (item_id) VALUES (277546);
-INSERT INTO item_paid_only (item_id) VALUES (277547);
-INSERT INTO item_paid_only (item_id) VALUES (277548);
-INSERT INTO item_paid_only (item_id) VALUES (277549);
-INSERT INTO item_paid_only (item_id) VALUES (277550);
-INSERT INTO item_paid_only (item_id) VALUES (277552);
-INSERT INTO item_paid_only (item_id) VALUES (277553);
-INSERT INTO item_paid_only (item_id) VALUES (277554);
-INSERT INTO item_paid_only (item_id) VALUES (277555);
-INSERT INTO item_paid_only (item_id) VALUES (277556);
-INSERT INTO item_paid_only (item_id) VALUES (277557);
-INSERT INTO item_paid_only (item_id) VALUES (277558);
-INSERT INTO item_paid_only (item_id) VALUES (277559);
-INSERT INTO item_paid_only (item_id) VALUES (277560);
-INSERT INTO item_paid_only (item_id) VALUES (277561);
-INSERT INTO item_paid_only (item_id) VALUES (277562);
-INSERT INTO item_paid_only (item_id) VALUES (277563);
-INSERT INTO item_paid_only (item_id) VALUES (277564);
-INSERT INTO item_paid_only (item_id) VALUES (277565);
-INSERT INTO item_paid_only (item_id) VALUES (277566);
-INSERT INTO item_paid_only (item_id) VALUES (277567);
-INSERT INTO item_paid_only (item_id) VALUES (277568);
-INSERT INTO item_paid_only (item_id) VALUES (277569);
-INSERT INTO item_paid_only (item_id) VALUES (277570);
-INSERT INTO item_paid_only (item_id) VALUES (277571);
-INSERT INTO item_paid_only (item_id) VALUES (277572);
-INSERT INTO item_paid_only (item_id) VALUES (277573);
-INSERT INTO item_paid_only (item_id) VALUES (277574);
-INSERT INTO item_paid_only (item_id) VALUES (277575);
-INSERT INTO item_paid_only (item_id) VALUES (277576);
-INSERT INTO item_paid_only (item_id) VALUES (277577);
-INSERT INTO item_paid_only (item_id) VALUES (277578);
-INSERT INTO item_paid_only (item_id) VALUES (277579);
-INSERT INTO item_paid_only (item_id) VALUES (277580);
-INSERT INTO item_paid_only (item_id) VALUES (277581);
-INSERT INTO item_paid_only (item_id) VALUES (277582);
-INSERT INTO item_paid_only (item_id) VALUES (277583);
-INSERT INTO item_paid_only (item_id) VALUES (277584);
-INSERT INTO item_paid_only (item_id) VALUES (277585);
-INSERT INTO item_paid_only (item_id) VALUES (277586);
-INSERT INTO item_paid_only (item_id) VALUES (277587);
-INSERT INTO item_paid_only (item_id) VALUES (277588);
-INSERT INTO item_paid_only (item_id) VALUES (277589);
-INSERT INTO item_paid_only (item_id) VALUES (277590);
-INSERT INTO item_paid_only (item_id) VALUES (277591);
-INSERT INTO item_paid_only (item_id) VALUES (277592);
-INSERT INTO item_paid_only (item_id) VALUES (277593);
-INSERT INTO item_paid_only (item_id) VALUES (277594);
-INSERT INTO item_paid_only (item_id) VALUES (277595);
-INSERT INTO item_paid_only (item_id) VALUES (277596);
-INSERT INTO item_paid_only (item_id) VALUES (277597);
-INSERT INTO item_paid_only (item_id) VALUES (277598);
-INSERT INTO item_paid_only (item_id) VALUES (277599);
-INSERT INTO item_paid_only (item_id) VALUES (277600);
-INSERT INTO item_paid_only (item_id) VALUES (277601);
-INSERT INTO item_paid_only (item_id) VALUES (277602);
-INSERT INTO item_paid_only (item_id) VALUES (277603);
-INSERT INTO item_paid_only (item_id) VALUES (277604);
-INSERT INTO item_paid_only (item_id) VALUES (277605);
-INSERT INTO item_paid_only (item_id) VALUES (277606);
-INSERT INTO item_paid_only (item_id) VALUES (277607);
-INSERT INTO item_paid_only (item_id) VALUES (277608);
-INSERT INTO item_paid_only (item_id) VALUES (277609);
-INSERT INTO item_paid_only (item_id) VALUES (277610);
-INSERT INTO item_paid_only (item_id) VALUES (277611);
-INSERT INTO item_paid_only (item_id) VALUES (277612);
-INSERT INTO item_paid_only (item_id) VALUES (277613);
-INSERT INTO item_paid_only (item_id) VALUES (277614);
-INSERT INTO item_paid_only (item_id) VALUES (277615);
-INSERT INTO item_paid_only (item_id) VALUES (277616);
-INSERT INTO item_paid_only (item_id) VALUES (277617);
-INSERT INTO item_paid_only (item_id) VALUES (277618);
-INSERT INTO item_paid_only (item_id) VALUES (277619);
-INSERT INTO item_paid_only (item_id) VALUES (277620);
-INSERT INTO item_paid_only (item_id) VALUES (277621);
-INSERT INTO item_paid_only (item_id) VALUES (277622);
-INSERT INTO item_paid_only (item_id) VALUES (277623);
-INSERT INTO item_paid_only (item_id) VALUES (277624);
-INSERT INTO item_paid_only (item_id) VALUES (277625);
-INSERT INTO item_paid_only (item_id) VALUES (277626);
-INSERT INTO item_paid_only (item_id) VALUES (277627);
-INSERT INTO item_paid_only (item_id) VALUES (277628);
-INSERT INTO item_paid_only (item_id) VALUES (277629);
-INSERT INTO item_paid_only (item_id) VALUES (277630);
-INSERT INTO item_paid_only (item_id) VALUES (277631);
-INSERT INTO item_paid_only (item_id) VALUES (277632);
-INSERT INTO item_paid_only (item_id) VALUES (277633);
-INSERT INTO item_paid_only (item_id) VALUES (277634);
-INSERT INTO item_paid_only (item_id) VALUES (277635);
-INSERT INTO item_paid_only (item_id) VALUES (277636);
-INSERT INTO item_paid_only (item_id) VALUES (277637);
-INSERT INTO item_paid_only (item_id) VALUES (277638);
-INSERT INTO item_paid_only (item_id) VALUES (277639);
-INSERT INTO item_paid_only (item_id) VALUES (277640);
-INSERT INTO item_paid_only (item_id) VALUES (277641);
-INSERT INTO item_paid_only (item_id) VALUES (277642);
-INSERT INTO item_paid_only (item_id) VALUES (277643);
-INSERT INTO item_paid_only (item_id) VALUES (277644);
-INSERT INTO item_paid_only (item_id) VALUES (277645);
-INSERT INTO item_paid_only (item_id) VALUES (277646);
-INSERT INTO item_paid_only (item_id) VALUES (277647);
-INSERT INTO item_paid_only (item_id) VALUES (277648);
-INSERT INTO item_paid_only (item_id) VALUES (277649);
-INSERT INTO item_paid_only (item_id) VALUES (277650);
-INSERT INTO item_paid_only (item_id) VALUES (277651);
-INSERT INTO item_paid_only (item_id) VALUES (277652);
-INSERT INTO item_paid_only (item_id) VALUES (277653);
-INSERT INTO item_paid_only (item_id) VALUES (277654);
-INSERT INTO item_paid_only (item_id) VALUES (277655);
-INSERT INTO item_paid_only (item_id) VALUES (277656);
-INSERT INTO item_paid_only (item_id) VALUES (277657);
-INSERT INTO item_paid_only (item_id) VALUES (277658);
-INSERT INTO item_paid_only (item_id) VALUES (277659);
-INSERT INTO item_paid_only (item_id) VALUES (277660);
-INSERT INTO item_paid_only (item_id) VALUES (277661);
-INSERT INTO item_paid_only (item_id) VALUES (277662);
-INSERT INTO item_paid_only (item_id) VALUES (277663);
-INSERT INTO item_paid_only (item_id) VALUES (277664);
-INSERT INTO item_paid_only (item_id) VALUES (277665);
-INSERT INTO item_paid_only (item_id) VALUES (277666);
-INSERT INTO item_paid_only (item_id) VALUES (277667);
-INSERT INTO item_paid_only (item_id) VALUES (277668);
-INSERT INTO item_paid_only (item_id) VALUES (277669);
-INSERT INTO item_paid_only (item_id) VALUES (277670);
-INSERT INTO item_paid_only (item_id) VALUES (277671);
-INSERT INTO item_paid_only (item_id) VALUES (277672);
-INSERT INTO item_paid_only (item_id) VALUES (277673);
-INSERT INTO item_paid_only (item_id) VALUES (277674);
-INSERT INTO item_paid_only (item_id) VALUES (277675);
-INSERT INTO item_paid_only (item_id) VALUES (277676);
-INSERT INTO item_paid_only (item_id) VALUES (277677);
-INSERT INTO item_paid_only (item_id) VALUES (277678);
-INSERT INTO item_paid_only (item_id) VALUES (277679);
-INSERT INTO item_paid_only (item_id) VALUES (277680);
-INSERT INTO item_paid_only (item_id) VALUES (277681);
-INSERT INTO item_paid_only (item_id) VALUES (277682);
-INSERT INTO item_paid_only (item_id) VALUES (277683);
-INSERT INTO item_paid_only (item_id) VALUES (277684);
-INSERT INTO item_paid_only (item_id) VALUES (277685);
-INSERT INTO item_paid_only (item_id) VALUES (277686);
-INSERT INTO item_paid_only (item_id) VALUES (277687);
-INSERT INTO item_paid_only (item_id) VALUES (277688);
-INSERT INTO item_paid_only (item_id) VALUES (277689);
-INSERT INTO item_paid_only (item_id) VALUES (277690);
-INSERT INTO item_paid_only (item_id) VALUES (277691);
-INSERT INTO item_paid_only (item_id) VALUES (277692);
-INSERT INTO item_paid_only (item_id) VALUES (277693);
-INSERT INTO item_paid_only (item_id) VALUES (277694);
-INSERT INTO item_paid_only (item_id) VALUES (277695);
-INSERT INTO item_paid_only (item_id) VALUES (277696);
-INSERT INTO item_paid_only (item_id) VALUES (277697);
-INSERT INTO item_paid_only (item_id) VALUES (277698);
-INSERT INTO item_paid_only (item_id) VALUES (277699);
-INSERT INTO item_paid_only (item_id) VALUES (277700);
-INSERT INTO item_paid_only (item_id) VALUES (277701);
-INSERT INTO item_paid_only (item_id) VALUES (277702);
-INSERT INTO item_paid_only (item_id) VALUES (277703);
-INSERT INTO item_paid_only (item_id) VALUES (277704);
-INSERT INTO item_paid_only (item_id) VALUES (277705);
-INSERT INTO item_paid_only (item_id) VALUES (277706);
-INSERT INTO item_paid_only (item_id) VALUES (277707);
-INSERT INTO item_paid_only (item_id) VALUES (277708);
-INSERT INTO item_paid_only (item_id) VALUES (277709);
-INSERT INTO item_paid_only (item_id) VALUES (277710);
-INSERT INTO item_paid_only (item_id) VALUES (277711);
-INSERT INTO item_paid_only (item_id) VALUES (277714);
-INSERT INTO item_paid_only (item_id) VALUES (277715);
-INSERT INTO item_paid_only (item_id) VALUES (277716);
-INSERT INTO item_paid_only (item_id) VALUES (277717);
-INSERT INTO item_paid_only (item_id) VALUES (277718);
-INSERT INTO item_paid_only (item_id) VALUES (277719);
-INSERT INTO item_paid_only (item_id) VALUES (277720);
-INSERT INTO item_paid_only (item_id) VALUES (277721);
-INSERT INTO item_paid_only (item_id) VALUES (277722);
-INSERT INTO item_paid_only (item_id) VALUES (277723);
-INSERT INTO item_paid_only (item_id) VALUES (277724);
-INSERT INTO item_paid_only (item_id) VALUES (277725);
-INSERT INTO item_paid_only (item_id) VALUES (277726);
-INSERT INTO item_paid_only (item_id) VALUES (277727);
-INSERT INTO item_paid_only (item_id) VALUES (277728);
-INSERT INTO item_paid_only (item_id) VALUES (277729);
-INSERT INTO item_paid_only (item_id) VALUES (277730);
-INSERT INTO item_paid_only (item_id) VALUES (277731);
-INSERT INTO item_paid_only (item_id) VALUES (277732);
-INSERT INTO item_paid_only (item_id) VALUES (277733);
-INSERT INTO item_paid_only (item_id) VALUES (277734);
-INSERT INTO item_paid_only (item_id) VALUES (277735);
-INSERT INTO item_paid_only (item_id) VALUES (277736);
-INSERT INTO item_paid_only (item_id) VALUES (277737);
-INSERT INTO item_paid_only (item_id) VALUES (277738);
-INSERT INTO item_paid_only (item_id) VALUES (277739);
-INSERT INTO item_paid_only (item_id) VALUES (277740);
-INSERT INTO item_paid_only (item_id) VALUES (277741);
-INSERT INTO item_paid_only (item_id) VALUES (277742);
-INSERT INTO item_paid_only (item_id) VALUES (277743);
-INSERT INTO item_paid_only (item_id) VALUES (277744);
-INSERT INTO item_paid_only (item_id) VALUES (277745);
-INSERT INTO item_paid_only (item_id) VALUES (277746);
-INSERT INTO item_paid_only (item_id) VALUES (277747);
-INSERT INTO item_paid_only (item_id) VALUES (277748);
-INSERT INTO item_paid_only (item_id) VALUES (277749);
-INSERT INTO item_paid_only (item_id) VALUES (277750);
-INSERT INTO item_paid_only (item_id) VALUES (277751);
-INSERT INTO item_paid_only (item_id) VALUES (277752);
-INSERT INTO item_paid_only (item_id) VALUES (277753);
-INSERT INTO item_paid_only (item_id) VALUES (277754);
-INSERT INTO item_paid_only (item_id) VALUES (277755);
-INSERT INTO item_paid_only (item_id) VALUES (277756);
-INSERT INTO item_paid_only (item_id) VALUES (277757);
-INSERT INTO item_paid_only (item_id) VALUES (277758);
-INSERT INTO item_paid_only (item_id) VALUES (277759);
-INSERT INTO item_paid_only (item_id) VALUES (277760);
-INSERT INTO item_paid_only (item_id) VALUES (277761);
-INSERT INTO item_paid_only (item_id) VALUES (277762);
-INSERT INTO item_paid_only (item_id) VALUES (277763);
-INSERT INTO item_paid_only (item_id) VALUES (277764);
-INSERT INTO item_paid_only (item_id) VALUES (277765);
-INSERT INTO item_paid_only (item_id) VALUES (277766);
-INSERT INTO item_paid_only (item_id) VALUES (277767);
-INSERT INTO item_paid_only (item_id) VALUES (277768);
-INSERT INTO item_paid_only (item_id) VALUES (277769);
-INSERT INTO item_paid_only (item_id) VALUES (277770);
-INSERT INTO item_paid_only (item_id) VALUES (277771);
-INSERT INTO item_paid_only (item_id) VALUES (277772);
-INSERT INTO item_paid_only (item_id) VALUES (277773);
-INSERT INTO item_paid_only (item_id) VALUES (277774);
-INSERT INTO item_paid_only (item_id) VALUES (277775);
-INSERT INTO item_paid_only (item_id) VALUES (277776);
-INSERT INTO item_paid_only (item_id) VALUES (277777);
-INSERT INTO item_paid_only (item_id) VALUES (277778);
-INSERT INTO item_paid_only (item_id) VALUES (277779);
-INSERT INTO item_paid_only (item_id) VALUES (277780);
-INSERT INTO item_paid_only (item_id) VALUES (277781);
-INSERT INTO item_paid_only (item_id) VALUES (277782);
-INSERT INTO item_paid_only (item_id) VALUES (277783);
-INSERT INTO item_paid_only (item_id) VALUES (277784);
-INSERT INTO item_paid_only (item_id) VALUES (277785);
-INSERT INTO item_paid_only (item_id) VALUES (277786);
-INSERT INTO item_paid_only (item_id) VALUES (277787);
-INSERT INTO item_paid_only (item_id) VALUES (277788);
-INSERT INTO item_paid_only (item_id) VALUES (277789);
-INSERT INTO item_paid_only (item_id) VALUES (277790);
-INSERT INTO item_paid_only (item_id) VALUES (277791);
-INSERT INTO item_paid_only (item_id) VALUES (277792);
-INSERT INTO item_paid_only (item_id) VALUES (277793);
-INSERT INTO item_paid_only (item_id) VALUES (277794);
-INSERT INTO item_paid_only (item_id) VALUES (277795);
-INSERT INTO item_paid_only (item_id) VALUES (277796);
-INSERT INTO item_paid_only (item_id) VALUES (277797);
-INSERT INTO item_paid_only (item_id) VALUES (277798);
-INSERT INTO item_paid_only (item_id) VALUES (277799);
-INSERT INTO item_paid_only (item_id) VALUES (277800);
-INSERT INTO item_paid_only (item_id) VALUES (277801);
-INSERT INTO item_paid_only (item_id) VALUES (277802);
-INSERT INTO item_paid_only (item_id) VALUES (277803);
-INSERT INTO item_paid_only (item_id) VALUES (277804);
-INSERT INTO item_paid_only (item_id) VALUES (277805);
-INSERT INTO item_paid_only (item_id) VALUES (277806);
-INSERT INTO item_paid_only (item_id) VALUES (277807);
-INSERT INTO item_paid_only (item_id) VALUES (277808);
-INSERT INTO item_paid_only (item_id) VALUES (277809);
-INSERT INTO item_paid_only (item_id) VALUES (277810);
-INSERT INTO item_paid_only (item_id) VALUES (277811);
-INSERT INTO item_paid_only (item_id) VALUES (277812);
-INSERT INTO item_paid_only (item_id) VALUES (277813);
-INSERT INTO item_paid_only (item_id) VALUES (277814);
-INSERT INTO item_paid_only (item_id) VALUES (277815);
-INSERT INTO item_paid_only (item_id) VALUES (277816);
-INSERT INTO item_paid_only (item_id) VALUES (277817);
-INSERT INTO item_paid_only (item_id) VALUES (277818);
-INSERT INTO item_paid_only (item_id) VALUES (277819);
-INSERT INTO item_paid_only (item_id) VALUES (277820);
-INSERT INTO item_paid_only (item_id) VALUES (277821);
-INSERT INTO item_paid_only (item_id) VALUES (277822);
-INSERT INTO item_paid_only (item_id) VALUES (277823);
-INSERT INTO item_paid_only (item_id) VALUES (277933);
-INSERT INTO item_paid_only (item_id) VALUES (277934);
-INSERT INTO item_paid_only (item_id) VALUES (277935);
-INSERT INTO item_paid_only (item_id) VALUES (277936);
-INSERT INTO item_paid_only (item_id) VALUES (277937);
-INSERT INTO item_paid_only (item_id) VALUES (278007);
-INSERT INTO item_paid_only (item_id) VALUES (278008);
-INSERT INTO item_paid_only (item_id) VALUES (278009);
-INSERT INTO item_paid_only (item_id) VALUES (278010);
-INSERT INTO item_paid_only (item_id) VALUES (278011);
-INSERT INTO item_paid_only (item_id) VALUES (278012);
-INSERT INTO item_paid_only (item_id) VALUES (278013);
-INSERT INTO item_paid_only (item_id) VALUES (278014);
-INSERT INTO item_paid_only (item_id) VALUES (278015);
-INSERT INTO item_paid_only (item_id) VALUES (278016);
-INSERT INTO item_paid_only (item_id) VALUES (278017);
-INSERT INTO item_paid_only (item_id) VALUES (278018);
-INSERT INTO item_paid_only (item_id) VALUES (278019);
-INSERT INTO item_paid_only (item_id) VALUES (278020);
-INSERT INTO item_paid_only (item_id) VALUES (278021);
-INSERT INTO item_paid_only (item_id) VALUES (278022);
-INSERT INTO item_paid_only (item_id) VALUES (278023);
-INSERT INTO item_paid_only (item_id) VALUES (278024);
-INSERT INTO item_paid_only (item_id) VALUES (278025);
-INSERT INTO item_paid_only (item_id) VALUES (278026);
-INSERT INTO item_paid_only (item_id) VALUES (278027);
-INSERT INTO item_paid_only (item_id) VALUES (278028);
-INSERT INTO item_paid_only (item_id) VALUES (278029);
-INSERT INTO item_paid_only (item_id) VALUES (278030);
-INSERT INTO item_paid_only (item_id) VALUES (278031);
-INSERT INTO item_paid_only (item_id) VALUES (278040);
-INSERT INTO item_paid_only (item_id) VALUES (278041);
-INSERT INTO item_paid_only (item_id) VALUES (278042);
-INSERT INTO item_paid_only (item_id) VALUES (278043);
-INSERT INTO item_paid_only (item_id) VALUES (278044);
-INSERT INTO item_paid_only (item_id) VALUES (278045);
-INSERT INTO item_paid_only (item_id) VALUES (278046);
-INSERT INTO item_paid_only (item_id) VALUES (278047);
-INSERT INTO item_paid_only (item_id) VALUES (278048);
-INSERT INTO item_paid_only (item_id) VALUES (278049);
-INSERT INTO item_paid_only (item_id) VALUES (278050);
-INSERT INTO item_paid_only (item_id) VALUES (278051);
-INSERT INTO item_paid_only (item_id) VALUES (278052);
-INSERT INTO item_paid_only (item_id) VALUES (278053);
-INSERT INTO item_paid_only (item_id) VALUES (278054);
-INSERT INTO item_paid_only (item_id) VALUES (278055);
-INSERT INTO item_paid_only (item_id) VALUES (278056);
-INSERT INTO item_paid_only (item_id) VALUES (278057);
-INSERT INTO item_paid_only (item_id) VALUES (278058);
-INSERT INTO item_paid_only (item_id) VALUES (278059);
-INSERT INTO item_paid_only (item_id) VALUES (278060);
-INSERT INTO item_paid_only (item_id) VALUES (278061);
-INSERT INTO item_paid_only (item_id) VALUES (278062);
-INSERT INTO item_paid_only (item_id) VALUES (278063);
-INSERT INTO item_paid_only (item_id) VALUES (278064);
-INSERT INTO item_paid_only (item_id) VALUES (278065);
-INSERT INTO item_paid_only (item_id) VALUES (278066);
-INSERT INTO item_paid_only (item_id) VALUES (278067);
-INSERT INTO item_paid_only (item_id) VALUES (278068);
-INSERT INTO item_paid_only (item_id) VALUES (278069);
-INSERT INTO item_paid_only (item_id) VALUES (278070);
-INSERT INTO item_paid_only (item_id) VALUES (278071);
-INSERT INTO item_paid_only (item_id) VALUES (278072);
-INSERT INTO item_paid_only (item_id) VALUES (278073);
-INSERT INTO item_paid_only (item_id) VALUES (278074);
-INSERT INTO item_paid_only (item_id) VALUES (278075);
-INSERT INTO item_paid_only (item_id) VALUES (278076);
-INSERT INTO item_paid_only (item_id) VALUES (278077);
-INSERT INTO item_paid_only (item_id) VALUES (278078);
-INSERT INTO item_paid_only (item_id) VALUES (278079);
-INSERT INTO item_paid_only (item_id) VALUES (278080);
-INSERT INTO item_paid_only (item_id) VALUES (278081);
-INSERT INTO item_paid_only (item_id) VALUES (278082);
-INSERT INTO item_paid_only (item_id) VALUES (278083);
-INSERT INTO item_paid_only (item_id) VALUES (278084);
-INSERT INTO item_paid_only (item_id) VALUES (278085);
-INSERT INTO item_paid_only (item_id) VALUES (278086);
-INSERT INTO item_paid_only (item_id) VALUES (278087);
-INSERT INTO item_paid_only (item_id) VALUES (278088);
-INSERT INTO item_paid_only (item_id) VALUES (278089);
-INSERT INTO item_paid_only (item_id) VALUES (278090);
-INSERT INTO item_paid_only (item_id) VALUES (278091);
-INSERT INTO item_paid_only (item_id) VALUES (278092);
-INSERT INTO item_paid_only (item_id) VALUES (278093);
-INSERT INTO item_paid_only (item_id) VALUES (278094);
-INSERT INTO item_paid_only (item_id) VALUES (278095);
-INSERT INTO item_paid_only (item_id) VALUES (278096);
-INSERT INTO item_paid_only (item_id) VALUES (278097);
-INSERT INTO item_paid_only (item_id) VALUES (278098);
-INSERT INTO item_paid_only (item_id) VALUES (278099);
-INSERT INTO item_paid_only (item_id) VALUES (278100);
-INSERT INTO item_paid_only (item_id) VALUES (278101);
-INSERT INTO item_paid_only (item_id) VALUES (278102);
-INSERT INTO item_paid_only (item_id) VALUES (278103);
-INSERT INTO item_paid_only (item_id) VALUES (278104);
-INSERT INTO item_paid_only (item_id) VALUES (278105);
-INSERT INTO item_paid_only (item_id) VALUES (278106);
-INSERT INTO item_paid_only (item_id) VALUES (278107);
-INSERT INTO item_paid_only (item_id) VALUES (278108);
-INSERT INTO item_paid_only (item_id) VALUES (278109);
-INSERT INTO item_paid_only (item_id) VALUES (278110);
-INSERT INTO item_paid_only (item_id) VALUES (278111);
-INSERT INTO item_paid_only (item_id) VALUES (278112);
-INSERT INTO item_paid_only (item_id) VALUES (278113);
-INSERT INTO item_paid_only (item_id) VALUES (278114);
-INSERT INTO item_paid_only (item_id) VALUES (278115);
-INSERT INTO item_paid_only (item_id) VALUES (278116);
-INSERT INTO item_paid_only (item_id) VALUES (278117);
-INSERT INTO item_paid_only (item_id) VALUES (278118);
-INSERT INTO item_paid_only (item_id) VALUES (278119);
-INSERT INTO item_paid_only (item_id) VALUES (278120);
-INSERT INTO item_paid_only (item_id) VALUES (278121);
-INSERT INTO item_paid_only (item_id) VALUES (278122);
-INSERT INTO item_paid_only (item_id) VALUES (278123);
-INSERT INTO item_paid_only (item_id) VALUES (278124);
-INSERT INTO item_paid_only (item_id) VALUES (278125);
-INSERT INTO item_paid_only (item_id) VALUES (278126);
-INSERT INTO item_paid_only (item_id) VALUES (278127);
-INSERT INTO item_paid_only (item_id) VALUES (278128);
-INSERT INTO item_paid_only (item_id) VALUES (278129);
-INSERT INTO item_paid_only (item_id) VALUES (278130);
-INSERT INTO item_paid_only (item_id) VALUES (278131);
-INSERT INTO item_paid_only (item_id) VALUES (278132);
-INSERT INTO item_paid_only (item_id) VALUES (278133);
-INSERT INTO item_paid_only (item_id) VALUES (278134);
-INSERT INTO item_paid_only (item_id) VALUES (278135);
-INSERT INTO item_paid_only (item_id) VALUES (278136);
-INSERT INTO item_paid_only (item_id) VALUES (278137);
-INSERT INTO item_paid_only (item_id) VALUES (278138);
-INSERT INTO item_paid_only (item_id) VALUES (278139);
-INSERT INTO item_paid_only (item_id) VALUES (278140);
-INSERT INTO item_paid_only (item_id) VALUES (278141);
-INSERT INTO item_paid_only (item_id) VALUES (278142);
-INSERT INTO item_paid_only (item_id) VALUES (278143);
-INSERT INTO item_paid_only (item_id) VALUES (278144);
-INSERT INTO item_paid_only (item_id) VALUES (278145);
-INSERT INTO item_paid_only (item_id) VALUES (278146);
-INSERT INTO item_paid_only (item_id) VALUES (278147);
-INSERT INTO item_paid_only (item_id) VALUES (278148);
-INSERT INTO item_paid_only (item_id) VALUES (278149);
-INSERT INTO item_paid_only (item_id) VALUES (278150);
-INSERT INTO item_paid_only (item_id) VALUES (278151);
-INSERT INTO item_paid_only (item_id) VALUES (278152);
-INSERT INTO item_paid_only (item_id) VALUES (278153);
-INSERT INTO item_paid_only (item_id) VALUES (278154);
-INSERT INTO item_paid_only (item_id) VALUES (278155);
-INSERT INTO item_paid_only (item_id) VALUES (278156);
-INSERT INTO item_paid_only (item_id) VALUES (278157);
-INSERT INTO item_paid_only (item_id) VALUES (278158);
-INSERT INTO item_paid_only (item_id) VALUES (278159);
-INSERT INTO item_paid_only (item_id) VALUES (278160);
-INSERT INTO item_paid_only (item_id) VALUES (278161);
-INSERT INTO item_paid_only (item_id) VALUES (278162);
-INSERT INTO item_paid_only (item_id) VALUES (278163);
-INSERT INTO item_paid_only (item_id) VALUES (278164);
-INSERT INTO item_paid_only (item_id) VALUES (278165);
-INSERT INTO item_paid_only (item_id) VALUES (278166);
-INSERT INTO item_paid_only (item_id) VALUES (278167);
-INSERT INTO item_paid_only (item_id) VALUES (278168);
-INSERT INTO item_paid_only (item_id) VALUES (278169);
-INSERT INTO item_paid_only (item_id) VALUES (278170);
-INSERT INTO item_paid_only (item_id) VALUES (278171);
-INSERT INTO item_paid_only (item_id) VALUES (278172);
-INSERT INTO item_paid_only (item_id) VALUES (278173);
-INSERT INTO item_paid_only (item_id) VALUES (278174);
-INSERT INTO item_paid_only (item_id) VALUES (278175);
-INSERT INTO item_paid_only (item_id) VALUES (278176);
-INSERT INTO item_paid_only (item_id) VALUES (278177);
-INSERT INTO item_paid_only (item_id) VALUES (278178);
-INSERT INTO item_paid_only (item_id) VALUES (278179);
-INSERT INTO item_paid_only (item_id) VALUES (278180);
-INSERT INTO item_paid_only (item_id) VALUES (278181);
-INSERT INTO item_paid_only (item_id) VALUES (278182);
-INSERT INTO item_paid_only (item_id) VALUES (278183);
-INSERT INTO item_paid_only (item_id) VALUES (278184);
-INSERT INTO item_paid_only (item_id) VALUES (278185);
-INSERT INTO item_paid_only (item_id) VALUES (278186);
-INSERT INTO item_paid_only (item_id) VALUES (278187);
-INSERT INTO item_paid_only (item_id) VALUES (278188);
-INSERT INTO item_paid_only (item_id) VALUES (278189);
-INSERT INTO item_paid_only (item_id) VALUES (278190);
-INSERT INTO item_paid_only (item_id) VALUES (278191);
-INSERT INTO item_paid_only (item_id) VALUES (278192);
-INSERT INTO item_paid_only (item_id) VALUES (278193);
-INSERT INTO item_paid_only (item_id) VALUES (278194);
-INSERT INTO item_paid_only (item_id) VALUES (278195);
-INSERT INTO item_paid_only (item_id) VALUES (278196);
-INSERT INTO item_paid_only (item_id) VALUES (278197);
-INSERT INTO item_paid_only (item_id) VALUES (278198);
-INSERT INTO item_paid_only (item_id) VALUES (278199);
-INSERT INTO item_paid_only (item_id) VALUES (278200);
-INSERT INTO item_paid_only (item_id) VALUES (278201);
-INSERT INTO item_paid_only (item_id) VALUES (278202);
-INSERT INTO item_paid_only (item_id) VALUES (278203);
-INSERT INTO item_paid_only (item_id) VALUES (278204);
-INSERT INTO item_paid_only (item_id) VALUES (278205);
-INSERT INTO item_paid_only (item_id) VALUES (278206);
-INSERT INTO item_paid_only (item_id) VALUES (278207);
-INSERT INTO item_paid_only (item_id) VALUES (278208);
-INSERT INTO item_paid_only (item_id) VALUES (278209);
-INSERT INTO item_paid_only (item_id) VALUES (278210);
-INSERT INTO item_paid_only (item_id) VALUES (278211);
-INSERT INTO item_paid_only (item_id) VALUES (278212);
-INSERT INTO item_paid_only (item_id) VALUES (278213);
-INSERT INTO item_paid_only (item_id) VALUES (278214);
-INSERT INTO item_paid_only (item_id) VALUES (278215);
-INSERT INTO item_paid_only (item_id) VALUES (278216);
-INSERT INTO item_paid_only (item_id) VALUES (278217);
-INSERT INTO item_paid_only (item_id) VALUES (278218);
-INSERT INTO item_paid_only (item_id) VALUES (278219);
-INSERT INTO item_paid_only (item_id) VALUES (278220);
-INSERT INTO item_paid_only (item_id) VALUES (278221);
-INSERT INTO item_paid_only (item_id) VALUES (278222);
-INSERT INTO item_paid_only (item_id) VALUES (278223);
-INSERT INTO item_paid_only (item_id) VALUES (278224);
-INSERT INTO item_paid_only (item_id) VALUES (278225);
-INSERT INTO item_paid_only (item_id) VALUES (278226);
-INSERT INTO item_paid_only (item_id) VALUES (278227);
-INSERT INTO item_paid_only (item_id) VALUES (278228);
-INSERT INTO item_paid_only (item_id) VALUES (278229);
-INSERT INTO item_paid_only (item_id) VALUES (278230);
-INSERT INTO item_paid_only (item_id) VALUES (278231);
-INSERT INTO item_paid_only (item_id) VALUES (278232);
-INSERT INTO item_paid_only (item_id) VALUES (278233);
-INSERT INTO item_paid_only (item_id) VALUES (278234);
-INSERT INTO item_paid_only (item_id) VALUES (278235);
-INSERT INTO item_paid_only (item_id) VALUES (278236);
-INSERT INTO item_paid_only (item_id) VALUES (278237);
-INSERT INTO item_paid_only (item_id) VALUES (278238);
-INSERT INTO item_paid_only (item_id) VALUES (278239);
-INSERT INTO item_paid_only (item_id) VALUES (278240);
-INSERT INTO item_paid_only (item_id) VALUES (278241);
-INSERT INTO item_paid_only (item_id) VALUES (278242);
-INSERT INTO item_paid_only (item_id) VALUES (278243);
-INSERT INTO item_paid_only (item_id) VALUES (278244);
-INSERT INTO item_paid_only (item_id) VALUES (278245);
-INSERT INTO item_paid_only (item_id) VALUES (278246);
-INSERT INTO item_paid_only (item_id) VALUES (278247);
-INSERT INTO item_paid_only (item_id) VALUES (278248);
-INSERT INTO item_paid_only (item_id) VALUES (278249);
-INSERT INTO item_paid_only (item_id) VALUES (278250);
-INSERT INTO item_paid_only (item_id) VALUES (278251);
-INSERT INTO item_paid_only (item_id) VALUES (278252);
-INSERT INTO item_paid_only (item_id) VALUES (278253);
-INSERT INTO item_paid_only (item_id) VALUES (278254);
-INSERT INTO item_paid_only (item_id) VALUES (278255);
-INSERT INTO item_paid_only (item_id) VALUES (278256);
-INSERT INTO item_paid_only (item_id) VALUES (278257);
-INSERT INTO item_paid_only (item_id) VALUES (278258);
-INSERT INTO item_paid_only (item_id) VALUES (278259);
-INSERT INTO item_paid_only (item_id) VALUES (278260);
-INSERT INTO item_paid_only (item_id) VALUES (278261);
-INSERT INTO item_paid_only (item_id) VALUES (278262);
-INSERT INTO item_paid_only (item_id) VALUES (278263);
-INSERT INTO item_paid_only (item_id) VALUES (278264);
-INSERT INTO item_paid_only (item_id) VALUES (278265);
-INSERT INTO item_paid_only (item_id) VALUES (278266);
-INSERT INTO item_paid_only (item_id) VALUES (278267);
-INSERT INTO item_paid_only (item_id) VALUES (278268);
-INSERT INTO item_paid_only (item_id) VALUES (278269);
-INSERT INTO item_paid_only (item_id) VALUES (278270);
-INSERT INTO item_paid_only (item_id) VALUES (278271);
-INSERT INTO item_paid_only (item_id) VALUES (278272);
-INSERT INTO item_paid_only (item_id) VALUES (278273);
-INSERT INTO item_paid_only (item_id) VALUES (278274);
-INSERT INTO item_paid_only (item_id) VALUES (278275);
-INSERT INTO item_paid_only (item_id) VALUES (278276);
-INSERT INTO item_paid_only (item_id) VALUES (278277);
-INSERT INTO item_paid_only (item_id) VALUES (278278);
-INSERT INTO item_paid_only (item_id) VALUES (278279);
-INSERT INTO item_paid_only (item_id) VALUES (278280);
-INSERT INTO item_paid_only (item_id) VALUES (278281);
-INSERT INTO item_paid_only (item_id) VALUES (278282);
-INSERT INTO item_paid_only (item_id) VALUES (278283);
-INSERT INTO item_paid_only (item_id) VALUES (278284);
-INSERT INTO item_paid_only (item_id) VALUES (278285);
-INSERT INTO item_paid_only (item_id) VALUES (278286);
-INSERT INTO item_paid_only (item_id) VALUES (278287);
-INSERT INTO item_paid_only (item_id) VALUES (278288);
-INSERT INTO item_paid_only (item_id) VALUES (278289);
-INSERT INTO item_paid_only (item_id) VALUES (278290);
-INSERT INTO item_paid_only (item_id) VALUES (278291);
-INSERT INTO item_paid_only (item_id) VALUES (278292);
-INSERT INTO item_paid_only (item_id) VALUES (278293);
-INSERT INTO item_paid_only (item_id) VALUES (278294);
-INSERT INTO item_paid_only (item_id) VALUES (278295);
-INSERT INTO item_paid_only (item_id) VALUES (278296);
-INSERT INTO item_paid_only (item_id) VALUES (278297);
-INSERT INTO item_paid_only (item_id) VALUES (278298);
-INSERT INTO item_paid_only (item_id) VALUES (278299);
-INSERT INTO item_paid_only (item_id) VALUES (278300);
-INSERT INTO item_paid_only (item_id) VALUES (278301);
-INSERT INTO item_paid_only (item_id) VALUES (278302);
-INSERT INTO item_paid_only (item_id) VALUES (278303);
-INSERT INTO item_paid_only (item_id) VALUES (278304);
-INSERT INTO item_paid_only (item_id) VALUES (278305);
-INSERT INTO item_paid_only (item_id) VALUES (278306);
-INSERT INTO item_paid_only (item_id) VALUES (278307);
-INSERT INTO item_paid_only (item_id) VALUES (278308);
-INSERT INTO item_paid_only (item_id) VALUES (278309);
-INSERT INTO item_paid_only (item_id) VALUES (278310);
-INSERT INTO item_paid_only (item_id) VALUES (278311);
-INSERT INTO item_paid_only (item_id) VALUES (278312);
-INSERT INTO item_paid_only (item_id) VALUES (278313);
-INSERT INTO item_paid_only (item_id) VALUES (278314);
-INSERT INTO item_paid_only (item_id) VALUES (278315);
-INSERT INTO item_paid_only (item_id) VALUES (278316);
-INSERT INTO item_paid_only (item_id) VALUES (278317);
-INSERT INTO item_paid_only (item_id) VALUES (278318);
-INSERT INTO item_paid_only (item_id) VALUES (278319);
-INSERT INTO item_paid_only (item_id) VALUES (278320);
-INSERT INTO item_paid_only (item_id) VALUES (278321);
-INSERT INTO item_paid_only (item_id) VALUES (278322);
-INSERT INTO item_paid_only (item_id) VALUES (278323);
-INSERT INTO item_paid_only (item_id) VALUES (278324);
-INSERT INTO item_paid_only (item_id) VALUES (278325);
-INSERT INTO item_paid_only (item_id) VALUES (278326);
-INSERT INTO item_paid_only (item_id) VALUES (278327);
-INSERT INTO item_paid_only (item_id) VALUES (278328);
-INSERT INTO item_paid_only (item_id) VALUES (278329);
-INSERT INTO item_paid_only (item_id) VALUES (278330);
-INSERT INTO item_paid_only (item_id) VALUES (278331);
-INSERT INTO item_paid_only (item_id) VALUES (278332);
-INSERT INTO item_paid_only (item_id) VALUES (278333);
-INSERT INTO item_paid_only (item_id) VALUES (278334);
-INSERT INTO item_paid_only (item_id) VALUES (278335);
-INSERT INTO item_paid_only (item_id) VALUES (278336);
-INSERT INTO item_paid_only (item_id) VALUES (278337);
-INSERT INTO item_paid_only (item_id) VALUES (278338);
-INSERT INTO item_paid_only (item_id) VALUES (278339);
-INSERT INTO item_paid_only (item_id) VALUES (278340);
-INSERT INTO item_paid_only (item_id) VALUES (278341);
-INSERT INTO item_paid_only (item_id) VALUES (278342);
-INSERT INTO item_paid_only (item_id) VALUES (278343);
-INSERT INTO item_paid_only (item_id) VALUES (278344);
-INSERT INTO item_paid_only (item_id) VALUES (278345);
-INSERT INTO item_paid_only (item_id) VALUES (278346);
-INSERT INTO item_paid_only (item_id) VALUES (278347);
-INSERT INTO item_paid_only (item_id) VALUES (278348);
-INSERT INTO item_paid_only (item_id) VALUES (278349);
-INSERT INTO item_paid_only (item_id) VALUES (278350);
-INSERT INTO item_paid_only (item_id) VALUES (278351);
-INSERT INTO item_paid_only (item_id) VALUES (278352);
-INSERT INTO item_paid_only (item_id) VALUES (278353);
-INSERT INTO item_paid_only (item_id) VALUES (278354);
-INSERT INTO item_paid_only (item_id) VALUES (278355);
-INSERT INTO item_paid_only (item_id) VALUES (278356);
-INSERT INTO item_paid_only (item_id) VALUES (278357);
-INSERT INTO item_paid_only (item_id) VALUES (278358);
-INSERT INTO item_paid_only (item_id) VALUES (278359);
-INSERT INTO item_paid_only (item_id) VALUES (278360);
-INSERT INTO item_paid_only (item_id) VALUES (278361);
-INSERT INTO item_paid_only (item_id) VALUES (278362);
-INSERT INTO item_paid_only (item_id) VALUES (278363);
-INSERT INTO item_paid_only (item_id) VALUES (278364);
-INSERT INTO item_paid_only (item_id) VALUES (278365);
-INSERT INTO item_paid_only (item_id) VALUES (278366);
-INSERT INTO item_paid_only (item_id) VALUES (278367);
-INSERT INTO item_paid_only (item_id) VALUES (278368);
-INSERT INTO item_paid_only (item_id) VALUES (278369);
-INSERT INTO item_paid_only (item_id) VALUES (278370);
-INSERT INTO item_paid_only (item_id) VALUES (278371);
-INSERT INTO item_paid_only (item_id) VALUES (278372);
-INSERT INTO item_paid_only (item_id) VALUES (278373);
-INSERT INTO item_paid_only (item_id) VALUES (278374);
-INSERT INTO item_paid_only (item_id) VALUES (278375);
-INSERT INTO item_paid_only (item_id) VALUES (278376);
-INSERT INTO item_paid_only (item_id) VALUES (278377);
-INSERT INTO item_paid_only (item_id) VALUES (278378);
-INSERT INTO item_paid_only (item_id) VALUES (278379);
-INSERT INTO item_paid_only (item_id) VALUES (278380);
-INSERT INTO item_paid_only (item_id) VALUES (278381);
-INSERT INTO item_paid_only (item_id) VALUES (278382);
-INSERT INTO item_paid_only (item_id) VALUES (278383);
-INSERT INTO item_paid_only (item_id) VALUES (278384);
-INSERT INTO item_paid_only (item_id) VALUES (278385);
-INSERT INTO item_paid_only (item_id) VALUES (278386);
-INSERT INTO item_paid_only (item_id) VALUES (278387);
-INSERT INTO item_paid_only (item_id) VALUES (278388);
-INSERT INTO item_paid_only (item_id) VALUES (278389);
-INSERT INTO item_paid_only (item_id) VALUES (278390);
-INSERT INTO item_paid_only (item_id) VALUES (278391);
-INSERT INTO item_paid_only (item_id) VALUES (278392);
-INSERT INTO item_paid_only (item_id) VALUES (278393);
-INSERT INTO item_paid_only (item_id) VALUES (278394);
-INSERT INTO item_paid_only (item_id) VALUES (278395);
-INSERT INTO item_paid_only (item_id) VALUES (278396);
-INSERT INTO item_paid_only (item_id) VALUES (278397);
-INSERT INTO item_paid_only (item_id) VALUES (278398);
-INSERT INTO item_paid_only (item_id) VALUES (278399);
-INSERT INTO item_paid_only (item_id) VALUES (278400);
-INSERT INTO item_paid_only (item_id) VALUES (278401);
-INSERT INTO item_paid_only (item_id) VALUES (278402);
-INSERT INTO item_paid_only (item_id) VALUES (278403);
-INSERT INTO item_paid_only (item_id) VALUES (278404);
-INSERT INTO item_paid_only (item_id) VALUES (278405);
-INSERT INTO item_paid_only (item_id) VALUES (278406);
-INSERT INTO item_paid_only (item_id) VALUES (278407);
-INSERT INTO item_paid_only (item_id) VALUES (278408);
-INSERT INTO item_paid_only (item_id) VALUES (278409);
-INSERT INTO item_paid_only (item_id) VALUES (278410);
-INSERT INTO item_paid_only (item_id) VALUES (278411);
-INSERT INTO item_paid_only (item_id) VALUES (278412);
-INSERT INTO item_paid_only (item_id) VALUES (278413);
-INSERT INTO item_paid_only (item_id) VALUES (278414);
-INSERT INTO item_paid_only (item_id) VALUES (278415);
-INSERT INTO item_paid_only (item_id) VALUES (278416);
-INSERT INTO item_paid_only (item_id) VALUES (278417);
-INSERT INTO item_paid_only (item_id) VALUES (278418);
-INSERT INTO item_paid_only (item_id) VALUES (278419);
-INSERT INTO item_paid_only (item_id) VALUES (278420);
-INSERT INTO item_paid_only (item_id) VALUES (278421);
-INSERT INTO item_paid_only (item_id) VALUES (278422);
-INSERT INTO item_paid_only (item_id) VALUES (278423);
-INSERT INTO item_paid_only (item_id) VALUES (278424);
-INSERT INTO item_paid_only (item_id) VALUES (278425);
-INSERT INTO item_paid_only (item_id) VALUES (278426);
-INSERT INTO item_paid_only (item_id) VALUES (278427);
-INSERT INTO item_paid_only (item_id) VALUES (278428);
-INSERT INTO item_paid_only (item_id) VALUES (278429);
-INSERT INTO item_paid_only (item_id) VALUES (278430);
-INSERT INTO item_paid_only (item_id) VALUES (278431);
-INSERT INTO item_paid_only (item_id) VALUES (278432);
-INSERT INTO item_paid_only (item_id) VALUES (278433);
-INSERT INTO item_paid_only (item_id) VALUES (278434);
-INSERT INTO item_paid_only (item_id) VALUES (278435);
-INSERT INTO item_paid_only (item_id) VALUES (278436);
-INSERT INTO item_paid_only (item_id) VALUES (278437);
-INSERT INTO item_paid_only (item_id) VALUES (278438);
-INSERT INTO item_paid_only (item_id) VALUES (278439);
-INSERT INTO item_paid_only (item_id) VALUES (278440);
-INSERT INTO item_paid_only (item_id) VALUES (278441);
-INSERT INTO item_paid_only (item_id) VALUES (278442);
-INSERT INTO item_paid_only (item_id) VALUES (278443);
-INSERT INTO item_paid_only (item_id) VALUES (278444);
-INSERT INTO item_paid_only (item_id) VALUES (278445);
-INSERT INTO item_paid_only (item_id) VALUES (278446);
-INSERT INTO item_paid_only (item_id) VALUES (278447);
-INSERT INTO item_paid_only (item_id) VALUES (278448);
-INSERT INTO item_paid_only (item_id) VALUES (278449);
-INSERT INTO item_paid_only (item_id) VALUES (278450);
-INSERT INTO item_paid_only (item_id) VALUES (278451);
-INSERT INTO item_paid_only (item_id) VALUES (278452);
-INSERT INTO item_paid_only (item_id) VALUES (278453);
-INSERT INTO item_paid_only (item_id) VALUES (278454);
-INSERT INTO item_paid_only (item_id) VALUES (278455);
-INSERT INTO item_paid_only (item_id) VALUES (278456);
-INSERT INTO item_paid_only (item_id) VALUES (278457);
-INSERT INTO item_paid_only (item_id) VALUES (278458);
-INSERT INTO item_paid_only (item_id) VALUES (278459);
-INSERT INTO item_paid_only (item_id) VALUES (278460);
-INSERT INTO item_paid_only (item_id) VALUES (278461);
-INSERT INTO item_paid_only (item_id) VALUES (278462);
-INSERT INTO item_paid_only (item_id) VALUES (278463);
-INSERT INTO item_paid_only (item_id) VALUES (278464);
-INSERT INTO item_paid_only (item_id) VALUES (278465);
-INSERT INTO item_paid_only (item_id) VALUES (278466);
-INSERT INTO item_paid_only (item_id) VALUES (278467);
-INSERT INTO item_paid_only (item_id) VALUES (278468);
-INSERT INTO item_paid_only (item_id) VALUES (278469);
-INSERT INTO item_paid_only (item_id) VALUES (278470);
-INSERT INTO item_paid_only (item_id) VALUES (278471);
-INSERT INTO item_paid_only (item_id) VALUES (278472);
-INSERT INTO item_paid_only (item_id) VALUES (278473);
-INSERT INTO item_paid_only (item_id) VALUES (278474);
-INSERT INTO item_paid_only (item_id) VALUES (278475);
-INSERT INTO item_paid_only (item_id) VALUES (278476);
-INSERT INTO item_paid_only (item_id) VALUES (278477);
-INSERT INTO item_paid_only (item_id) VALUES (278478);
-INSERT INTO item_paid_only (item_id) VALUES (278479);
-INSERT INTO item_paid_only (item_id) VALUES (278480);
-INSERT INTO item_paid_only (item_id) VALUES (278481);
-INSERT INTO item_paid_only (item_id) VALUES (278482);
-INSERT INTO item_paid_only (item_id) VALUES (278483);
-INSERT INTO item_paid_only (item_id) VALUES (278484);
-INSERT INTO item_paid_only (item_id) VALUES (278485);
-INSERT INTO item_paid_only (item_id) VALUES (278486);
-INSERT INTO item_paid_only (item_id) VALUES (278487);
-INSERT INTO item_paid_only (item_id) VALUES (278488);
-INSERT INTO item_paid_only (item_id) VALUES (278489);
-INSERT INTO item_paid_only (item_id) VALUES (278753);
-INSERT INTO item_paid_only (item_id) VALUES (278754);
-INSERT INTO item_paid_only (item_id) VALUES (278755);
-INSERT INTO item_paid_only (item_id) VALUES (278756);
-INSERT INTO item_paid_only (item_id) VALUES (278757);
-INSERT INTO item_paid_only (item_id) VALUES (278758);
-INSERT INTO item_paid_only (item_id) VALUES (278759);
-INSERT INTO item_paid_only (item_id) VALUES (278760);
-INSERT INTO item_paid_only (item_id) VALUES (278761);
-INSERT INTO item_paid_only (item_id) VALUES (278762);
-INSERT INTO item_paid_only (item_id) VALUES (278763);
-INSERT INTO item_paid_only (item_id) VALUES (278764);
-INSERT INTO item_paid_only (item_id) VALUES (278765);
-INSERT INTO item_paid_only (item_id) VALUES (278766);
-INSERT INTO item_paid_only (item_id) VALUES (278767);
-INSERT INTO item_paid_only (item_id) VALUES (278768);
-INSERT INTO item_paid_only (item_id) VALUES (278769);
-INSERT INTO item_paid_only (item_id) VALUES (278770);
-INSERT INTO item_paid_only (item_id) VALUES (278771);
-INSERT INTO item_paid_only (item_id) VALUES (278772);
-INSERT INTO item_paid_only (item_id) VALUES (278773);
-INSERT INTO item_paid_only (item_id) VALUES (278774);
-INSERT INTO item_paid_only (item_id) VALUES (278775);
-INSERT INTO item_paid_only (item_id) VALUES (278776);
-INSERT INTO item_paid_only (item_id) VALUES (278777);
-INSERT INTO item_paid_only (item_id) VALUES (278778);
-INSERT INTO item_paid_only (item_id) VALUES (278779);
-INSERT INTO item_paid_only (item_id) VALUES (278780);
-INSERT INTO item_paid_only (item_id) VALUES (278781);
-INSERT INTO item_paid_only (item_id) VALUES (278782);
-INSERT INTO item_paid_only (item_id) VALUES (278892);
-INSERT INTO item_paid_only (item_id) VALUES (278893);
-INSERT INTO item_paid_only (item_id) VALUES (278894);
-INSERT INTO item_paid_only (item_id) VALUES (278895);
-INSERT INTO item_paid_only (item_id) VALUES (278896);
-INSERT INTO item_paid_only (item_id) VALUES (278897);
-INSERT INTO item_paid_only (item_id) VALUES (278898);
-INSERT INTO item_paid_only (item_id) VALUES (278899);
-INSERT INTO item_paid_only (item_id) VALUES (278900);
-INSERT INTO item_paid_only (item_id) VALUES (278901);
-INSERT INTO item_paid_only (item_id) VALUES (278902);
-INSERT INTO item_paid_only (item_id) VALUES (278903);
-INSERT INTO item_paid_only (item_id) VALUES (278904);
-INSERT INTO item_paid_only (item_id) VALUES (278907);
-INSERT INTO item_paid_only (item_id) VALUES (278908);
-INSERT INTO item_paid_only (item_id) VALUES (278909);
-INSERT INTO item_paid_only (item_id) VALUES (278910);
-INSERT INTO item_paid_only (item_id) VALUES (278911);
-INSERT INTO item_paid_only (item_id) VALUES (278912);
-INSERT INTO item_paid_only (item_id) VALUES (278913);
-INSERT INTO item_paid_only (item_id) VALUES (278914);
-INSERT INTO item_paid_only (item_id) VALUES (278915);
-INSERT INTO item_paid_only (item_id) VALUES (278916);
-INSERT INTO item_paid_only (item_id) VALUES (278917);
-INSERT INTO item_paid_only (item_id) VALUES (278918);
-INSERT INTO item_paid_only (item_id) VALUES (278919);
-INSERT INTO item_paid_only (item_id) VALUES (278944);
-INSERT INTO item_paid_only (item_id) VALUES (278945);
-INSERT INTO item_paid_only (item_id) VALUES (278946);
-INSERT INTO item_paid_only (item_id) VALUES (278947);
-INSERT INTO item_paid_only (item_id) VALUES (278948);
-INSERT INTO item_paid_only (item_id) VALUES (278949);
-INSERT INTO item_paid_only (item_id) VALUES (278950);
-INSERT INTO item_paid_only (item_id) VALUES (278951);
-INSERT INTO item_paid_only (item_id) VALUES (278952);
-INSERT INTO item_paid_only (item_id) VALUES (278953);
-INSERT INTO item_paid_only (item_id) VALUES (278954);
-INSERT INTO item_paid_only (item_id) VALUES (278955);
-INSERT INTO item_paid_only (item_id) VALUES (278956);
-INSERT INTO item_paid_only (item_id) VALUES (278957);
-INSERT INTO item_paid_only (item_id) VALUES (278958);
-INSERT INTO item_paid_only (item_id) VALUES (278959);
-INSERT INTO item_paid_only (item_id) VALUES (278960);
-INSERT INTO item_paid_only (item_id) VALUES (278961);
-INSERT INTO item_paid_only (item_id) VALUES (278962);
-INSERT INTO item_paid_only (item_id) VALUES (278963);
-INSERT INTO item_paid_only (item_id) VALUES (278964);
-INSERT INTO item_paid_only (item_id) VALUES (278965);
-INSERT INTO item_paid_only (item_id) VALUES (278966);
-INSERT INTO item_paid_only (item_id) VALUES (278967);
-INSERT INTO item_paid_only (item_id) VALUES (278968);
-INSERT INTO item_paid_only (item_id) VALUES (278969);
-INSERT INTO item_paid_only (item_id) VALUES (278970);
-INSERT INTO item_paid_only (item_id) VALUES (278971);
-INSERT INTO item_paid_only (item_id) VALUES (278972);
-INSERT INTO item_paid_only (item_id) VALUES (278973);
-INSERT INTO item_paid_only (item_id) VALUES (278974);
-INSERT INTO item_paid_only (item_id) VALUES (278975);
-INSERT INTO item_paid_only (item_id) VALUES (278976);
-INSERT INTO item_paid_only (item_id) VALUES (278977);
-INSERT INTO item_paid_only (item_id) VALUES (278978);
-INSERT INTO item_paid_only (item_id) VALUES (278979);
-INSERT INTO item_paid_only (item_id) VALUES (278980);
-INSERT INTO item_paid_only (item_id) VALUES (278981);
-INSERT INTO item_paid_only (item_id) VALUES (278982);
-INSERT INTO item_paid_only (item_id) VALUES (278983);
-INSERT INTO item_paid_only (item_id) VALUES (278984);
-INSERT INTO item_paid_only (item_id) VALUES (278985);
-INSERT INTO item_paid_only (item_id) VALUES (278986);
-INSERT INTO item_paid_only (item_id) VALUES (278987);
-INSERT INTO item_paid_only (item_id) VALUES (278988);
-INSERT INTO item_paid_only (item_id) VALUES (278989);
-INSERT INTO item_paid_only (item_id) VALUES (278990);
-INSERT INTO item_paid_only (item_id) VALUES (278991);
-INSERT INTO item_paid_only (item_id) VALUES (278992);
-INSERT INTO item_paid_only (item_id) VALUES (278993);
-INSERT INTO item_paid_only (item_id) VALUES (278994);
-INSERT INTO item_paid_only (item_id) VALUES (278995);
-INSERT INTO item_paid_only (item_id) VALUES (278996);
-INSERT INTO item_paid_only (item_id) VALUES (278997);
-INSERT INTO item_paid_only (item_id) VALUES (278998);
-INSERT INTO item_paid_only (item_id) VALUES (278999);
-INSERT INTO item_paid_only (item_id) VALUES (279000);
-INSERT INTO item_paid_only (item_id) VALUES (279001);
-INSERT INTO item_paid_only (item_id) VALUES (279002);
-INSERT INTO item_paid_only (item_id) VALUES (279003);
-INSERT INTO item_paid_only (item_id) VALUES (279004);
-INSERT INTO item_paid_only (item_id) VALUES (279005);
-INSERT INTO item_paid_only (item_id) VALUES (279006);
-INSERT INTO item_paid_only (item_id) VALUES (279007);
-INSERT INTO item_paid_only (item_id) VALUES (279008);
-INSERT INTO item_paid_only (item_id) VALUES (279009);
-INSERT INTO item_paid_only (item_id) VALUES (279010);
-INSERT INTO item_paid_only (item_id) VALUES (279011);
-INSERT INTO item_paid_only (item_id) VALUES (279012);
-INSERT INTO item_paid_only (item_id) VALUES (279013);
-INSERT INTO item_paid_only (item_id) VALUES (279014);
-INSERT INTO item_paid_only (item_id) VALUES (279015);
-INSERT INTO item_paid_only (item_id) VALUES (279016);
-INSERT INTO item_paid_only (item_id) VALUES (279017);
-INSERT INTO item_paid_only (item_id) VALUES (279018);
-INSERT INTO item_paid_only (item_id) VALUES (279019);
-INSERT INTO item_paid_only (item_id) VALUES (279020);
-INSERT INTO item_paid_only (item_id) VALUES (279021);
-INSERT INTO item_paid_only (item_id) VALUES (279022);
-INSERT INTO item_paid_only (item_id) VALUES (279023);
-INSERT INTO item_paid_only (item_id) VALUES (279024);
-INSERT INTO item_paid_only (item_id) VALUES (279025);
-INSERT INTO item_paid_only (item_id) VALUES (279026);
-INSERT INTO item_paid_only (item_id) VALUES (279027);
-INSERT INTO item_paid_only (item_id) VALUES (279028);
-INSERT INTO item_paid_only (item_id) VALUES (279029);
-INSERT INTO item_paid_only (item_id) VALUES (279030);
-INSERT INTO item_paid_only (item_id) VALUES (279031);
-INSERT INTO item_paid_only (item_id) VALUES (279032);
-INSERT INTO item_paid_only (item_id) VALUES (279033);
-INSERT INTO item_paid_only (item_id) VALUES (279034);
-INSERT INTO item_paid_only (item_id) VALUES (279035);
-INSERT INTO item_paid_only (item_id) VALUES (279036);
-INSERT INTO item_paid_only (item_id) VALUES (279037);
-INSERT INTO item_paid_only (item_id) VALUES (279038);
-INSERT INTO item_paid_only (item_id) VALUES (279039);
-INSERT INTO item_paid_only (item_id) VALUES (279040);
-INSERT INTO item_paid_only (item_id) VALUES (279041);
-INSERT INTO item_paid_only (item_id) VALUES (279042);
-INSERT INTO item_paid_only (item_id) VALUES (279043);
-INSERT INTO item_paid_only (item_id) VALUES (279044);
-INSERT INTO item_paid_only (item_id) VALUES (279045);
-INSERT INTO item_paid_only (item_id) VALUES (279046);
-INSERT INTO item_paid_only (item_id) VALUES (279047);
-INSERT INTO item_paid_only (item_id) VALUES (279048);
-INSERT INTO item_paid_only (item_id) VALUES (279049);
-INSERT INTO item_paid_only (item_id) VALUES (279050);
-INSERT INTO item_paid_only (item_id) VALUES (279051);
-INSERT INTO item_paid_only (item_id) VALUES (279052);
-INSERT INTO item_paid_only (item_id) VALUES (279053);
-INSERT INTO item_paid_only (item_id) VALUES (279054);
-INSERT INTO item_paid_only (item_id) VALUES (279055);
-INSERT INTO item_paid_only (item_id) VALUES (279056);
-INSERT INTO item_paid_only (item_id) VALUES (279057);
-INSERT INTO item_paid_only (item_id) VALUES (279058);
-INSERT INTO item_paid_only (item_id) VALUES (279059);
-INSERT INTO item_paid_only (item_id) VALUES (279060);
-INSERT INTO item_paid_only (item_id) VALUES (279068);
-INSERT INTO item_paid_only (item_id) VALUES (279069);
-INSERT INTO item_paid_only (item_id) VALUES (279070);
-INSERT INTO item_paid_only (item_id) VALUES (279071);
-INSERT INTO item_paid_only (item_id) VALUES (279072);
-INSERT INTO item_paid_only (item_id) VALUES (279073);
-INSERT INTO item_paid_only (item_id) VALUES (279074);
-INSERT INTO item_paid_only (item_id) VALUES (279075);
-INSERT INTO item_paid_only (item_id) VALUES (279076);
-INSERT INTO item_paid_only (item_id) VALUES (279077);
-INSERT INTO item_paid_only (item_id) VALUES (279078);
-INSERT INTO item_paid_only (item_id) VALUES (279079);
-INSERT INTO item_paid_only (item_id) VALUES (279080);
-INSERT INTO item_paid_only (item_id) VALUES (279081);
-INSERT INTO item_paid_only (item_id) VALUES (279082);
-INSERT INTO item_paid_only (item_id) VALUES (279083);
-INSERT INTO item_paid_only (item_id) VALUES (279084);
-INSERT INTO item_paid_only (item_id) VALUES (279085);
-INSERT INTO item_paid_only (item_id) VALUES (279086);
-INSERT INTO item_paid_only (item_id) VALUES (279087);
-INSERT INTO item_paid_only (item_id) VALUES (279088);
-INSERT INTO item_paid_only (item_id) VALUES (279089);
-INSERT INTO item_paid_only (item_id) VALUES (279090);
-INSERT INTO item_paid_only (item_id) VALUES (279091);
-INSERT INTO item_paid_only (item_id) VALUES (279092);
-INSERT INTO item_paid_only (item_id) VALUES (279093);
-INSERT INTO item_paid_only (item_id) VALUES (279094);
-INSERT INTO item_paid_only (item_id) VALUES (279095);
-INSERT INTO item_paid_only (item_id) VALUES (279096);
-INSERT INTO item_paid_only (item_id) VALUES (279097);
-INSERT INTO item_paid_only (item_id) VALUES (279098);
-INSERT INTO item_paid_only (item_id) VALUES (279099);
-INSERT INTO item_paid_only (item_id) VALUES (279100);
-INSERT INTO item_paid_only (item_id) VALUES (279101);
-INSERT INTO item_paid_only (item_id) VALUES (279102);
-INSERT INTO item_paid_only (item_id) VALUES (279103);
-INSERT INTO item_paid_only (item_id) VALUES (279104);
-INSERT INTO item_paid_only (item_id) VALUES (279105);
-INSERT INTO item_paid_only (item_id) VALUES (279106);
-INSERT INTO item_paid_only (item_id) VALUES (279107);
-INSERT INTO item_paid_only (item_id) VALUES (279108);
-INSERT INTO item_paid_only (item_id) VALUES (279109);
-INSERT INTO item_paid_only (item_id) VALUES (279110);
-INSERT INTO item_paid_only (item_id) VALUES (279111);
-INSERT INTO item_paid_only (item_id) VALUES (279112);
-INSERT INTO item_paid_only (item_id) VALUES (279113);
-INSERT INTO item_paid_only (item_id) VALUES (279114);
-INSERT INTO item_paid_only (item_id) VALUES (279115);
-INSERT INTO item_paid_only (item_id) VALUES (279116);
-INSERT INTO item_paid_only (item_id) VALUES (279117);
-INSERT INTO item_paid_only (item_id) VALUES (279118);
-INSERT INTO item_paid_only (item_id) VALUES (279119);
-INSERT INTO item_paid_only (item_id) VALUES (279120);
-INSERT INTO item_paid_only (item_id) VALUES (279121);
-INSERT INTO item_paid_only (item_id) VALUES (279122);
-INSERT INTO item_paid_only (item_id) VALUES (279123);
-INSERT INTO item_paid_only (item_id) VALUES (279124);
-INSERT INTO item_paid_only (item_id) VALUES (279125);
-INSERT INTO item_paid_only (item_id) VALUES (279126);
-INSERT INTO item_paid_only (item_id) VALUES (279127);
-INSERT INTO item_paid_only (item_id) VALUES (279128);
-INSERT INTO item_paid_only (item_id) VALUES (279129);
-INSERT INTO item_paid_only (item_id) VALUES (279130);
-INSERT INTO item_paid_only (item_id) VALUES (279131);
-INSERT INTO item_paid_only (item_id) VALUES (279132);
-INSERT INTO item_paid_only (item_id) VALUES (279133);
-INSERT INTO item_paid_only (item_id) VALUES (279134);
-INSERT INTO item_paid_only (item_id) VALUES (279135);
-INSERT INTO item_paid_only (item_id) VALUES (279136);
-INSERT INTO item_paid_only (item_id) VALUES (279137);
-INSERT INTO item_paid_only (item_id) VALUES (279138);
-INSERT INTO item_paid_only (item_id) VALUES (279139);
-INSERT INTO item_paid_only (item_id) VALUES (279140);
-INSERT INTO item_paid_only (item_id) VALUES (279141);
-INSERT INTO item_paid_only (item_id) VALUES (279142);
-INSERT INTO item_paid_only (item_id) VALUES (279143);
-INSERT INTO item_paid_only (item_id) VALUES (279144);
-INSERT INTO item_paid_only (item_id) VALUES (279145);
-INSERT INTO item_paid_only (item_id) VALUES (279146);
-INSERT INTO item_paid_only (item_id) VALUES (279147);
-INSERT INTO item_paid_only (item_id) VALUES (279148);
-INSERT INTO item_paid_only (item_id) VALUES (279149);
-INSERT INTO item_paid_only (item_id) VALUES (279150);
-INSERT INTO item_paid_only (item_id) VALUES (279151);
-INSERT INTO item_paid_only (item_id) VALUES (279152);
-INSERT INTO item_paid_only (item_id) VALUES (279153);
-INSERT INTO item_paid_only (item_id) VALUES (279154);
-INSERT INTO item_paid_only (item_id) VALUES (279155);
-INSERT INTO item_paid_only (item_id) VALUES (279156);
-INSERT INTO item_paid_only (item_id) VALUES (279157);
-INSERT INTO item_paid_only (item_id) VALUES (279158);
-INSERT INTO item_paid_only (item_id) VALUES (279159);
-INSERT INTO item_paid_only (item_id) VALUES (279160);
-INSERT INTO item_paid_only (item_id) VALUES (279161);
-INSERT INTO item_paid_only (item_id) VALUES (279162);
-INSERT INTO item_paid_only (item_id) VALUES (279163);
-INSERT INTO item_paid_only (item_id) VALUES (279164);
-INSERT INTO item_paid_only (item_id) VALUES (279165);
-INSERT INTO item_paid_only (item_id) VALUES (279166);
-INSERT INTO item_paid_only (item_id) VALUES (279167);
-INSERT INTO item_paid_only (item_id) VALUES (279168);
-INSERT INTO item_paid_only (item_id) VALUES (279169);
-INSERT INTO item_paid_only (item_id) VALUES (279170);
-INSERT INTO item_paid_only (item_id) VALUES (279171);
-INSERT INTO item_paid_only (item_id) VALUES (279172);
-INSERT INTO item_paid_only (item_id) VALUES (279173);
-INSERT INTO item_paid_only (item_id) VALUES (279174);
-INSERT INTO item_paid_only (item_id) VALUES (279175);
-INSERT INTO item_paid_only (item_id) VALUES (279189);
-INSERT INTO item_paid_only (item_id) VALUES (279190);
-INSERT INTO item_paid_only (item_id) VALUES (279191);
-INSERT INTO item_paid_only (item_id) VALUES (279192);
-INSERT INTO item_paid_only (item_id) VALUES (279193);
-INSERT INTO item_paid_only (item_id) VALUES (279194);
-INSERT INTO item_paid_only (item_id) VALUES (279195);
-INSERT INTO item_paid_only (item_id) VALUES (279196);
-INSERT INTO item_paid_only (item_id) VALUES (279199);
-INSERT INTO item_paid_only (item_id) VALUES (279200);
-INSERT INTO item_paid_only (item_id) VALUES (279204);
-INSERT INTO item_paid_only (item_id) VALUES (279205);
-INSERT INTO item_paid_only (item_id) VALUES (279206);
-INSERT INTO item_paid_only (item_id) VALUES (279207);
-INSERT INTO item_paid_only (item_id) VALUES (279208);
-INSERT INTO item_paid_only (item_id) VALUES (279209);
-INSERT INTO item_paid_only (item_id) VALUES (279210);
-INSERT INTO item_paid_only (item_id) VALUES (279211);
-INSERT INTO item_paid_only (item_id) VALUES (279212);
-INSERT INTO item_paid_only (item_id) VALUES (279213);
-INSERT INTO item_paid_only (item_id) VALUES (279214);
-INSERT INTO item_paid_only (item_id) VALUES (279215);
-INSERT INTO item_paid_only (item_id) VALUES (279216);
-INSERT INTO item_paid_only (item_id) VALUES (279217);
-INSERT INTO item_paid_only (item_id) VALUES (279219);
-INSERT INTO item_paid_only (item_id) VALUES (279220);
-INSERT INTO item_paid_only (item_id) VALUES (279221);
-INSERT INTO item_paid_only (item_id) VALUES (279222);
-INSERT INTO item_paid_only (item_id) VALUES (279223);
-INSERT INTO item_paid_only (item_id) VALUES (279224);
-INSERT INTO item_paid_only (item_id) VALUES (279225);
-INSERT INTO item_paid_only (item_id) VALUES (279226);
-INSERT INTO item_paid_only (item_id) VALUES (279227);
-INSERT INTO item_paid_only (item_id) VALUES (279228);
-INSERT INTO item_paid_only (item_id) VALUES (279229);
-INSERT INTO item_paid_only (item_id) VALUES (279230);
-INSERT INTO item_paid_only (item_id) VALUES (279231);
-INSERT INTO item_paid_only (item_id) VALUES (279232);
-INSERT INTO item_paid_only (item_id) VALUES (279321);
-INSERT INTO item_paid_only (item_id) VALUES (279322);
-INSERT INTO item_paid_only (item_id) VALUES (279323);
-INSERT INTO item_paid_only (item_id) VALUES (279324);
-INSERT INTO item_paid_only (item_id) VALUES (279325);
-INSERT INTO item_paid_only (item_id) VALUES (279436);
-INSERT INTO item_paid_only (item_id) VALUES (279437);
-INSERT INTO item_paid_only (item_id) VALUES (279438);
-INSERT INTO item_paid_only (item_id) VALUES (279439);
-INSERT INTO item_paid_only (item_id) VALUES (279440);
-INSERT INTO item_paid_only (item_id) VALUES (279441);
-INSERT INTO item_paid_only (item_id) VALUES (279449);
-INSERT INTO item_paid_only (item_id) VALUES (279450);
-INSERT INTO item_paid_only (item_id) VALUES (279451);
-INSERT INTO item_paid_only (item_id) VALUES (279452);
-INSERT INTO item_paid_only (item_id) VALUES (280050);
-INSERT INTO item_paid_only (item_id) VALUES (280482);
-INSERT INTO item_paid_only (item_id) VALUES (280717);
-INSERT INTO item_paid_only (item_id) VALUES (280718);
-INSERT INTO item_paid_only (item_id) VALUES (280719);
-INSERT INTO item_paid_only (item_id) VALUES (280720);
-INSERT INTO item_paid_only (item_id) VALUES (280721);
-INSERT INTO item_paid_only (item_id) VALUES (280722);
-INSERT INTO item_paid_only (item_id) VALUES (280723);
-INSERT INTO item_paid_only (item_id) VALUES (280724);
-INSERT INTO item_paid_only (item_id) VALUES (280725);
-INSERT INTO item_paid_only (item_id) VALUES (280726);
-INSERT INTO item_paid_only (item_id) VALUES (280727);
-INSERT INTO item_paid_only (item_id) VALUES (280728);
-INSERT INTO item_paid_only (item_id) VALUES (280729);
-INSERT INTO item_paid_only (item_id) VALUES (280730);
-INSERT INTO item_paid_only (item_id) VALUES (280756);
-INSERT INTO item_paid_only (item_id) VALUES (280757);
-INSERT INTO item_paid_only (item_id) VALUES (280758);
-INSERT INTO item_paid_only (item_id) VALUES (280759);
-INSERT INTO item_paid_only (item_id) VALUES (280760);
-INSERT INTO item_paid_only (item_id) VALUES (280761);
-INSERT INTO item_paid_only (item_id) VALUES (280762);
-INSERT INTO item_paid_only (item_id) VALUES (280763);
-INSERT INTO item_paid_only (item_id) VALUES (280764);
-INSERT INTO item_paid_only (item_id) VALUES (280765);
-INSERT INTO item_paid_only (item_id) VALUES (280766);
-INSERT INTO item_paid_only (item_id) VALUES (280767);
-INSERT INTO item_paid_only (item_id) VALUES (280768);
-INSERT INTO item_paid_only (item_id) VALUES (280769);
-INSERT INTO item_paid_only (item_id) VALUES (280770);
-INSERT INTO item_paid_only (item_id) VALUES (280771);
-INSERT INTO item_paid_only (item_id) VALUES (280772);
-INSERT INTO item_paid_only (item_id) VALUES (280773);
-INSERT INTO item_paid_only (item_id) VALUES (280774);
-INSERT INTO item_paid_only (item_id) VALUES (280775);
-INSERT INTO item_paid_only (item_id) VALUES (280776);
-INSERT INTO item_paid_only (item_id) VALUES (280777);
-INSERT INTO item_paid_only (item_id) VALUES (280778);
-INSERT INTO item_paid_only (item_id) VALUES (280779);
-INSERT INTO item_paid_only (item_id) VALUES (280780);
-INSERT INTO item_paid_only (item_id) VALUES (280781);
-INSERT INTO item_paid_only (item_id) VALUES (280782);
-INSERT INTO item_paid_only (item_id) VALUES (280783);
-INSERT INTO item_paid_only (item_id) VALUES (281045);
-INSERT INTO item_paid_only (item_id) VALUES (281046);
-INSERT INTO item_paid_only (item_id) VALUES (281047);
-INSERT INTO item_paid_only (item_id) VALUES (281048);
-INSERT INTO item_paid_only (item_id) VALUES (281049);
-INSERT INTO item_paid_only (item_id) VALUES (281050);
-INSERT INTO item_paid_only (item_id) VALUES (281051);
-INSERT INTO item_paid_only (item_id) VALUES (281052);
-INSERT INTO item_paid_only (item_id) VALUES (281053);
-INSERT INTO item_paid_only (item_id) VALUES (281054);
-INSERT INTO item_paid_only (item_id) VALUES (281055);
-INSERT INTO item_paid_only (item_id) VALUES (281056);
-INSERT INTO item_paid_only (item_id) VALUES (281057);
-INSERT INTO item_paid_only (item_id) VALUES (281058);
-INSERT INTO item_paid_only (item_id) VALUES (281194);
-INSERT INTO item_paid_only (item_id) VALUES (281196);
-INSERT INTO item_paid_only (item_id) VALUES (281197);
-INSERT INTO item_paid_only (item_id) VALUES (281198);
-INSERT INTO item_paid_only (item_id) VALUES (281199);
-INSERT INTO item_paid_only (item_id) VALUES (281200);
-INSERT INTO item_paid_only (item_id) VALUES (281201);
-INSERT INTO item_paid_only (item_id) VALUES (281202);
-INSERT INTO item_paid_only (item_id) VALUES (281203);
-INSERT INTO item_paid_only (item_id) VALUES (281204);
-INSERT INTO item_paid_only (item_id) VALUES (281205);
-INSERT INTO item_paid_only (item_id) VALUES (281206);
-INSERT INTO item_paid_only (item_id) VALUES (281207);
-INSERT INTO item_paid_only (item_id) VALUES (281208);
-INSERT INTO item_paid_only (item_id) VALUES (281239);
-INSERT INTO item_paid_only (item_id) VALUES (281264);
-INSERT INTO item_paid_only (item_id) VALUES (281267);
-INSERT INTO item_paid_only (item_id) VALUES (281334);
-INSERT INTO item_paid_only (item_id) VALUES (281503);
-INSERT INTO item_paid_only (item_id) VALUES (281504);
-INSERT INTO item_paid_only (item_id) VALUES (281505);
-INSERT INTO item_paid_only (item_id) VALUES (281506);
-INSERT INTO item_paid_only (item_id) VALUES (281507);
-INSERT INTO item_paid_only (item_id) VALUES (281962);
-INSERT INTO item_paid_only (item_id) VALUES (282113);
-INSERT INTO item_paid_only (item_id) VALUES (282116);
-INSERT INTO item_paid_only (item_id) VALUES (282117);
-INSERT INTO item_paid_only (item_id) VALUES (282118);
-INSERT INTO item_paid_only (item_id) VALUES (282119);
-INSERT INTO item_paid_only (item_id) VALUES (282120);
-INSERT INTO item_paid_only (item_id) VALUES (283379);
-INSERT INTO item_paid_only (item_id) VALUES (283380);
-INSERT INTO item_paid_only (item_id) VALUES (283644);
-INSERT INTO item_paid_only (item_id) VALUES (283651);
-INSERT INTO item_paid_only (item_id) VALUES (284599);
-INSERT INTO item_paid_only (item_id) VALUES (284959);
-INSERT INTO item_paid_only (item_id) VALUES (284960);
-INSERT INTO item_paid_only (item_id) VALUES (284961);
-INSERT INTO item_paid_only (item_id) VALUES (284962);
-INSERT INTO item_paid_only (item_id) VALUES (285614);
-INSERT INTO item_paid_only (item_id) VALUES (285637);
-INSERT INTO item_paid_only (item_id) VALUES (285638);
-INSERT INTO item_paid_only (item_id) VALUES (285639);
-INSERT INTO item_paid_only (item_id) VALUES (285640);
-INSERT INTO item_paid_only (item_id) VALUES (285641);
-INSERT INTO item_paid_only (item_id) VALUES (285642);
-INSERT INTO item_paid_only (item_id) VALUES (285643);
-INSERT INTO item_paid_only (item_id) VALUES (285644);
-INSERT INTO item_paid_only (item_id) VALUES (286458);
-INSERT INTO item_paid_only (item_id) VALUES (287048);
-INSERT INTO item_paid_only (item_id) VALUES (287049);
-INSERT INTO item_paid_only (item_id) VALUES (287050);
-INSERT INTO item_paid_only (item_id) VALUES (287051);
-INSERT INTO item_paid_only (item_id) VALUES (287053);
-INSERT INTO item_paid_only (item_id) VALUES (287054);
-INSERT INTO item_paid_only (item_id) VALUES (287055);
-INSERT INTO item_paid_only (item_id) VALUES (287057);
-INSERT INTO item_paid_only (item_id) VALUES (287058);
-INSERT INTO item_paid_only (item_id) VALUES (287060);
-INSERT INTO item_paid_only (item_id) VALUES (287061);
-INSERT INTO item_paid_only (item_id) VALUES (287062);
-INSERT INTO item_paid_only (item_id) VALUES (287063);
-INSERT INTO item_paid_only (item_id) VALUES (287064);
-INSERT INTO item_paid_only (item_id) VALUES (287065);
-INSERT INTO item_paid_only (item_id) VALUES (287066);
-INSERT INTO item_paid_only (item_id) VALUES (287067);
-INSERT INTO item_paid_only (item_id) VALUES (287068);
-INSERT INTO item_paid_only (item_id) VALUES (287556);
-INSERT INTO item_paid_only (item_id) VALUES (287559);
-INSERT INTO item_paid_only (item_id) VALUES (287754);
-INSERT INTO item_paid_only (item_id) VALUES (288084);
-INSERT INTO item_paid_only (item_id) VALUES (288106);
-INSERT INTO item_paid_only (item_id) VALUES (288107);
-INSERT INTO item_paid_only (item_id) VALUES (288125);
-INSERT INTO item_paid_only (item_id) VALUES (288126);
-INSERT INTO item_paid_only (item_id) VALUES (288128);
-INSERT INTO item_paid_only (item_id) VALUES (288129);
-INSERT INTO item_paid_only (item_id) VALUES (288131);
-INSERT INTO item_paid_only (item_id) VALUES (288132);
-INSERT INTO item_paid_only (item_id) VALUES (288134);
-INSERT INTO item_paid_only (item_id) VALUES (288139);
-INSERT INTO item_paid_only (item_id) VALUES (288140);
-INSERT INTO item_paid_only (item_id) VALUES (288204);
-INSERT INTO item_paid_only (item_id) VALUES (288281);
-INSERT INTO item_paid_only (item_id) VALUES (288283);
-INSERT INTO item_paid_only (item_id) VALUES (288284);
-INSERT INTO item_paid_only (item_id) VALUES (288285);
-INSERT INTO item_paid_only (item_id) VALUES (288286);
-INSERT INTO item_paid_only (item_id) VALUES (288287);
-INSERT INTO item_paid_only (item_id) VALUES (288288);
-INSERT INTO item_paid_only (item_id) VALUES (288289);
-INSERT INTO item_paid_only (item_id) VALUES (288290);
-INSERT INTO item_paid_only (item_id) VALUES (288291);
-INSERT INTO item_paid_only (item_id) VALUES (288292);
-INSERT INTO item_paid_only (item_id) VALUES (288293);
-INSERT INTO item_paid_only (item_id) VALUES (288294);
-INSERT INTO item_paid_only (item_id) VALUES (288295);
-INSERT INTO item_paid_only (item_id) VALUES (288296);
-INSERT INTO item_paid_only (item_id) VALUES (288297);
-INSERT INTO item_paid_only (item_id) VALUES (288298);
-INSERT INTO item_paid_only (item_id) VALUES (288658);
-INSERT INTO item_paid_only (item_id) VALUES (288659);
-INSERT INTO item_paid_only (item_id) VALUES (288660);
-INSERT INTO item_paid_only (item_id) VALUES (288661);
-INSERT INTO item_paid_only (item_id) VALUES (288662);
-INSERT INTO item_paid_only (item_id) VALUES (288663);
-INSERT INTO item_paid_only (item_id) VALUES (288664);
-INSERT INTO item_paid_only (item_id) VALUES (288665);
-INSERT INTO item_paid_only (item_id) VALUES (288666);
-INSERT INTO item_paid_only (item_id) VALUES (288667);
-INSERT INTO item_paid_only (item_id) VALUES (288668);
-INSERT INTO item_paid_only (item_id) VALUES (288669);
-INSERT INTO item_paid_only (item_id) VALUES (288670);
-INSERT INTO item_paid_only (item_id) VALUES (288671);
-INSERT INTO item_paid_only (item_id) VALUES (288719);
-INSERT INTO item_paid_only (item_id) VALUES (288720);
-INSERT INTO item_paid_only (item_id) VALUES (288773);
-INSERT INTO item_paid_only (item_id) VALUES (288862);
-INSERT INTO item_paid_only (item_id) VALUES (289048);
-INSERT INTO item_paid_only (item_id) VALUES (289049);
-INSERT INTO item_paid_only (item_id) VALUES (289062);
-INSERT INTO item_paid_only (item_id) VALUES (289063);
-INSERT INTO item_paid_only (item_id) VALUES (289077);
-INSERT INTO item_paid_only (item_id) VALUES (289078);
-INSERT INTO item_paid_only (item_id) VALUES (289091);
-INSERT INTO item_paid_only (item_id) VALUES (289092);
-INSERT INTO item_paid_only (item_id) VALUES (289783);
-INSERT INTO item_paid_only (item_id) VALUES (289784);
-INSERT INTO item_paid_only (item_id) VALUES (290480);
-INSERT INTO item_paid_only (item_id) VALUES (291931);
-INSERT INTO item_paid_only (item_id) VALUES (291932);
-INSERT INTO item_paid_only (item_id) VALUES (292152);
-INSERT INTO item_paid_only (item_id) VALUES (292153);
-INSERT INTO item_paid_only (item_id) VALUES (292154);
-INSERT INTO item_paid_only (item_id) VALUES (292155);
-INSERT INTO item_paid_only (item_id) VALUES (292157);
-INSERT INTO item_paid_only (item_id) VALUES (292183);
-INSERT INTO item_paid_only (item_id) VALUES (292184);
-INSERT INTO item_paid_only (item_id) VALUES (292185);
-INSERT INTO item_paid_only (item_id) VALUES (292186);
-INSERT INTO item_paid_only (item_id) VALUES (292187);
-INSERT INTO item_paid_only (item_id) VALUES (292188);
-INSERT INTO item_paid_only (item_id) VALUES (292189);
-INSERT INTO item_paid_only (item_id) VALUES (292190);
-INSERT INTO item_paid_only (item_id) VALUES (292191);
-INSERT INTO item_paid_only (item_id) VALUES (292194);
-INSERT INTO item_paid_only (item_id) VALUES (292564);
-INSERT INTO item_paid_only (item_id) VALUES (292565);
-INSERT INTO item_paid_only (item_id) VALUES (292566);
-INSERT INTO item_paid_only (item_id) VALUES (292603);
-INSERT INTO item_paid_only (item_id) VALUES (292604);
-INSERT INTO item_paid_only (item_id) VALUES (292605);
-INSERT INTO item_paid_only (item_id) VALUES (292606);
-INSERT INTO item_paid_only (item_id) VALUES (292607);
-INSERT INTO item_paid_only (item_id) VALUES (292608);
-INSERT INTO item_paid_only (item_id) VALUES (293115); -- Enigma Grove Sage Armor
-INSERT INTO item_paid_only (item_id) VALUES (293398);
-INSERT INTO item_paid_only (item_id) VALUES (293633);
-INSERT INTO item_paid_only (item_id) VALUES (293634);
-INSERT INTO item_paid_only (item_id) VALUES (293635);
-INSERT INTO item_paid_only (item_id) VALUES (293636);
-INSERT INTO item_paid_only (item_id) VALUES (293637);
-INSERT INTO item_paid_only (item_id) VALUES (293641);
-INSERT INTO item_paid_only (item_id) VALUES (293642);
-INSERT INTO item_paid_only (item_id) VALUES (293644);
-INSERT INTO item_paid_only (item_id) VALUES (293645);
-INSERT INTO item_paid_only (item_id) VALUES (293646);
-INSERT INTO item_paid_only (item_id) VALUES (293648);
-INSERT INTO item_paid_only (item_id) VALUES (293649);
-INSERT INTO item_paid_only (item_id) VALUES (293650);
-INSERT INTO item_paid_only (item_id) VALUES (293651);
-INSERT INTO item_paid_only (item_id) VALUES (293652);
-INSERT INTO item_paid_only (item_id) VALUES (293693);
-INSERT INTO item_paid_only (item_id) VALUES (293699);
-INSERT INTO item_paid_only (item_id) VALUES (293701);
-INSERT INTO item_paid_only (item_id) VALUES (293726);
-INSERT INTO item_paid_only (item_id) VALUES (293727);
-INSERT INTO item_paid_only (item_id) VALUES (293728);
-INSERT INTO item_paid_only (item_id) VALUES (293729);
-INSERT INTO item_paid_only (item_id) VALUES (293730);
-INSERT INTO item_paid_only (item_id) VALUES (293731);
-INSERT INTO item_paid_only (item_id) VALUES (293732);
-INSERT INTO item_paid_only (item_id) VALUES (293733);
-INSERT INTO item_paid_only (item_id) VALUES (293734);
-INSERT INTO item_paid_only (item_id) VALUES (293735);
-INSERT INTO item_paid_only (item_id) VALUES (293736);
-INSERT INTO item_paid_only (item_id) VALUES (293737);
-INSERT INTO item_paid_only (item_id) VALUES (293738);
-INSERT INTO item_paid_only (item_id) VALUES (293739);
-INSERT INTO item_paid_only (item_id) VALUES (293740);
-INSERT INTO item_paid_only (item_id) VALUES (293741);
-INSERT INTO item_paid_only (item_id) VALUES (293742);
-INSERT INTO item_paid_only (item_id) VALUES (293743);
-INSERT INTO item_paid_only (item_id) VALUES (293744);
-INSERT INTO item_paid_only (item_id) VALUES (293745);
-INSERT INTO item_paid_only (item_id) VALUES (293746);
-INSERT INTO item_paid_only (item_id) VALUES (293754);
-INSERT INTO item_paid_only (item_id) VALUES (293755);
-INSERT INTO item_paid_only (item_id) VALUES (293756);
-INSERT INTO item_paid_only (item_id) VALUES (293757);
-INSERT INTO item_paid_only (item_id) VALUES (293758);
-INSERT INTO item_paid_only (item_id) VALUES (293759);
-INSERT INTO item_paid_only (item_id) VALUES (293760);
-INSERT INTO item_paid_only (item_id) VALUES (293761);
-INSERT INTO item_paid_only (item_id) VALUES (293762);
-INSERT INTO item_paid_only (item_id) VALUES (293763);
-INSERT INTO item_paid_only (item_id) VALUES (293764);
-INSERT INTO item_paid_only (item_id) VALUES (293765);
-INSERT INTO item_paid_only (item_id) VALUES (293766);
-INSERT INTO item_paid_only (item_id) VALUES (293767);
-INSERT INTO item_paid_only (item_id) VALUES (293768);
-INSERT INTO item_paid_only (item_id) VALUES (293769);
-INSERT INTO item_paid_only (item_id) VALUES (293770);
-INSERT INTO item_paid_only (item_id) VALUES (293771);
-INSERT INTO item_paid_only (item_id) VALUES (293772);
-INSERT INTO item_paid_only (item_id) VALUES (293773);
-INSERT INTO item_paid_only (item_id) VALUES (293774);
-INSERT INTO item_paid_only (item_id) VALUES (293775);
-INSERT INTO item_paid_only (item_id) VALUES (293776);
-INSERT INTO item_paid_only (item_id) VALUES (293777);
-INSERT INTO item_paid_only (item_id) VALUES (293778);
-INSERT INTO item_paid_only (item_id) VALUES (293779);
-INSERT INTO item_paid_only (item_id) VALUES (293780);
-INSERT INTO item_paid_only (item_id) VALUES (293781);
-INSERT INTO item_paid_only (item_id) VALUES (293782);
-INSERT INTO item_paid_only (item_id) VALUES (293783);
-INSERT INTO item_paid_only (item_id) VALUES (293784);
-INSERT INTO item_paid_only (item_id) VALUES (293785);
-INSERT INTO item_paid_only (item_id) VALUES (293786);
-INSERT INTO item_paid_only (item_id) VALUES (293787);
-INSERT INTO item_paid_only (item_id) VALUES (293788);
-INSERT INTO item_paid_only (item_id) VALUES (293789);
-INSERT INTO item_paid_only (item_id) VALUES (293790);
-INSERT INTO item_paid_only (item_id) VALUES (293791);
-INSERT INTO item_paid_only (item_id) VALUES (293792);
-INSERT INTO item_paid_only (item_id) VALUES (293793);
-INSERT INTO item_paid_only (item_id) VALUES (293794);
-INSERT INTO item_paid_only (item_id) VALUES (293795);
-INSERT INTO item_paid_only (item_id) VALUES (293899);
-INSERT INTO item_paid_only (item_id) VALUES (293900);
-INSERT INTO item_paid_only (item_id) VALUES (293908);
-INSERT INTO item_paid_only (item_id) VALUES (293993);
-INSERT INTO item_paid_only (item_id) VALUES (293995);
-INSERT INTO item_paid_only (item_id) VALUES (293996);
-INSERT INTO item_paid_only (item_id) VALUES (293997);
-INSERT INTO item_paid_only (item_id) VALUES (293999);
-INSERT INTO item_paid_only (item_id) VALUES (294000);
-INSERT INTO item_paid_only (item_id) VALUES (294001);
-INSERT INTO item_paid_only (item_id) VALUES (294977);
-INSERT INTO item_paid_only (item_id) VALUES (295079);
-INSERT INTO item_paid_only (item_id) VALUES (295080);
-INSERT INTO item_paid_only (item_id) VALUES (295081);
-INSERT INTO item_paid_only (item_id) VALUES (295082);
-INSERT INTO item_paid_only (item_id) VALUES (295083);
-INSERT INTO item_paid_only (item_id) VALUES (295084);
-INSERT INTO item_paid_only (item_id) VALUES (295106);
-INSERT INTO item_paid_only (item_id) VALUES (295107);
-INSERT INTO item_paid_only (item_id) VALUES (295108);
-INSERT INTO item_paid_only (item_id) VALUES (295109);
-INSERT INTO item_paid_only (item_id) VALUES (295110);
-INSERT INTO item_paid_only (item_id) VALUES (295111);
-INSERT INTO item_paid_only (item_id) VALUES (295112);
-INSERT INTO item_paid_only (item_id) VALUES (295329);
-INSERT INTO item_paid_only (item_id) VALUES (295715);
-INSERT INTO item_paid_only (item_id) VALUES (296328);
-INSERT INTO item_paid_only (item_id) VALUES (296333);
-INSERT INTO item_paid_only (item_id) VALUES (296334);
-INSERT INTO item_paid_only (item_id) VALUES (296363);
-INSERT INTO item_paid_only (item_id) VALUES (296364);
-INSERT INTO item_paid_only (item_id) VALUES (296365);
-INSERT INTO item_paid_only (item_id) VALUES (296366);
-INSERT INTO item_paid_only (item_id) VALUES (296367);
-INSERT INTO item_paid_only (item_id) VALUES (296368);
-INSERT INTO item_paid_only (item_id) VALUES (296369);
-INSERT INTO item_paid_only (item_id) VALUES (296370);
-INSERT INTO item_paid_only (item_id) VALUES (296371);
-INSERT INTO item_paid_only (item_id) VALUES (296372);
-INSERT INTO item_paid_only (item_id) VALUES (296373);
-INSERT INTO item_paid_only (item_id) VALUES (296374);
-INSERT INTO item_paid_only (item_id) VALUES (296375);
-INSERT INTO item_paid_only (item_id) VALUES (296376);
-INSERT INTO item_paid_only (item_id) VALUES (296377);
-INSERT INTO item_paid_only (item_id) VALUES (296378);
-INSERT INTO item_paid_only (item_id) VALUES (296379);
-INSERT INTO item_paid_only (item_id) VALUES (296380);
-INSERT INTO item_paid_only (item_id) VALUES (296433);
-INSERT INTO item_paid_only (item_id) VALUES (297333);
-INSERT INTO item_paid_only (item_id) VALUES (297342);
-INSERT INTO item_paid_only (item_id) VALUES (297650);
-INSERT INTO item_paid_only (item_id) VALUES (297651);
-INSERT INTO item_paid_only (item_id) VALUES (297652);
-INSERT INTO item_paid_only (item_id) VALUES (297653);
-INSERT INTO item_paid_only (item_id) VALUES (297654);
-INSERT INTO item_paid_only (item_id) VALUES (297655);
-INSERT INTO item_paid_only (item_id) VALUES (297656);
-INSERT INTO item_paid_only (item_id) VALUES (297657);
-INSERT INTO item_paid_only (item_id) VALUES (297658);
-INSERT INTO item_paid_only (item_id) VALUES (297659);
-INSERT INTO item_paid_only (item_id) VALUES (297660);
-INSERT INTO item_paid_only (item_id) VALUES (297661);
-INSERT INTO item_paid_only (item_id) VALUES (297662);
-INSERT INTO item_paid_only (item_id) VALUES (297663);
-INSERT INTO item_paid_only (item_id) VALUES (297664);
-INSERT INTO item_paid_only (item_id) VALUES (297665);
-INSERT INTO item_paid_only (item_id) VALUES (297666);
-INSERT INTO item_paid_only (item_id) VALUES (297667);
-INSERT INTO item_paid_only (item_id) VALUES (300505);
-INSERT INTO item_paid_only (item_id) VALUES (300506);
-INSERT INTO item_paid_only (item_id) VALUES (300507);
-INSERT INTO item_paid_only (item_id) VALUES (300528);
-INSERT INTO item_paid_only (item_id) VALUES (300555);
-INSERT INTO item_paid_only (item_id) VALUES (300673);
-INSERT INTO item_paid_only (item_id) VALUES (300674);
-INSERT INTO item_paid_only (item_id) VALUES (300690);
-INSERT INTO item_paid_only (item_id) VALUES (300691);
-INSERT INTO item_paid_only (item_id) VALUES (300693);
-INSERT INTO item_paid_only (item_id) VALUES (300694);
-INSERT INTO item_paid_only (item_id) VALUES (300696);
-INSERT INTO item_paid_only (item_id) VALUES (300697);
-INSERT INTO item_paid_only (item_id) VALUES (300700);
-INSERT INTO item_paid_only (item_id) VALUES (300701);
-INSERT INTO item_paid_only (item_id) VALUES (300703);
-INSERT INTO item_paid_only (item_id) VALUES (300704);
-INSERT INTO item_paid_only (item_id) VALUES (300705);
-INSERT INTO item_paid_only (item_id) VALUES (300706);
-INSERT INTO item_paid_only (item_id) VALUES (300913);
-INSERT INTO item_paid_only (item_id) VALUES (301082);
-INSERT INTO item_paid_only (item_id) VALUES (301117);
-INSERT INTO item_paid_only (item_id) VALUES (301119);
-INSERT INTO item_paid_only (item_id) VALUES (301132);
-INSERT INTO item_paid_only (item_id) VALUES (301133);
-INSERT INTO item_paid_only (item_id) VALUES (301144);
-INSERT INTO item_paid_only (item_id) VALUES (301153);
-INSERT INTO item_paid_only (item_id) VALUES (301154);
-INSERT INTO item_paid_only (item_id) VALUES (301161);
-INSERT INTO item_paid_only (item_id) VALUES (301191);
-INSERT INTO item_paid_only (item_id) VALUES (301327);
-INSERT INTO item_paid_only (item_id) VALUES (301333);
-INSERT INTO item_paid_only (item_id) VALUES (301492);
-INSERT INTO item_paid_only (item_id) VALUES (301493);
-INSERT INTO item_paid_only (item_id) VALUES (301541);
-INSERT INTO item_paid_only (item_id) VALUES (301542);
-INSERT INTO item_paid_only (item_id) VALUES (301593);
-INSERT INTO item_paid_only (item_id) VALUES (301594);
-INSERT INTO item_paid_only (item_id) VALUES (301609);
-INSERT INTO item_paid_only (item_id) VALUES (301610);
-INSERT INTO item_paid_only (item_id) VALUES (301623);
-INSERT INTO item_paid_only (item_id) VALUES (301624);
-INSERT INTO item_paid_only (item_id) VALUES (301626);
-INSERT INTO item_paid_only (item_id) VALUES (301627);
-INSERT INTO item_paid_only (item_id) VALUES (301679);
-INSERT INTO item_paid_only (item_id) VALUES (301693);
-INSERT INTO item_paid_only (item_id) VALUES (301694);
-INSERT INTO item_paid_only (item_id) VALUES (301695);
-INSERT INTO item_paid_only (item_id) VALUES (301696);
-INSERT INTO item_paid_only (item_id) VALUES (301697);
-INSERT INTO item_paid_only (item_id) VALUES (301698);
-INSERT INTO item_paid_only (item_id) VALUES (301743);
-INSERT INTO item_paid_only (item_id) VALUES (301744);
-INSERT INTO item_paid_only (item_id) VALUES (301745);
-INSERT INTO item_paid_only (item_id) VALUES (301838);
-INSERT INTO item_paid_only (item_id) VALUES (301839);
-INSERT INTO item_paid_only (item_id) VALUES (301853);
-INSERT INTO item_paid_only (item_id) VALUES (301854);
-INSERT INTO item_paid_only (item_id) VALUES (301855);
-INSERT INTO item_paid_only (item_id) VALUES (301856);
-INSERT INTO item_paid_only (item_id) VALUES (301857);
-INSERT INTO item_paid_only (item_id) VALUES (301859);
-INSERT INTO item_paid_only (item_id) VALUES (301860);
-INSERT INTO item_paid_only (item_id) VALUES (301861);
-INSERT INTO item_paid_only (item_id) VALUES (301863);
-INSERT INTO item_paid_only (item_id) VALUES (301885);
-INSERT INTO item_paid_only (item_id) VALUES (301888);
-INSERT INTO item_paid_only (item_id) VALUES (301889);
-INSERT INTO item_paid_only (item_id) VALUES (301895);
-INSERT INTO item_paid_only (item_id) VALUES (301896);
-INSERT INTO item_paid_only (item_id) VALUES (301899);
-INSERT INTO item_paid_only (item_id) VALUES (301900);
-INSERT INTO item_paid_only (item_id) VALUES (301901);
-INSERT INTO item_paid_only (item_id) VALUES (301934);
-INSERT INTO item_paid_only (item_id) VALUES (301935);
-INSERT INTO item_paid_only (item_id) VALUES (302065);
-INSERT INTO item_paid_only (item_id) VALUES (302066);
-INSERT INTO item_paid_only (item_id) VALUES (302074);
-INSERT INTO item_paid_only (item_id) VALUES (302076);
-INSERT INTO item_paid_only (item_id) VALUES (302080);
-INSERT INTO item_paid_only (item_id) VALUES (302164);
-INSERT INTO item_paid_only (item_id) VALUES (302188);
-INSERT INTO item_paid_only (item_id) VALUES (302189);
-INSERT INTO item_paid_only (item_id) VALUES (302217);
-INSERT INTO item_paid_only (item_id) VALUES (302218);
-INSERT INTO item_paid_only (item_id) VALUES (302220);
-INSERT INTO item_paid_only (item_id) VALUES (302221);
-INSERT INTO item_paid_only (item_id) VALUES (302223);
-INSERT INTO item_paid_only (item_id) VALUES (302224);
-INSERT INTO item_paid_only (item_id) VALUES (302229);
-INSERT INTO item_paid_only (item_id) VALUES (302230);
-INSERT INTO item_paid_only (item_id) VALUES (302235);
-INSERT INTO item_paid_only (item_id) VALUES (302237);
-INSERT INTO item_paid_only (item_id) VALUES (302243);
-INSERT INTO item_paid_only (item_id) VALUES (302244);
-INSERT INTO item_paid_only (item_id) VALUES (302247);
-INSERT INTO item_paid_only (item_id) VALUES (302248);
-INSERT INTO item_paid_only (item_id) VALUES (302254);
-INSERT INTO item_paid_only (item_id) VALUES (302255);
-INSERT INTO item_paid_only (item_id) VALUES (302257);
-INSERT INTO item_paid_only (item_id) VALUES (302258);
-INSERT INTO item_paid_only (item_id) VALUES (302274);
-INSERT INTO item_paid_only (item_id) VALUES (302275);
-INSERT INTO item_paid_only (item_id) VALUES (302354);
-INSERT INTO item_paid_only (item_id) VALUES (302355);
-INSERT INTO item_paid_only (item_id) VALUES (302356);
-INSERT INTO item_paid_only (item_id) VALUES (302357);
-INSERT INTO item_paid_only (item_id) VALUES (302358);
-INSERT INTO item_paid_only (item_id) VALUES (302359);
-INSERT INTO item_paid_only (item_id) VALUES (302360);
-INSERT INTO item_paid_only (item_id) VALUES (302361);
-INSERT INTO item_paid_only (item_id) VALUES (302362);
-INSERT INTO item_paid_only (item_id) VALUES (302374);
-INSERT INTO item_paid_only (item_id) VALUES (302379);
-INSERT INTO item_paid_only (item_id) VALUES (302388);
-INSERT INTO item_paid_only (item_id) VALUES (302412);
-INSERT INTO item_paid_only (item_id) VALUES (302413);
-INSERT INTO item_paid_only (item_id) VALUES (302414);
-INSERT INTO item_paid_only (item_id) VALUES (302458);
-INSERT INTO item_paid_only (item_id) VALUES (302722);
-INSERT INTO item_paid_only (item_id) VALUES (302723);
-INSERT INTO item_paid_only (item_id) VALUES (302724);
-INSERT INTO item_paid_only (item_id) VALUES (302725);
-INSERT INTO item_paid_only (item_id) VALUES (302726);
-INSERT INTO item_paid_only (item_id) VALUES (302727);
-INSERT INTO item_paid_only (item_id) VALUES (302728);
-INSERT INTO item_paid_only (item_id) VALUES (302729);
-INSERT INTO item_paid_only (item_id) VALUES (302730);
-INSERT INTO item_paid_only (item_id) VALUES (302731);
-INSERT INTO item_paid_only (item_id) VALUES (302863);
-INSERT INTO item_paid_only (item_id) VALUES (302867);
-INSERT INTO item_paid_only (item_id) VALUES (302868);
-INSERT INTO item_paid_only (item_id) VALUES (302869);
-INSERT INTO item_paid_only (item_id) VALUES (302870);
-INSERT INTO item_paid_only (item_id) VALUES (302871);
-INSERT INTO item_paid_only (item_id) VALUES (302872);
-INSERT INTO item_paid_only (item_id) VALUES (302873);
-INSERT INTO item_paid_only (item_id) VALUES (302874);
-INSERT INTO item_paid_only (item_id) VALUES (302875);
-INSERT INTO item_paid_only (item_id) VALUES (302880);
-INSERT INTO item_paid_only (item_id) VALUES (302881);
-INSERT INTO item_paid_only (item_id) VALUES (302882);
-INSERT INTO item_paid_only (item_id) VALUES (302912);
-INSERT INTO item_paid_only (item_id) VALUES (302913);
-INSERT INTO item_paid_only (item_id) VALUES (302914);
-INSERT INTO item_paid_only (item_id) VALUES (302915);
-INSERT INTO item_paid_only (item_id) VALUES (302921);
-INSERT INTO item_paid_only (item_id) VALUES (302922);
-INSERT INTO item_paid_only (item_id) VALUES (302923);
-INSERT INTO item_paid_only (item_id) VALUES (302924);
-INSERT INTO item_paid_only (item_id) VALUES (302925);
-INSERT INTO item_paid_only (item_id) VALUES (302930);
-INSERT INTO item_paid_only (item_id) VALUES (302931);
-INSERT INTO item_paid_only (item_id) VALUES (302933);
-INSERT INTO item_paid_only (item_id) VALUES (302934);
-INSERT INTO item_paid_only (item_id) VALUES (302935);
-INSERT INTO item_paid_only (item_id) VALUES (302936);
-INSERT INTO item_paid_only (item_id) VALUES (302938);
-INSERT INTO item_paid_only (item_id) VALUES (302939);
-INSERT INTO item_paid_only (item_id) VALUES (302940);
-INSERT INTO item_paid_only (item_id) VALUES (302941);
-INSERT INTO item_paid_only (item_id) VALUES (302942);
-INSERT INTO item_paid_only (item_id) VALUES (302943);
-INSERT INTO item_paid_only (item_id) VALUES (302944);
-INSERT INTO item_paid_only (item_id) VALUES (302945);
-INSERT INTO item_paid_only (item_id) VALUES (302946);
-INSERT INTO item_paid_only (item_id) VALUES (302947);
-INSERT INTO item_paid_only (item_id) VALUES (302948);
-INSERT INTO item_paid_only (item_id) VALUES (302949);
-INSERT INTO item_paid_only (item_id) VALUES (303000);
-INSERT INTO item_paid_only (item_id) VALUES (303036);
-INSERT INTO item_paid_only (item_id) VALUES (303037);
-INSERT INTO item_paid_only (item_id) VALUES (303038);
-INSERT INTO item_paid_only (item_id) VALUES (303039);
-INSERT INTO item_paid_only (item_id) VALUES (303040);
-INSERT INTO item_paid_only (item_id) VALUES (303041);
-INSERT INTO item_paid_only (item_id) VALUES (303042);
-INSERT INTO item_paid_only (item_id) VALUES (303043);
-INSERT INTO item_paid_only (item_id) VALUES (303044);
-INSERT INTO item_paid_only (item_id) VALUES (303045);
-INSERT INTO item_paid_only (item_id) VALUES (303046);
-INSERT INTO item_paid_only (item_id) VALUES (303047);
-INSERT INTO item_paid_only (item_id) VALUES (303048);
-INSERT INTO item_paid_only (item_id) VALUES (303049);
-INSERT INTO item_paid_only (item_id) VALUES (303093);
-INSERT INTO item_paid_only (item_id) VALUES (303094);
-INSERT INTO item_paid_only (item_id) VALUES (303095);
-INSERT INTO item_paid_only (item_id) VALUES (303097);
-INSERT INTO item_paid_only (item_id) VALUES (303103);
-INSERT INTO item_paid_only (item_id) VALUES (303104);
-INSERT INTO item_paid_only (item_id) VALUES (303105);
-INSERT INTO item_paid_only (item_id) VALUES (303106);
-INSERT INTO item_paid_only (item_id) VALUES (303107);
-INSERT INTO item_paid_only (item_id) VALUES (303108);
-INSERT INTO item_paid_only (item_id) VALUES (303176);
-INSERT INTO item_paid_only (item_id) VALUES (303247);
-INSERT INTO item_paid_only (item_id) VALUES (303248);
-INSERT INTO item_paid_only (item_id) VALUES (303249);
-INSERT INTO item_paid_only (item_id) VALUES (303250);
-INSERT INTO item_paid_only (item_id) VALUES (303251);
-INSERT INTO item_paid_only (item_id) VALUES (303252);
-INSERT INTO item_paid_only (item_id) VALUES (303253);
-INSERT INTO item_paid_only (item_id) VALUES (303254);
-INSERT INTO item_paid_only (item_id) VALUES (303255);
-INSERT INTO item_paid_only (item_id) VALUES (303256);
-INSERT INTO item_paid_only (item_id) VALUES (303257);
-INSERT INTO item_paid_only (item_id) VALUES (303258);
-INSERT INTO item_paid_only (item_id) VALUES (303259);
-INSERT INTO item_paid_only (item_id) VALUES (303260);
-INSERT INTO item_paid_only (item_id) VALUES (303283);
-INSERT INTO item_paid_only (item_id) VALUES (303284);
-INSERT INTO item_paid_only (item_id) VALUES (303375);
-INSERT INTO item_paid_only (item_id) VALUES (303378);
-INSERT INTO item_paid_only (item_id) VALUES (303391);
-INSERT INTO item_paid_only (item_id) VALUES (303395);
-INSERT INTO item_paid_only (item_id) VALUES (303397);
-INSERT INTO item_paid_only (item_id) VALUES (303404);
-INSERT INTO item_paid_only (item_id) VALUES (303406);
-INSERT INTO item_paid_only (item_id) VALUES (303408);
-INSERT INTO item_paid_only (item_id) VALUES (303410);
-INSERT INTO item_paid_only (item_id) VALUES (303412);
-INSERT INTO item_paid_only (item_id) VALUES (303414);
-INSERT INTO item_paid_only (item_id) VALUES (303416);
-INSERT INTO item_paid_only (item_id) VALUES (303418);
-INSERT INTO item_paid_only (item_id) VALUES (303420);
-INSERT INTO item_paid_only (item_id) VALUES (303422);
-INSERT INTO item_paid_only (item_id) VALUES (303424);
-INSERT INTO item_paid_only (item_id) VALUES (303426);
-INSERT INTO item_paid_only (item_id) VALUES (303445);
-INSERT INTO item_paid_only (item_id) VALUES (303446);
-INSERT INTO item_paid_only (item_id) VALUES (303447);
-INSERT INTO item_paid_only (item_id) VALUES (303448);
-INSERT INTO item_paid_only (item_id) VALUES (303449);
-INSERT INTO item_paid_only (item_id) VALUES (303450);
-INSERT INTO item_paid_only (item_id) VALUES (303451);
-INSERT INTO item_paid_only (item_id) VALUES (303452);
-INSERT INTO item_paid_only (item_id) VALUES (303453);
-INSERT INTO item_paid_only (item_id) VALUES (303454);
-INSERT INTO item_paid_only (item_id) VALUES (303455);
-INSERT INTO item_paid_only (item_id) VALUES (303456);
-INSERT INTO item_paid_only (item_id) VALUES (303457);
-INSERT INTO item_paid_only (item_id) VALUES (303458);
-INSERT INTO item_paid_only (item_id) VALUES (303459);
-INSERT INTO item_paid_only (item_id) VALUES (303460);
-INSERT INTO item_paid_only (item_id) VALUES (303471);
-INSERT INTO item_paid_only (item_id) VALUES (303472);
-INSERT INTO item_paid_only (item_id) VALUES (303489);
-INSERT INTO item_paid_only (item_id) VALUES (303490);
-INSERT INTO item_paid_only (item_id) VALUES (303491);
-INSERT INTO item_paid_only (item_id) VALUES (303492);
-INSERT INTO item_paid_only (item_id) VALUES (303493);
-INSERT INTO item_paid_only (item_id) VALUES (303494);
-INSERT INTO item_paid_only (item_id) VALUES (303495);
-INSERT INTO item_paid_only (item_id) VALUES (303496);
-INSERT INTO item_paid_only (item_id) VALUES (303497);
-INSERT INTO item_paid_only (item_id) VALUES (303498);
-INSERT INTO item_paid_only (item_id) VALUES (303499);
-INSERT INTO item_paid_only (item_id) VALUES (303500);
-INSERT INTO item_paid_only (item_id) VALUES (303501);
-INSERT INTO item_paid_only (item_id) VALUES (303502);
-INSERT INTO item_paid_only (item_id) VALUES (303684);
-INSERT INTO item_paid_only (item_id) VALUES (303685);
-INSERT INTO item_paid_only (item_id) VALUES (303686);
-INSERT INTO item_paid_only (item_id) VALUES (303687);
-INSERT INTO item_paid_only (item_id) VALUES (303688);
-INSERT INTO item_paid_only (item_id) VALUES (303689);
-INSERT INTO item_paid_only (item_id) VALUES (303690);
-INSERT INTO item_paid_only (item_id) VALUES (303691);
-INSERT INTO item_paid_only (item_id) VALUES (303692);
-INSERT INTO item_paid_only (item_id) VALUES (303693);
-INSERT INTO item_paid_only (item_id) VALUES (303694);
-INSERT INTO item_paid_only (item_id) VALUES (303695);
-INSERT INTO item_paid_only (item_id) VALUES (303743);
-INSERT INTO item_paid_only (item_id) VALUES (303744);
-INSERT INTO item_paid_only (item_id) VALUES (303745);
-INSERT INTO item_paid_only (item_id) VALUES (303746);
-INSERT INTO item_paid_only (item_id) VALUES (303747);
-INSERT INTO item_paid_only (item_id) VALUES (303748);
-INSERT INTO item_paid_only (item_id) VALUES (303749);
-INSERT INTO item_paid_only (item_id) VALUES (303750);
-INSERT INTO item_paid_only (item_id) VALUES (303751);
-INSERT INTO item_paid_only (item_id) VALUES (303752);
-INSERT INTO item_paid_only (item_id) VALUES (303753);
-INSERT INTO item_paid_only (item_id) VALUES (303754);
-INSERT INTO item_paid_only (item_id) VALUES (303755);
-INSERT INTO item_paid_only (item_id) VALUES (303756);
-INSERT INTO item_paid_only (item_id) VALUES (303757);
-INSERT INTO item_paid_only (item_id) VALUES (303758);
-INSERT INTO item_paid_only (item_id) VALUES (303759);
-INSERT INTO item_paid_only (item_id) VALUES (303760);
-INSERT INTO item_paid_only (item_id) VALUES (303761);
-INSERT INTO item_paid_only (item_id) VALUES (303762);
-INSERT INTO item_paid_only (item_id) VALUES (303763);
-INSERT INTO item_paid_only (item_id) VALUES (303764);
-INSERT INTO item_paid_only (item_id) VALUES (303765);
-INSERT INTO item_paid_only (item_id) VALUES (303766);
-INSERT INTO item_paid_only (item_id) VALUES (303767);
-INSERT INTO item_paid_only (item_id) VALUES (303768);
-INSERT INTO item_paid_only (item_id) VALUES (303769);
-INSERT INTO item_paid_only (item_id) VALUES (303770);
-INSERT INTO item_paid_only (item_id) VALUES (303771);
-INSERT INTO item_paid_only (item_id) VALUES (303772);
-INSERT INTO item_paid_only (item_id) VALUES (303773);
-INSERT INTO item_paid_only (item_id) VALUES (303774);
-INSERT INTO item_paid_only (item_id) VALUES (303775);
-INSERT INTO item_paid_only (item_id) VALUES (303776);
-INSERT INTO item_paid_only (item_id) VALUES (303778);
-INSERT INTO item_paid_only (item_id) VALUES (303779);
-INSERT INTO item_paid_only (item_id) VALUES (303780);
-INSERT INTO item_paid_only (item_id) VALUES (303781);
-INSERT INTO item_paid_only (item_id) VALUES (303782);
-INSERT INTO item_paid_only (item_id) VALUES (303783);
-INSERT INTO item_paid_only (item_id) VALUES (303784);
-INSERT INTO item_paid_only (item_id) VALUES (303785);
-INSERT INTO item_paid_only (item_id) VALUES (303786);
-INSERT INTO item_paid_only (item_id) VALUES (303787);
-INSERT INTO item_paid_only (item_id) VALUES (303788);
-INSERT INTO item_paid_only (item_id) VALUES (303789);
-INSERT INTO item_paid_only (item_id) VALUES (303790);
-INSERT INTO item_paid_only (item_id) VALUES (303791);
-INSERT INTO item_paid_only (item_id) VALUES (303792);
-INSERT INTO item_paid_only (item_id) VALUES (303793);
-INSERT INTO item_paid_only (item_id) VALUES (303794);
-INSERT INTO item_paid_only (item_id) VALUES (303795);
-INSERT INTO item_paid_only (item_id) VALUES (303796);
-INSERT INTO item_paid_only (item_id) VALUES (303797);
-INSERT INTO item_paid_only (item_id) VALUES (303798);
-INSERT INTO item_paid_only (item_id) VALUES (303799);
-INSERT INTO item_paid_only (item_id) VALUES (303800);
-INSERT INTO item_paid_only (item_id) VALUES (303801);
-INSERT INTO item_paid_only (item_id) VALUES (303802);
-INSERT INTO item_paid_only (item_id) VALUES (303803);
-INSERT INTO item_paid_only (item_id) VALUES (303804);
-INSERT INTO item_paid_only (item_id) VALUES (303805);
-INSERT INTO item_paid_only (item_id) VALUES (303806);
-INSERT INTO item_paid_only (item_id) VALUES (303807);
-INSERT INTO item_paid_only (item_id) VALUES (303808);
-INSERT INTO item_paid_only (item_id) VALUES (303809);
-INSERT INTO item_paid_only (item_id) VALUES (303810);
-INSERT INTO item_paid_only (item_id) VALUES (303811);
-INSERT INTO item_paid_only (item_id) VALUES (303812);
-INSERT INTO item_paid_only (item_id) VALUES (303813);
-INSERT INTO item_paid_only (item_id) VALUES (303814);
-INSERT INTO item_paid_only (item_id) VALUES (303815);
-INSERT INTO item_paid_only (item_id) VALUES (303816);
-INSERT INTO item_paid_only (item_id) VALUES (303817);
-INSERT INTO item_paid_only (item_id) VALUES (303818);
-INSERT INTO item_paid_only (item_id) VALUES (303819);
-INSERT INTO item_paid_only (item_id) VALUES (303820);
-INSERT INTO item_paid_only (item_id) VALUES (303821);
-INSERT INTO item_paid_only (item_id) VALUES (303822);
-INSERT INTO item_paid_only (item_id) VALUES (303823);
-INSERT INTO item_paid_only (item_id) VALUES (303824);
-INSERT INTO item_paid_only (item_id) VALUES (303825);
-INSERT INTO item_paid_only (item_id) VALUES (303826);
-INSERT INTO item_paid_only (item_id) VALUES (303827);
-INSERT INTO item_paid_only (item_id) VALUES (303828);
-INSERT INTO item_paid_only (item_id) VALUES (303829);
-INSERT INTO item_paid_only (item_id) VALUES (303830);
-INSERT INTO item_paid_only (item_id) VALUES (303831);
-INSERT INTO item_paid_only (item_id) VALUES (303832);
-INSERT INTO item_paid_only (item_id) VALUES (303833);
-INSERT INTO item_paid_only (item_id) VALUES (303834);
-INSERT INTO item_paid_only (item_id) VALUES (303835);
-INSERT INTO item_paid_only (item_id) VALUES (303836);
-INSERT INTO item_paid_only (item_id) VALUES (303837);
-INSERT INTO item_paid_only (item_id) VALUES (303838);
-INSERT INTO item_paid_only (item_id) VALUES (303839);
-INSERT INTO item_paid_only (item_id) VALUES (303840);
-INSERT INTO item_paid_only (item_id) VALUES (303841);
-INSERT INTO item_paid_only (item_id) VALUES (303842);
-INSERT INTO item_paid_only (item_id) VALUES (303843);
-INSERT INTO item_paid_only (item_id) VALUES (303844);
-INSERT INTO item_paid_only (item_id) VALUES (303845);
-INSERT INTO item_paid_only (item_id) VALUES (303846);
-INSERT INTO item_paid_only (item_id) VALUES (303847);
-INSERT INTO item_paid_only (item_id) VALUES (303848);
-INSERT INTO item_paid_only (item_id) VALUES (303849);
-INSERT INTO item_paid_only (item_id) VALUES (303850);
-INSERT INTO item_paid_only (item_id) VALUES (303851);
-INSERT INTO item_paid_only (item_id) VALUES (303852);
-INSERT INTO item_paid_only (item_id) VALUES (303853);
-INSERT INTO item_paid_only (item_id) VALUES (303854);
-INSERT INTO item_paid_only (item_id) VALUES (303855);
-INSERT INTO item_paid_only (item_id) VALUES (303856);
-INSERT INTO item_paid_only (item_id) VALUES (303857);
-INSERT INTO item_paid_only (item_id) VALUES (303858);
-INSERT INTO item_paid_only (item_id) VALUES (303859);
-INSERT INTO item_paid_only (item_id) VALUES (303860);
-INSERT INTO item_paid_only (item_id) VALUES (303861);
-INSERT INTO item_paid_only (item_id) VALUES (303862);
-INSERT INTO item_paid_only (item_id) VALUES (303863);
-INSERT INTO item_paid_only (item_id) VALUES (303864);
-INSERT INTO item_paid_only (item_id) VALUES (303865);
-INSERT INTO item_paid_only (item_id) VALUES (303866);
-INSERT INTO item_paid_only (item_id) VALUES (303867);
-INSERT INTO item_paid_only (item_id) VALUES (303868);
-INSERT INTO item_paid_only (item_id) VALUES (303869);
-INSERT INTO item_paid_only (item_id) VALUES (303870);
-INSERT INTO item_paid_only (item_id) VALUES (303871);
-INSERT INTO item_paid_only (item_id) VALUES (303872);
-INSERT INTO item_paid_only (item_id) VALUES (303873);
-INSERT INTO item_paid_only (item_id) VALUES (303874);
-INSERT INTO item_paid_only (item_id) VALUES (303875);
-INSERT INTO item_paid_only (item_id) VALUES (303876);
-INSERT INTO item_paid_only (item_id) VALUES (303877);
-INSERT INTO item_paid_only (item_id) VALUES (303878);
-INSERT INTO item_paid_only (item_id) VALUES (303879);
-INSERT INTO item_paid_only (item_id) VALUES (303880);
-INSERT INTO item_paid_only (item_id) VALUES (303881);
-INSERT INTO item_paid_only (item_id) VALUES (303882);
-INSERT INTO item_paid_only (item_id) VALUES (303883);
-INSERT INTO item_paid_only (item_id) VALUES (303884);
-INSERT INTO item_paid_only (item_id) VALUES (303885);
-INSERT INTO item_paid_only (item_id) VALUES (303886);
-INSERT INTO item_paid_only (item_id) VALUES (303887);
-INSERT INTO item_paid_only (item_id) VALUES (303888);
-INSERT INTO item_paid_only (item_id) VALUES (303889);
-INSERT INTO item_paid_only (item_id) VALUES (303890);
-INSERT INTO item_paid_only (item_id) VALUES (303891);
-INSERT INTO item_paid_only (item_id) VALUES (303892);
-INSERT INTO item_paid_only (item_id) VALUES (303893);
-INSERT INTO item_paid_only (item_id) VALUES (303894);
-INSERT INTO item_paid_only (item_id) VALUES (303895);
-INSERT INTO item_paid_only (item_id) VALUES (303896);
-INSERT INTO item_paid_only (item_id) VALUES (303897);
-INSERT INTO item_paid_only (item_id) VALUES (303898);
-INSERT INTO item_paid_only (item_id) VALUES (303899);
-INSERT INTO item_paid_only (item_id) VALUES (303900);
-INSERT INTO item_paid_only (item_id) VALUES (303901);
-INSERT INTO item_paid_only (item_id) VALUES (303902);
-INSERT INTO item_paid_only (item_id) VALUES (303903);
-INSERT INTO item_paid_only (item_id) VALUES (303904);
-INSERT INTO item_paid_only (item_id) VALUES (303905);
-INSERT INTO item_paid_only (item_id) VALUES (303906);
-INSERT INTO item_paid_only (item_id) VALUES (303907);
-INSERT INTO item_paid_only (item_id) VALUES (303908);
-INSERT INTO item_paid_only (item_id) VALUES (303969);
-INSERT INTO item_paid_only (item_id) VALUES (303970);
-INSERT INTO item_paid_only (item_id) VALUES (303971);
-INSERT INTO item_paid_only (item_id) VALUES (303972);
-INSERT INTO item_paid_only (item_id) VALUES (303973);
-INSERT INTO item_paid_only (item_id) VALUES (303974);
-INSERT INTO item_paid_only (item_id) VALUES (303975);
-INSERT INTO item_paid_only (item_id) VALUES (303976);
-INSERT INTO item_paid_only (item_id) VALUES (303977);
-INSERT INTO item_paid_only (item_id) VALUES (303978);
-INSERT INTO item_paid_only (item_id) VALUES (303979);
-INSERT INTO item_paid_only (item_id) VALUES (303980);
-INSERT INTO item_paid_only (item_id) VALUES (303981);
-INSERT INTO item_paid_only (item_id) VALUES (303982);
-INSERT INTO item_paid_only (item_id) VALUES (303983);
-INSERT INTO item_paid_only (item_id) VALUES (303984);
-INSERT INTO item_paid_only (item_id) VALUES (303985);
-INSERT INTO item_paid_only (item_id) VALUES (303986);
-INSERT INTO item_paid_only (item_id) VALUES (303990);
-INSERT INTO item_paid_only (item_id) VALUES (303998);
-INSERT INTO item_paid_only (item_id) VALUES (304224);
-INSERT INTO item_paid_only (item_id) VALUES (304225);
-INSERT INTO item_paid_only (item_id) VALUES (304226);
-INSERT INTO item_paid_only (item_id) VALUES (304227);
-INSERT INTO item_paid_only (item_id) VALUES (304228);
-INSERT INTO item_paid_only (item_id) VALUES (304229);
-INSERT INTO item_paid_only (item_id) VALUES (304230);
-INSERT INTO item_paid_only (item_id) VALUES (304231);
-INSERT INTO item_paid_only (item_id) VALUES (304232);
-INSERT INTO item_paid_only (item_id) VALUES (304233);
-INSERT INTO item_paid_only (item_id) VALUES (304234);
-INSERT INTO item_paid_only (item_id) VALUES (304235);
-INSERT INTO item_paid_only (item_id) VALUES (304236);
-INSERT INTO item_paid_only (item_id) VALUES (304237);
-INSERT INTO item_paid_only (item_id) VALUES (304239);
-INSERT INTO item_paid_only (item_id) VALUES (304241);
-INSERT INTO item_paid_only (item_id) VALUES (304243);
-INSERT INTO item_paid_only (item_id) VALUES (304245);
-INSERT INTO item_paid_only (item_id) VALUES (304247);
-INSERT INTO item_paid_only (item_id) VALUES (304249);
-INSERT INTO item_paid_only (item_id) VALUES (304251);
-INSERT INTO item_paid_only (item_id) VALUES (304444); -- Serpentine Sneaking Helmet
-INSERT INTO item_paid_only (item_id) VALUES (304445); -- Serpentine Sneaking Helmet
-INSERT INTO item_paid_only (item_id) VALUES (304446); -- Serpentine Sneaking Legwear
-INSERT INTO item_paid_only (item_id) VALUES (304447); -- Serpentine Sneaking Legwear
-INSERT INTO item_paid_only (item_id) VALUES (304448); -- Serpentine Sneaking Shoulderplate
-INSERT INTO item_paid_only (item_id) VALUES (304449); -- Serpentine Sneaking Shoulderplate
-INSERT INTO item_paid_only (item_id) VALUES (304450); -- Serpentine Sneaking Suit
-INSERT INTO item_paid_only (item_id) VALUES (304451); -- Serpentine Sneaking Suit
-INSERT INTO item_paid_only (item_id) VALUES (304452); -- Serpentine Sneaking Sleeves
-INSERT INTO item_paid_only (item_id) VALUES (304453); -- Serpentine Sneaking Sleeves
-INSERT INTO item_paid_only (item_id) VALUES (304454); -- Serpentine Sneaking Gloves
-INSERT INTO item_paid_only (item_id) VALUES (304455); -- Serpentine Sneaking Gloves
-INSERT INTO item_paid_only (item_id) VALUES (304456); -- Serpentine Sneaking Boots
-INSERT INTO item_paid_only (item_id) VALUES (304457); -- Serpentine Sneaking Boots
-INSERT INTO item_paid_only (item_id) VALUES (304458);
-INSERT INTO item_paid_only (item_id) VALUES (304459);
-INSERT INTO item_paid_only (item_id) VALUES (304460);
-INSERT INTO item_paid_only (item_id) VALUES (304461);
-INSERT INTO item_paid_only (item_id) VALUES (304462);
-INSERT INTO item_paid_only (item_id) VALUES (304463);
-INSERT INTO item_paid_only (item_id) VALUES (304464);
-INSERT INTO item_paid_only (item_id) VALUES (304465);
-INSERT INTO item_paid_only (item_id) VALUES (304466);
-INSERT INTO item_paid_only (item_id) VALUES (304467);
-INSERT INTO item_paid_only (item_id) VALUES (304468);
-INSERT INTO item_paid_only (item_id) VALUES (304469);
-INSERT INTO item_paid_only (item_id) VALUES (304470);
-INSERT INTO item_paid_only (item_id) VALUES (304471);
-INSERT INTO item_paid_only (item_id) VALUES (304472);
-INSERT INTO item_paid_only (item_id) VALUES (304473);
-INSERT INTO item_paid_only (item_id) VALUES (304474);
-INSERT INTO item_paid_only (item_id) VALUES (304475);
-INSERT INTO item_paid_only (item_id) VALUES (304476);
-INSERT INTO item_paid_only (item_id) VALUES (304477);
-INSERT INTO item_paid_only (item_id) VALUES (304478);
-INSERT INTO item_paid_only (item_id) VALUES (304479);
-INSERT INTO item_paid_only (item_id) VALUES (304480);
-INSERT INTO item_paid_only (item_id) VALUES (304481);
-INSERT INTO item_paid_only (item_id) VALUES (304482);
-INSERT INTO item_paid_only (item_id) VALUES (304483);
-INSERT INTO item_paid_only (item_id) VALUES (304484);
-INSERT INTO item_paid_only (item_id) VALUES (304485);
-INSERT INTO item_paid_only (item_id) VALUES (304486);
-INSERT INTO item_paid_only (item_id) VALUES (304487);
-INSERT INTO item_paid_only (item_id) VALUES (304488);
-INSERT INTO item_paid_only (item_id) VALUES (304489);
-INSERT INTO item_paid_only (item_id) VALUES (304505);
-INSERT INTO item_paid_only (item_id) VALUES (304506);
-INSERT INTO item_paid_only (item_id) VALUES (304507);
-INSERT INTO item_paid_only (item_id) VALUES (304508);
-INSERT INTO item_paid_only (item_id) VALUES (304509);
-INSERT INTO item_paid_only (item_id) VALUES (304510);
-INSERT INTO item_paid_only (item_id) VALUES (304511);
-INSERT INTO item_paid_only (item_id) VALUES (304512);
-INSERT INTO item_paid_only (item_id) VALUES (304513);
-INSERT INTO item_paid_only (item_id) VALUES (304514);
-INSERT INTO item_paid_only (item_id) VALUES (304515);
-INSERT INTO item_paid_only (item_id) VALUES (304516);
-INSERT INTO item_paid_only (item_id) VALUES (304517);
-INSERT INTO item_paid_only (item_id) VALUES (304518);
-INSERT INTO item_paid_only (item_id) VALUES (304519);
-INSERT INTO item_paid_only (item_id) VALUES (304520);
-INSERT INTO item_paid_only (item_id) VALUES (304521);
-INSERT INTO item_paid_only (item_id) VALUES (304522);
-INSERT INTO item_paid_only (item_id) VALUES (304523);
-INSERT INTO item_paid_only (item_id) VALUES (304524);
-INSERT INTO item_paid_only (item_id) VALUES (304525);
-INSERT INTO item_paid_only (item_id) VALUES (304526);
-INSERT INTO item_paid_only (item_id) VALUES (304527);
-INSERT INTO item_paid_only (item_id) VALUES (304528);
-INSERT INTO item_paid_only (item_id) VALUES (304529);
-INSERT INTO item_paid_only (item_id) VALUES (304530);
-INSERT INTO item_paid_only (item_id) VALUES (304531);
-INSERT INTO item_paid_only (item_id) VALUES (304532);
-INSERT INTO item_paid_only (item_id) VALUES (304533);
-INSERT INTO item_paid_only (item_id) VALUES (304534);
-INSERT INTO item_paid_only (item_id) VALUES (304536);
-INSERT INTO item_paid_only (item_id) VALUES (304538);
-INSERT INTO item_paid_only (item_id) VALUES (304540);
-INSERT INTO item_paid_only (item_id) VALUES (304542);
-INSERT INTO item_paid_only (item_id) VALUES (304544);
-INSERT INTO item_paid_only (item_id) VALUES (304546);
-INSERT INTO item_paid_only (item_id) VALUES (304548);
-INSERT INTO item_paid_only (item_id) VALUES (304550);
-INSERT INTO item_paid_only (item_id) VALUES (304552);
-INSERT INTO item_paid_only (item_id) VALUES (304554);
-INSERT INTO item_paid_only (item_id) VALUES (304556);
-INSERT INTO item_paid_only (item_id) VALUES (304558);
-INSERT INTO item_paid_only (item_id) VALUES (304586);
-INSERT INTO item_paid_only (item_id) VALUES (304619);
-INSERT INTO item_paid_only (item_id) VALUES (304660);
-INSERT INTO item_paid_only (item_id) VALUES (304661);
-INSERT INTO item_paid_only (item_id) VALUES (304662);
-INSERT INTO item_paid_only (item_id) VALUES (304663);
-INSERT INTO item_paid_only (item_id) VALUES (304664);
-INSERT INTO item_paid_only (item_id) VALUES (304665);
-INSERT INTO item_paid_only (item_id) VALUES (304666);
-INSERT INTO item_paid_only (item_id) VALUES (304667);
-INSERT INTO item_paid_only (item_id) VALUES (304668);
-INSERT INTO item_paid_only (item_id) VALUES (304669);
-INSERT INTO item_paid_only (item_id) VALUES (304670);
-INSERT INTO item_paid_only (item_id) VALUES (304671);
-INSERT INTO item_paid_only (item_id) VALUES (304672);
-INSERT INTO item_paid_only (item_id) VALUES (304673);
-INSERT INTO item_paid_only (item_id) VALUES (305071);
-INSERT INTO item_paid_only (item_id) VALUES (305072);
-INSERT INTO item_paid_only (item_id) VALUES (305073);
-INSERT INTO item_paid_only (item_id) VALUES (305074);
-INSERT INTO item_paid_only (item_id) VALUES (305075);
-INSERT INTO item_paid_only (item_id) VALUES (305076);
-INSERT INTO item_paid_only (item_id) VALUES (305077);
-INSERT INTO item_paid_only (item_id) VALUES (305078);
-INSERT INTO item_paid_only (item_id) VALUES (305079);
-INSERT INTO item_paid_only (item_id) VALUES (305080);
-INSERT INTO item_paid_only (item_id) VALUES (305081);
-INSERT INTO item_paid_only (item_id) VALUES (305082);
-INSERT INTO item_paid_only (item_id) VALUES (305083);
-INSERT INTO item_paid_only (item_id) VALUES (305084);
-INSERT INTO item_paid_only (item_id) VALUES (305085);
-INSERT INTO item_paid_only (item_id) VALUES (305086);
-INSERT INTO item_paid_only (item_id) VALUES (305087);
-INSERT INTO item_paid_only (item_id) VALUES (305088);
-INSERT INTO item_paid_only (item_id) VALUES (305089);
-INSERT INTO item_paid_only (item_id) VALUES (305090);
-INSERT INTO item_paid_only (item_id) VALUES (305091);
-INSERT INTO item_paid_only (item_id) VALUES (305092);
-INSERT INTO item_paid_only (item_id) VALUES (305093);
-INSERT INTO item_paid_only (item_id) VALUES (305094);
-INSERT INTO item_paid_only (item_id) VALUES (305095);
-INSERT INTO item_paid_only (item_id) VALUES (305096);
-INSERT INTO item_paid_only (item_id) VALUES (305097);
-INSERT INTO item_paid_only (item_id) VALUES (305098);
-INSERT INTO item_paid_only (item_id) VALUES (305099);
-INSERT INTO item_paid_only (item_id) VALUES (305100);
-INSERT INTO item_paid_only (item_id) VALUES (305101);
-INSERT INTO item_paid_only (item_id) VALUES (305102);
-INSERT INTO item_paid_only (item_id) VALUES (305103);
-INSERT INTO item_paid_only (item_id) VALUES (305104);
-INSERT INTO item_paid_only (item_id) VALUES (305506);
+INSERT INTO item_paid_only (item_id) VALUES
+(42449),
+(42451),
+(100000), -- The Senior Advisor Suit
+(100001), -- The Advisor Suit
+(100002), -- GM Suit
+(100003), -- GM Trenchcoat
+(100008), -- The Assistant Advisor Suit
+(150857),
+(150858),
+(150859),
+(150860),
+(150861),
+(150862),
+(150863),
+(150864),
+(150865),
+(150866),
+(150867),
+(150868),
+(150869),
+(150870),
+(150871),
+(151405), -- The Developers Attire
+(151702),
+(151703),
+(151704),
+(151705),
+(151706),
+(151707),
+(151737),
+(151738),
+(151884), -- Bughunters Protective Suit
+(151885), -- The Veteran Advisor Suit
+(152274),
+(152275),
+(152410),
+(152822), -- The Veteran Guardian
+(152825), -- Assistant Advisor Galla Uniform
+(152826), -- Advisor Galla Uniform
+(152827), -- Guardian Galla Uniform
+(152847), -- GM Galla Uniform
+(152883), -- Internal Affairs Protective Suit
+(152884), -- Community Representative Suit
+(156592),
+(158417),
+(160569),
+(161497),
+(161498),
+(161499),
+(161500),
+(161501),
+(161502),
+(161505),
+(161506),
+(161507),
+(161516),
+(161517),
+(161518),
+(161519),
+(161520),
+(161521),
+(161522),
+(161523),
+(161532),
+(161533),
+(161534),
+(161535),
+(161536),
+(161537),
+(161538),
+(161539),
+(161548),
+(161549),
+(161550),
+(161551),
+(161552),
+(161553),
+(161554),
+(161555),
+(161564),
+(161565),
+(161566),
+(161567),
+(161568),
+(161569),
+(161570),
+(161571),
+(161588),
+(161589),
+(161590),
+(161591),
+(161592),
+(161593),
+(161594),
+(161595),
+(161596),
+(162009),
+(162010),
+(162011),
+(162012),
+(162013),
+(162014),
+(162015),
+(162016),
+(162017),
+(162018),
+(162019),
+(162020),
+(162021),
+(162022),
+(162023),
+(162024),
+(162025),
+(162026),
+(162027),
+(162028),
+(162029),
+(163507),
+(163718),
+(163719),
+(165395),
+(165396),
+(165397),
+(165398),
+(165399),
+(165400),
+(165401),
+(165402),
+(165403),
+(165404),
+(165405),
+(165406),
+(165407),
+(165408),
+(165409),
+(165410),
+(165411),
+(165412),
+(165413),
+(165414),
+(165415),
+(165416),
+(165417),
+(165418),
+(165419),
+(165420),
+(165421),
+(165422),
+(165423),
+(165424),
+(168438),
+(168439),
+(168440),
+(168441),
+(168442),
+(168443),
+(168444),
+(168445),
+(168446),
+(168447),
+(168448),
+(168449),
+(168450),
+(168451),
+(168452),
+(168453),
+(168454),
+(168455),
+(168456),
+(168457),
+(168458),
+(168459),
+(168460),
+(168461),
+(168462),
+(168463),
+(168464),
+(168465),
+(168466),
+(168467),
+(168479),
+(168480),
+(168481),
+(168482),
+(168483),
+(168484),
+(168485),
+(168486),
+(168487),
+(168488),
+(168489),
+(168490),
+(168491),
+(168492),
+(168493),
+(168494),
+(168495),
+(168496),
+(168497),
+(168498),
+(168499),
+(168500),
+(168501),
+(168502),
+(168503),
+(168504),
+(168505),
+(168506),
+(168507),
+(168508),
+(168519),
+(168520),
+(168521),
+(168522),
+(168523),
+(168524),
+(168525),
+(168526),
+(168527),
+(168528),
+(168529),
+(168530),
+(168531),
+(168532),
+(168533),
+(168534),
+(168535),
+(168536),
+(168537),
+(168538),
+(168539),
+(168540),
+(168541),
+(168542),
+(168543),
+(168544),
+(168545),
+(168546),
+(168547),
+(168548),
+(168559),
+(168561),
+(168562),
+(168563),
+(168564),
+(168565),
+(168566),
+(168567),
+(168568),
+(168569),
+(168570),
+(168571),
+(168572),
+(168573),
+(168574),
+(168575),
+(168576),
+(168577),
+(168578),
+(168579),
+(168580),
+(168581),
+(168582),
+(168583),
+(168584),
+(168585),
+(168586),
+(168587),
+(168588),
+(168626),
+(168627),
+(168628),
+(168629),
+(168630),
+(168631),
+(168632),
+(168633),
+(168634),
+(168635),
+(168636),
+(168637),
+(168638),
+(168639),
+(168640),
+(168641),
+(168642),
+(168643),
+(168644),
+(168645),
+(168646),
+(168647),
+(168648),
+(168649),
+(168650),
+(168651),
+(168652),
+(168653),
+(168654),
+(168655),
+(168723),
+(168724),
+(168725),
+(168726),
+(168727),
+(168728),
+(168729),
+(168730),
+(168731),
+(168732),
+(168733),
+(168734),
+(168735),
+(168736),
+(168737),
+(168738),
+(168739),
+(168740),
+(168741),
+(168742),
+(168743),
+(168744),
+(168745),
+(168746),
+(168747),
+(168748),
+(168749),
+(168750),
+(168751),
+(168752),
+(168763),
+(168764),
+(168765),
+(168766),
+(168767),
+(168768),
+(168769),
+(168770),
+(168771),
+(168772),
+(168773),
+(168774),
+(168775),
+(168776),
+(168777),
+(168778),
+(168779),
+(168780),
+(168781),
+(168782),
+(168783),
+(168784),
+(168785),
+(168786),
+(168787),
+(168788),
+(168789),
+(168790),
+(168791),
+(168792),
+(168803),
+(168804),
+(168805),
+(168806),
+(168807),
+(168808),
+(168809),
+(168810),
+(168811),
+(168812),
+(168813),
+(168814),
+(168815),
+(168816),
+(168817),
+(168818),
+(168819),
+(168820),
+(168821),
+(168822),
+(168823),
+(168824),
+(168825),
+(168826),
+(168827),
+(168828),
+(168829),
+(168830),
+(168831),
+(168832),
+(168849),
+(168850),
+(168851),
+(168852),
+(168853),
+(168854),
+(168855),
+(168856),
+(168857),
+(168858),
+(168859),
+(168860),
+(168861),
+(168862),
+(168863),
+(168864),
+(168865),
+(168866),
+(168867),
+(168868),
+(168869),
+(168870),
+(168871),
+(168872),
+(168873),
+(168874),
+(168875),
+(168876),
+(168877),
+(168878),
+(202297),
+(202298),
+(202299),
+(202300),
+(202301),
+(202302),
+(202363),
+(202364),
+(202365),
+(202366),
+(202367),
+(202368),
+(202369),
+(202370),
+(202371),
+(202372),
+(202373),
+(202390),
+(202391),
+(202392),
+(202393),
+(202412),
+(202413),
+(202414),
+(202415),
+(202416),
+(202432),
+(202433),
+(202434),
+(202435),
+(202436),
+(202437),
+(205178), -- The CR Suit
+(206978),
+(210297),
+(210298),
+(210299),
+(210300),
+(210301),
+(210302),
+(210303),
+(210304),
+(210305),
+(210306),
+(210307),
+(210308),
+(210309),
+(210310),
+(210311),
+(210312),
+(210313),
+(210314),
+(210315),
+(210316),
+(210317),
+(210318),
+(210319),
+(210320),
+(210353),
+(210354),
+(210355),
+(210356),
+(210357),
+(210358),
+(210359),
+(210360),
+(210361),
+(210362),
+(210363),
+(210364),
+(210365),
+(210366),
+(210367),
+(210368),
+(210369),
+(210370),
+(210371),
+(210372),
+(210376),
+(210377),
+(210378),
+(210379),
+(210380),
+(210381),
+(210387),
+(210388),
+(210389),
+(210390),
+(210391),
+(210392),
+(210393),
+(210394),
+(210395),
+(210396),
+(210401),
+(210402),
+(210407),
+(210408),
+(210484),
+(210485),
+(210486),
+(210487),
+(210488),
+(210489),
+(210490),
+(210491),
+(210492),
+(210493),
+(210494),
+(210495),
+(210500),
+(210501),
+(210502),
+(210503),
+(210504),
+(210505),
+(210506),
+(210507),
+(210512),
+(210513),
+(210514),
+(210515),
+(210516),
+(210517),
+(210518),
+(210519),
+(210528),
+(210529),
+(210530),
+(210531),
+(210532),
+(210533),
+(210534),
+(210535),
+(210536),
+(210537),
+(210538),
+(210539),
+(210540),
+(210541),
+(210542),
+(210543),
+(210589),
+(210590),
+(210591),
+(210592),
+(210593),
+(210594),
+(210595),
+(210596),
+(210597),
+(210598),
+(210599),
+(210600),
+(210601),
+(210602),
+(210603),
+(210604),
+(210611),
+(210612),
+(210613),
+(210614),
+(210615),
+(210616),
+(210617),
+(210618),
+(210619),
+(210620),
+(210621),
+(210622),
+(210671),
+(210672),
+(210673),
+(210674),
+(210675),
+(210676),
+(210677),
+(210678),
+(210679),
+(210680),
+(210681),
+(210682),
+(210689),
+(210690),
+(210691),
+(210692),
+(210693),
+(210694),
+(210695),
+(210696),
+(210697),
+(210698),
+(210699),
+(210700),
+(210707),
+(210708),
+(210709),
+(210710),
+(210711),
+(210712),
+(210713),
+(210714),
+(210715),
+(210716),
+(210717),
+(210718),
+(210729),
+(210730),
+(210732),
+(210733),
+(210734),
+(210735),
+(210736),
+(210737),
+(210738),
+(210739),
+(210740),
+(210741),
+(210742),
+(210743),
+(210744),
+(210745),
+(210746),
+(210747),
+(210748),
+(210749),
+(210750),
+(210751),
+(210752),
+(210753),
+(210804),
+(210805),
+(210806),
+(210807),
+(210808),
+(210809),
+(210810),
+(210811),
+(210812),
+(210813),
+(211142),
+(211143),
+(211144),
+(211145),
+(211146),
+(211147),
+(211148),
+(211149),
+(211150),
+(211151),
+(211152),
+(211153),
+(211154),
+(211155),
+(211158),
+(211159),
+(211160),
+(211161),
+(211162),
+(211163),
+(211164),
+(211165),
+(211166),
+(211167),
+(211168),
+(211169),
+(211170),
+(211171),
+(211191),
+(211192),
+(211193),
+(211194),
+(211195),
+(211196),
+(211197),
+(211198),
+(211199),
+(211200),
+(211201),
+(211202),
+(211203),
+(211204),
+(211205),
+(211206),
+(211207),
+(211208),
+(211209),
+(211210),
+(211211),
+(211212),
+(211213),
+(211214),
+(211215),
+(211216),
+(211217),
+(211218),
+(211219),
+(211220),
+(211221),
+(211222),
+(211223),
+(211224),
+(211225),
+(211226),
+(211227),
+(211228),
+(211229),
+(211230),
+(211231),
+(211232),
+(211233),
+(211234),
+(211235),
+(211236),
+(211237),
+(211238),
+(211239),
+(211240),
+(211241),
+(211242),
+(211243),
+(211244),
+(211245),
+(211246),
+(211247),
+(211248),
+(211249),
+(211250),
+(211251),
+(211252),
+(211253),
+(211254),
+(211255),
+(211256),
+(211257),
+(211258),
+(211259),
+(211260),
+(211261),
+(211262),
+(211263),
+(211264),
+(211265),
+(211266),
+(211267),
+(211268),
+(211269),
+(211270),
+(211271),
+(211272),
+(211273),
+(211274),
+(211275),
+(211276),
+(211277),
+(211280),
+(211281),
+(211282),
+(212203),
+(212204),
+(212205),
+(212206),
+(212207),
+(212208),
+(212209),
+(212210),
+(212211),
+(212212),
+(212213),
+(212214),
+(212215),
+(212216),
+(212217),
+(212218),
+(212219),
+(212220),
+(212221),
+(212222),
+(212223),
+(212224),
+(212225),
+(212226),
+(212227),
+(212228),
+(212229),
+(212230),
+(212231),
+(212232),
+(212233),
+(212234),
+(212235),
+(212236),
+(212237),
+(212238),
+(212239),
+(212240),
+(212241),
+(212242),
+(212243),
+(212244),
+(212245),
+(212246),
+(212247),
+(212248),
+(212249),
+(212250),
+(212251),
+(212252),
+(212253),
+(212254),
+(212255),
+(212256),
+(212257),
+(212258),
+(212259),
+(212260),
+(212261),
+(212262),
+(212263),
+(212264),
+(212265),
+(212266),
+(212267),
+(212268),
+(212269),
+(212270),
+(212271),
+(212272),
+(212273),
+(212274),
+(212275),
+(212276),
+(212277),
+(212278),
+(212279),
+(212280),
+(212281),
+(212282),
+(212283),
+(212284),
+(212285),
+(212286),
+(212287),
+(212288),
+(212289),
+(212290),
+(212291),
+(212292),
+(212293),
+(212294),
+(212295),
+(212296),
+(212297),
+(212298),
+(212299),
+(212300),
+(212301),
+(212302),
+(212303),
+(212304),
+(212305),
+(212306),
+(212307),
+(212308),
+(212309),
+(212310),
+(212311),
+(212312),
+(212313),
+(212314),
+(212315),
+(212316),
+(212317),
+(212318),
+(212319),
+(212320),
+(212321),
+(212322),
+(212323),
+(212324),
+(212325),
+(212326),
+(212327),
+(212328),
+(212329),
+(212330),
+(212331),
+(212332),
+(212333),
+(212335),
+(212336),
+(212337),
+(212338),
+(212339),
+(212340),
+(212341),
+(212342),
+(212343),
+(212344),
+(212345),
+(212346),
+(212347),
+(212348),
+(212349),
+(212350),
+(212351),
+(212352),
+(212353),
+(212354),
+(212355),
+(212356),
+(212357),
+(212358),
+(212359),
+(212360),
+(212361),
+(212362),
+(212363),
+(212364),
+(212365),
+(212366),
+(212367),
+(212368),
+(212369),
+(212370),
+(212371),
+(212372),
+(212373),
+(212374),
+(212375),
+(212376),
+(212377),
+(212378),
+(212379),
+(212380),
+(212381),
+(212382),
+(212383),
+(212384),
+(212385),
+(212386),
+(212387),
+(212388),
+(212389),
+(212390),
+(212391),
+(212392),
+(212394),
+(212395),
+(212396),
+(212397),
+(212398),
+(212399),
+(212400),
+(212401),
+(212402),
+(212403),
+(212404),
+(212405),
+(212406),
+(212407),
+(212408),
+(212409),
+(212410),
+(212411),
+(212412),
+(212413),
+(212414),
+(212415),
+(212416),
+(212417),
+(212418),
+(212419),
+(212420),
+(212421),
+(212422),
+(212423),
+(212424),
+(212425),
+(212426),
+(212427),
+(212428),
+(212429),
+(212430),
+(212431),
+(212432),
+(212433),
+(212434),
+(212435),
+(212436),
+(212437),
+(212438),
+(212439),
+(212440),
+(212441),
+(212442),
+(212443),
+(212444),
+(212445),
+(212446),
+(212447),
+(212448),
+(212449),
+(212450),
+(212451),
+(212452),
+(212453),
+(212454),
+(212455),
+(212456),
+(212457),
+(212458),
+(212459),
+(212460),
+(212461),
+(212462),
+(212463),
+(212464),
+(212465),
+(212466),
+(212467),
+(212468),
+(212469),
+(212470),
+(212471),
+(212472),
+(212473),
+(212474),
+(212475),
+(212476),
+(212477),
+(212478),
+(212479),
+(212480),
+(212481),
+(212482),
+(212483),
+(212484),
+(212485),
+(212486),
+(212487),
+(212488),
+(212489),
+(212490),
+(212491),
+(212492),
+(212493),
+(212494),
+(212495),
+(212496),
+(212497),
+(212498),
+(212499),
+(212500),
+(212501),
+(212502),
+(212503),
+(212504),
+(212505),
+(212506),
+(212507),
+(212508),
+(212509),
+(212510),
+(212511),
+(212512),
+(212513),
+(212514),
+(212515),
+(212516),
+(212517),
+(212518),
+(212519),
+(212520),
+(212521),
+(212522),
+(212523),
+(212524),
+(212525),
+(212526),
+(212527),
+(212528),
+(212529),
+(212530),
+(212531),
+(212532),
+(212533),
+(212534),
+(212535),
+(212536),
+(212537),
+(212538),
+(212539),
+(212540),
+(212541),
+(212542),
+(212543),
+(212544),
+(212545),
+(212546),
+(212547),
+(212548),
+(212549),
+(212550),
+(212551),
+(212552),
+(212553),
+(212554),
+(212555),
+(212556),
+(212557),
+(212558),
+(212559),
+(212560),
+(212561),
+(212562),
+(212563),
+(212564),
+(212565),
+(212566),
+(212567),
+(212568),
+(212569),
+(212570),
+(212571),
+(212572),
+(212573),
+(212575),
+(212576),
+(212577),
+(212578),
+(212579),
+(212580),
+(212581),
+(212582),
+(212583),
+(212584),
+(212585),
+(212586),
+(212587),
+(212588),
+(212589),
+(212590),
+(212591),
+(212592),
+(212593),
+(212594),
+(212595),
+(212596),
+(212597),
+(212598),
+(212599),
+(212600),
+(212601),
+(212602),
+(212603),
+(212604),
+(212605),
+(212606),
+(212607),
+(212608),
+(212609),
+(212610),
+(212611),
+(212612),
+(212613),
+(212614),
+(212615),
+(212616),
+(212617),
+(212618),
+(212619),
+(212620),
+(212621),
+(212622),
+(212623),
+(212624),
+(212625),
+(212626),
+(212627),
+(212628),
+(212629),
+(212630),
+(212631),
+(212632),
+(212633),
+(212634),
+(212635),
+(212636),
+(212637),
+(212638),
+(212639),
+(212640),
+(212641),
+(212642),
+(212643),
+(212644),
+(212645),
+(212646),
+(212647),
+(212648),
+(212649),
+(212650),
+(212651),
+(212652),
+(212653),
+(212654),
+(212655),
+(212656),
+(212657),
+(212658),
+(212659),
+(212660),
+(212661),
+(212662),
+(212663),
+(212664),
+(212665),
+(212666),
+(212667),
+(212668),
+(212669),
+(212670),
+(212671),
+(212672),
+(212673),
+(212674),
+(212675),
+(212676),
+(212677),
+(212678),
+(212679),
+(212680),
+(212681),
+(212682),
+(212683),
+(212684),
+(212685),
+(212686),
+(212687),
+(212688),
+(212689),
+(212690),
+(212691),
+(212692),
+(212693),
+(212694),
+(212695),
+(212696),
+(212697),
+(212698),
+(212699),
+(212700),
+(212701),
+(212702),
+(212703),
+(212704),
+(212705),
+(212706),
+(212707),
+(212708),
+(212709),
+(212710),
+(212711),
+(212712),
+(212713),
+(212714),
+(212715),
+(212716),
+(212717),
+(212718),
+(212719),
+(212720),
+(212721),
+(212722),
+(212723),
+(212724),
+(212725),
+(212726),
+(212727),
+(212728),
+(212729),
+(212730),
+(212731),
+(212732),
+(212733),
+(212734),
+(212735),
+(212736),
+(212737),
+(212738),
+(212739),
+(212740),
+(212741),
+(212742),
+(212743),
+(212745),
+(212746),
+(212747),
+(212748),
+(212749),
+(212750),
+(212751),
+(212752),
+(212753),
+(212754),
+(212755),
+(212756),
+(212757),
+(212758),
+(212759),
+(212760),
+(212761),
+(212762),
+(212763),
+(212764),
+(212765),
+(212766),
+(212767),
+(212768),
+(212769),
+(212770),
+(212771),
+(212772),
+(212773),
+(212774),
+(212775),
+(212776),
+(212777),
+(212778),
+(212779),
+(212780),
+(212781),
+(212782),
+(212783),
+(212784),
+(212785),
+(212786),
+(212787),
+(212788),
+(212789),
+(212790),
+(212791),
+(212792),
+(212793),
+(212794),
+(212795),
+(212796),
+(212797),
+(212798),
+(212799),
+(212800),
+(212801),
+(212802),
+(212803),
+(212804),
+(212805),
+(212808),
+(212809),
+(212810),
+(212811),
+(212812),
+(212813),
+(212814),
+(212815),
+(212816),
+(212817),
+(212818),
+(212819),
+(212820),
+(212821),
+(212822),
+(212823),
+(212824),
+(212825),
+(212826),
+(212827),
+(212828),
+(212829),
+(212832),
+(212833),
+(212834),
+(212835),
+(212836),
+(212837),
+(212838),
+(212839),
+(212840),
+(212841),
+(212843),
+(212844),
+(212845),
+(212847),
+(212848),
+(212849),
+(212850),
+(212851),
+(212852),
+(212853),
+(212854),
+(212855),
+(212856),
+(212857),
+(212858),
+(212859),
+(212860),
+(212861),
+(212862),
+(212863),
+(212864),
+(212865),
+(212866),
+(212867),
+(212868),
+(212869),
+(212870),
+(212871),
+(212872),
+(212873),
+(212874),
+(212875),
+(212876),
+(212877),
+(212878),
+(212879),
+(212880),
+(212881),
+(212882),
+(212883),
+(212884),
+(212885),
+(212886),
+(212887),
+(212888),
+(212889),
+(212890),
+(212891),
+(213441),
+(213442),
+(213443),
+(213444),
+(213445),
+(213446),
+(213447),
+(213448),
+(213449),
+(213450),
+(214120),
+(214156),
+(214157),
+(214158),
+(214159),
+(214160),
+(214161),
+(214162),
+(214163),
+(214164),
+(214165),
+(214343),
+(214344),
+(214345),
+(214346),
+(214347),
+(214348),
+(214349),
+(214350),
+(214351),
+(214722),
+(214723),
+(214724),
+(214725),
+(214726),
+(214727),
+(214728),
+(214729),
+(214755),
+(214756),
+(214757),
+(214758),
+(214759),
+(214760),
+(214761),
+(214762),
+(214763),
+(214764),
+(214765),
+(214766),
+(214767),
+(214768),
+(214794),
+(214795),
+(214796),
+(214797),
+(214798),
+(214799),
+(214800),
+(214801),
+(214802),
+(214803),
+(214804),
+(214805),
+(214806),
+(214807),
+(214808),
+(214809),
+(214810),
+(214811),
+(214812),
+(214813),
+(214814),
+(214815),
+(214816),
+(214817),
+(214818),
+(214819),
+(214820),
+(214821),
+(214822),
+(214823),
+(214824),
+(214825),
+(214826),
+(214827),
+(214828),
+(214829),
+(214830),
+(214831),
+(214832),
+(214833),
+(214834),
+(214835),
+(214836),
+(214837),
+(214838),
+(214839),
+(214841),
+(214842),
+(214843),
+(214844),
+(214845),
+(214846),
+(214847),
+(214848),
+(214849),
+(214850),
+(214851),
+(214852),
+(214853),
+(214854),
+(214857),
+(214858),
+(214888),
+(214889),
+(215056),
+(215057),
+(215058),
+(215059),
+(215116),
+(215117),
+(215118),
+(215119),
+(215222),
+(215223),
+(215224),
+(215225),
+(215226),
+(215227),
+(215228),
+(215229),
+(215230),
+(215231),
+(215232),
+(215233),
+(215234),
+(215235),
+(215236),
+(215237),
+(215238),
+(215239),
+(215240),
+(215241),
+(215242),
+(215243),
+(215244),
+(215245),
+(215246),
+(215247),
+(215248),
+(215249),
+(215250),
+(215251),
+(215252),
+(215253),
+(215254),
+(215255),
+(215256),
+(215257),
+(215374),
+(215376),
+(215392),
+(215393),
+(215394),
+(215395),
+(215396),
+(215397),
+(215398),
+(215399),
+(215400),
+(215401),
+(215402),
+(215403),
+(215404),
+(215405),
+(215406),
+(215407),
+(215408),
+(215409),
+(215410),
+(215411),
+(215412),
+(215413),
+(215415),
+(215416),
+(215425),
+(215440),
+(215441),
+(215442),
+(215443),
+(215445),
+(215460),
+(215461),
+(215462),
+(215463),
+(215464),
+(215465),
+(215466),
+(215467),
+(215468),
+(215469),
+(215470),
+(215471),
+(215472),
+(215473),
+(215474),
+(215475),
+(215476),
+(215477),
+(215531),
+(215533),
+(215535),
+(215536),
+(215537),
+(215538),
+(215539),
+(215540),
+(215541),
+(215542),
+(215543),
+(215544),
+(215546),
+(215547),
+(215548),
+(215549),
+(215550),
+(215551),
+(215552),
+(215553),
+(215554),
+(215555),
+(215556),
+(215557),
+(215600),
+(215601),
+(215602),
+(215603),
+(215604),
+(215605),
+(215606),
+(215607),
+(215608),
+(215609),
+(215610),
+(215611),
+(215613),
+(215614),
+(215615),
+(215616),
+(215617),
+(215618),
+(215619),
+(215620),
+(215621),
+(215622),
+(215623),
+(215624),
+(215717),
+(215718),
+(215719),
+(215720),
+(215721),
+(215722),
+(216580),
+(216581),
+(216582),
+(216583),
+(216584),
+(216585),
+(216586),
+(216659),
+(216660),
+(216661),
+(216662),
+(216663),
+(216664),
+(216665),
+(216666),
+(216667),
+(216668),
+(216669),
+(216670),
+(216671),
+(216672),
+(216673),
+(216674),
+(216675),
+(216676),
+(216677),
+(216678),
+(216679),
+(216680),
+(216681),
+(216682),
+(216683),
+(216684),
+(216685),
+(216686),
+(216687),
+(216688),
+(216689),
+(216690),
+(216698),
+(216699),
+(216916),
+(216917),
+(216918),
+(216919),
+(216920),
+(216921),
+(216922),
+(216923),
+(216924),
+(216925),
+(216926),
+(216927),
+(216928),
+(216929),
+(216930),
+(216931),
+(216992),
+(216993),
+(216994),
+(216995),
+(216996),
+(216997),
+(216998),
+(216999),
+(217000),
+(217001),
+(217002),
+(217003),
+(217004),
+(217005),
+(217029),
+(217030),
+(217031),
+(217032),
+(217033),
+(217034),
+(217035),
+(217036),
+(217037),
+(217038),
+(217039),
+(217040),
+(217635),
+(217636),
+(217637),
+(217638),
+(217639),
+(217640),
+(217641),
+(217642),
+(217643),
+(217644),
+(217645),
+(217646),
+(217647),
+(217648),
+(217649),
+(217650),
+(217653),
+(217654),
+(217655),
+(217656),
+(217657),
+(217658),
+(217659),
+(217660),
+(217661),
+(217662),
+(217663),
+(217664),
+(217665),
+(217666),
+(217670),
+(217671),
+(217672),
+(217674),
+(217676),
+(217678),
+(217680),
+(217681),
+(217682),
+(217683),
+(217684),
+(217685),
+(217686),
+(217687),
+(217688),
+(217689),
+(217690),
+(217691),
+(217698),
+(217699),
+(217700),
+(217701),
+(217702),
+(217703),
+(217704),
+(217705),
+(217706),
+(217707),
+(217710),
+(217711),
+(217712),
+(217713),
+(217714),
+(217715),
+(217716),
+(217717),
+(217718),
+(217719),
+(217720),
+(217721),
+(217722),
+(217723),
+(217724),
+(217725),
+(217989),
+(217990),
+(217991),
+(217992),
+(217993),
+(217994),
+(217995),
+(217996),
+(217997),
+(217998),
+(217999),
+(218000),
+(218001),
+(218002),
+(218003),
+(218004),
+(218005),
+(218006),
+(218007),
+(218008),
+(218009),
+(218010),
+(218011),
+(218012),
+(218013),
+(218014),
+(218015),
+(218016),
+(218017),
+(218036),
+(218037),
+(218038),
+(218039),
+(218040),
+(218041),
+(218042),
+(218043),
+(218044),
+(218045),
+(218046),
+(218047),
+(218048),
+(218049),
+(218050),
+(218051),
+(218052),
+(218053),
+(218054),
+(218055),
+(218056),
+(218057),
+(218058),
+(218059),
+(218060),
+(218061),
+(218062),
+(218063),
+(218064),
+(218065),
+(218066),
+(218067),
+(218068),
+(218069),
+(218070),
+(218071),
+(218072),
+(218073),
+(218074),
+(218075),
+(218076),
+(218077),
+(218078),
+(218079),
+(218080),
+(218081),
+(218082),
+(218083),
+(218084),
+(218085),
+(218086),
+(218087),
+(218088),
+(218089),
+(218090),
+(218091),
+(218092),
+(218093),
+(218094),
+(218095),
+(218096),
+(218097),
+(218098),
+(218099),
+(218100),
+(218101),
+(218102),
+(218103),
+(218104),
+(218105),
+(218106),
+(218107),
+(218108),
+(218109),
+(218110),
+(218111),
+(218112),
+(218113),
+(218114),
+(218115),
+(218116),
+(218117),
+(218118),
+(218119),
+(218120),
+(218121),
+(218122),
+(218123),
+(218124),
+(218125),
+(218126),
+(218127),
+(218128),
+(218129),
+(218130),
+(218131),
+(218132),
+(218133),
+(218134),
+(218135),
+(218136),
+(218137),
+(218138),
+(218139),
+(218140),
+(218141),
+(218142),
+(218143),
+(218144),
+(218145),
+(218146),
+(218147),
+(218148),
+(218149),
+(218150),
+(218151),
+(218152),
+(218153),
+(218154),
+(218155),
+(218156),
+(218157),
+(218158),
+(218159),
+(218160),
+(218161),
+(218162),
+(218163),
+(218164),
+(218165),
+(218166),
+(218167),
+(218168),
+(218169),
+(218172),
+(218173),
+(218174),
+(218175),
+(218176),
+(218177),
+(218178),
+(218179),
+(218180),
+(218181),
+(218182),
+(218183),
+(218184),
+(218185),
+(218186),
+(218187),
+(218206),
+(218207),
+(218208),
+(218209),
+(218210),
+(218211),
+(218212),
+(218213),
+(218214),
+(218215),
+(218216),
+(218217),
+(218218),
+(218219),
+(218220),
+(218221),
+(218236),
+(218237),
+(218238),
+(218239),
+(218240),
+(218241),
+(218242),
+(218243),
+(218244),
+(218245),
+(218246),
+(218247),
+(218248),
+(218249),
+(218250),
+(218251),
+(218252),
+(218253),
+(218254),
+(218255),
+(218256),
+(218257),
+(218258),
+(218259),
+(218260),
+(218261),
+(218262),
+(218263),
+(218264),
+(218265),
+(218266),
+(218267),
+(218268),
+(218269),
+(218270),
+(218271),
+(218272),
+(218273),
+(218274),
+(218275),
+(218279),
+(218280),
+(218281),
+(218282),
+(218283),
+(218284),
+(218285),
+(218286),
+(218287),
+(218288),
+(218289),
+(218290),
+(218291),
+(218292),
+(218293),
+(218294),
+(218427),
+(218428),
+(218429),
+(218430),
+(218431),
+(218432),
+(218433),
+(218434),
+(218435),
+(218436),
+(218437),
+(218438),
+(218439),
+(218440),
+(218453),
+(218454),
+(218455),
+(218456),
+(218457),
+(218458),
+(218459),
+(218460),
+(218461),
+(218462),
+(218489),
+(218490),
+(218514),
+(218515),
+(218516),
+(218517),
+(218518),
+(218519),
+(218520),
+(218521),
+(218522),
+(218523),
+(218525),
+(218526),
+(218529),
+(218530),
+(218535),
+(218536),
+(218537),
+(218538),
+(218539),
+(218540),
+(218541),
+(218542),
+(218543),
+(218544),
+(218545),
+(218546),
+(218547),
+(218548),
+(218549),
+(218550),
+(218551),
+(218552),
+(218553),
+(218554),
+(218555),
+(218556),
+(218557),
+(218558),
+(218559),
+(218560),
+(218562),
+(218563),
+(218564),
+(218565),
+(218566),
+(218567),
+(218568),
+(218569),
+(218570),
+(218571),
+(218572),
+(218573),
+(218574),
+(218575),
+(218576),
+(218577),
+(218578),
+(218579),
+(218580),
+(218581),
+(218582),
+(218583),
+(218584),
+(218585),
+(218586),
+(218587),
+(218588),
+(218589),
+(218590),
+(218591),
+(218592),
+(218606),
+(218607),
+(218608),
+(218609),
+(218610),
+(218611),
+(218612),
+(218613),
+(218624),
+(218625),
+(218626),
+(218627),
+(218633),
+(218634),
+(218635),
+(218636),
+(218689),
+(218690),
+(218691),
+(218692),
+(218693),
+(218694),
+(218696),
+(218697),
+(218698),
+(218699),
+(218717),
+(218718),
+(218726),
+(218727),
+(218820),
+(218821),
+(218858),
+(218859),
+(218860),
+(218861),
+(218862),
+(218863),
+(218864),
+(218865),
+(218866),
+(218867),
+(218868),
+(218869),
+(218870),
+(218871),
+(218881),
+(218882),
+(218883),
+(218884),
+(218885),
+(218886),
+(218899),
+(218900),
+(218901),
+(218902),
+(218903),
+(218904),
+(218905),
+(218906),
+(218907),
+(218908),
+(218909),
+(218910),
+(218911),
+(218912),
+(218913),
+(218914),
+(218915),
+(218916),
+(218917),
+(218918),
+(218919),
+(218920),
+(218921),
+(218922),
+(218923),
+(218924),
+(218925),
+(218926),
+(218929),
+(218930),
+(218931),
+(218932),
+(218933),
+(218934),
+(218945),
+(218946),
+(218947),
+(218948),
+(218949),
+(218950),
+(218959),
+(218960),
+(218963),
+(218964),
+(218965),
+(218966),
+(218967),
+(218968),
+(218969),
+(218970),
+(219020),
+(219021),
+(219023),
+(219024),
+(219025),
+(219026),
+(219029),
+(219030),
+(219033),
+(219034),
+(219037),
+(219038),
+(219041),
+(219042),
+(219045),
+(219046),
+(219049),
+(219050),
+(219055),
+(219056),
+(219057),
+(219058),
+(219059),
+(219060),
+(219061),
+(219062),
+(219065),
+(219066),
+(219067),
+(219068),
+(219069),
+(219070),
+(219086),
+(219087),
+(219088),
+(219089),
+(219092),
+(219093),
+(219096),
+(219097),
+(219100),
+(219101),
+(219124),
+(219125),
+(219126),
+(219127),
+(219128),
+(219129),
+(219130),
+(219131),
+(219132),
+(219133),
+(219134),
+(219135),
+(219136),
+(219137),
+(219138),
+(219139),
+(219140),
+(220237),
+(220238),
+(220239),
+(220240),
+(220243),
+(220244),
+(220247),
+(220248),
+(220251),
+(220252),
+(220255),
+(220256),
+(220259),
+(220260),
+(220263),
+(220264),
+(220269),
+(220270),
+(220271),
+(220272),
+(220275),
+(220276),
+(220277),
+(220278),
+(220279),
+(220280),
+(220281),
+(220282),
+(220283),
+(220284),
+(220287),
+(220288),
+(220295),
+(220296),
+(220299),
+(220303),
+(220304),
+(220305),
+(220306),
+(220307),
+(220308),
+(220310),
+(220311),
+(220313),
+(220314),
+(220315),
+(220316),
+(220317),
+(220318),
+(220331),
+(220332),
+(220333),
+(220334),
+(220335),
+(220336),
+(220337),
+(220338),
+(220339),
+(220340),
+(220341),
+(220342),
+(220343),
+(220344),
+(220345),
+(220346),
+(220347),
+(220348),
+(220349),
+(220350),
+(220442),
+(220447),
+(220450),
+(220453),
+(220455),
+(220456),
+(220457),
+(220461),
+(220463),
+(220465),
+(220471),
+(220473),
+(220476),
+(220480),
+(220490),
+(220495),
+(220497),
+(220499),
+(220500),
+(220502),
+(220503),
+(220504),
+(220508),
+(220515),
+(220518),
+(220521),
+(220524),
+(220525),
+(220526),
+(220527),
+(220528),
+(220534),
+(220539),
+(220544),
+(220545),
+(220571),
+(220593),
+(220598),
+(220606),
+(220611),
+(220612),
+(220620),
+(220629),
+(220630),
+(220631),
+(220639),
+(220645),
+(220649),
+(220651),
+(220653),
+(220657),
+(220663),
+(220677),
+(220681),
+(220683),
+(220692),
+(220693),
+(220697),
+(220702),
+(220727),
+(220729),
+(220733),
+(220736),
+(220750),
+(220756),
+(220758),
+(220764),
+(220765),
+(220769),
+(220773),
+(220786),
+(220787),
+(220794),
+(220795),
+(220799),
+(220805),
+(220826),
+(220836),
+(220837),
+(220839),
+(220845),
+(220849),
+(220855),
+(220886),
+(220888),
+(220895),
+(220900),
+(220929),
+(220933),
+(220935),
+(220945),
+(220948),
+(220950),
+(220951),
+(220955),
+(220961),
+(220963),
+(220965),
+(220967),
+(220978),
+(220981),
+(220982),
+(220984),
+(220987),
+(220990),
+(220995),
+(221005),
+(221008),
+(221039),
+(221045),
+(221049),
+(221055),
+(221059),
+(221060),
+(221062),
+(221063),
+(221073),
+(221081),
+(221087),
+(221090),
+(221094),
+(221117),
+(221118),
+(221128),
+(221131),
+(221132),
+(221134),
+(221136),
+(221144),
+(221149),
+(221159),
+(221175),
+(221177),
+(221185),
+(221186),
+(221188),
+(221194),
+(221196),
+(221198),
+(221200),
+(221203),
+(221204),
+(221211),
+(221217),
+(221218),
+(221222),
+(221223),
+(221225),
+(221229),
+(221231),
+(221235),
+(221236),
+(221237),
+(221238),
+(221240),
+(221255),
+(221265),
+(221266),
+(221267),
+(221268),
+(221269),
+(221270),
+(221277),
+(221278),
+(221280),
+(221290),
+(221291),
+(221293),
+(221300),
+(221302),
+(221304),
+(221306),
+(221307),
+(221308),
+(221309),
+(221310),
+(221311),
+(221314),
+(221367),
+(221451),
+(221453),
+(221456),
+(221457),
+(221462),
+(221463),
+(221467),
+(221469),
+(221471),
+(221472),
+(221477),
+(221478),
+(221483),
+(221484),
+(221486),
+(221487),
+(221551),
+(221573),
+(221580),
+(221582),
+(221586),
+(221606),
+(221622),
+(221625),
+(221628),
+(221629),
+(221634),
+(221636),
+(221638),
+(221639),
+(221649),
+(221653),
+(221674),
+(221682),
+(221685),
+(221696),
+(221707),
+(221708),
+(221712),
+(221717),
+(221726),
+(221727),
+(221730),
+(221732),
+(221740),
+(221741),
+(221748),
+(221750),
+(221757),
+(221768),
+(221777),
+(221779),
+(221789),
+(221790),
+(221794),
+(221809),
+(221818),
+(221831),
+(221833),
+(221850),
+(221859),
+(221861),
+(221863),
+(221871),
+(221879),
+(221891),
+(221899),
+(221901),
+(221902),
+(221903),
+(221905),
+(221906),
+(221907),
+(221908),
+(221910),
+(221917),
+(221920),
+(221921),
+(221924),
+(221925),
+(221930),
+(221931),
+(221932),
+(221933),
+(221938),
+(221939),
+(221940),
+(221941),
+(221942),
+(221943),
+(221944),
+(221945),
+(221947),
+(221950),
+(221952),
+(221956),
+(221961),
+(221965),
+(221974),
+(221975),
+(221979),
+(221980),
+(221984),
+(221990),
+(221996),
+(222010),
+(222013),
+(222014),
+(222027),
+(222031),
+(222039),
+(222040),
+(222053),
+(222060),
+(222061),
+(222065),
+(222072),
+(222098),
+(222111),
+(222112),
+(222113),
+(222116),
+(222118),
+(222127),
+(222131),
+(222136),
+(222157),
+(222160),
+(222171),
+(222175),
+(222176),
+(222177),
+(222185),
+(222188),
+(222191),
+(222194),
+(222195),
+(222199),
+(222201),
+(222203),
+(222204),
+(222205),
+(222206),
+(222224),
+(222225),
+(222244),
+(222248),
+(222249),
+(222254),
+(222273),
+(222274),
+(222279),
+(222280),
+(222281),
+(222282),
+(222283),
+(222284),
+(222285),
+(222286),
+(222287),
+(222288),
+(222289),
+(222291),
+(222327),
+(222328),
+(222329),
+(222330),
+(222331),
+(222332),
+(222333),
+(222334),
+(222335),
+(222336),
+(222337),
+(222338),
+(222339),
+(222340),
+(222341),
+(222342),
+(222343),
+(222344),
+(222345),
+(222346),
+(222382),
+(222383),
+(222384),
+(222385),
+(222386),
+(222387),
+(222388),
+(222389),
+(222390),
+(222391),
+(222392),
+(222393),
+(222394),
+(222395),
+(222435),
+(222436),
+(222437),
+(222438),
+(222439),
+(222440),
+(222441),
+(222442),
+(222443),
+(222444),
+(222445),
+(222446),
+(222447),
+(222448),
+(222449),
+(222495),
+(222498),
+(222509),
+(222525),
+(222526),
+(222527),
+(222528),
+(222529),
+(222541),
+(222542),
+(222543),
+(222544),
+(222545),
+(222546),
+(222547),
+(222548),
+(222549),
+(222550),
+(222551),
+(222552),
+(222553),
+(222554),
+(222555),
+(222556),
+(222557),
+(222558),
+(222559),
+(222560),
+(222561),
+(222562),
+(222563),
+(222564),
+(222565),
+(222566),
+(222567),
+(222568),
+(222569),
+(222570),
+(222571),
+(222572),
+(222573),
+(222574),
+(222575),
+(222576),
+(222577),
+(222578),
+(222579),
+(222580),
+(222581),
+(222582),
+(222583),
+(222584),
+(222585),
+(222586),
+(222587),
+(222588),
+(222589),
+(222590),
+(222591),
+(222592),
+(222593),
+(222594),
+(222595),
+(222596),
+(222597),
+(222598),
+(222599),
+(222600),
+(222603),
+(222604),
+(222605),
+(222606),
+(222609),
+(222610),
+(222611),
+(222612),
+(222613),
+(222614),
+(222617),
+(222618),
+(222621),
+(222622),
+(222625),
+(222626),
+(222629),
+(222630),
+(222631),
+(222632),
+(222633),
+(222634),
+(222637),
+(222638),
+(222641),
+(222642),
+(222645),
+(222646),
+(222649),
+(222650),
+(222651),
+(222652),
+(222653),
+(222654),
+(222655),
+(222656),
+(222657),
+(222658),
+(222659),
+(222660),
+(222661),
+(222662),
+(222663),
+(222664),
+(222667),
+(222668),
+(222669),
+(222670),
+(222673),
+(222674),
+(222677),
+(222678),
+(222681),
+(222682),
+(222683),
+(222684),
+(222687),
+(222693),
+(222694),
+(222706),
+(222707),
+(222746),
+(222747),
+(222748),
+(222749),
+(222750),
+(222751),
+(222754),
+(222755),
+(222758),
+(222759),
+(222762),
+(222763),
+(222766),
+(222767),
+(222770),
+(222771),
+(222774),
+(222775),
+(222783),
+(222784),
+(222785),
+(222786),
+(222789),
+(222790),
+(222793),
+(222794),
+(222797),
+(222798),
+(222801),
+(222802),
+(222856),
+(222865),
+(222866),
+(222867),
+(222868),
+(222871),
+(222872),
+(222875),
+(222876),
+(222879),
+(222880),
+(222897),
+(222898),
+(222899),
+(222900),
+(222901),
+(222902),
+(222903),
+(222904),
+(222907),
+(222908),
+(222911),
+(222912),
+(222913),
+(222914),
+(222915),
+(222916),
+(222917),
+(222918),
+(222919),
+(222920),
+(222921),
+(222922),
+(222923),
+(222924),
+(222925),
+(222926),
+(222927),
+(222928),
+(222929),
+(222930),
+(222931),
+(222932),
+(222933),
+(222934),
+(222935),
+(222936),
+(222939),
+(222940),
+(222941),
+(222942),
+(222977),
+(222978),
+(222981),
+(222982),
+(222983),
+(222984),
+(223020),
+(223021),
+(223022),
+(223023),
+(223024),
+(223025),
+(223026),
+(223027),
+(223028),
+(223029),
+(223030),
+(223031),
+(223083),
+(223084),
+(223085),
+(223086),
+(223087),
+(223088),
+(223089),
+(223090),
+(223091),
+(223092),
+(223093),
+(223094),
+(223095),
+(223096),
+(223097),
+(223098),
+(223099),
+(223100),
+(223101),
+(223102),
+(223103),
+(223104),
+(223105),
+(223106),
+(223107),
+(223108),
+(223109),
+(223110),
+(223111),
+(223112),
+(223113),
+(223114),
+(223115),
+(223116),
+(223117),
+(223118),
+(223119),
+(223120),
+(223121),
+(223122),
+(223123),
+(223124),
+(223125),
+(223126),
+(223127),
+(223128),
+(223129),
+(223130),
+(223131),
+(223132),
+(223133),
+(223134),
+(223135),
+(223136),
+(223137),
+(223138),
+(223139),
+(223140),
+(223141),
+(223142),
+(223143),
+(223144),
+(223147),
+(223148),
+(223151),
+(223152),
+(223167),
+(223168),
+(223169),
+(223170),
+(223171),
+(223172),
+(223173),
+(223174),
+(223175),
+(223176),
+(223177),
+(223178),
+(223179),
+(223180),
+(223181),
+(223182),
+(223183),
+(223184),
+(223185),
+(223186),
+(223187),
+(223188),
+(223189),
+(223190),
+(223191),
+(223192),
+(223193),
+(223194),
+(223195),
+(223196),
+(223197),
+(223198),
+(223199),
+(223200),
+(223201),
+(223202),
+(223203),
+(223204),
+(223205),
+(223206),
+(223207),
+(223208),
+(223209),
+(223210),
+(223211),
+(223212),
+(223213),
+(223214),
+(223215),
+(223216),
+(223217),
+(223218),
+(223219),
+(223220),
+(223221),
+(223222),
+(223223),
+(223224),
+(223225),
+(223226),
+(223227),
+(223228),
+(223229),
+(223230),
+(223231),
+(223232),
+(223233),
+(223234),
+(223235),
+(223236),
+(223237),
+(223238),
+(223239),
+(223240),
+(223241),
+(223242),
+(223243),
+(223244),
+(223245),
+(223246),
+(223247),
+(223248),
+(223249),
+(223250),
+(223251),
+(223252),
+(223253),
+(223254),
+(223255),
+(223256),
+(223257),
+(223258),
+(223261),
+(223262),
+(223263),
+(223264),
+(223265),
+(223266),
+(223267),
+(223268),
+(223269),
+(223270),
+(223271),
+(223272),
+(223273),
+(223274),
+(223275),
+(223276),
+(223277),
+(223278),
+(223279),
+(223280),
+(223281),
+(223282),
+(223285),
+(223286),
+(223287),
+(223288),
+(223289),
+(223290),
+(223291),
+(223292),
+(223293),
+(223294),
+(223295),
+(223296),
+(223297),
+(223298),
+(223299),
+(223300),
+(223305),
+(223306),
+(223307),
+(223308),
+(223309),
+(223310),
+(223311),
+(223312),
+(223313),
+(223314),
+(223315),
+(223316),
+(223317),
+(223318),
+(223319),
+(223320),
+(223321),
+(223322),
+(223323),
+(223324),
+(223325),
+(223326),
+(223327),
+(223328),
+(223329),
+(223330),
+(223331),
+(223332),
+(223333),
+(223334),
+(223335),
+(223336),
+(223337),
+(223338),
+(223339),
+(223340),
+(223350),
+(223351),
+(223352),
+(223353),
+(223354),
+(223355),
+(223356),
+(223357),
+(223358),
+(223359),
+(223362),
+(223363),
+(223366),
+(223367),
+(223368),
+(223369),
+(223370),
+(223371),
+(223374),
+(223375),
+(223376),
+(223377),
+(223378),
+(223379),
+(223382),
+(223383),
+(223384),
+(223385),
+(223386),
+(223387),
+(223388),
+(223389),
+(223390),
+(223391),
+(223392),
+(223393),
+(223394),
+(223395),
+(223396),
+(223397),
+(223400),
+(223401),
+(223403),
+(223404),
+(223405),
+(223406),
+(223407),
+(223408),
+(223409),
+(223410),
+(223411),
+(223412),
+(223413),
+(223414),
+(223415),
+(223416),
+(223417),
+(223418),
+(223419),
+(223420),
+(223515),
+(223720),
+(223721),
+(223722),
+(223723),
+(223724),
+(223725),
+(223743),
+(223744),
+(223745),
+(223746),
+(223762),
+(223765),
+(223767),
+(223768),
+(223953),
+(223954),
+(223955),
+(223956),
+(223971),
+(223972),
+(223974),
+(223975),
+(223979),
+(223980),
+(223983),
+(223984),
+(223985),
+(223986),
+(223987),
+(223988),
+(223989),
+(223990),
+(223991),
+(223992),
+(223995),
+(223996),
+(223998),
+(224019),
+(224035),
+(224037),
+(224053),
+(224054),
+(224055),
+(224070),
+(224071),
+(224073),
+(224074),
+(224077),
+(224078),
+(224080),
+(224081),
+(224083),
+(224084),
+(224086),
+(224088),
+(224089),
+(224090),
+(224091),
+(224092),
+(224093),
+(224098),
+(224110),
+(224115),
+(224116),
+(224117),
+(224118),
+(224119),
+(224120),
+(224121),
+(224122),
+(224123),
+(224124),
+(224125),
+(224126),
+(224127),
+(224128),
+(224129),
+(224130),
+(224131),
+(224132),
+(224133),
+(224134),
+(224135),
+(224136),
+(224137),
+(224138),
+(224139),
+(224140),
+(224141),
+(224142),
+(224143),
+(224144),
+(224145),
+(224146),
+(224147),
+(224148),
+(224149),
+(224150),
+(224159),
+(224160),
+(224161),
+(224162),
+(224163),
+(224164),
+(224165),
+(224166),
+(224167),
+(224168),
+(224169),
+(224170),
+(224171),
+(224172),
+(224177),
+(224178),
+(224179),
+(224180),
+(224184),
+(224185),
+(224390),
+(224392),
+(224393),
+(224394),
+(224395),
+(224396),
+(224397),
+(224398),
+(224399),
+(224400),
+(224403),
+(224404),
+(224405),
+(224407),
+(224408),
+(224409),
+(224410),
+(224411),
+(224412),
+(224413),
+(224414),
+(224415),
+(224416),
+(224417),
+(224418),
+(224419),
+(224420),
+(224421),
+(224422),
+(224423),
+(224431),
+(224432),
+(224437),
+(224515),
+(224521),
+(224522),
+(224645),
+(224646),
+(224647),
+(224648),
+(224649),
+(224650),
+(224651),
+(224652),
+(224653),
+(224654),
+(224655),
+(224656),
+(224657),
+(224658),
+(224659),
+(224661),
+(224662),
+(224663),
+(224664),
+(224665),
+(224666),
+(224667),
+(224668),
+(224669),
+(224670),
+(224671),
+(224672),
+(224673),
+(224674),
+(224675),
+(224677),
+(224678),
+(224679),
+(224680),
+(224681),
+(224682),
+(224683),
+(224684),
+(224685),
+(224686),
+(224687),
+(224688),
+(224689),
+(224690),
+(224691),
+(224692),
+(224693),
+(224694),
+(224695),
+(224696),
+(224697),
+(224698),
+(224699),
+(224700),
+(224701),
+(224702),
+(224703),
+(224704),
+(224705),
+(224706),
+(224707),
+(224708),
+(224709),
+(224710),
+(224711),
+(224712),
+(224713),
+(224714),
+(224715),
+(224716),
+(224717),
+(224718),
+(224719),
+(224720),
+(224721),
+(224722),
+(224723),
+(224724),
+(224725),
+(224726),
+(224727),
+(224728),
+(224729),
+(224730),
+(224731),
+(224732),
+(224733),
+(224734),
+(224735),
+(224736),
+(224737),
+(224738),
+(224739),
+(224740),
+(224741),
+(224742),
+(224743),
+(224744),
+(224745),
+(224746),
+(224747),
+(224748),
+(224749),
+(224750),
+(224751),
+(224752),
+(224753),
+(224754),
+(224755),
+(224756),
+(224757),
+(224758),
+(224759),
+(224760),
+(224761),
+(224762),
+(224763),
+(224764),
+(224765),
+(224766),
+(224767),
+(224768),
+(224769),
+(224770),
+(224771),
+(224772),
+(224773),
+(224774),
+(224775),
+(224776),
+(224777),
+(224778),
+(224779),
+(224780),
+(224781),
+(224782),
+(224783),
+(224784),
+(224785),
+(224786),
+(224787),
+(224788),
+(224789),
+(224790),
+(224791),
+(224792),
+(224793),
+(224794),
+(224795),
+(224796),
+(224797),
+(224798),
+(224799),
+(224800),
+(224801),
+(224802),
+(224803),
+(224804),
+(224805),
+(224806),
+(224807),
+(224808),
+(224809),
+(224810),
+(224811),
+(224812),
+(224813),
+(224814),
+(224815),
+(224816),
+(224817),
+(224818),
+(224819),
+(224820),
+(224821),
+(224822),
+(224823),
+(224824),
+(224825),
+(224826),
+(224827),
+(224828),
+(224829),
+(224830),
+(224831),
+(224832),
+(224833),
+(224834),
+(224835),
+(224836),
+(224837),
+(224838),
+(224839),
+(224840),
+(224841),
+(224842),
+(224843),
+(224844),
+(224845),
+(224847),
+(224848),
+(224849),
+(224850),
+(224851),
+(224852),
+(224853),
+(224854),
+(224855),
+(224856),
+(224857),
+(224858),
+(224859),
+(224860),
+(224861),
+(224862),
+(224863),
+(224864),
+(224865),
+(224866),
+(224867),
+(224868),
+(224869),
+(224870),
+(224871),
+(224872),
+(224873),
+(224874),
+(224875),
+(224876),
+(224877),
+(224878),
+(224879),
+(224880),
+(224881),
+(224882),
+(224883),
+(224884),
+(224885),
+(224886),
+(224887),
+(224888),
+(224889),
+(224890),
+(224891),
+(224892),
+(224893),
+(224894),
+(224895),
+(224896),
+(224897),
+(224898),
+(224899),
+(224900),
+(224901),
+(224902),
+(224903),
+(224904),
+(224905),
+(224906),
+(224907),
+(224908),
+(224909),
+(224910),
+(224911),
+(224912),
+(224913),
+(224914),
+(224915),
+(224916),
+(224917),
+(224918),
+(224919),
+(224920),
+(224921),
+(224922),
+(224923),
+(224924),
+(224925),
+(224926),
+(224927),
+(224928),
+(224929),
+(224930),
+(224931),
+(224932),
+(224933),
+(224934),
+(224935),
+(224936),
+(224937),
+(224938),
+(224939),
+(224940),
+(224941),
+(224942),
+(224943),
+(224944),
+(224945),
+(224946),
+(224947),
+(224948),
+(224949),
+(224950),
+(224951),
+(224952),
+(224953),
+(224954),
+(224955),
+(224956),
+(224957),
+(224958),
+(224959),
+(224960),
+(224961),
+(224962),
+(224963),
+(224964),
+(224965),
+(224966),
+(224967),
+(224968),
+(224969),
+(224970),
+(224971),
+(224972),
+(224973),
+(224974),
+(224975),
+(224976),
+(224977),
+(224978),
+(224979),
+(224980),
+(224981),
+(224982),
+(224983),
+(224984),
+(224985),
+(224986),
+(224987),
+(224988),
+(224989),
+(224990),
+(224991),
+(224992),
+(224993),
+(224994),
+(224995),
+(224996),
+(224997),
+(224998),
+(224999),
+(225000),
+(225001),
+(225002),
+(225003),
+(225004),
+(225005),
+(225006),
+(225007),
+(225008),
+(225009),
+(225010),
+(225011),
+(225012),
+(225013),
+(225014),
+(225015),
+(225016),
+(225017),
+(225018),
+(225019),
+(225020),
+(225021),
+(225022),
+(225023),
+(225024),
+(225025),
+(225026),
+(225027),
+(225028),
+(225029),
+(225030),
+(225031),
+(225032),
+(225033),
+(225034),
+(225035),
+(225036),
+(225037),
+(225038),
+(225039),
+(225040),
+(225041),
+(225042),
+(225043),
+(225044),
+(225045),
+(225046),
+(225047),
+(225048),
+(225049),
+(225050),
+(225051),
+(225052),
+(225053),
+(225054),
+(225055),
+(225056),
+(225057),
+(225058),
+(225059),
+(225060),
+(225061),
+(225062),
+(225063),
+(225064),
+(225065),
+(225066),
+(225067),
+(225068),
+(225069),
+(225070),
+(225071),
+(225072),
+(225073),
+(225074),
+(225075),
+(225076),
+(225077),
+(225078),
+(225079),
+(225080),
+(225081),
+(225082),
+(225083),
+(225084),
+(225085),
+(225086),
+(225087),
+(225088),
+(225089),
+(225090),
+(225091),
+(225092),
+(225093),
+(225094),
+(225095),
+(225096),
+(225097),
+(225098),
+(225099),
+(225100),
+(225101),
+(225102),
+(225103),
+(225104),
+(225105),
+(225106),
+(225107),
+(225108),
+(225109),
+(225110),
+(225111),
+(225112),
+(225113),
+(225114),
+(225115),
+(225116),
+(225117),
+(225118),
+(225119),
+(225120),
+(225121),
+(225122),
+(225123),
+(225124),
+(225125),
+(225126),
+(225127),
+(225128),
+(225129),
+(225130),
+(225131),
+(225132),
+(225133),
+(225134),
+(225135),
+(225136),
+(225137),
+(225138),
+(225139),
+(225140),
+(225141),
+(225142),
+(225143),
+(225144),
+(225145),
+(225146),
+(225147),
+(225148),
+(225149),
+(225150),
+(225151),
+(225152),
+(225153),
+(225154),
+(225155),
+(225156),
+(225157),
+(225158),
+(225159),
+(225160),
+(225161),
+(225162),
+(225163),
+(225164),
+(225165),
+(225166),
+(225167),
+(225168),
+(225169),
+(225170),
+(225171),
+(225172),
+(225173),
+(225174),
+(225175),
+(225176),
+(225177),
+(225178),
+(225179),
+(225180),
+(225181),
+(225182),
+(225183),
+(225184),
+(225185),
+(225186),
+(225187),
+(225188),
+(225189),
+(225190),
+(225191),
+(225192),
+(225193),
+(225194),
+(225195),
+(225196),
+(225197),
+(225198),
+(225199),
+(225200),
+(225201),
+(225202),
+(225203),
+(225204),
+(225205),
+(225206),
+(225207),
+(225208),
+(225209),
+(225210),
+(225211),
+(225212),
+(225213),
+(225214),
+(225215),
+(225216),
+(225217),
+(225218),
+(225219),
+(225220),
+(225221),
+(225222),
+(225223),
+(225224),
+(225225),
+(225226),
+(225227),
+(225228),
+(225229),
+(225230),
+(225231),
+(225232),
+(225233),
+(225234),
+(225235),
+(225236),
+(225237),
+(225238),
+(225239),
+(225240),
+(225241),
+(225242),
+(225243),
+(225244),
+(225245),
+(225246),
+(225247),
+(225248),
+(225249),
+(225250),
+(225251),
+(225252),
+(225253),
+(225254),
+(225255),
+(225256),
+(225257),
+(225258),
+(225259),
+(225260),
+(225261),
+(225262),
+(225263),
+(225264),
+(225281),
+(225379),
+(225380),
+(225381),
+(225382),
+(225385),
+(225388),
+(225389),
+(225390),
+(225391),
+(225392),
+(225415),
+(225457),
+(225458),
+(225459),
+(225514),
+(225515),
+(225516),
+(225517),
+(225518),
+(225519),
+(225541),
+(225542),
+(225543),
+(225544),
+(225545),
+(225546),
+(225579),
+(225580),
+(225587),
+(225588),
+(225591),
+(225592),
+(225595),
+(225596),
+(225627),
+(225628),
+(225635),
+(225636),
+(225637),
+(225638),
+(225639),
+(225640),
+(225647),
+(225648),
+(225649),
+(225650),
+(225657),
+(225658),
+(225659),
+(225660),
+(225661),
+(225662),
+(225663),
+(225664),
+(225665),
+(225666),
+(225667),
+(225668),
+(225669),
+(225670),
+(225671),
+(225672),
+(225673),
+(225674),
+(225675),
+(225676),
+(225677),
+(225678),
+(225679),
+(225680),
+(225681),
+(225682),
+(225683),
+(225684),
+(225685),
+(225686),
+(225687),
+(225688),
+(225689),
+(225690),
+(225691),
+(225692),
+(225693),
+(225694),
+(225695),
+(225696),
+(225697),
+(225698),
+(225699),
+(225700),
+(225701),
+(225702),
+(225703),
+(225704),
+(225705),
+(225706),
+(225707),
+(225708),
+(225709),
+(225710),
+(225711),
+(225712),
+(225737),
+(225738),
+(225739),
+(225740),
+(225741),
+(225742),
+(225743),
+(225744),
+(225745),
+(225746),
+(225747),
+(225748),
+(225749),
+(225750),
+(225751),
+(225752),
+(225753),
+(225754),
+(225755),
+(225756),
+(225757),
+(225758),
+(225759),
+(225760),
+(225762),
+(225763),
+(225764),
+(225765),
+(225766),
+(225767),
+(225768),
+(225769),
+(225770),
+(225771),
+(225773),
+(225774),
+(225775),
+(225776),
+(225777),
+(225778),
+(225779),
+(225780),
+(225781),
+(225782),
+(225894),
+(225895),
+(225896),
+(225897),
+(225898),
+(225899),
+(225900),
+(225901),
+(225902),
+(225903),
+(226005),
+(226023),
+(226065),
+(226066),
+(226067),
+(226068),
+(226069),
+(226125),
+(226126),
+(226127),
+(226188),
+(226189),
+(226190),
+(226191),
+(226192),
+(226270),
+(226272),
+(226273),
+(226274),
+(226276),
+(226277),
+(226278),
+(226279),
+(226281),
+(226282),
+(226283),
+(226284),
+(226287),
+(226288),
+(226290),
+(226291),
+(226293),
+(226294),
+(226295),
+(226306),
+(226307),
+(226308),
+(226394),
+(226395),
+(226396),
+(226397),
+(226398),
+(226400),
+(226403),
+(226405),
+(226406),
+(226407),
+(226408),
+(226409),
+(226410),
+(226412),
+(226413),
+(226414),
+(226415),
+(226416),
+(226417),
+(226418),
+(226419),
+(226420),
+(226421),
+(226422),
+(226423),
+(226424),
+(226425),
+(226426),
+(226427),
+(226428),
+(226429),
+(226430),
+(226431),
+(226432),
+(226433),
+(226434),
+(226435),
+(226436),
+(226437),
+(226438),
+(226439),
+(226440),
+(226441),
+(226442),
+(226443),
+(226444),
+(226445),
+(226446),
+(226447),
+(226448),
+(226449),
+(226450),
+(226453),
+(226454),
+(226455),
+(226456),
+(226457),
+(226458),
+(226459),
+(226460),
+(226461),
+(226462),
+(226463),
+(226464),
+(226486),
+(226590),
+(226591),
+(226670),
+(226671),
+(226672),
+(226673),
+(226674),
+(226675),
+(226676),
+(226677),
+(226689),
+(226690),
+(226691),
+(226692),
+(226693),
+(226694),
+(226695),
+(226696),
+(226697),
+(226698),
+(226701),
+(226702),
+(226703),
+(226704),
+(226705),
+(226706),
+(226707),
+(226708),
+(226709),
+(226710),
+(226711),
+(226712),
+(226716),
+(226717),
+(226718),
+(226719),
+(226720),
+(226721),
+(226722),
+(226723),
+(226724),
+(226725),
+(226726),
+(226727),
+(226728),
+(226729),
+(226730),
+(226731),
+(226734),
+(226735),
+(226736),
+(226737),
+(226738),
+(226739),
+(226740),
+(226741),
+(226742),
+(226743),
+(226744),
+(226745),
+(226746),
+(226747),
+(226748),
+(226749),
+(226750),
+(226751),
+(226824),
+(226825),
+(226826),
+(226827),
+(226828),
+(226829),
+(226830),
+(226831),
+(226832),
+(226833),
+(226834),
+(226835),
+(226836),
+(226838),
+(226839),
+(226862),
+(226863),
+(226864),
+(226865),
+(226866),
+(226867),
+(226868),
+(226869),
+(226870),
+(226871),
+(226955),
+(226956),
+(226957),
+(226958),
+(226959),
+(226960),
+(226961),
+(226962),
+(226963),
+(226964),
+(226965),
+(226966),
+(226967),
+(226968),
+(226969),
+(226970),
+(226971),
+(226972),
+(226973),
+(226974),
+(226975),
+(226976),
+(226977),
+(226978),
+(226979),
+(226980),
+(226981),
+(226982),
+(226983),
+(226984),
+(226985),
+(226986),
+(226987),
+(226988),
+(226989),
+(226990),
+(226991),
+(226992),
+(226993),
+(226994),
+(226995),
+(226996),
+(226997),
+(226998),
+(226999),
+(227000),
+(227001),
+(227002),
+(227003),
+(227004),
+(227005),
+(227006),
+(227007),
+(227008),
+(227009),
+(227010),
+(227011),
+(227012),
+(227013),
+(227014),
+(227015),
+(227016),
+(227017),
+(227018),
+(227019),
+(227020),
+(227021),
+(227022),
+(227023),
+(227024),
+(227025),
+(227026),
+(227027),
+(227028),
+(227029),
+(227030),
+(227031),
+(227032),
+(227033),
+(227034),
+(227035),
+(227083),
+(227084),
+(227085),
+(227086),
+(227087),
+(227088),
+(227089),
+(227091),
+(227094),
+(227095),
+(227096),
+(227103),
+(227104),
+(227105),
+(227106),
+(227107),
+(227108),
+(227109),
+(227110),
+(227111),
+(227112),
+(227113),
+(227114),
+(227115),
+(227116),
+(227117),
+(227118),
+(227119),
+(227120),
+(227121),
+(227122),
+(227123),
+(227124),
+(227128),
+(227130),
+(227131),
+(227132),
+(227133),
+(227134),
+(227135),
+(227136),
+(227137),
+(227138),
+(227139),
+(227140),
+(227141),
+(227142),
+(227143),
+(227144),
+(227145),
+(227146),
+(227147),
+(227148),
+(227149),
+(227150),
+(227165),
+(227166),
+(227167),
+(227390),
+(227391),
+(227392),
+(227393),
+(227394),
+(227395),
+(227396),
+(227397),
+(227398),
+(227399),
+(227421),
+(227473),
+(227474),
+(227475),
+(227476),
+(227508),
+(227509),
+(227510),
+(227511),
+(227512),
+(227513),
+(227514),
+(227515),
+(227516),
+(227633),
+(227643),
+(227652),
+(227654),
+(227655),
+(227656),
+(227657),
+(227658),
+(227659),
+(227660),
+(227661),
+(227662),
+(227663),
+(227664),
+(227665),
+(227666),
+(227667),
+(227668),
+(227669),
+(227670),
+(227671),
+(227673),
+(227674),
+(227675),
+(227676),
+(227677),
+(227678),
+(227679),
+(227680),
+(227681),
+(227768),
+(227769),
+(227770),
+(227771),
+(227772),
+(227773),
+(227774),
+(227775),
+(227776),
+(227777),
+(227778),
+(227779),
+(227906),
+(227907),
+(227908),
+(227909),
+(227910),
+(228373),
+(229057),
+(229058),
+(229059),
+(229060),
+(229061),
+(229062),
+(229063),
+(229064),
+(229090),
+(229091),
+(229092),
+(229093),
+(229094),
+(229095),
+(229096),
+(229097),
+(229098),
+(229099),
+(229100),
+(229101),
+(229102),
+(229103),
+(229104),
+(229105),
+(229666),
+(229668),
+(229884),
+(229885),
+(229887),
+(229888),
+(229889),
+(229890),
+(229922),
+(229925),
+(229926),
+(229927),
+(229928),
+(229929),
+(229930),
+(229931),
+(229932),
+(229933),
+(229934),
+(229935),
+(229936),
+(229937),
+(229938),
+(229939),
+(229940),
+(229941),
+(229942),
+(229943),
+(229961),
+(229962),
+(229964),
+(229965),
+(229967),
+(229968),
+(229969),
+(229970),
+(229971),
+(229972),
+(229973),
+(229974),
+(229975),
+(229976),
+(229977),
+(229978),
+(229979),
+(229990),
+(229991),
+(229992),
+(229993),
+(229994),
+(229995),
+(229996),
+(229997),
+(229998),
+(229999),
+(230000),
+(230001),
+(230002),
+(230003),
+(230004),
+(230005),
+(230006),
+(230011),
+(230012),
+(230013),
+(230014),
+(230015),
+(230016),
+(230017),
+(230018),
+(230019),
+(230020),
+(230021),
+(230022),
+(230023),
+(230024),
+(230025),
+(230026),
+(230027),
+(230028),
+(230029),
+(230030),
+(230031),
+(230032),
+(230033),
+(230034),
+(230035),
+(230036),
+(230037),
+(230038),
+(230039),
+(230040),
+(230057),
+(230058),
+(230059),
+(230060),
+(230061),
+(230062),
+(230063),
+(230064),
+(230065),
+(230066),
+(230067),
+(230068),
+(230069),
+(230070),
+(230071),
+(230072),
+(230073),
+(230074),
+(230075),
+(230076),
+(230077),
+(230078),
+(230079),
+(230080),
+(230081),
+(230082),
+(230083),
+(230084),
+(230085),
+(230086),
+(230099),
+(230100),
+(230101),
+(230102),
+(230103),
+(230104),
+(230105),
+(230106),
+(230107),
+(230108),
+(230109),
+(230110),
+(230111),
+(230112),
+(230113),
+(230114),
+(230115),
+(230116),
+(230117),
+(230118),
+(230119),
+(230120),
+(230121),
+(230122),
+(230123),
+(230124),
+(230125),
+(230126),
+(230127),
+(230128),
+(230142),
+(230143),
+(230144),
+(230145),
+(230146),
+(230147),
+(230148),
+(230149),
+(230150),
+(230151),
+(230152),
+(230153),
+(230154),
+(230155),
+(230156),
+(230157),
+(230158),
+(230159),
+(230160),
+(230161),
+(230162),
+(230163),
+(230164),
+(230165),
+(230166),
+(230167),
+(230168),
+(230169),
+(230170),
+(230171),
+(230182),
+(230183),
+(230184),
+(230185),
+(230186),
+(230187),
+(230188),
+(230189),
+(230190),
+(230191),
+(230192),
+(230193),
+(230194),
+(230195),
+(230196),
+(230197),
+(230198),
+(230199),
+(230200),
+(230201),
+(230202),
+(230203),
+(230204),
+(230205),
+(230206),
+(230207),
+(230208),
+(230209),
+(230210),
+(230211),
+(230222),
+(230223),
+(230224),
+(230225),
+(230226),
+(230227),
+(230228),
+(230229),
+(230230),
+(230231),
+(230232),
+(230233),
+(230234),
+(230235),
+(230236),
+(230237),
+(230238),
+(230239),
+(230240),
+(230241),
+(230242),
+(230243),
+(230244),
+(230245),
+(230246),
+(230247),
+(230248),
+(230249),
+(230250),
+(230251),
+(230262),
+(230263),
+(230264),
+(230265),
+(230266),
+(230267),
+(230268),
+(230269),
+(230270),
+(230271),
+(230272),
+(230273),
+(230274),
+(230275),
+(230276),
+(230277),
+(230278),
+(230279),
+(230280),
+(230281),
+(230282),
+(230283),
+(230284),
+(230285),
+(230286),
+(230287),
+(230288),
+(230289),
+(230290),
+(230291),
+(230302),
+(230303),
+(230304),
+(230305),
+(230306),
+(230307),
+(230308),
+(230309),
+(230310),
+(230311),
+(230312),
+(230313),
+(230314),
+(230315),
+(230316),
+(230317),
+(230318),
+(230319),
+(230320),
+(230321),
+(230322),
+(230323),
+(230324),
+(230325),
+(230326),
+(230327),
+(230328),
+(230329),
+(230330),
+(230331),
+(230342),
+(230343),
+(230344),
+(230345),
+(230346),
+(230347),
+(230348),
+(230349),
+(230350),
+(230351),
+(230352),
+(230353),
+(230354),
+(230355),
+(230356),
+(230357),
+(230358),
+(230359),
+(230360),
+(230361),
+(230362),
+(230363),
+(230364),
+(230365),
+(230366),
+(230367),
+(230368),
+(230369),
+(230370),
+(230371),
+(230372),
+(230373),
+(230374),
+(230375),
+(230376),
+(230377),
+(230378),
+(230379),
+(230380),
+(230381),
+(230382),
+(230383),
+(230384),
+(230385),
+(230386),
+(230387),
+(230388),
+(230389),
+(230391),
+(230392),
+(230393),
+(230394),
+(230395),
+(230396),
+(230397),
+(230398),
+(230900),
+(230901),
+(230902),
+(230903),
+(230904),
+(230905),
+(230906),
+(230907),
+(230908),
+(230909),
+(230910),
+(230911),
+(231008),
+(231009),
+(231010),
+(231011),
+(231012),
+(231013),
+(231014),
+(231015),
+(231016),
+(231017),
+(231018),
+(231019),
+(231020),
+(231021),
+(231022),
+(231023),
+(231024),
+(231025),
+(231026),
+(231027),
+(231085),
+(231086),
+(231087),
+(231088),
+(231089),
+(231090),
+(231091),
+(231092),
+(231093),
+(231094),
+(231095),
+(231096),
+(231097),
+(231098),
+(231099),
+(231100),
+(231101),
+(231102),
+(231103),
+(231123),
+(231124),
+(231125),
+(231126),
+(231127),
+(231128),
+(231129),
+(231130),
+(231131),
+(231132),
+(231133),
+(231134),
+(231135),
+(231136),
+(231137),
+(231138),
+(231139),
+(231234),
+(231235),
+(231236),
+(231278),
+(231339),
+(231340),
+(231343), -- The Event Staff Suit
+(231353), -- ARK Staffing Suit
+(233012),
+(233013),
+(233014),
+(233015),
+(233016),
+(233017),
+(233018),
+(233019),
+(233020),
+(233021),
+(233022),
+(233024),
+(233025),
+(233027),
+(233029),
+(233031),
+(233033),
+(233034),
+(233035),
+(233036),
+(233037),
+(233038),
+(233039),
+(233040),
+(233041),
+(233042),
+(233043),
+(233044),
+(233045),
+(233046),
+(233047),
+(233048),
+(233049),
+(233050),
+(233051),
+(233052),
+(233081),
+(233089),
+(233090),
+(233091),
+(233092),
+(233093),
+(233094),
+(233095),
+(233096),
+(233097),
+(233098),
+(233099),
+(233101),
+(233244),
+(233245),
+(233246),
+(233247),
+(233248),
+(233255),
+(233256),
+(233257),
+(233258),
+(233259),
+(233260),
+(233261),
+(233262),
+(233263),
+(233264),
+(233265),
+(233266),
+(233267),
+(233268),
+(233269),
+(233270),
+(233271),
+(233272),
+(233273),
+(233274),
+(233275),
+(233276),
+(233277),
+(233278),
+(233279),
+(233280),
+(233281),
+(233282),
+(233283),
+(233284),
+(233285),
+(233286),
+(233287),
+(233288),
+(233289),
+(233290),
+(233291),
+(233292),
+(233293),
+(233294),
+(233295),
+(233296),
+(233297),
+(233298),
+(233299),
+(233300),
+(233301),
+(233302),
+(233303),
+(233304),
+(233305),
+(233306),
+(233307),
+(233308),
+(233309),
+(233310),
+(233311),
+(233312),
+(233313),
+(233314),
+(233315),
+(233318),
+(233405),
+(233406),
+(233407),
+(233418),
+(233420),
+(233421),
+(233422),
+(233423),
+(233424),
+(233425),
+(233426),
+(233427),
+(233428),
+(233429),
+(233430),
+(233431),
+(233432),
+(233433),
+(233434),
+(233435),
+(233436),
+(233437),
+(233438),
+(233439),
+(233440),
+(233441),
+(233442),
+(233443),
+(233444),
+(233445),
+(233446),
+(233447),
+(233448),
+(233449),
+(233450),
+(233451),
+(233452),
+(233453),
+(233454),
+(233455),
+(233456),
+(233457),
+(233458),
+(233459),
+(233460),
+(233461),
+(233462),
+(233463),
+(233464),
+(233465),
+(233466),
+(233467),
+(233468),
+(233469),
+(233470),
+(233804),
+(233839),
+(233840),
+(233841),
+(233842),
+(233843),
+(233844),
+(233845),
+(233846),
+(233847),
+(233848),
+(233849),
+(233850),
+(234040),
+(234041),
+(234042),
+(234043),
+(234044),
+(234045),
+(234046),
+(234050),
+(234051),
+(234057),
+(234058),
+(234059),
+(234060),
+(234061),
+(234062),
+(234063),
+(234064),
+(234065),
+(234066),
+(234068),
+(234069),
+(234070),
+(234073),
+(234075),
+(234076),
+(234077),
+(234078),
+(234079),
+(234080),
+(234081),
+(234082),
+(234083),
+(234084),
+(234085),
+(234610),
+(234655),
+(234656),
+(234657),
+(234658),
+(234659),
+(234660),
+(234661),
+(234993),
+(234994),
+(234995),
+(234996),
+(234997),
+(234998),
+(235064),
+(235263),
+(235264),
+(235265),
+(235271),
+(235272),
+(235273),
+(235274),
+(235275),
+(235276),
+(235277),
+(235278),
+(235279),
+(235280),
+(235281),
+(235282),
+(235283),
+(235284),
+(235285),
+(235286),
+(235287),
+(235288),
+(235289),
+(235290),
+(235291),
+(235292),
+(235299),
+(235386),
+(235387),
+(235405),
+(235406),
+(235407),
+(235408),
+(235409),
+(235410),
+(235411),
+(235412),
+(235413),
+(235414),
+(235415),
+(235416),
+(235417),
+(235418),
+(235419),
+(235420),
+(235421),
+(235422),
+(235423),
+(235424),
+(235425),
+(235426),
+(235427),
+(235428),
+(235429),
+(235430),
+(235431),
+(235432),
+(235433),
+(235434),
+(235435),
+(235436),
+(235437),
+(235438),
+(235439),
+(235440),
+(235441),
+(235442),
+(235443),
+(235444),
+(235445),
+(235446),
+(235447),
+(235448),
+(235449),
+(235450),
+(235451),
+(235452),
+(235453),
+(235454),
+(235455),
+(235456),
+(235457),
+(235458),
+(235459),
+(235460),
+(235461),
+(235462),
+(235463),
+(235464),
+(235465),
+(235466),
+(235467),
+(235468),
+(235469),
+(235470),
+(235471),
+(235472),
+(235473),
+(235474),
+(235475),
+(235476),
+(235477),
+(235478),
+(235479),
+(235480),
+(235481),
+(235482),
+(235483),
+(235484),
+(235485),
+(235486),
+(235487),
+(235488),
+(235489),
+(235490),
+(235491),
+(235492),
+(235493),
+(235494),
+(235495),
+(235496),
+(235497),
+(235498),
+(235499),
+(235500),
+(235501),
+(235502),
+(235503),
+(235504),
+(235505),
+(235506),
+(235507),
+(235508),
+(235509),
+(235510),
+(235511),
+(235512),
+(235513),
+(235514),
+(235515),
+(235516),
+(235517),
+(235518),
+(235519),
+(235520),
+(235521),
+(235522),
+(235523),
+(235524),
+(235525),
+(235526),
+(235527),
+(235528),
+(235529),
+(235530),
+(235531),
+(235532),
+(235533),
+(235534),
+(235535),
+(235536),
+(235537),
+(235538),
+(235539),
+(235540),
+(235541),
+(235542),
+(235543),
+(235544),
+(235545),
+(235546),
+(235547),
+(235548),
+(235549),
+(235550),
+(235551),
+(235552),
+(235553),
+(235554),
+(235555),
+(235556),
+(235557),
+(235558),
+(235559),
+(235560),
+(235561),
+(235562),
+(235563),
+(235564),
+(235565),
+(235566),
+(235567),
+(235568),
+(235569),
+(235570),
+(235571),
+(235572),
+(235573),
+(235574),
+(235575),
+(235576),
+(235577),
+(235578),
+(235579),
+(235580),
+(235581),
+(235582),
+(235583),
+(235584),
+(235585),
+(235586),
+(235587),
+(235588),
+(235589),
+(235590),
+(235591),
+(235592),
+(235593),
+(235594),
+(235595),
+(235596),
+(235597),
+(235598),
+(235599),
+(235600),
+(235601),
+(235602),
+(235603),
+(235604),
+(235605),
+(235606),
+(235607),
+(235608),
+(235609),
+(235610),
+(235611),
+(235612),
+(235613),
+(235614),
+(235615),
+(235616),
+(235617),
+(235618),
+(235619),
+(235620),
+(235621),
+(235622),
+(235623),
+(235624),
+(235625),
+(235626),
+(235627),
+(235628),
+(235629),
+(235630),
+(235631),
+(235632),
+(235633),
+(235634),
+(235635),
+(235636),
+(235637),
+(235638),
+(235639),
+(235640),
+(235641),
+(235642),
+(235643),
+(235644),
+(235645),
+(235646),
+(235647),
+(235648),
+(235649),
+(235650),
+(235651),
+(235652),
+(235653),
+(235654),
+(235655),
+(235656),
+(235657),
+(235658),
+(235659),
+(235660),
+(235661),
+(235662),
+(235663),
+(235664),
+(235665),
+(235666),
+(235667),
+(235668),
+(235669),
+(235670),
+(235671),
+(235672),
+(235673),
+(235674),
+(235675),
+(235676),
+(235677),
+(235678),
+(235679),
+(235680),
+(235681),
+(235682),
+(235683),
+(235684),
+(235685),
+(235686),
+(235687),
+(235688),
+(235689),
+(235690),
+(235691),
+(235692),
+(235693),
+(235694),
+(235695),
+(235696),
+(235697),
+(235698),
+(235699),
+(235700),
+(235701),
+(235702),
+(235703),
+(235704),
+(235705),
+(235706),
+(235707),
+(235708),
+(235709),
+(235710),
+(235711),
+(235712),
+(235713),
+(235714),
+(235715),
+(235716),
+(235717),
+(235718),
+(235719),
+(235720),
+(235721),
+(235722),
+(235723),
+(235724),
+(235725),
+(235726),
+(235727),
+(235728),
+(235729),
+(235730),
+(235731),
+(235732),
+(235733),
+(235734),
+(235735),
+(235736),
+(235737),
+(235738),
+(235739),
+(235740),
+(235741),
+(235742),
+(235743),
+(235744),
+(235745),
+(235746),
+(235747),
+(235748),
+(235749),
+(235750),
+(235751),
+(235752),
+(235753),
+(235755),
+(235756),
+(235757),
+(235758),
+(235759),
+(235760),
+(235761),
+(235762),
+(235763),
+(235764),
+(235765),
+(235766),
+(235767),
+(235768),
+(235769),
+(235770),
+(235771),
+(235772),
+(235773),
+(235774),
+(235775),
+(235776),
+(235777),
+(235778),
+(235779),
+(235780),
+(235781),
+(235782),
+(235783),
+(235784),
+(235785),
+(235786),
+(235787),
+(235788),
+(235789),
+(235790),
+(235791),
+(235792),
+(235793),
+(235794),
+(235795),
+(235796),
+(235797),
+(235798),
+(235799),
+(235800),
+(235801),
+(235802),
+(235803),
+(235804),
+(235805),
+(235806),
+(235807),
+(235808),
+(235809),
+(235810),
+(235811),
+(235812),
+(235813),
+(235814),
+(235815),
+(235816),
+(235817),
+(235818),
+(235819),
+(235820),
+(235821),
+(235822),
+(235823),
+(235824),
+(235825),
+(235826),
+(235827),
+(235828),
+(235829),
+(235830),
+(235831),
+(235832),
+(235833),
+(235834),
+(235835),
+(235836),
+(235837),
+(235838),
+(235839),
+(235840),
+(235841),
+(235842),
+(235843),
+(235844),
+(235845),
+(235846),
+(235847),
+(235848),
+(235849),
+(235850),
+(235851),
+(235852),
+(235853),
+(235854),
+(235855),
+(235856),
+(235857),
+(235858),
+(235859),
+(235860),
+(235861),
+(235862),
+(235863),
+(235864),
+(235865),
+(235866),
+(235867),
+(235868),
+(235869),
+(235870),
+(235871),
+(235872),
+(235873),
+(235874),
+(235875),
+(235876),
+(235877),
+(235878),
+(235879),
+(235880),
+(235881),
+(235882),
+(235883),
+(235884),
+(235885),
+(235886),
+(235887),
+(235888),
+(235889),
+(235890),
+(235891),
+(235892),
+(235893),
+(235894),
+(235895),
+(235896),
+(235897),
+(235898),
+(235899),
+(235900),
+(235901),
+(235902),
+(235903),
+(235904),
+(235905),
+(235906),
+(235907),
+(235908),
+(235909),
+(235910),
+(235911),
+(235912),
+(235913),
+(235914),
+(235915),
+(235916),
+(235917),
+(235918),
+(235919),
+(235920),
+(235921),
+(235922),
+(235923),
+(235924),
+(235925),
+(235926),
+(235927),
+(235928),
+(235929),
+(235930),
+(235931),
+(235932),
+(235933),
+(235934),
+(235935),
+(235936),
+(235937),
+(235938),
+(235939),
+(235940),
+(235941),
+(235942),
+(235943),
+(235944),
+(235945),
+(235946),
+(235947),
+(235948),
+(235949),
+(235950),
+(235951),
+(235952),
+(235953),
+(235954),
+(235955),
+(235956),
+(235957),
+(235958),
+(235959),
+(235960),
+(235961),
+(235962),
+(235963),
+(235964),
+(235965),
+(235966),
+(235967),
+(235968),
+(235969),
+(235970),
+(235971),
+(235972),
+(235973),
+(235974),
+(235975),
+(235976),
+(235977),
+(235978),
+(235979),
+(235980),
+(235981),
+(235982),
+(235983),
+(235984),
+(235985),
+(235986),
+(235987),
+(235988),
+(235989),
+(235990),
+(235991),
+(235992),
+(235993),
+(235994),
+(235995),
+(235996),
+(235997),
+(235998),
+(235999),
+(236000),
+(236001),
+(236002),
+(236003),
+(236004),
+(236005),
+(236006),
+(236007),
+(236008),
+(236009),
+(236010),
+(236011),
+(236012),
+(236013),
+(236014),
+(236015),
+(236016),
+(236017),
+(236018),
+(236019),
+(236020),
+(236021),
+(236022),
+(236023),
+(236024),
+(236025),
+(236026),
+(236027),
+(236028),
+(236029),
+(236030),
+(236031),
+(236032),
+(236033),
+(236034),
+(236035),
+(236036),
+(236037),
+(236038),
+(236039),
+(236040),
+(236041),
+(236042),
+(236043),
+(236044),
+(236045),
+(236046),
+(236047),
+(236048),
+(236049),
+(236050),
+(236051),
+(236052),
+(236053),
+(236054),
+(236055),
+(236056),
+(236057),
+(236058),
+(236059),
+(236060),
+(236061),
+(236062),
+(236063),
+(236064),
+(236065),
+(236066),
+(236067),
+(236068),
+(236069),
+(236070),
+(236071),
+(236072),
+(236073),
+(236074),
+(236075),
+(236076),
+(236077),
+(236078),
+(236079),
+(236080),
+(236082),
+(236083),
+(236084),
+(236085),
+(236086),
+(236087),
+(236088),
+(236089),
+(236090),
+(236091),
+(236092),
+(236093),
+(236094),
+(236095),
+(236096),
+(236097),
+(236098),
+(236099),
+(236100),
+(236101),
+(236102),
+(236103),
+(236104),
+(236105),
+(236106),
+(236107),
+(236108),
+(236109),
+(236110),
+(236111),
+(236112),
+(236113),
+(236114),
+(236115),
+(236116),
+(236117),
+(236118),
+(236119),
+(236120),
+(236121),
+(236122),
+(236123),
+(236124),
+(236125),
+(236126),
+(236127),
+(236128),
+(236129),
+(236130),
+(236131),
+(236132),
+(236133),
+(236134),
+(236135),
+(236136),
+(236137),
+(236139),
+(236140),
+(236141),
+(236142),
+(236143),
+(236144),
+(236145),
+(236147),
+(236148),
+(236149),
+(236150),
+(236151),
+(236153),
+(236154),
+(236155),
+(236156),
+(236157),
+(236158),
+(236159),
+(236161),
+(236162),
+(236163),
+(236164),
+(236165),
+(236166),
+(236168),
+(236169),
+(236170),
+(236171),
+(236172),
+(236173),
+(236175),
+(236176),
+(236177),
+(236178),
+(236179),
+(236180),
+(236181),
+(236182),
+(236183),
+(236184),
+(236185),
+(236186),
+(236187),
+(236188),
+(236189),
+(236190),
+(236191),
+(236192),
+(236193),
+(236194),
+(236195),
+(236196),
+(236197),
+(236198),
+(236199),
+(236200),
+(236201),
+(236202),
+(236203),
+(236204),
+(236205),
+(236206),
+(236207),
+(236208),
+(236209),
+(236210),
+(236211),
+(236212),
+(236213),
+(236214),
+(236215),
+(236216),
+(236217),
+(236218),
+(236219),
+(236220),
+(236221),
+(236222),
+(236223),
+(236224),
+(236225),
+(236226),
+(236227),
+(236228),
+(236229),
+(236230),
+(236231),
+(236232),
+(236233),
+(236234),
+(236235),
+(236236),
+(236237),
+(236238),
+(236239),
+(236240),
+(236241),
+(236242),
+(236243),
+(236244),
+(236245),
+(236246),
+(236247),
+(236248),
+(236249),
+(236250),
+(236251),
+(236252),
+(236253),
+(236254),
+(236255),
+(236256),
+(236257),
+(236258),
+(236259),
+(236260),
+(236261),
+(236262),
+(236263),
+(236264),
+(236265),
+(236266),
+(236267),
+(236268),
+(236269),
+(236270),
+(236271),
+(236272),
+(236273),
+(236274),
+(236275),
+(236276),
+(236277),
+(236278),
+(236279),
+(236280),
+(236281),
+(236282),
+(236283),
+(236284),
+(236285),
+(236286),
+(236287),
+(236288),
+(236289),
+(236290),
+(236291),
+(236292),
+(236293),
+(236294),
+(236295),
+(236296),
+(236297),
+(236298),
+(236299),
+(236300),
+(236301),
+(236302),
+(236303),
+(236304),
+(236305),
+(236306),
+(236307),
+(236308),
+(236309),
+(236310),
+(236312),
+(236313),
+(236314),
+(236315),
+(236316),
+(236317),
+(236318),
+(236319),
+(236320),
+(236321),
+(236322),
+(236323),
+(236324),
+(236325),
+(236326),
+(236327),
+(236328),
+(236329),
+(236330),
+(236331),
+(236332),
+(236333),
+(236334),
+(236335),
+(236336),
+(236337),
+(236338),
+(236339),
+(236340),
+(236341),
+(236342),
+(236343),
+(236344),
+(236345),
+(236346),
+(236347),
+(236348),
+(236349),
+(236350),
+(236351),
+(236352),
+(236353),
+(236354),
+(236355),
+(236356),
+(236357),
+(236358),
+(236359),
+(236360),
+(236361),
+(236362),
+(236363),
+(236364),
+(236365),
+(236366),
+(236367),
+(236368),
+(236369),
+(236370),
+(236371),
+(236372),
+(236373),
+(236374),
+(236375),
+(236376),
+(236377),
+(236378),
+(236379),
+(236380),
+(236381),
+(236382),
+(236383),
+(236384),
+(236385),
+(236386),
+(236387),
+(236388),
+(236389),
+(236390),
+(236391),
+(236392),
+(236393),
+(236394),
+(236395),
+(236396),
+(236397),
+(236398),
+(236399),
+(236400),
+(236401),
+(236402),
+(236403),
+(236404),
+(236405),
+(236406),
+(236407),
+(236408),
+(236409),
+(236410),
+(236411),
+(236412),
+(236413),
+(236414),
+(236415),
+(236416),
+(236417),
+(236418),
+(236419),
+(236420),
+(236421),
+(236422),
+(236423),
+(236424),
+(236425),
+(236426),
+(236427),
+(236428),
+(236429),
+(236430),
+(236431),
+(236432),
+(236433),
+(236434),
+(236435),
+(236436),
+(236437),
+(236438),
+(236439),
+(236440),
+(236441),
+(236442),
+(236443),
+(236444),
+(236445),
+(236446),
+(236447),
+(236448),
+(236449),
+(236450),
+(236451),
+(236452),
+(236453),
+(236454),
+(236455),
+(236456),
+(236457),
+(236458),
+(236459),
+(236460),
+(236461),
+(236462),
+(236463),
+(236464),
+(236465),
+(236466),
+(236467),
+(236468),
+(236469),
+(236470),
+(236471),
+(236472),
+(236473),
+(236474),
+(236475),
+(236476),
+(236477),
+(236478),
+(236479),
+(236480),
+(236481),
+(236482),
+(236483),
+(236484),
+(236485),
+(236486),
+(236487),
+(236488),
+(236489),
+(236490),
+(236491),
+(236492),
+(236493),
+(236494),
+(236495),
+(236496),
+(236497),
+(236498),
+(236499),
+(236500),
+(236501),
+(236502),
+(236503),
+(236504),
+(236505),
+(236506),
+(236507),
+(236508),
+(236509),
+(236514),
+(236515),
+(236635),
+(237273),
+(237275),
+(238908),
+(238909),
+(238910),
+(238911),
+(238912),
+(238913),
+(238914),
+(238915),
+(238916),
+(238917),
+(238918),
+(238919),
+(238920),
+(238921),
+(238932),
+(238944),
+(238946),
+(238956),
+(238957),
+(238958),
+(238959),
+(238960),
+(238961),
+(238962),
+(239358),
+(239739),
+(239740),
+(239741),
+(239742),
+(239743),
+(239744),
+(239745),
+(239746),
+(239747),
+(239748),
+(239749),
+(239750),
+(239751),
+(239752),
+(239753),
+(239754),
+(239755),
+(239756),
+(239757),
+(239758),
+(240841),
+(242954),
+(242955),
+(243739),
+(243740),
+(243741),
+(243742),
+(243743),
+(243744),
+(243745),
+(243746),
+(243747),
+(243767),
+(243768),
+(243769),
+(243770),
+(243771),
+(243772),
+(243773),
+(243774),
+(243775),
+(244208),
+(244209),
+(244211),
+(244214),
+(244215),
+(244216),
+(244223),
+(244357),
+(244358),
+(244376),
+(244405),
+(244469),
+(244540),
+(244541),
+(244542),
+(244543),
+(244558),
+(244559),
+(244560),
+(244561),
+(244562),
+(244563),
+(244564),
+(244565),
+(244566),
+(244567),
+(244572),
+(244573),
+(244574),
+(244575),
+(244578),
+(244579),
+(244581),
+(244635),
+(244637),
+(244638),
+(244639),
+(244640),
+(244641),
+(244643),
+(244644),
+(244645),
+(244647),
+(244648),
+(244650),
+(244654),
+(244655),
+(244658),
+(244659),
+(244660),
+(244661),
+(244662),
+(244663),
+(244664),
+(244665),
+(244690),
+(244691),
+(244692),
+(244693),
+(244694),
+(244695),
+(244696),
+(244697),
+(244698),
+(244699),
+(244700),
+(244701),
+(244702),
+(244703),
+(244704),
+(244705),
+(244712),
+(244713),
+(244714),
+(244715),
+(244716),
+(244717),
+(244718),
+(244742),
+(244743),
+(244750),
+(244761),
+(244762),
+(244778),
+(244779),
+(244782),
+(244783),
+(244784),
+(244785),
+(244801),
+(244802),
+(244820),
+(244821),
+(244842),
+(244843),
+(244859),
+(244862),
+(244909),
+(244910),
+(244911),
+(244912),
+(244913),
+(244914),
+(244988),
+(244989),
+(244990),
+(244992),
+(244993),
+(245025),
+(245302),
+(245303),
+(245306),
+(245319),
+(245320),
+(245321),
+(245322),
+(245324),
+(245339),
+(245355),
+(245357),
+(245372),
+(245409),
+(245424),
+(245425),
+(245426),
+(245427),
+(245428),
+(245430),
+(245433),
+(245450),
+(245456),
+(245481),
+(245482),
+(245484),
+(245571),
+(245572),
+(245573),
+(245574),
+(245575),
+(245576),
+(245577),
+(245578),
+(245579),
+(245580),
+(245582),
+(245583),
+(245584),
+(245593),
+(245594),
+(245595),
+(245596),
+(245597),
+(245605),
+(245606),
+(245607),
+(245656),
+(245657),
+(245658),
+(245659),
+(245660),
+(245664),
+(245665),
+(245669),
+(245671),
+(245672),
+(245674),
+(245675),
+(245676),
+(245677),
+(245678),
+(245679),
+(245680),
+(245682),
+(245694),
+(245718),
+(245719),
+(245720),
+(245721),
+(245722),
+(245723),
+(245728),
+(245729),
+(245730),
+(245731),
+(245732),
+(245733),
+(245736),
+(245737),
+(245738),
+(245740),
+(245766),
+(245767),
+(245768),
+(245770),
+(245771),
+(245773),
+(245774),
+(245780),
+(245784),
+(245785),
+(245786),
+(245797),
+(245798),
+(245799),
+(245854),
+(245855),
+(245856),
+(245857),
+(245858),
+(245859),
+(245860),
+(245863),
+(245865),
+(245866),
+(245880),
+(245881),
+(245882),
+(245883),
+(245884),
+(245886),
+(245887),
+(245888),
+(245889),
+(245890),
+(245891),
+(245892),
+(245893),
+(245894),
+(245895),
+(245903),
+(245905),
+(245990),
+(245997),
+(245998),
+(245999),
+(246000),
+(246001),
+(246002),
+(246003),
+(246004),
+(246005),
+(246006),
+(246007),
+(246008),
+(246009),
+(246010),
+(246011),
+(246012),
+(246013),
+(246014),
+(246015),
+(246016),
+(246017),
+(246018),
+(246021),
+(246022),
+(246023),
+(246044),
+(246045),
+(246046),
+(246047),
+(246048),
+(246049),
+(246050),
+(246051),
+(246052),
+(246053),
+(246054),
+(246055),
+(246056),
+(246059),
+(246060),
+(246061),
+(246062),
+(246063),
+(246080),
+(246083),
+(246084),
+(246085),
+(246087),
+(246088),
+(246089),
+(246090),
+(246091),
+(246092),
+(246094),
+(246095),
+(246097),
+(246098),
+(246099),
+(246100),
+(246101),
+(246102),
+(246103),
+(246104),
+(246105),
+(246109),
+(246110),
+(246220),
+(246221),
+(246233),
+(246234),
+(246235),
+(246236),
+(246242),
+(246243),
+(246244),
+(246254),
+(246255),
+(246256),
+(246274),
+(246276),
+(246277),
+(246278),
+(246279),
+(246280),
+(246281),
+(246287),
+(246288),
+(246289),
+(246309),
+(246310),
+(246311),
+(246312),
+(246313),
+(246314),
+(246316),
+(246317),
+(246318),
+(246319),
+(246323),
+(246324),
+(246325),
+(246326),
+(246327),
+(246328),
+(246329),
+(246330),
+(246331),
+(246332),
+(246333),
+(246334),
+(246335),
+(246336),
+(246337),
+(246338),
+(246339),
+(246340),
+(246341),
+(246342),
+(246343),
+(246344),
+(246345),
+(246346),
+(246347),
+(246348),
+(246349),
+(246350),
+(246351),
+(246352),
+(246353),
+(246354),
+(246355),
+(246408),
+(246409),
+(246410),
+(246411),
+(246412),
+(246413),
+(246414),
+(246415),
+(246416),
+(246417),
+(246418),
+(246419),
+(246420),
+(246421),
+(246422),
+(246423),
+(246424),
+(246425),
+(246426),
+(246427),
+(246428),
+(246559),
+(246560),
+(246561),
+(246562),
+(246563),
+(246564),
+(246565),
+(246566),
+(246567),
+(246568),
+(246569),
+(246570),
+(246571),
+(246572),
+(246573),
+(246574),
+(246575),
+(246576),
+(246577),
+(246578),
+(246579),
+(246580),
+(246581),
+(246582),
+(246583),
+(246584),
+(246585),
+(246586),
+(246587),
+(246588),
+(246589),
+(246590),
+(246591),
+(246592),
+(246593),
+(246594),
+(246595),
+(246596),
+(246597),
+(246598),
+(246599),
+(246600),
+(246601),
+(246602),
+(246603),
+(246604),
+(246605),
+(246606),
+(246607),
+(246608),
+(246609),
+(246610),
+(246611),
+(246612),
+(246613),
+(246614),
+(246615),
+(246616),
+(246617),
+(246618),
+(246619),
+(246620),
+(246621),
+(246622),
+(246623),
+(246624),
+(246625),
+(246626),
+(246627),
+(246628),
+(246629),
+(246630),
+(246631),
+(246632),
+(246635),
+(246636),
+(246637),
+(246638),
+(246639),
+(246640),
+(246641),
+(246642),
+(246643),
+(246644),
+(246645),
+(246646),
+(246647),
+(246648),
+(246649),
+(246650),
+(246651),
+(246652),
+(246653),
+(246654),
+(246655),
+(246656),
+(246657),
+(246658),
+(246659),
+(246660),
+(246661),
+(246662),
+(246663),
+(246664),
+(246665),
+(246666),
+(246667),
+(246668),
+(246669),
+(246670),
+(246671),
+(246672),
+(246673),
+(246674),
+(246675),
+(246676),
+(246677),
+(246678),
+(246679),
+(246680),
+(246681),
+(246682),
+(246683),
+(246684),
+(246685),
+(246686),
+(246687),
+(246688),
+(246689),
+(246690),
+(246691),
+(246692),
+(246693),
+(246694),
+(246695),
+(246696),
+(246697),
+(246698),
+(246699),
+(246700),
+(246701),
+(246702),
+(246703),
+(246704),
+(246871),
+(246872),
+(246873),
+(246887),
+(246889),
+(246890),
+(246891),
+(246892),
+(247057),
+(247058),
+(247059),
+(247060),
+(247061),
+(247062),
+(247063),
+(247064),
+(247065),
+(247066),
+(247067),
+(247068),
+(247069),
+(247157),
+(247163),
+(247164),
+(247165),
+(247166),
+(247167),
+(247169),
+(247170),
+(247171),
+(247172),
+(247173),
+(247174),
+(247175),
+(247176),
+(247177),
+(247178),
+(247179),
+(247180),
+(247181),
+(248197),
+(248240),
+(248241),
+(248378),
+(248379),
+(248380),
+(248381),
+(248382),
+(248383),
+(248384),
+(248385),
+(248386),
+(248387),
+(248421),
+(248422),
+(248423),
+(248424),
+(248425),
+(248426),
+(248427),
+(248520),
+(248521),
+(248522),
+(248523),
+(248524),
+(248525),
+(248526),
+(248527),
+(248528),
+(248529),
+(248530),
+(248531),
+(248532),
+(248533),
+(248534),
+(248535),
+(248536),
+(248537),
+(248538),
+(248539),
+(248558),
+(248559),
+(248560),
+(248561),
+(248562),
+(248564),
+(248565),
+(248566),
+(248567),
+(248568),
+(248569),
+(248570),
+(248571),
+(248572),
+(248573),
+(248574),
+(248575),
+(248576),
+(248577),
+(248578),
+(248579),
+(248580),
+(248581),
+(248582),
+(248583),
+(248584),
+(248585),
+(248586),
+(248587),
+(248588),
+(248589),
+(248590),
+(248591),
+(248592),
+(248593),
+(248594),
+(248595),
+(248596),
+(248597),
+(248598),
+(248599),
+(248600),
+(248601),
+(248602),
+(248603),
+(248604),
+(248605),
+(248606),
+(248607),
+(248608),
+(248609),
+(248610),
+(248611),
+(248612),
+(248613),
+(248614),
+(248615),
+(248616),
+(248617),
+(248618),
+(248619),
+(248620),
+(248621),
+(248622),
+(248623),
+(248624),
+(248625),
+(248626),
+(248627),
+(248628),
+(248720),
+(248721),
+(248722),
+(248723),
+(248724),
+(248730),
+(248741),
+(248742),
+(248743),
+(248744),
+(248757),
+(248758),
+(248763),
+(248764),
+(248798),
+(248799),
+(248807),
+(248808),
+(248811),
+(248812),
+(248813),
+(248814),
+(248866),
+(248869),
+(248917),
+(248918),
+(249002),
+(249003),
+(249004),
+(249005),
+(249006),
+(249007),
+(249009),
+(249012),
+(249013),
+(249014),
+(249015),
+(249016),
+(249017),
+(249018),
+(249019),
+(249020),
+(249021),
+(249022),
+(249023),
+(249024),
+(249025),
+(249026),
+(249027),
+(249028),
+(249029),
+(249030),
+(249031),
+(249032),
+(249033),
+(249034),
+(249035),
+(249036),
+(249037),
+(249038),
+(249039),
+(249040),
+(249041),
+(249042),
+(249043),
+(249044),
+(249046),
+(249047),
+(249048),
+(249049),
+(249050),
+(249051),
+(249052),
+(249053),
+(249054),
+(249055),
+(249060),
+(249061),
+(249062),
+(249063),
+(249065),
+(249066),
+(249067),
+(249068),
+(249069),
+(249070),
+(249071),
+(249072),
+(249073),
+(249074),
+(249075),
+(249076),
+(249077),
+(249078),
+(249079),
+(249107),
+(249109),
+(249110),
+(249815),
+(249816),
+(249817),
+(249818),
+(249819),
+(249820),
+(249821),
+(249822),
+(249823),
+(249825),
+(249826),
+(249827),
+(249828),
+(249829),
+(249836),
+(249837),
+(249838),
+(249839),
+(249840),
+(249842),
+(249843),
+(249844),
+(249845),
+(249846),
+(249848),
+(249849),
+(249850),
+(249851),
+(249852),
+(249853),
+(249854),
+(249855),
+(249856),
+(249857),
+(249858),
+(249859),
+(249860),
+(249861),
+(249862),
+(249863),
+(249864),
+(249865),
+(249866),
+(249867),
+(250144),
+(250145),
+(250146),
+(250147),
+(250148),
+(250149),
+(250150),
+(250151),
+(250152),
+(250153),
+(250154),
+(250155),
+(250156),
+(250157),
+(250158),
+(250159),
+(250161),
+(250162),
+(250163),
+(250385),
+(251222),
+(251223),
+(251231),
+(251232),
+(251238),
+(251239),
+(251240),
+(251241),
+(251242),
+(251243),
+(251254),
+(251262),
+(251263),
+(251264),
+(251265),
+(251298),
+(251299),
+(251755),
+(251756),
+(251757),
+(251758),
+(251759),
+(251760),
+(251761),
+(251762),
+(251763),
+(251764),
+(251767),
+(251768),
+(251769),
+(251770),
+(251800),
+(251801),
+(251807),
+(251808),
+(252006),
+(252007),
+(252008),
+(252009),
+(252046),
+(252047),
+(252048),
+(252049),
+(252050),
+(252051),
+(252052),
+(252053),
+(252054),
+(252055),
+(252057),
+(252058),
+(252155),
+(252156),
+(252555),
+(252556),
+(252984),
+(252985),
+(252986),
+(252987),
+(252988),
+(252989),
+(252990),
+(252991),
+(252992),
+(252993),
+(253160),
+(253161),
+(253182),
+(253183),
+(253184),
+(253185),
+(253186),
+(253187),
+(253188),
+(253189),
+(253190),
+(253191),
+(253192),
+(253193),
+(253194),
+(253195),
+(253196),
+(253197),
+(253198),
+(253199),
+(253200),
+(253201),
+(253202),
+(253203),
+(253204),
+(253205),
+(253206),
+(253207),
+(253208),
+(253209),
+(253210),
+(253211),
+(253212),
+(253213),
+(253214),
+(253215),
+(253216),
+(253217),
+(253218),
+(253219),
+(253220),
+(253221),
+(253222),
+(253223),
+(253224),
+(253225),
+(253226),
+(253227),
+(253228),
+(253229),
+(253230),
+(253231),
+(253232),
+(253233),
+(253234),
+(253235),
+(253236),
+(253237),
+(253238),
+(253239),
+(253240),
+(253241),
+(253242),
+(253243),
+(253244),
+(253245),
+(253246),
+(253247),
+(253248),
+(253249),
+(253250),
+(253251),
+(253252),
+(253253),
+(253254),
+(253255),
+(253256),
+(253257),
+(253380),
+(253381),
+(253382),
+(253383),
+(253384),
+(253385),
+(254372),
+(254423),
+(254425),
+(254429),
+(254430),
+(254431),
+(254465),
+(254466),
+(254467),
+(254468),
+(254469),
+(254470),
+(254471),
+(254472),
+(254473),
+(254474),
+(254475),
+(254476),
+(254477),
+(254478),
+(254479),
+(254480),
+(254481),
+(254482),
+(254483),
+(254484),
+(254485),
+(254486),
+(254487),
+(254488),
+(254489),
+(254490),
+(254491),
+(254492),
+(254493),
+(254494),
+(254495),
+(254496),
+(254497),
+(254498),
+(254499),
+(254500),
+(254501),
+(254502),
+(254503),
+(254504),
+(254505),
+(254506),
+(254507),
+(254508),
+(254509),
+(254510),
+(254511),
+(254512),
+(254513),
+(254514),
+(254515),
+(254516),
+(254517),
+(254518),
+(254519),
+(254520),
+(254521),
+(254522),
+(254523),
+(254524),
+(254525),
+(254526),
+(254527),
+(254528),
+(254529),
+(254530),
+(254531),
+(254532),
+(254533),
+(254534),
+(254535),
+(254536),
+(254537),
+(254538),
+(254539),
+(254540),
+(254541),
+(254542),
+(254543),
+(254544),
+(254545),
+(254546),
+(254547),
+(254548),
+(254549),
+(254550),
+(254551),
+(254552),
+(254553),
+(254554),
+(254555),
+(254556),
+(254557),
+(254558),
+(254559),
+(254560),
+(254561),
+(254562),
+(254563),
+(254564),
+(254565),
+(254566),
+(254567),
+(254568),
+(254569),
+(254570),
+(254571),
+(254572),
+(254573),
+(254574),
+(254575),
+(254576),
+(254577),
+(254578),
+(254579),
+(254580),
+(254581),
+(254582),
+(254583),
+(254584),
+(254585),
+(254586),
+(254587),
+(254588),
+(254589),
+(254590),
+(254591),
+(254592),
+(254593),
+(254594),
+(254595),
+(254596),
+(254597),
+(254598),
+(254599),
+(254600),
+(254601),
+(254602),
+(254603),
+(254604),
+(254605),
+(254606),
+(254607),
+(254608),
+(254609),
+(254610),
+(254611),
+(254612),
+(254613),
+(254614),
+(254615),
+(254616),
+(254617),
+(254618),
+(254619),
+(254620),
+(254621),
+(254622),
+(254623),
+(254624),
+(254625),
+(254626),
+(254627),
+(254628),
+(254629),
+(254630),
+(254631),
+(254632),
+(254633),
+(254634),
+(254635),
+(254636),
+(254637),
+(254638),
+(254639),
+(254640),
+(254641),
+(254642),
+(254643),
+(254644),
+(254645),
+(254646),
+(254647),
+(254648),
+(254649),
+(254650),
+(254651),
+(254652),
+(254653),
+(254654),
+(254655),
+(254656),
+(254657),
+(254658),
+(254659),
+(254660),
+(254661),
+(254662),
+(254663),
+(254664),
+(254665),
+(254666),
+(254667),
+(254668),
+(254669),
+(254670),
+(254671),
+(254672),
+(254673),
+(254674),
+(254675),
+(254676),
+(254677),
+(254678),
+(254679),
+(254680),
+(254681),
+(254682),
+(254683),
+(254684),
+(254685),
+(254686),
+(254687),
+(254688),
+(254689),
+(254690),
+(254691),
+(254692),
+(254693),
+(254694),
+(254695),
+(254696),
+(254697),
+(254698),
+(254699),
+(254700),
+(254701),
+(254702),
+(254703),
+(254704),
+(254705),
+(254706),
+(254707),
+(254708),
+(254709),
+(254710),
+(254711),
+(254712),
+(254713),
+(254714),
+(254715),
+(254716),
+(254717),
+(254718),
+(254719),
+(254720),
+(254721),
+(254722),
+(254723),
+(254724),
+(254725),
+(254726),
+(254727),
+(254728),
+(254729),
+(254730),
+(254731),
+(254732),
+(254733),
+(254734),
+(254735),
+(254736),
+(254737),
+(254738),
+(254739),
+(254740),
+(254741),
+(254742),
+(254743),
+(254744),
+(254745),
+(254746),
+(254747),
+(254748),
+(254749),
+(254750),
+(254751),
+(254752),
+(254753),
+(254754),
+(254755),
+(254756),
+(254757),
+(254758),
+(254759),
+(254760),
+(254761),
+(254762),
+(254763),
+(254764),
+(254765),
+(254766),
+(254767),
+(254768),
+(254769),
+(254770),
+(254771),
+(254772),
+(254773),
+(254774),
+(254775),
+(254776),
+(254777),
+(254778),
+(254779),
+(254780),
+(254781),
+(254782),
+(254783),
+(254784),
+(254785),
+(254786),
+(254859),
+(254860),
+(254876),
+(254877),
+(254878),
+(254879),
+(254880),
+(254881),
+(254882),
+(254883),
+(254884),
+(254885),
+(256454),
+(257109),
+(257111),
+(257112),
+(257113),
+(257114),
+(257115),
+(257116),
+(257117),
+(257118),
+(257119),
+(257123),
+(257124),
+(257126),
+(257128),
+(257131),
+(257141),
+(257142),
+(257143),
+(257144),
+(257147),
+(257377),
+(257378),
+(257379),
+(257380),
+(257381),
+(257382),
+(257383),
+(257384),
+(257967),
+(258222),
+(258289), -- Exploits Team Protective Suit
+(258290), -- Personnel Team Protective Suit
+(258563),
+(258580),
+(258581),
+(258658),
+(258659),
+(259103),
+(259335),
+(259336),
+(259337),
+(259338),
+(259339),
+(259343),
+(259347),
+(259348),
+(259349),
+(259353),
+(259354),
+(259358),
+(259362),
+(259363),
+(259364),
+(259365),
+(259366),
+(259367),
+(259368),
+(259369),
+(259370),
+(259371),
+(259372),
+(259373),
+(259374),
+(259375),
+(259376),
+(259377),
+(259378),
+(259379),
+(259380),
+(259381),
+(260678),
+(260679),
+(260680),
+(260681),
+(260682),
+(260683),
+(260684),
+(260685),
+(260686),
+(260687),
+(260688),
+(260690),
+(260691),
+(260692),
+(260693),
+(260694),
+(260695),
+(260696),
+(260697),
+(260698),
+(260699),
+(260700),
+(260701),
+(260702),
+(260703),
+(260704),
+(260705),
+(260706),
+(260707),
+(260708),
+(260709),
+(260710),
+(260711),
+(260712),
+(260713),
+(260714),
+(260715),
+(260716),
+(260717),
+(260718),
+(260719),
+(260720),
+(260730),
+(260731),
+(260758),
+(260759),
+(260761),
+(260762),
+(260763),
+(260764),
+(260765),
+(260766),
+(260771),
+(260772),
+(262523),
+(262524),
+(262525),
+(262526),
+(262527),
+(262528),
+(262529),
+(262532),
+(262533),
+(262534),
+(262535),
+(262536),
+(262537),
+(262538),
+(262543),
+(262544),
+(262545),
+(262546),
+(262547),
+(262548),
+(262549),
+(262558),
+(262559),
+(262560),
+(262561),
+(262562),
+(262563),
+(262564),
+(262566),
+(262567),
+(262568),
+(262569),
+(262570),
+(262571),
+(262572),
+(263240),
+(263242),
+(263243),
+(263245),
+(263246),
+(263247),
+(263248),
+(263249),
+(263250),
+(263251),
+(263252),
+(263253),
+(263254),
+(263255),
+(263256),
+(263257),
+(263259),
+(263260),
+(263261),
+(263262),
+(263265),
+(263266),
+(263267),
+(263268),
+(263277),
+(263278),
+(263279),
+(263280),
+(263281),
+(263282),
+(263283),
+(263284),
+(263285),
+(263286),
+(263289),
+(263290),
+(263291),
+(263293),
+(263294),
+(263298),
+(263299),
+(263300),
+(263301),
+(263302),
+(263303),
+(263304),
+(263306),
+(263307),
+(264084),
+(264174),
+(264175),
+(264176),
+(264177),
+(264178),
+(264179),
+(264180),
+(264181),
+(264182),
+(264183),
+(264184),
+(264185),
+(264186),
+(264187),
+(264188),
+(264189),
+(264190),
+(264191),
+(264192),
+(264193),
+(264194),
+(264195),
+(264196),
+(264197),
+(264198),
+(264199),
+(264200),
+(264201),
+(264202),
+(264203),
+(264204),
+(264205),
+(264206),
+(264207),
+(264208),
+(264209),
+(264211),
+(264212),
+(264213),
+(264214),
+(264215),
+(264216),
+(264217),
+(264218),
+(264219),
+(264220),
+(264221),
+(264222),
+(264223),
+(264224),
+(264225),
+(264226),
+(264227),
+(264228),
+(264229),
+(264230),
+(264231),
+(264232),
+(264233),
+(264234),
+(264235),
+(264236),
+(264237),
+(264238),
+(264239),
+(264240),
+(264241),
+(264242),
+(264243),
+(264244),
+(264245),
+(264246),
+(264247),
+(264248),
+(264249),
+(264250),
+(264251),
+(264252),
+(264253),
+(264254),
+(264255),
+(264256),
+(264257),
+(264258),
+(264259),
+(264260),
+(264261),
+(264262),
+(264263),
+(264264),
+(264265),
+(264266),
+(264267),
+(264268),
+(264269),
+(264270),
+(264271),
+(264272),
+(264273),
+(264274),
+(264275),
+(264276),
+(264277),
+(264278),
+(264279),
+(264280),
+(264281),
+(264282),
+(264283),
+(264284),
+(264285),
+(264286),
+(264287),
+(264288),
+(264289),
+(264290),
+(264291),
+(264292),
+(264293),
+(264294),
+(264295),
+(264296),
+(264297),
+(264298),
+(264299),
+(264300),
+(264301),
+(264302),
+(264303),
+(264304),
+(264305),
+(264306),
+(264307),
+(264308),
+(264309),
+(264310),
+(264311),
+(264312),
+(264313),
+(264314),
+(264315),
+(264316),
+(264317),
+(264318),
+(264319),
+(264320),
+(264321),
+(264322),
+(264323),
+(264324),
+(264325),
+(264326),
+(264327),
+(264328),
+(264329),
+(264330),
+(264331),
+(264332),
+(264333),
+(264334),
+(264335),
+(264336),
+(264337),
+(264338),
+(264339),
+(264340),
+(264341),
+(264342),
+(264343),
+(264344),
+(264345),
+(264346),
+(264347),
+(264348),
+(264349),
+(264350),
+(264351),
+(264352),
+(264353),
+(264354),
+(264355),
+(264356),
+(264357),
+(264358),
+(264359),
+(264360),
+(264361),
+(264362),
+(264363),
+(264364),
+(264365),
+(264366),
+(264367),
+(264368),
+(264369),
+(264370),
+(264371),
+(264372),
+(264373),
+(264374),
+(264375),
+(264376),
+(264377),
+(264378),
+(264379),
+(264380),
+(264381),
+(264382),
+(264383),
+(264384),
+(264385),
+(264386),
+(264387),
+(264388),
+(264389),
+(264390),
+(264391),
+(264392),
+(264393),
+(264394),
+(264395),
+(264396),
+(264397),
+(264398),
+(264399),
+(264400),
+(264401),
+(264402),
+(264403),
+(264404),
+(264405),
+(264406),
+(264407),
+(264408),
+(264409),
+(264410),
+(264411),
+(264412),
+(264413),
+(264414),
+(264415),
+(264416),
+(264417),
+(264418),
+(264419),
+(264420),
+(264421),
+(264422),
+(264423),
+(264424),
+(264425),
+(264426),
+(264427),
+(264428),
+(264429),
+(264430),
+(264431),
+(264432),
+(264433),
+(264434),
+(264435),
+(264436),
+(264437),
+(264438),
+(264439),
+(264440),
+(264441),
+(264442),
+(264443),
+(264444),
+(264445),
+(264446),
+(264447),
+(264448),
+(264449),
+(264450),
+(264451),
+(264452),
+(264453),
+(264454),
+(264455),
+(264456),
+(264457),
+(264458),
+(264459),
+(264460),
+(264461),
+(264462),
+(264463),
+(264464),
+(264465),
+(264466),
+(264467),
+(264468),
+(264469),
+(264470),
+(264471),
+(264472),
+(264473),
+(264474),
+(264475),
+(264476),
+(264477),
+(264478),
+(264479),
+(264480),
+(264481),
+(264482),
+(264483),
+(264484),
+(264485),
+(264486),
+(264487),
+(264488),
+(264489),
+(264490),
+(264491),
+(264492),
+(264493),
+(264494),
+(264495),
+(264496),
+(264497),
+(264498),
+(264499),
+(264500),
+(264501),
+(264502),
+(264503),
+(264504),
+(264505),
+(264506),
+(264507),
+(264508),
+(264509),
+(264510),
+(264511),
+(264512),
+(264513),
+(264514),
+(264515),
+(264516),
+(264517),
+(264518),
+(264519),
+(264520),
+(264521),
+(264522),
+(264523),
+(264524),
+(264525),
+(264526),
+(264527),
+(264528),
+(264529),
+(264530),
+(264531),
+(264532),
+(264533),
+(264534),
+(264535),
+(264536),
+(264537),
+(264538),
+(264539),
+(264540),
+(264541),
+(264542),
+(264543),
+(264544),
+(264545),
+(264546),
+(264547),
+(264548),
+(264549),
+(264550),
+(264551),
+(264552),
+(264553),
+(264554),
+(264555),
+(264556),
+(264557),
+(264558),
+(264559),
+(264560),
+(264561),
+(264562),
+(264563),
+(264564),
+(264565),
+(264566),
+(264567),
+(264568),
+(264569),
+(264570),
+(264571),
+(264572),
+(264573),
+(264574),
+(264575),
+(264576),
+(264577),
+(264578),
+(264579),
+(264580),
+(264581),
+(264582),
+(264583),
+(264584),
+(264585),
+(264586),
+(264590),
+(264591),
+(264592),
+(264593),
+(264594),
+(264595),
+(264596),
+(264597),
+(264598),
+(264599),
+(264600),
+(264601),
+(264602),
+(264603),
+(264604),
+(264605),
+(264606),
+(264607),
+(264608),
+(264609),
+(264610),
+(264611),
+(264612),
+(264613),
+(264614),
+(264615),
+(264616),
+(264617),
+(264618),
+(264619),
+(264620),
+(264621),
+(264622),
+(264623),
+(264624),
+(264625),
+(264626),
+(264627),
+(264628),
+(264629),
+(264630),
+(264631),
+(264632),
+(264633),
+(264634),
+(264635),
+(264636),
+(264637),
+(264638),
+(264639),
+(264640),
+(264641),
+(264642),
+(264643),
+(264644),
+(264645),
+(264646),
+(264647),
+(264648),
+(264649),
+(264650),
+(264651),
+(264652),
+(264653),
+(264654),
+(264655),
+(264656),
+(264657),
+(264658),
+(264659),
+(264660),
+(264661),
+(264662),
+(264663),
+(264664),
+(264665),
+(264666),
+(264667),
+(264668),
+(264669),
+(264670),
+(264671),
+(264672),
+(264673),
+(264674),
+(264675),
+(264676),
+(264677),
+(264678),
+(264679),
+(264680),
+(264681),
+(264853),
+(264854),
+(264855),
+(264856),
+(264857),
+(264858),
+(264859),
+(264864),
+(264865),
+(264866),
+(264867),
+(264868),
+(264869),
+(264870),
+(264871),
+(264872),
+(264873),
+(264874),
+(264875),
+(264876),
+(264877),
+(264878),
+(264879),
+(264880),
+(264881),
+(264882),
+(264883),
+(264884),
+(264885),
+(264886),
+(264887),
+(264888),
+(264889),
+(264890),
+(264891),
+(264892),
+(264893),
+(264894),
+(264895),
+(264896),
+(264897),
+(264898),
+(264901),
+(264902),
+(264903),
+(264904),
+(264905),
+(264906),
+(264907),
+(264908),
+(264909),
+(264910),
+(264911),
+(264912),
+(264913),
+(264914),
+(264915),
+(264916),
+(264917),
+(264918),
+(264919),
+(264920),
+(264921),
+(264922),
+(264923),
+(264924),
+(264925),
+(264926),
+(264927),
+(264928),
+(264929),
+(264930),
+(264931),
+(264932),
+(264933),
+(264934),
+(264935),
+(264936),
+(264937),
+(264938),
+(264939),
+(264940),
+(264941),
+(264942),
+(264943),
+(264944),
+(264945),
+(264946),
+(264947),
+(264948),
+(264949),
+(264950),
+(264951),
+(264952),
+(264953),
+(264954),
+(264955),
+(264956),
+(264957),
+(264958),
+(264959),
+(264960),
+(264961),
+(264962),
+(264963),
+(264964),
+(264965),
+(264966),
+(264967),
+(264968),
+(264969),
+(264970),
+(264971),
+(264972),
+(264973),
+(264974),
+(264975),
+(264976),
+(264977),
+(264978),
+(264979),
+(264980),
+(264981),
+(264982),
+(264983),
+(264984),
+(264985),
+(264986),
+(264987),
+(264988),
+(264989),
+(264990),
+(264991),
+(264992),
+(264993),
+(264994),
+(264995),
+(264996),
+(264997),
+(264998),
+(264999),
+(265000),
+(265001),
+(265002),
+(265003),
+(265004),
+(265005),
+(265006),
+(265007),
+(265008),
+(265009),
+(265010),
+(265011),
+(265012),
+(265013),
+(265014),
+(265015),
+(265016),
+(265017),
+(265018),
+(265019),
+(265020),
+(265021),
+(265022),
+(265023),
+(265024),
+(265025),
+(265026),
+(265027),
+(265028),
+(265029),
+(265030),
+(265031),
+(265032),
+(265033),
+(265034),
+(265035),
+(265036),
+(265037),
+(265038),
+(265039),
+(265040),
+(265041),
+(265042),
+(265043),
+(265044),
+(265045),
+(265046),
+(265047),
+(265048),
+(265049),
+(265050),
+(265051),
+(265052),
+(265053),
+(265054),
+(265055),
+(265056),
+(265057),
+(265058),
+(265059),
+(265060),
+(265061),
+(265062),
+(265063),
+(265064),
+(265065),
+(265066),
+(265067),
+(265068),
+(265069),
+(265070),
+(265071),
+(265072),
+(265073),
+(265074),
+(265075),
+(265076),
+(265077),
+(265078),
+(265079),
+(265080),
+(265081),
+(265082),
+(265083),
+(265084),
+(265085),
+(265086),
+(265087),
+(265088),
+(265089),
+(265090),
+(265091),
+(265092),
+(265093),
+(265094),
+(265095),
+(265096),
+(265097),
+(265098),
+(265099),
+(265100),
+(265101),
+(265102),
+(265103),
+(265104),
+(265105),
+(265106),
+(265107),
+(265108),
+(265109),
+(265110),
+(265111),
+(265112),
+(265113),
+(265114),
+(265115),
+(265116),
+(265117),
+(265118),
+(265119),
+(265120),
+(265121),
+(265122),
+(265123),
+(265124),
+(265125),
+(265126),
+(265127),
+(265128),
+(265129),
+(265130),
+(265131),
+(265132),
+(265133),
+(265134),
+(265135),
+(265136),
+(265137),
+(265138),
+(265139),
+(265140),
+(265141),
+(265142),
+(265143),
+(265144),
+(265145),
+(265146),
+(265147),
+(265148),
+(265149),
+(265150),
+(265151),
+(265152),
+(265153),
+(265154),
+(265155),
+(265156),
+(265157),
+(265158),
+(265159),
+(265160),
+(265161),
+(265162),
+(265163),
+(265164),
+(265165),
+(265166),
+(265167),
+(265168),
+(265169),
+(265170),
+(265171),
+(265172),
+(265173),
+(265174),
+(265175),
+(265176),
+(265177),
+(265178),
+(265179),
+(265180),
+(265181),
+(265182),
+(265183),
+(265184),
+(265185),
+(265186),
+(265187),
+(265188),
+(265189),
+(265190),
+(265191),
+(265192),
+(265193),
+(265194),
+(265195),
+(265196),
+(265197),
+(265198),
+(265199),
+(265200),
+(265201),
+(265202),
+(265203),
+(265204),
+(265205),
+(265206),
+(265207),
+(265208),
+(265209),
+(265210),
+(265211),
+(265212),
+(265213),
+(265214),
+(265215),
+(265216),
+(265217),
+(265218),
+(265219),
+(265220),
+(265221),
+(265222),
+(265223),
+(265224),
+(265225),
+(265226),
+(265227),
+(265228),
+(265229),
+(265230),
+(265231),
+(265232),
+(265233),
+(265234),
+(265235),
+(265236),
+(265237),
+(265238),
+(265239),
+(265240),
+(265241),
+(265242),
+(265243),
+(265244),
+(265245),
+(265246),
+(265247),
+(265248),
+(265249),
+(265250),
+(265251),
+(265252),
+(265253),
+(265254),
+(265255),
+(265256),
+(265257),
+(265258),
+(265259),
+(265260),
+(265261),
+(265262),
+(265263),
+(265264),
+(265265),
+(265266),
+(265267),
+(265268),
+(265269),
+(265270),
+(265271),
+(265272),
+(265273),
+(265274),
+(265275),
+(265276),
+(265277),
+(265278),
+(265279),
+(265280),
+(265281),
+(265282),
+(265283),
+(265284),
+(265285),
+(265286),
+(265287),
+(265288),
+(265289),
+(265290),
+(265291),
+(265292),
+(265293),
+(265294),
+(265295),
+(265296),
+(265297),
+(265298),
+(265299),
+(265300),
+(265301),
+(265302),
+(265303),
+(265304),
+(265305),
+(265306),
+(265307),
+(265308),
+(265309),
+(265310),
+(265311),
+(265312),
+(265313),
+(265314),
+(265315),
+(265316),
+(265317),
+(265318),
+(265319),
+(265320),
+(265441),
+(265442),
+(265443),
+(265444),
+(265445),
+(265446),
+(265447),
+(265448),
+(265449),
+(265450),
+(265451),
+(265452),
+(265453),
+(265454),
+(265455),
+(265456),
+(265457),
+(265458),
+(265459),
+(265460),
+(265461),
+(265462),
+(265463),
+(265464),
+(265465),
+(265466),
+(265467),
+(265468),
+(265469),
+(265470),
+(265471),
+(265480),
+(266103),
+(266228),
+(266281),
+(266282),
+(266283),
+(266284),
+(266285),
+(266286),
+(266287),
+(266288),
+(266289),
+(266290),
+(266291),
+(266292),
+(266293),
+(266294),
+(266295),
+(266296),
+(266297),
+(266298),
+(266299),
+(266300),
+(266301),
+(266302),
+(266303),
+(266304),
+(266305),
+(266306),
+(266307),
+(266308),
+(266309),
+(266310),
+(266311),
+(266312),
+(266337),
+(266338),
+(266339),
+(266340),
+(266341),
+(266342),
+(266343),
+(266344),
+(266345),
+(266346),
+(266347),
+(266348),
+(266349),
+(266350),
+(266351),
+(266806),
+(266915),
+(266922),
+(266971),
+(266974),
+(266992),
+(266993),
+(266994),
+(266995),
+(267026),
+(267027),
+(267028),
+(267031),
+(267032),
+(267125),
+(267127),
+(267128),
+(267158),
+(267164),
+(267165),
+(267166),
+(267167),
+(267168),
+(267253),
+(267254),
+(267255),
+(267256),
+(267257),
+(267258),
+(267259),
+(267260),
+(267261),
+(267281),
+(267282),
+(267285),
+(267286),
+(267351),
+(267352),
+(267353),
+(267354),
+(267356),
+(267357),
+(267363),
+(267364),
+(267365),
+(267366),
+(267367),
+(267368),
+(267369),
+(267370),
+(267371),
+(267372),
+(267373),
+(267374),
+(267375),
+(267376),
+(267377),
+(267378),
+(267379),
+(267380),
+(267381),
+(267382),
+(267383),
+(267384),
+(267509),
+(267510),
+(267511),
+(267512),
+(267513),
+(267514),
+(267515),
+(267528),
+(267560),
+(267561),
+(267562),
+(267563),
+(267564),
+(267565),
+(267566),
+(267567),
+(267568),
+(267569),
+(267570),
+(267571),
+(267572),
+(267573),
+(267574),
+(267575),
+(267576),
+(267577),
+(267578),
+(267579),
+(267580),
+(267581),
+(267582),
+(267583),
+(267598),
+(267599),
+(267600),
+(267601),
+(267603),
+(267604),
+(267605),
+(267606),
+(267607),
+(267608),
+(267609),
+(267611),
+(267612),
+(267615),
+(267617),
+(267618),
+(267619),
+(267620),
+(267621),
+(267623),
+(267624),
+(267625),
+(267626),
+(267627),
+(267629),
+(267630),
+(267631),
+(267632),
+(267633),
+(267634),
+(267635),
+(267636),
+(267637),
+(267638),
+(267639),
+(267640),
+(267641),
+(267642),
+(267643),
+(267645),
+(267646),
+(267647),
+(267648),
+(267651),
+(267652),
+(267653),
+(267656),
+(267678),
+(267682),
+(267695),
+(267696),
+(267706),
+(267707),
+(267712),
+(267720),
+(267721),
+(267722),
+(267723),
+(267724),
+(267725),
+(267752),
+(267753),
+(267754),
+(267755),
+(267756),
+(267757),
+(267780),
+(267789),
+(267790),
+(267798),
+(267905),
+(267906),
+(267907),
+(267909),
+(267911),
+(267912),
+(267913),
+(267916),
+(267917),
+(267919),
+(267920),
+(267931),
+(267932),
+(267933),
+(267934),
+(267935),
+(267936),
+(267937),
+(267938),
+(267939),
+(268003),
+(268004),
+(268005),
+(268006),
+(268081),
+(268170),
+(268171),
+(268186),
+(268291),
+(268305),
+(268306),
+(268307),
+(268308),
+(268357),
+(268467),
+(268468),
+(268469),
+(268470),
+(268471),
+(268472),
+(268473),
+(268495),
+(268497),
+(268498),
+(268503),
+(268504),
+(268505),
+(268506),
+(268507),
+(268610),
+(268695),
+(269401),
+(269402),
+(269403),
+(269404),
+(269405),
+(269406),
+(269407),
+(269408),
+(269409),
+(269410),
+(269411),
+(269412),
+(269413),
+(269414),
+(269415),
+(269416),
+(269417),
+(269418),
+(269441),
+(269443),
+(269444),
+(269445),
+(269455),
+(269456),
+(269460),
+(269461),
+(269463),
+(269464),
+(269465),
+(269469),
+(269470),
+(269472),
+(269473),
+(269475),
+(269483),
+(269511),
+(269513),
+(269516),
+(269517),
+(269827),
+(269842),
+(269843),
+(269896), -- Frozen Shoulderpads
+(269897), -- Shoulderpads of the Icy Wastes
+(269898),
+(269899),
+(269900),
+(269901),
+(269902),
+(269903),
+(269908),
+(269910),
+(269985),
+(269986),
+(269987),
+(269990),
+(269993),
+(269994),
+(269996),
+(269997),
+(269999),
+(270246),
+(270392),
+(270393),
+(270394),
+(270714),
+(270746),
+(270747),
+(270750),
+(270751),
+(270752),
+(270753),
+(270755),
+(270759),
+(270761),
+(270762),
+(270763),
+(270766),
+(270767),
+(270768),
+(270769),
+(270770),
+(270772),
+(270778),
+(270782),
+(270783),
+(270785),
+(270786),
+(270789),
+(270790),
+(270791),
+(270795),
+(270797),
+(270798),
+(270799),
+(270800),
+(270801),
+(270802),
+(270803),
+(270804),
+(270805),
+(270806),
+(270807),
+(270808),
+(270809),
+(272371),
+(272372),
+(272374),
+(272399),
+(272537),
+(272662),
+(272664),
+(272668),
+(272670),
+(272672),
+(272674),
+(272678),
+(272680),
+(272682),
+(272684),
+(272688),
+(273059),
+(273061),
+(273062),
+(273285),
+(273287),
+(273288),
+(273289),
+(273290),
+(273291),
+(273293),
+(273296),
+(273298),
+(273299),
+(273300),
+(273301),
+(273302),
+(273307),
+(273308),
+(273312),
+(273314),
+(273315),
+(273317),
+(273318),
+(273319),
+(273320),
+(273321),
+(273322),
+(273323),
+(273341),
+(273342),
+(273343),
+(273345),
+(273346),
+(273347),
+(273349),
+(273350),
+(273351),
+(273352),
+(273354),
+(273355),
+(273356),
+(273357),
+(273358),
+(273359),
+(273361),
+(273362),
+(273364),
+(273365),
+(273366),
+(273367),
+(273369),
+(273370),
+(273371),
+(273372),
+(273373),
+(273374),
+(273375),
+(273376),
+(273377),
+(273378),
+(273379),
+(273380),
+(273382),
+(273385),
+(273386),
+(273387),
+(273388),
+(273390),
+(273392),
+(273393),
+(273394),
+(273395),
+(273396),
+(273398),
+(273399),
+(273400),
+(273401),
+(273402),
+(273403),
+(273407),
+(273410),
+(273411),
+(273412),
+(273413),
+(273629),
+(273630),
+(273631),
+(273633),
+(273645),
+(273646),
+(273648),
+(273650),
+(273680),
+(273738),
+(273740),
+(273742),
+(273746),
+(274416),
+(274541),
+(274542),
+(274543),
+(274544),
+(274545),
+(274546),
+(274547),
+(274548),
+(274549),
+(274550),
+(274551),
+(274553),
+(274554),
+(274555),
+(274556),
+(274557),
+(274559),
+(274560),
+(274973),
+(274976),
+(275005),
+(275007),
+(275009),
+(275010),
+(275011),
+(275013),
+(275014),
+(275015),
+(275016),
+(275017),
+(275018),
+(275019),
+(275020),
+(275024),
+(275026),
+(275027),
+(275028),
+(275029),
+(275030),
+(275031),
+(275032),
+(275036),
+(275041),
+(275043),
+(275044),
+(275134),
+(275137),
+(275381),
+(275679),
+(275680),
+(275692),
+(275697),
+(275698),
+(275700),
+(275701),
+(275706),
+(275815),
+(275816),
+(275817),
+(275821),
+(275822),
+(275823),
+(275824),
+(275826),
+(275829),
+(275830),
+(275833),
+(275835),
+(275837),
+(275838),
+(275839),
+(275841),
+(275843),
+(275844),
+(275846),
+(275848),
+(275849),
+(275851),
+(275852),
+(275853),
+(275854),
+(275905),
+(276061),
+(276068),
+(276514),
+(276515),
+(276516),
+(276517),
+(276518),
+(276519),
+(276520),
+(276521),
+(276522),
+(276523),
+(276524),
+(276525),
+(276526),
+(276527),
+(276528),
+(276529),
+(276530),
+(276531),
+(276532),
+(276533),
+(276534),
+(276535),
+(276536),
+(276537),
+(276538),
+(276539),
+(276540),
+(276541),
+(276543),
+(276544),
+(276545),
+(276546),
+(276547),
+(276548),
+(276549),
+(276550),
+(276551),
+(276552),
+(276553),
+(276554),
+(276555),
+(276556),
+(276558),
+(276559),
+(276560),
+(276561),
+(276562),
+(276563),
+(276564),
+(276565),
+(276566),
+(276567),
+(276568),
+(276569),
+(276570),
+(276571),
+(276572),
+(276573),
+(276574),
+(276575),
+(276576),
+(276577),
+(276578),
+(276579),
+(276580),
+(276581),
+(276582),
+(276583),
+(276584),
+(276585),
+(276586),
+(276587),
+(276588),
+(276589),
+(276590),
+(276591),
+(276592),
+(276593),
+(276594),
+(276595),
+(276596),
+(276597),
+(276598),
+(276599),
+(276602),
+(276603),
+(276604),
+(276605),
+(276606),
+(276607),
+(276608),
+(276670),
+(276671),
+(276672),
+(276673),
+(276674),
+(276680),
+(276681),
+(276682),
+(276683),
+(276684),
+(276685),
+(276686),
+(276687),
+(276688),
+(276689),
+(276690),
+(276691),
+(276692),
+(276693),
+(276694),
+(276695),
+(276696),
+(276697),
+(276698),
+(276699),
+(276700),
+(276701),
+(276702),
+(276703),
+(276704),
+(276705),
+(276706),
+(276707),
+(276708),
+(276709),
+(276710),
+(276711),
+(276712),
+(276713),
+(276714),
+(276715),
+(276716),
+(276717),
+(276718),
+(276719),
+(276720),
+(276721),
+(276722),
+(276723),
+(276724),
+(276725),
+(276726),
+(276727),
+(276728),
+(276729),
+(276730),
+(276731),
+(276732),
+(276733),
+(276734),
+(276735),
+(276736),
+(276737),
+(276738),
+(276739),
+(276741),
+(276742),
+(276743),
+(276744),
+(276745),
+(276746),
+(276747),
+(276748),
+(276749),
+(276750),
+(276751),
+(276752),
+(276753),
+(276754),
+(276755),
+(276756),
+(276757),
+(276758),
+(276759),
+(276760),
+(276761),
+(276762),
+(276763),
+(276764),
+(276765),
+(276766),
+(276767),
+(276768),
+(276769),
+(276770),
+(276771),
+(276772),
+(276773),
+(276774),
+(276775),
+(276776),
+(276777),
+(276778),
+(276779),
+(276780),
+(276781),
+(276782),
+(276783),
+(276784),
+(276785),
+(276786),
+(276787),
+(276788),
+(276789),
+(276790),
+(276791),
+(276792),
+(276793),
+(276794),
+(276795),
+(276796),
+(276797),
+(276798),
+(276799),
+(276800),
+(276801),
+(276802),
+(276803),
+(276804),
+(276805),
+(276806),
+(276807),
+(276808),
+(276809),
+(276810),
+(276811),
+(276812),
+(276813),
+(276814),
+(276815),
+(276816),
+(276817),
+(276818),
+(277042),
+(277043),
+(277044),
+(277045),
+(277046),
+(277047),
+(277048),
+(277049),
+(277050),
+(277051),
+(277052),
+(277053),
+(277054),
+(277055),
+(277056),
+(277057),
+(277058),
+(277059),
+(277060),
+(277061),
+(277062),
+(277063),
+(277064),
+(277065),
+(277066),
+(277067),
+(277068),
+(277069),
+(277070),
+(277071),
+(277072),
+(277073),
+(277074),
+(277075),
+(277076),
+(277077),
+(277078),
+(277079),
+(277080),
+(277081),
+(277082),
+(277083),
+(277084),
+(277085),
+(277086),
+(277087),
+(277088),
+(277089),
+(277090),
+(277091),
+(277092),
+(277093),
+(277094),
+(277095),
+(277096),
+(277097),
+(277098),
+(277099),
+(277100),
+(277101),
+(277102),
+(277103),
+(277104),
+(277105),
+(277106),
+(277107),
+(277108),
+(277109),
+(277110),
+(277111),
+(277112),
+(277113),
+(277114),
+(277115),
+(277116),
+(277117),
+(277118),
+(277119),
+(277120),
+(277121),
+(277122),
+(277123),
+(277124),
+(277125),
+(277126),
+(277127),
+(277128),
+(277129),
+(277130),
+(277131),
+(277132),
+(277133),
+(277134),
+(277135),
+(277136),
+(277137),
+(277138),
+(277139),
+(277140),
+(277141),
+(277142),
+(277143),
+(277144),
+(277145),
+(277146),
+(277147),
+(277148),
+(277149),
+(277150),
+(277151),
+(277152),
+(277153),
+(277154),
+(277155),
+(277156),
+(277157),
+(277158),
+(277159),
+(277160),
+(277161),
+(277162),
+(277163),
+(277164),
+(277165),
+(277166),
+(277183),
+(277184),
+(277185),
+(277186),
+(277187),
+(277188),
+(277189),
+(277190),
+(277191),
+(277192),
+(277193),
+(277194),
+(277195),
+(277196),
+(277197),
+(277198),
+(277199),
+(277200),
+(277201),
+(277202),
+(277203),
+(277204),
+(277205),
+(277206),
+(277207),
+(277208),
+(277209),
+(277210),
+(277211),
+(277212),
+(277213),
+(277214),
+(277215),
+(277216),
+(277217),
+(277218),
+(277219),
+(277220),
+(277221),
+(277222),
+(277223),
+(277224),
+(277225),
+(277226),
+(277227),
+(277228),
+(277229),
+(277230),
+(277231),
+(277232),
+(277233),
+(277234),
+(277235),
+(277236),
+(277237),
+(277238),
+(277239),
+(277240),
+(277241),
+(277242),
+(277243),
+(277244),
+(277245),
+(277246),
+(277247),
+(277248),
+(277249),
+(277250),
+(277251),
+(277252),
+(277253),
+(277254),
+(277255),
+(277256),
+(277257),
+(277262),
+(277263),
+(277264),
+(277265),
+(277266),
+(277267),
+(277268),
+(277269),
+(277270),
+(277271),
+(277272),
+(277273),
+(277274),
+(277275),
+(277276),
+(277277),
+(277278),
+(277279),
+(277280),
+(277281),
+(277282),
+(277283),
+(277284),
+(277285),
+(277286),
+(277287),
+(277288),
+(277289),
+(277290),
+(277291),
+(277292),
+(277293),
+(277294),
+(277295),
+(277296),
+(277297),
+(277298),
+(277299),
+(277300),
+(277301),
+(277302),
+(277303),
+(277304),
+(277305),
+(277306),
+(277307),
+(277308),
+(277309),
+(277310),
+(277311),
+(277312),
+(277313),
+(277314),
+(277315),
+(277316),
+(277317),
+(277318),
+(277319),
+(277320),
+(277321),
+(277322),
+(277323),
+(277324),
+(277325),
+(277326),
+(277327),
+(277328),
+(277329),
+(277330),
+(277331),
+(277332),
+(277333),
+(277334),
+(277335),
+(277336),
+(277337),
+(277338),
+(277339),
+(277340),
+(277341),
+(277342),
+(277343),
+(277344),
+(277345),
+(277346),
+(277347),
+(277348),
+(277349),
+(277350),
+(277351),
+(277352),
+(277353),
+(277354),
+(277355),
+(277356),
+(277357),
+(277358),
+(277359),
+(277360),
+(277361),
+(277362),
+(277363),
+(277364),
+(277365),
+(277366),
+(277367),
+(277368),
+(277369),
+(277370),
+(277371),
+(277372),
+(277373),
+(277374),
+(277375),
+(277376),
+(277432),
+(277433),
+(277434),
+(277435),
+(277436),
+(277502),
+(277503),
+(277504),
+(277505),
+(277506),
+(277507),
+(277508),
+(277509),
+(277510),
+(277511),
+(277512),
+(277513),
+(277514),
+(277515),
+(277516),
+(277517),
+(277518),
+(277519),
+(277520),
+(277521),
+(277522),
+(277523),
+(277524),
+(277525),
+(277526),
+(277527),
+(277528),
+(277529),
+(277530),
+(277531),
+(277532),
+(277533),
+(277534),
+(277535),
+(277536),
+(277541),
+(277542),
+(277543),
+(277544),
+(277545),
+(277546),
+(277547),
+(277548),
+(277549),
+(277550),
+(277552),
+(277553),
+(277554),
+(277555),
+(277556),
+(277557),
+(277558),
+(277559),
+(277560),
+(277561),
+(277562),
+(277563),
+(277564),
+(277565),
+(277566),
+(277567),
+(277568),
+(277569),
+(277570),
+(277571),
+(277572),
+(277573),
+(277574),
+(277575),
+(277576),
+(277577),
+(277578),
+(277579),
+(277580),
+(277581),
+(277582),
+(277583),
+(277584),
+(277585),
+(277586),
+(277587),
+(277588),
+(277589),
+(277590),
+(277591),
+(277592),
+(277593),
+(277594),
+(277595),
+(277596),
+(277597),
+(277598),
+(277599),
+(277600),
+(277601),
+(277602),
+(277603),
+(277604),
+(277605),
+(277606),
+(277607),
+(277608),
+(277609),
+(277610),
+(277611),
+(277612),
+(277613),
+(277614),
+(277615),
+(277616),
+(277617),
+(277618),
+(277619),
+(277620),
+(277621),
+(277622),
+(277623),
+(277624),
+(277625),
+(277626),
+(277627),
+(277628),
+(277629),
+(277630),
+(277631),
+(277632),
+(277633),
+(277634),
+(277635),
+(277636),
+(277637),
+(277638),
+(277639),
+(277640),
+(277641),
+(277642),
+(277643),
+(277644),
+(277645),
+(277646),
+(277647),
+(277648),
+(277649),
+(277650),
+(277651),
+(277652),
+(277653),
+(277654),
+(277655),
+(277656),
+(277657),
+(277658),
+(277659),
+(277660),
+(277661),
+(277662),
+(277663),
+(277664),
+(277665),
+(277666),
+(277667),
+(277668),
+(277669),
+(277670),
+(277671),
+(277672),
+(277673),
+(277674),
+(277675),
+(277676),
+(277677),
+(277678),
+(277679),
+(277680),
+(277681),
+(277682),
+(277683),
+(277684),
+(277685),
+(277686),
+(277687),
+(277688),
+(277689),
+(277690),
+(277691),
+(277692),
+(277693),
+(277694),
+(277695),
+(277696),
+(277697),
+(277698),
+(277699),
+(277700),
+(277701),
+(277702),
+(277703),
+(277704),
+(277705),
+(277706),
+(277707),
+(277708),
+(277709),
+(277710),
+(277711),
+(277714),
+(277715),
+(277716),
+(277717),
+(277718),
+(277719),
+(277720),
+(277721),
+(277722),
+(277723),
+(277724),
+(277725),
+(277726),
+(277727),
+(277728),
+(277729),
+(277730),
+(277731),
+(277732),
+(277733),
+(277734),
+(277735),
+(277736),
+(277737),
+(277738),
+(277739),
+(277740),
+(277741),
+(277742),
+(277743),
+(277744),
+(277745),
+(277746),
+(277747),
+(277748),
+(277749),
+(277750),
+(277751),
+(277752),
+(277753),
+(277754),
+(277755),
+(277756),
+(277757),
+(277758),
+(277759),
+(277760),
+(277761),
+(277762),
+(277763),
+(277764),
+(277765),
+(277766),
+(277767),
+(277768),
+(277769),
+(277770),
+(277771),
+(277772),
+(277773),
+(277774),
+(277775),
+(277776),
+(277777),
+(277778),
+(277779),
+(277780),
+(277781),
+(277782),
+(277783),
+(277784),
+(277785),
+(277786),
+(277787),
+(277788),
+(277789),
+(277790),
+(277791),
+(277792),
+(277793),
+(277794),
+(277795),
+(277796),
+(277797),
+(277798),
+(277799),
+(277800),
+(277801),
+(277802),
+(277803),
+(277804),
+(277805),
+(277806),
+(277807),
+(277808),
+(277809),
+(277810),
+(277811),
+(277812),
+(277813),
+(277814),
+(277815),
+(277816),
+(277817),
+(277818),
+(277819),
+(277820),
+(277821),
+(277822),
+(277823),
+(277933),
+(277934),
+(277935),
+(277936),
+(277937),
+(278007),
+(278008),
+(278009),
+(278010),
+(278011),
+(278012),
+(278013),
+(278014),
+(278015),
+(278016),
+(278017),
+(278018),
+(278019),
+(278020),
+(278021),
+(278022),
+(278023),
+(278024),
+(278025),
+(278026),
+(278027),
+(278028),
+(278029),
+(278030),
+(278031),
+(278040),
+(278041),
+(278042),
+(278043),
+(278044),
+(278045),
+(278046),
+(278047),
+(278048),
+(278049),
+(278050),
+(278051),
+(278052),
+(278053),
+(278054),
+(278055),
+(278056),
+(278057),
+(278058),
+(278059),
+(278060),
+(278061),
+(278062),
+(278063),
+(278064),
+(278065),
+(278066),
+(278067),
+(278068),
+(278069),
+(278070),
+(278071),
+(278072),
+(278073),
+(278074),
+(278075),
+(278076),
+(278077),
+(278078),
+(278079),
+(278080),
+(278081),
+(278082),
+(278083),
+(278084),
+(278085),
+(278086),
+(278087),
+(278088),
+(278089),
+(278090),
+(278091),
+(278092),
+(278093),
+(278094),
+(278095),
+(278096),
+(278097),
+(278098),
+(278099),
+(278100),
+(278101),
+(278102),
+(278103),
+(278104),
+(278105),
+(278106),
+(278107),
+(278108),
+(278109),
+(278110),
+(278111),
+(278112),
+(278113),
+(278114),
+(278115),
+(278116),
+(278117),
+(278118),
+(278119),
+(278120),
+(278121),
+(278122),
+(278123),
+(278124),
+(278125),
+(278126),
+(278127),
+(278128),
+(278129),
+(278130),
+(278131),
+(278132),
+(278133),
+(278134),
+(278135),
+(278136),
+(278137),
+(278138),
+(278139),
+(278140),
+(278141),
+(278142),
+(278143),
+(278144),
+(278145),
+(278146),
+(278147),
+(278148),
+(278149),
+(278150),
+(278151),
+(278152),
+(278153),
+(278154),
+(278155),
+(278156),
+(278157),
+(278158),
+(278159),
+(278160),
+(278161),
+(278162),
+(278163),
+(278164),
+(278165),
+(278166),
+(278167),
+(278168),
+(278169),
+(278170),
+(278171),
+(278172),
+(278173),
+(278174),
+(278175),
+(278176),
+(278177),
+(278178),
+(278179),
+(278180),
+(278181),
+(278182),
+(278183),
+(278184),
+(278185),
+(278186),
+(278187),
+(278188),
+(278189),
+(278190),
+(278191),
+(278192),
+(278193),
+(278194),
+(278195),
+(278196),
+(278197),
+(278198),
+(278199),
+(278200),
+(278201),
+(278202),
+(278203),
+(278204),
+(278205),
+(278206),
+(278207),
+(278208),
+(278209),
+(278210),
+(278211),
+(278212),
+(278213),
+(278214),
+(278215),
+(278216),
+(278217),
+(278218),
+(278219),
+(278220),
+(278221),
+(278222),
+(278223),
+(278224),
+(278225),
+(278226),
+(278227),
+(278228),
+(278229),
+(278230),
+(278231),
+(278232),
+(278233),
+(278234),
+(278235),
+(278236),
+(278237),
+(278238),
+(278239),
+(278240),
+(278241),
+(278242),
+(278243),
+(278244),
+(278245),
+(278246),
+(278247),
+(278248),
+(278249),
+(278250),
+(278251),
+(278252),
+(278253),
+(278254),
+(278255),
+(278256),
+(278257),
+(278258),
+(278259),
+(278260),
+(278261),
+(278262),
+(278263),
+(278264),
+(278265),
+(278266),
+(278267),
+(278268),
+(278269),
+(278270),
+(278271),
+(278272),
+(278273),
+(278274),
+(278275),
+(278276),
+(278277),
+(278278),
+(278279),
+(278280),
+(278281),
+(278282),
+(278283),
+(278284),
+(278285),
+(278286),
+(278287),
+(278288),
+(278289),
+(278290),
+(278291),
+(278292),
+(278293),
+(278294),
+(278295),
+(278296),
+(278297),
+(278298),
+(278299),
+(278300),
+(278301),
+(278302),
+(278303),
+(278304),
+(278305),
+(278306),
+(278307),
+(278308),
+(278309),
+(278310),
+(278311),
+(278312),
+(278313),
+(278314),
+(278315),
+(278316),
+(278317),
+(278318),
+(278319),
+(278320),
+(278321),
+(278322),
+(278323),
+(278324),
+(278325),
+(278326),
+(278327),
+(278328),
+(278329),
+(278330),
+(278331),
+(278332),
+(278333),
+(278334),
+(278335),
+(278336),
+(278337),
+(278338),
+(278339),
+(278340),
+(278341),
+(278342),
+(278343),
+(278344),
+(278345),
+(278346),
+(278347),
+(278348),
+(278349),
+(278350),
+(278351),
+(278352),
+(278353),
+(278354),
+(278355),
+(278356),
+(278357),
+(278358),
+(278359),
+(278360),
+(278361),
+(278362),
+(278363),
+(278364),
+(278365),
+(278366),
+(278367),
+(278368),
+(278369),
+(278370),
+(278371),
+(278372),
+(278373),
+(278374),
+(278375),
+(278376),
+(278377),
+(278378),
+(278379),
+(278380),
+(278381),
+(278382),
+(278383),
+(278384),
+(278385),
+(278386),
+(278387),
+(278388),
+(278389),
+(278390),
+(278391),
+(278392),
+(278393),
+(278394),
+(278395),
+(278396),
+(278397),
+(278398),
+(278399),
+(278400),
+(278401),
+(278402),
+(278403),
+(278404),
+(278405),
+(278406),
+(278407),
+(278408),
+(278409),
+(278410),
+(278411),
+(278412),
+(278413),
+(278414),
+(278415),
+(278416),
+(278417),
+(278418),
+(278419),
+(278420),
+(278421),
+(278422),
+(278423),
+(278424),
+(278425),
+(278426),
+(278427),
+(278428),
+(278429),
+(278430),
+(278431),
+(278432),
+(278433),
+(278434),
+(278435),
+(278436),
+(278437),
+(278438),
+(278439),
+(278440),
+(278441),
+(278442),
+(278443),
+(278444),
+(278445),
+(278446),
+(278447),
+(278448),
+(278449),
+(278450),
+(278451),
+(278452),
+(278453),
+(278454),
+(278455),
+(278456),
+(278457),
+(278458),
+(278459),
+(278460),
+(278461),
+(278462),
+(278463),
+(278464),
+(278465),
+(278466),
+(278467),
+(278468),
+(278469),
+(278470),
+(278471),
+(278472),
+(278473),
+(278474),
+(278475),
+(278476),
+(278477),
+(278478),
+(278479),
+(278480),
+(278481),
+(278482),
+(278483),
+(278484),
+(278485),
+(278486),
+(278487),
+(278488),
+(278489),
+(278753),
+(278754),
+(278755),
+(278756),
+(278757),
+(278758),
+(278759),
+(278760),
+(278761),
+(278762),
+(278763),
+(278764),
+(278765),
+(278766),
+(278767),
+(278768),
+(278769),
+(278770),
+(278771),
+(278772),
+(278773),
+(278774),
+(278775),
+(278776),
+(278777),
+(278778),
+(278779),
+(278780),
+(278781),
+(278782),
+(278892),
+(278893),
+(278894),
+(278895),
+(278896),
+(278897),
+(278898),
+(278899),
+(278900),
+(278901),
+(278902),
+(278903),
+(278904),
+(278907),
+(278908),
+(278909),
+(278910),
+(278911),
+(278912),
+(278913),
+(278914),
+(278915),
+(278916),
+(278917),
+(278918),
+(278919),
+(278944),
+(278945),
+(278946),
+(278947),
+(278948),
+(278949),
+(278950),
+(278951),
+(278952),
+(278953),
+(278954),
+(278955),
+(278956),
+(278957),
+(278958),
+(278959),
+(278960),
+(278961),
+(278962),
+(278963),
+(278964),
+(278965),
+(278966),
+(278967),
+(278968),
+(278969),
+(278970),
+(278971),
+(278972),
+(278973),
+(278974),
+(278975),
+(278976),
+(278977),
+(278978),
+(278979),
+(278980),
+(278981),
+(278982),
+(278983),
+(278984),
+(278985),
+(278986),
+(278987),
+(278988),
+(278989),
+(278990),
+(278991),
+(278992),
+(278993),
+(278994),
+(278995),
+(278996),
+(278997),
+(278998),
+(278999),
+(279000),
+(279001),
+(279002),
+(279003),
+(279004),
+(279005),
+(279006),
+(279007),
+(279008),
+(279009),
+(279010),
+(279011),
+(279012),
+(279013),
+(279014),
+(279015),
+(279016),
+(279017),
+(279018),
+(279019),
+(279020),
+(279021),
+(279022),
+(279023),
+(279024),
+(279025),
+(279026),
+(279027),
+(279028),
+(279029),
+(279030),
+(279031),
+(279032),
+(279033),
+(279034),
+(279035),
+(279036),
+(279037),
+(279038),
+(279039),
+(279040),
+(279041),
+(279042),
+(279043),
+(279044),
+(279045),
+(279046),
+(279047),
+(279048),
+(279049),
+(279050),
+(279051),
+(279052),
+(279053),
+(279054),
+(279055),
+(279056),
+(279057),
+(279058),
+(279059),
+(279060),
+(279068),
+(279069),
+(279070),
+(279071),
+(279072),
+(279073),
+(279074),
+(279075),
+(279076),
+(279077),
+(279078),
+(279079),
+(279080),
+(279081),
+(279082),
+(279083),
+(279084),
+(279085),
+(279086),
+(279087),
+(279088),
+(279089),
+(279090),
+(279091),
+(279092),
+(279093),
+(279094),
+(279095),
+(279096),
+(279097),
+(279098),
+(279099),
+(279100),
+(279101),
+(279102),
+(279103),
+(279104),
+(279105),
+(279106),
+(279107),
+(279108),
+(279109),
+(279110),
+(279111),
+(279112),
+(279113),
+(279114),
+(279115),
+(279116),
+(279117),
+(279118),
+(279119),
+(279120),
+(279121),
+(279122),
+(279123),
+(279124),
+(279125),
+(279126),
+(279127),
+(279128),
+(279129),
+(279130),
+(279131),
+(279132),
+(279133),
+(279134),
+(279135),
+(279136),
+(279137),
+(279138),
+(279139),
+(279140),
+(279141),
+(279142),
+(279143),
+(279144),
+(279145),
+(279146),
+(279147),
+(279148),
+(279149),
+(279150),
+(279151),
+(279152),
+(279153),
+(279154),
+(279155),
+(279156),
+(279157),
+(279158),
+(279159),
+(279160),
+(279161),
+(279162),
+(279163),
+(279164),
+(279165),
+(279166),
+(279167),
+(279168),
+(279169),
+(279170),
+(279171),
+(279172),
+(279173),
+(279174),
+(279175),
+(279189),
+(279190),
+(279191),
+(279192),
+(279193),
+(279194),
+(279195),
+(279196),
+(279199),
+(279200),
+(279204),
+(279205),
+(279206),
+(279207),
+(279208),
+(279209),
+(279210),
+(279211),
+(279212),
+(279213),
+(279214),
+(279215),
+(279216),
+(279217),
+(279219),
+(279220),
+(279221),
+(279222),
+(279223),
+(279224),
+(279225),
+(279226),
+(279227),
+(279228),
+(279229),
+(279230),
+(279231),
+(279232),
+(279321),
+(279322),
+(279323),
+(279324),
+(279325),
+(279436),
+(279437),
+(279438),
+(279439),
+(279440),
+(279441),
+(279449),
+(279450),
+(279451),
+(279452),
+(280050),
+(280482),
+(280717),
+(280718),
+(280719),
+(280720),
+(280721),
+(280722),
+(280723),
+(280724),
+(280725),
+(280726),
+(280727),
+(280728),
+(280729),
+(280730),
+(280756),
+(280757),
+(280758),
+(280759),
+(280760),
+(280761),
+(280762),
+(280763),
+(280764),
+(280765),
+(280766),
+(280767),
+(280768),
+(280769),
+(280770),
+(280771),
+(280772),
+(280773),
+(280774),
+(280775),
+(280776),
+(280777),
+(280778),
+(280779),
+(280780),
+(280781),
+(280782),
+(280783),
+(281045),
+(281046),
+(281047),
+(281048),
+(281049),
+(281050),
+(281051),
+(281052),
+(281053),
+(281054),
+(281055),
+(281056),
+(281057),
+(281058),
+(281194),
+(281196),
+(281197),
+(281198),
+(281199),
+(281200),
+(281201),
+(281202),
+(281203),
+(281204),
+(281205),
+(281206),
+(281207),
+(281208),
+(281239),
+(281264),
+(281267),
+(281334),
+(281503),
+(281504),
+(281505),
+(281506),
+(281507),
+(281962),
+(282113),
+(282116),
+(282117),
+(282118),
+(282119),
+(282120),
+(283379),
+(283380),
+(283644),
+(283651),
+(284599),
+(284959),
+(284960),
+(284961),
+(284962),
+(285614),
+(285637),
+(285638),
+(285639),
+(285640),
+(285641),
+(285642),
+(285643),
+(285644),
+(286458),
+(287048),
+(287049),
+(287050),
+(287051),
+(287053),
+(287054),
+(287055),
+(287057),
+(287058),
+(287060),
+(287061),
+(287062),
+(287063),
+(287064),
+(287065),
+(287066),
+(287067),
+(287068),
+(287556),
+(287559),
+(287754),
+(288084),
+(288106),
+(288107),
+(288125),
+(288126),
+(288128),
+(288129),
+(288131),
+(288132),
+(288134),
+(288139),
+(288140),
+(288204),
+(288281),
+(288283),
+(288284),
+(288285),
+(288286),
+(288287),
+(288288),
+(288289),
+(288290),
+(288291),
+(288292),
+(288293),
+(288294),
+(288295),
+(288296),
+(288297),
+(288298),
+(288658),
+(288659),
+(288660),
+(288661),
+(288662),
+(288663),
+(288664),
+(288665),
+(288666),
+(288667),
+(288668),
+(288669),
+(288670),
+(288671),
+(288719),
+(288720),
+(288773),
+(288862),
+(289048),
+(289049),
+(289062),
+(289063),
+(289077),
+(289078),
+(289091),
+(289092),
+(289783),
+(289784),
+(290480),
+(291931),
+(291932),
+(292152),
+(292153),
+(292154),
+(292155),
+(292157),
+(292183),
+(292184),
+(292185),
+(292186),
+(292187),
+(292188),
+(292189),
+(292190),
+(292191),
+(292194),
+(292564),
+(292565),
+(292566),
+(292603),
+(292604),
+(292605),
+(292606),
+(292607),
+(292608),
+(293115), -- Enigma Grove Sage Armor
+(293398),
+(293633),
+(293634),
+(293635),
+(293636),
+(293637),
+(293641),
+(293642),
+(293644),
+(293645),
+(293646),
+(293648),
+(293649),
+(293650),
+(293651),
+(293652),
+(293693),
+(293699),
+(293701),
+(293726),
+(293727),
+(293728),
+(293729),
+(293730),
+(293731),
+(293732),
+(293733),
+(293734),
+(293735),
+(293736),
+(293737),
+(293738),
+(293739),
+(293740),
+(293741),
+(293742),
+(293743),
+(293744),
+(293745),
+(293746),
+(293754),
+(293755),
+(293756),
+(293757),
+(293758),
+(293759),
+(293760),
+(293761),
+(293762),
+(293763),
+(293764),
+(293765),
+(293766),
+(293767),
+(293768),
+(293769),
+(293770),
+(293771),
+(293772),
+(293773),
+(293774),
+(293775),
+(293776),
+(293777),
+(293778),
+(293779),
+(293780),
+(293781),
+(293782),
+(293783),
+(293784),
+(293785),
+(293786),
+(293787),
+(293788),
+(293789),
+(293790),
+(293791),
+(293792),
+(293793),
+(293794),
+(293795),
+(293899),
+(293900),
+(293908),
+(293993),
+(293995),
+(293996),
+(293997),
+(293999),
+(294000),
+(294001),
+(294977),
+(295079),
+(295080),
+(295081),
+(295082),
+(295083),
+(295084),
+(295106),
+(295107),
+(295108),
+(295109),
+(295110),
+(295111),
+(295112),
+(295329),
+(295715),
+(296328),
+(296333),
+(296334),
+(296363),
+(296364),
+(296365),
+(296366),
+(296367),
+(296368),
+(296369),
+(296370),
+(296371),
+(296372),
+(296373),
+(296374),
+(296375),
+(296376),
+(296377),
+(296378),
+(296379),
+(296380),
+(296433),
+(297333),
+(297342),
+(297650),
+(297651),
+(297652),
+(297653),
+(297654),
+(297655),
+(297656),
+(297657),
+(297658),
+(297659),
+(297660),
+(297661),
+(297662),
+(297663),
+(297664),
+(297665),
+(297666),
+(297667),
+(300505),
+(300506),
+(300507),
+(300528),
+(300555),
+(300673),
+(300674),
+(300690),
+(300691),
+(300693),
+(300694),
+(300696),
+(300697),
+(300700),
+(300701),
+(300703),
+(300704),
+(300705),
+(300706),
+(300913),
+(301082),
+(301117),
+(301119),
+(301132),
+(301133),
+(301144),
+(301153),
+(301154),
+(301161),
+(301191),
+(301327),
+(301333),
+(301492),
+(301493),
+(301541),
+(301542),
+(301593),
+(301594),
+(301609),
+(301610),
+(301623),
+(301624),
+(301626),
+(301627),
+(301679),
+(301693),
+(301694),
+(301695),
+(301696),
+(301697),
+(301698),
+(301743),
+(301744),
+(301745),
+(301838),
+(301839),
+(301853),
+(301854),
+(301855),
+(301856),
+(301857),
+(301859),
+(301860),
+(301861),
+(301863),
+(301885),
+(301888),
+(301889),
+(301895),
+(301896),
+(301899),
+(301900),
+(301901),
+(301934),
+(301935),
+(302065),
+(302066),
+(302074),
+(302076),
+(302080),
+(302164),
+(302188),
+(302189),
+(302217),
+(302218),
+(302220),
+(302221),
+(302223),
+(302224),
+(302229),
+(302230),
+(302235),
+(302237),
+(302243),
+(302244),
+(302247),
+(302248),
+(302254),
+(302255),
+(302257),
+(302258),
+(302274),
+(302275),
+(302354),
+(302355),
+(302356),
+(302357),
+(302358),
+(302359),
+(302360),
+(302361),
+(302362),
+(302374),
+(302379),
+(302388),
+(302412),
+(302413),
+(302414),
+(302458),
+(302722),
+(302723),
+(302724),
+(302725),
+(302726),
+(302727),
+(302728),
+(302729),
+(302730),
+(302731),
+(302863),
+(302867),
+(302868),
+(302869),
+(302870),
+(302871),
+(302872),
+(302873),
+(302874),
+(302875),
+(302880),
+(302881),
+(302882),
+(302912),
+(302913),
+(302914),
+(302915),
+(302921),
+(302922),
+(302923),
+(302924),
+(302925),
+(302930),
+(302931),
+(302933),
+(302934),
+(302935),
+(302936),
+(302938),
+(302939),
+(302940),
+(302941),
+(302942),
+(302943),
+(302944),
+(302945),
+(302946),
+(302947),
+(302948),
+(302949),
+(303000),
+(303036),
+(303037),
+(303038),
+(303039),
+(303040),
+(303041),
+(303042),
+(303043),
+(303044),
+(303045),
+(303046),
+(303047),
+(303048),
+(303049),
+(303093),
+(303094),
+(303095),
+(303097),
+(303103),
+(303104),
+(303105),
+(303106),
+(303107),
+(303108),
+(303176),
+(303247),
+(303248),
+(303249),
+(303250),
+(303251),
+(303252),
+(303253),
+(303254),
+(303255),
+(303256),
+(303257),
+(303258),
+(303259),
+(303260),
+(303283),
+(303284),
+(303375),
+(303378),
+(303391),
+(303395),
+(303397),
+(303404),
+(303406),
+(303408),
+(303410),
+(303412),
+(303414),
+(303416),
+(303418),
+(303420),
+(303422),
+(303424),
+(303426),
+(303445),
+(303446),
+(303447),
+(303448),
+(303449),
+(303450),
+(303451),
+(303452),
+(303453),
+(303454),
+(303455),
+(303456),
+(303457),
+(303458),
+(303459),
+(303460),
+(303471),
+(303472),
+(303489),
+(303490),
+(303491),
+(303492),
+(303493),
+(303494),
+(303495),
+(303496),
+(303497),
+(303498),
+(303499),
+(303500),
+(303501),
+(303502),
+(303684),
+(303685),
+(303686),
+(303687),
+(303688),
+(303689),
+(303690),
+(303691),
+(303692),
+(303693),
+(303694),
+(303695),
+(303743),
+(303744),
+(303745),
+(303746),
+(303747),
+(303748),
+(303749),
+(303750),
+(303751),
+(303752),
+(303753),
+(303754),
+(303755),
+(303756),
+(303757),
+(303758),
+(303759),
+(303760),
+(303761),
+(303762),
+(303763),
+(303764),
+(303765),
+(303766),
+(303767),
+(303768),
+(303769),
+(303770),
+(303771),
+(303772),
+(303773),
+(303774),
+(303775),
+(303776),
+(303778),
+(303779),
+(303780),
+(303781),
+(303782),
+(303783),
+(303784),
+(303785),
+(303786),
+(303787),
+(303788),
+(303789),
+(303790),
+(303791),
+(303792),
+(303793),
+(303794),
+(303795),
+(303796),
+(303797),
+(303798),
+(303799),
+(303800),
+(303801),
+(303802),
+(303803),
+(303804),
+(303805),
+(303806),
+(303807),
+(303808),
+(303809),
+(303810),
+(303811),
+(303812),
+(303813),
+(303814),
+(303815),
+(303816),
+(303817),
+(303818),
+(303819),
+(303820),
+(303821),
+(303822),
+(303823),
+(303824),
+(303825),
+(303826),
+(303827),
+(303828),
+(303829),
+(303830),
+(303831),
+(303832),
+(303833),
+(303834),
+(303835),
+(303836),
+(303837),
+(303838),
+(303839),
+(303840),
+(303841),
+(303842),
+(303843),
+(303844),
+(303845),
+(303846),
+(303847),
+(303848),
+(303849),
+(303850),
+(303851),
+(303852),
+(303853),
+(303854),
+(303855),
+(303856),
+(303857),
+(303858),
+(303859),
+(303860),
+(303861),
+(303862),
+(303863),
+(303864),
+(303865),
+(303866),
+(303867),
+(303868),
+(303869),
+(303870),
+(303871),
+(303872),
+(303873),
+(303874),
+(303875),
+(303876),
+(303877),
+(303878),
+(303879),
+(303880),
+(303881),
+(303882),
+(303883),
+(303884),
+(303885),
+(303886),
+(303887),
+(303888),
+(303889),
+(303890),
+(303891),
+(303892),
+(303893),
+(303894),
+(303895),
+(303896),
+(303897),
+(303898),
+(303899),
+(303900),
+(303901),
+(303902),
+(303903),
+(303904),
+(303905),
+(303906),
+(303907),
+(303908),
+(303969),
+(303970),
+(303971),
+(303972),
+(303973),
+(303974),
+(303975),
+(303976),
+(303977),
+(303978),
+(303979),
+(303980),
+(303981),
+(303982),
+(303983),
+(303984),
+(303985),
+(303986),
+(303990),
+(303998),
+(304224),
+(304225),
+(304226),
+(304227),
+(304228),
+(304229),
+(304230),
+(304231),
+(304232),
+(304233),
+(304234),
+(304235),
+(304236),
+(304237),
+(304239),
+(304241),
+(304243),
+(304245),
+(304247),
+(304249),
+(304251),
+(304444), -- Serpentine Sneaking Helmet
+(304445), -- Serpentine Sneaking Helmet
+(304446), -- Serpentine Sneaking Legwear
+(304447), -- Serpentine Sneaking Legwear
+(304448), -- Serpentine Sneaking Shoulderplate
+(304449), -- Serpentine Sneaking Shoulderplate
+(304450), -- Serpentine Sneaking Suit
+(304451), -- Serpentine Sneaking Suit
+(304452), -- Serpentine Sneaking Sleeves
+(304453), -- Serpentine Sneaking Sleeves
+(304454), -- Serpentine Sneaking Gloves
+(304455), -- Serpentine Sneaking Gloves
+(304456), -- Serpentine Sneaking Boots
+(304457), -- Serpentine Sneaking Boots
+(304458),
+(304459),
+(304460),
+(304461),
+(304462),
+(304463),
+(304464),
+(304465),
+(304466),
+(304467),
+(304468),
+(304469),
+(304470),
+(304471),
+(304472),
+(304473),
+(304474),
+(304475),
+(304476),
+(304477),
+(304478),
+(304479),
+(304480),
+(304481),
+(304482),
+(304483),
+(304484),
+(304485),
+(304486),
+(304487),
+(304488),
+(304489),
+(304505),
+(304506),
+(304507),
+(304508),
+(304509),
+(304510),
+(304511),
+(304512),
+(304513),
+(304514),
+(304515),
+(304516),
+(304517),
+(304518),
+(304519),
+(304520),
+(304521),
+(304522),
+(304523),
+(304524),
+(304525),
+(304526),
+(304527),
+(304528),
+(304529),
+(304530),
+(304531),
+(304532),
+(304533),
+(304534),
+(304536),
+(304538),
+(304540),
+(304542),
+(304544),
+(304546),
+(304548),
+(304550),
+(304552),
+(304554),
+(304556),
+(304558),
+(304586),
+(304619),
+(304660),
+(304661),
+(304662),
+(304663),
+(304664),
+(304665),
+(304666),
+(304667),
+(304668),
+(304669),
+(304670),
+(304671),
+(304672),
+(304673),
+(305071),
+(305072),
+(305073),
+(305074),
+(305075),
+(305076),
+(305077),
+(305078),
+(305079),
+(305080),
+(305081),
+(305082),
+(305083),
+(305084),
+(305085),
+(305086),
+(305087),
+(305088),
+(305089),
+(305090),
+(305091),
+(305092),
+(305093),
+(305094),
+(305095),
+(305096),
+(305097),
+(305098),
+(305099),
+(305100),
+(305101),
+(305102),
+(305103),
+(305104),
+(305506);
 CREATE INDEX IF NOT EXISTS idx_lowid ON aodb(lowid);
