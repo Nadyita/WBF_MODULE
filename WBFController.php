@@ -1,8 +1,15 @@
-<?php
+<?php declare(strict_types=1);
 
-namespace Budabot\User\Modules\WBF_MODULE;
+namespace Nadybot\User\Modules\WBF_MODULE;
 
-use Budabot\Modules\ITEMS_MODULE\WhatBuffsController;
+use Nadybot\Core\CommandReply;
+
+use Nadybot\Modules\ITEMS_MODULE\{
+	ItemBuffSearchResult,
+	NanoBuffSearchResult,
+	Skill,
+	WhatBuffsController,
+};
 
 /**
  * @author Nadyita (RK5) <nadyita@hodorraid.org>
@@ -26,70 +33,19 @@ use Budabot\Modules\ITEMS_MODULE\WhatBuffsController;
  */
 class WBFController extends WhatBuffsController {
 	
-	public $moduleName;
-
-	/**
-	 * @var \Budabot\Core\Http $http
-	 * @Inject
-	 */
-	public $http;
-
-	/**
-	 * @var \Budabot\Core\Text $text
-	 * @Inject
-	 */
-	public $text;
-	
-	/**
-	 * @var \Budabot\Core\DB $db
-	 * @Inject
-	 */
-	public $db;
-	
-	/**
-	 * @var \Budabot\Core\Util $util
-	 * @Inject
-	 */
-	public $util;
-
-	/**
-	 * @var \Budabot\Core\CommandAlias $commandAlias
-	 * @Inject
-	 */
-	public $commandAlias;
-	
-	/**
-	 * @var \Budabot\Core\CommandManager $commandManager
-	 * @Inject
-	 */
-	public $commandManager;
-	
-	/**
-	 * @var \Budabot\Core\ItemsController $itemsController
-	 * @Inject
-	 */
-	public $itemsController;
-	
-	/**
-	 * @var \Budabot\Core\LoggerWrapper $logger
-	 * @Logger
-	 */
-	public $logger;
+	public string $moduleName;
 	
 	/** @Setup */
-	public function setup() {
+	public function setup(): void {
 		$this->db->loadSQLFile($this->moduleName, "item_paid_only");
 		$this->db->loadSQLFile($this->moduleName, "item_not_froob");
-	}
-
-	public function whatbuffsCommand($message, $channel, $sender, $sendto, $args) {
 	}
 
 	/**
 	 * @HandlesCommand("whatbuffsfroob")
 	 * @Matches("/^whatbuffsfroobs?$/i")
 	 */
-	public function whatbuffsFroobCommand($message, $channel, $sender, $sendto, $args) {
+	public function whatbuffsCommand(string $message, string $channel, string $sender, CommandReply $sendto, array $args): void {
 		$blob = '';
 		$data = $this->db->query("SELECT DISTINCT name FROM skills ORDER BY name ASC");
 		foreach ($data as $row) {
@@ -103,7 +59,7 @@ class WBFController extends WhatBuffsController {
 	 * @HandlesCommand("whatbuffsfroob")
 	 * @Matches("/^whatbuffsfroobs? (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use|contract|tower)$/i")
 	 */
-	public function whatbuffs2Command($message, $channel, $sender, $sendto, $args) {
+	public function whatbuffs2Command(string $message, string $channel, string $sender, CommandReply $sendto, array $args): void {
 		$type = ucfirst(strtolower($args[1]));
 		
 		if ($this->verifySlot($type)) {
@@ -135,7 +91,7 @@ class WBFController extends WhatBuffsController {
 	 * @HandlesCommand("whatbuffsfroob")
 	 * @Matches("/^whatbuffsfroob (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use|contract|tower) (.+)$/i")
 	 */
-	public function whatbuffs3Command($message, $channel, $sender, $sendto, $args) {
+	public function whatbuffs3Command(string $message, string $channel, string $sender, CommandReply $sendto, array $args): void {
 		parent::whatbuffs3Command($message, $channel, $sender, $sendto, $args);
 	}
 
@@ -143,7 +99,7 @@ class WBFController extends WhatBuffsController {
 	 * @HandlesCommand("whatbuffsfroob")
 	 * @Matches("/^whatbuffsfroob (.+) (arms|back|chest|deck|feet|fingers|hands|head|hud|legs|nanoprogram|neck|shoulders|unknown|util|weapon|wrists|use|contract|tower)$/i")
 	 */
-	public function whatbuffs4Command($message, $channel, $sender, $sendto, $args) {
+	public function whatbuffs4Command(string $message, string $channel, string $sender, CommandReply $sendto, array $args): void {
 		parent::whatbuffs4Command($message, $channel, $sender, $sendto, $args);
 	}
 
@@ -151,7 +107,7 @@ class WBFController extends WhatBuffsController {
 	 * @HandlesCommand("whatbuffsfroob")
 	 * @Matches("/^whatbuffsfroob (.+)$/i")
 	 */
-	public function whatbuffs5Command($message, $channel, $sender, $sendto, $args) {
+	public function whatbuffs5Command(string $message, string $channel, string $sender, CommandReply $sendto, array $args): void {
 		$skill = $args[1];
 
 		$data = $this->searchForSkill($skill);
@@ -202,7 +158,11 @@ class WBFController extends WhatBuffsController {
 		$sendto->reply($msg);
 	}
 	
-	public function getSearchResults($category, $skill) {
+	/**
+	 * Gives a blob with all items buffing $skill in slot $category
+	 * @return string|string[]
+	 */
+	public function getSearchResults(string $category, Skill $skill) {
 		if ($category === 'Nanoprogram') {
 			$sql = "
 				SELECT buffs.*, b.amount,aodb.lowid,aodb.highid,aodb.lowql,aodb.name AS use_name, inf.item_id IS NOT NULL as paid
@@ -216,7 +176,8 @@ class WBFController extends WhatBuffsController {
 				WHERE s.id = ? AND b.amount > 0 AND p1.item_id IS NULL AND p2.item_id IS NULL
 				ORDER BY b.amount DESC, buffs.name ASC
 			";
-			$data = $this->db->query($sql, $skill->id);
+			/** @var NanoBuffSearchResult[] */
+			$data = $this->db->fetchAll(NanoBuffSearchResult::class, $sql, $skill->id);
 			$result = $this->formatBuffs($data);
 		} else {
 			$sql = "
@@ -233,28 +194,33 @@ class WBFController extends WhatBuffsController {
 				GROUP BY aodb.name,aodb.lowql,aodb.highql,b.amount,b2.amount,wa.multi_m,wa.multi_r
 				ORDER BY b.amount DESC, name DESC, aodb.highql DESC
 			";
-			$data = $this->db->query($sql, $category, $skill->id);
+			/** @var ItemBuffSearchResult[] */
+			$data = $this->db->fetchAll(ItemBuffSearchResult::class, $sql, $category, $skill->id);
 			$result = $this->formatItems($data);
 		}
 
 		if ($result === null) {
 			$msg = "No items found of type <highlight>$category<end> that buff <highlight>$skill->name<end>.";
 		} else {
-			list($count, $blob) = $result;
+			[$count, $blob] = $result;
 			$msg = $this->text->makeBlob("WhatBuffsFroob - $category $skill->name ($count)", $blob);
 		}
 		return $msg;
 	}
 	
-	public function showSearchResults($category, $skill) {
+	/**
+	 * Show what buffs $skillName in slot $category
+	 * @return string|string[]
+	 */
+	public function showSearchResults(string $category, string $skillName) {
 		$category = ucfirst(strtolower($category));
 		
-		$data = $this->searchForSkill($skill);
+		$data = $this->searchForSkill($skillName);
 		$count = count($data);
 		
-		if ($count == 0) {
-			$msg = "Could not find any skills matching <highlight>$skill<end>.";
-		} elseif ($count == 1) {
+		if ($count === 0) {
+			$msg = "Could not find any skills matching <highlight>$skillName<end>.";
+		} elseif ($count === 1) {
 			$row = $data[0];
 			$msg = $this->getSearchResults($category, $row);
 		} else {
@@ -339,7 +305,7 @@ class WBFController extends WhatBuffsController {
 		$sendto->reply($msg);
 	}
 
-	public function showItemLink(\Budabot\Core\DBRow $item, $ql) {
+	public function showItemLink(\Nadybot\Core\DBRow $item, $ql) {
 		$itemLink = $this->text->makeItem($item->lowid, $item->highid, $ql, $item->name);
 		$reportCmd = $this->text->makeChatcmd("X", "/tell <myname> wbfreport " . $item->lowid);
 		if ($item->paid) {
