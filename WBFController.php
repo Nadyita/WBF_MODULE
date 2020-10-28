@@ -196,7 +196,7 @@ class WBFController extends WhatBuffsController {
 			";
 			/** @var ItemBuffSearchResult[] */
 			$data = $this->db->fetchAll(ItemBuffSearchResult::class, $sql, $category, $skill->id);
-			$result = $this->formatItems($data);
+			$result = $this->formatItems($data, $skill);
 		}
 
 		if ($result === null) {
